@@ -1,0 +1,12 @@
+Find [supplementary information on each dataset here](supplementary_info_on_annotated_datasets.md)
+
+# Leaderboard
+
+## Factuality: differentiating objective from subjective statements
+
+*Umigon and TimeLMs are models for sentiment analysis. We test them on factuality by considering that a prediction for "neutral sentiment" is equivalent to an* ***objective*** *statement, while a predicition for a positive or negative sentiment is equivalent to predicting a* ***subjective*** *statement.*
+
+Weighted F1 values:
+
+
+

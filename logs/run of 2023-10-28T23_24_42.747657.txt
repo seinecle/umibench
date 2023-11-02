@@ -1,0 +1,9 @@
+general clock for run on 2023-10-28T23:21:55.157164800
+
+finished evaluating subjqa with twitter-roberta-base-sentiment-latest. [Duration: 32 seconds]
+
+finished evaluating xfact with twitter-roberta-base-sentiment-latest. [Duration: 2 minutes 14 seconds]
+
+finished evaluating mpqa with twitter-roberta-base-sentiment-latest. [Duration: 31 seconds]
+end of run
+finished general clock for run on 2023-10-28T23:21:55.157164800. [Duration: 2 minutes 47 seconds]

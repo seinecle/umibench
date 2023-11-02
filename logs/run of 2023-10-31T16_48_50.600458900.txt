@@ -1,0 +1,5 @@
+general clock for run on 2023-10-31T16:48:43.764053800
+
+finished evaluating clef2023 with umigon. [Duration: 6 seconds, 473 milliseconds]
+end of run
+finished general clock for run on 2023-10-31T16:48:43.764053800. [Duration: 6 seconds, 835 milliseconds]

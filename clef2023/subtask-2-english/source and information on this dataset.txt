@@ -1,0 +1,12 @@
+Clef 2023, the website: https://clef2023.clef-initiative.eu/
+
+Sub domain is:
+CheckThat!: Check-Worthiness, Subjectivity, Political Bias, Factuality, and Authority of News Articles and their Sources
+
+Adress: http://checkthat.gitlab.io/
+
+Task 2: Subjectivity in News Articles
+Address: https://checkthat.gitlab.io/clef2023/task2/
+https://gitlab.com/checkthat_lab/clef2023-checkthat-lab/-/tree/main/task2/data/subtask-2-english
+
+The test is performed on the dev_en.tsv + train_en.tsv datasets

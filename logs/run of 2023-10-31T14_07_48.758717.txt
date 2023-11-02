@@ -1,0 +1,7 @@
+general clock for run on 2023-10-31T14:06:25.629409200
+
+finished evaluating subjqa with umigon. [Duration: 16 seconds]
+
+finished evaluating subjqa with groNLP. [Duration: 1 minutes 22 seconds]
+end of run
+finished general clock for run on 2023-10-31T14:06:25.629409200. [Duration: 1 minutes 23 seconds]

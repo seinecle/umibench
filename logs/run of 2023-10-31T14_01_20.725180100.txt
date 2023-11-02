@@ -1,0 +1,5 @@
+general clock for run on 2023-10-31T14:00:58.606261300
+
+finished evaluating kaggle-headlines with groNLP. [Duration: 21 seconds]
+end of run
+finished general clock for run on 2023-10-31T14:00:58.606261300. [Duration: 22 seconds]

@@ -1,0 +1,9 @@
+
+## Sentiment: differentiating between positive sentiment, negative sentiment and neutral sentiment
+
+*here we do not test the model "Thesis Titan" as it is a model for the task of factuality categorization, which cannot be extended or adapted to sentiment analysis*
+
+*also, the models are tested against just one dataset: MPQA. The reason is that AFAIK this is the only annotated dataset in existence which makes a rigorous distinction between different sentiment valences* ***all while annotating texts for their subjective or objective character*** 
+
+Weighted F1 values:
+

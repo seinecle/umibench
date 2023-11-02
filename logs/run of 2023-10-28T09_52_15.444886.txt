@@ -1,0 +1,27 @@
+general clock for run on 2023-10-28T09:52:10.965948200
+
+finished evaluating mpqa with groNLP. [Duration: 20 milliseconds]
+
+finished evaluating mpqa with umigon. [Duration: 69 milliseconds]
+
+finished evaluating subjqa with groNLP. [Duration: 8 milliseconds]
+
+finished evaluating subjqa with umigon. [Duration: 27 milliseconds]
+
+finished evaluating kaggle-headlines with groNLP. [Duration: 13 milliseconds]
+
+finished evaluating kaggle-headlines with umigon. [Duration: 66 milliseconds]
+
+finished evaluating xfact with groNLP. [Duration: 13 milliseconds]
+
+finished evaluating xfact with umigon. [Duration: 26 milliseconds]
+
+finished evaluating kaggle-headlines with groNLP. [Duration: 13 milliseconds]
+
+finished evaluating kaggle-headlines with umigon. [Duration: 60 milliseconds]
+
+finished evaluating clef2023 with groNLP. [Duration: 6 milliseconds]
+
+finished evaluating clef2023 with umigon. [Duration: 36 milliseconds]
+end of run
+finished general clock for run on 2023-10-28T09:52:10.965948200. [Duration: 4 seconds, 478 milliseconds]

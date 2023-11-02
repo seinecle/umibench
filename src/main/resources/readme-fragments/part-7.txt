@@ -1,0 +1,25 @@
+## How to run it
+Umibench is programmed in Java.
+
+- you need Java 14 or later.
+- clone this repo, open it in your fav IDE
+- create a directory named "private" in the root directory of the project.
+  - create a text file named "properties.txt" in it.
+  - add the following line in properties.txt: huggingface_api_key=***your huggingface API key here***
+- open the files where the API calls to Huggingface are made. Replace the endpoints with your the endpoints of the models you want to test. Public endpoints don't have enough capacity. You need to spin your own endpoints.
+- run the main class of the project (Controller.java)
+
+## Why factuality and sentiment compared in the same test bench?
+Most if not all models for sentiment analysis classify the 2 following statements as being SUBJECTIVE / NEGATIVE, which I put in question:
+
+- "State terrorism is a political concept": should be OBJECTIVE, NOT SUBJECTIVE / NEGATIVE
+- "State terrorism is not the best course of action": should be SUBJECTIVE / NEGATIVE
+
+This distinction, which can appear as a subtle one, is actually very important to maintain when it comes to the analysis of discourse in media, politics and culture in general. Otherwise, the examination of opinions and debates on topics ladden with a positive or negative *factual* valence will be tainted by this lack of a distinction.
+
+I developed Umigon, a model for sentiment analysis, which thrives to maintain this distinction. Annotated datasets which would include labels on whether the text entries are objective from the point of view of the locutor are rare. Actually, only the MPQA dataset (listed above) maintains this distinction.
+
+To extend the range of tests, I have included datasets which are carefully annotated for factuality: objective or subjective? The expectation is that a good model in sentiment analysis (maintaining the distinction made above) has to perform well on this factuality test as well - otherwise this means that its definition of "sentiment" makes a confusion between actual sentiment, and positively or negatively ladden factuals.
+
+## Contact
+Clement Levallois, levallois@em-lyon.com

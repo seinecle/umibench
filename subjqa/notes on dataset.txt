@@ -1,0 +1,20 @@
+The dataset is sourced from:
+https://huggingface.co/datasets/subjqa
+
+In the dataset, we selected the "electronics" product category from the "train" set and filtered the data entries to keep only those which were rated for maximum subjectivity (score of 1 out of 5 in the field "ans_subj_score").
+This returns 1,373 records out of 2,346
+
+Citation:
+
+@inproceedings{bjerva20subjqa,
+    title = "SubjQA: A Dataset for Subjectivity and Review Comprehension",
+    author = "Bjerva, Johannes  and
+      Bhutani, Nikita  and
+      Golahn, Behzad  and
+      Tan, Wang-Chiew  and
+      Augenstein, Isabelle",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+    month = November,
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+}

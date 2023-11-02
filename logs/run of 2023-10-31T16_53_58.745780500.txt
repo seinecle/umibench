@@ -1,0 +1,5 @@
+general clock for run on 2023-10-31T16:53:46.602942
+
+finished evaluating subjqa with umigon. [Duration: 11 seconds]
+end of run
+finished general clock for run on 2023-10-31T16:53:46.602942. [Duration: 12 seconds]

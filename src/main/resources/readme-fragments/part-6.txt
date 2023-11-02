@@ -1,0 +1,2 @@
+### Overall scores and leaderboard for models on sentiment task
+The values for each model are the sums of the weighted F1 scores for each dataset, weighted by the number of entries of each dataset.

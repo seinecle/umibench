@@ -1,0 +1,481 @@
+===========================================================
+
+   Documentation for MPQA Corpus of Opinion Annotations
+
+===========================================================
+
+Contents:
+
+  1. Introduction
+
+  2. Annotation Scheme
+
+     2.1 agent
+     2.2 expressive-subjectivity
+     2.3 on
+     2.4 inside
+
+  3. Notes on Sentences and Subjective Sentences
+
+     3.1 GATE Sentences
+     3.2 Subjective Sentences
+
+  4. Data 
+
+     4.1 Changes from Pre-release
+
+  5. Database Structure
+
+     5.1 database/docs
+     5.2 database/meta_anns
+     5.3 database/man_anns
+
+  6. MPQA Annotation Format
+
+  7. Acknowledgement
+
+  8. Contact Information
+
+  9. References
+
+-----------------------------------------------------------
+
+1. Introduction
+
+This corpus contains news articles manually annotated 
+using an annotation scheme for opinions and other private 
+states (i.e., beliefs, emotions, sentiment, speculation, 
+etc.). The corpus was collected and annotated as part of 
+the summer 2002 NRRC Workshop on Multi-Perspective Question 
+Answering (MPQA) (Wiebe et al., 2003) sponsored by ARDA.  
+
+The annotation of the corpus was performed by 5 trained 
+annotators over a period of about 15 months.
+
+At this time, the corpus is only available to researchers
+with government contracts.
+
+-----------------------------------------------------------
+
+2. Annotation Scheme
+
+This section contains an overview of the types of annotations 
+that you will see marked in the documents of this corpus.  
+The annotation scheme and agreement studies are described 
+more fully in a paper by Wilson & Wiebe (2003) that appeared 
+at SIGdial03.  The complete annotation instruction are
+available at http://www.cs.pitt.edu/~wiebe/pubs/ardasummer02.
+
+In the descriptions below, note that some annotation 
+attributes are marked as "Exploratory".  These attributes
+were added later into the annotation scheme, and are not
+necessarily marked fully or in depth throughout the corpus.
+
+2.1 agent annotation 
+
+    Marks phrases that refer to sources of private states
+    and speech events, or phrases that refer to agents who 
+    are targets of an attitude.
+
+    Possible attributes:
+        id - Unique identifier assigned by the annotator to
+             the first meaningful and descriptive reference
+             to an agent.
+
+             There are two agent annotations with a 0,0
+             byte span in every document.  These two
+             annotations are to give an id for the writer
+             of the document ('w') and for an implicit
+             agent ('implicit').  Private states and
+             speech events are sometimes attributed to
+             impicit agents.
+
+        nested-source - Used when the agent reference is 
+             the source of a private state/speech event. 
+             The nested-source is a list of agent ids 
+             beginning with the writer and ending with 
+             the id for the immediate agent being referenced.
+
+             Example:  w, Foreign Ministry, US State Dept
+
+        nested-target - (Exploratory) Used when an agent
+             annotation is the target of a negative or 
+             positive attitude.  The nested-target, like
+             the nested-source, is a list of agent ids
+             beginning with the writer and ending with 
+             the id for the agent being targetted.
+
+        agent-uncertain - Used when the annotator is 
+             uncertain whether the agent is the correct
+             source of a private state/speech event
+
+             Possible values: somewhat-uncertain, very-uncertain
+
+2.2 expressive-subjectivity annotation
+
+    Marks expressive-subjective elements, words and phrases 
+    that indirectly express a private state.  For example, 
+    'fraud' and 'daylight robbery' in the following sentence 
+    are expressive subjective elements.
+
+    "We foresaw electoral fraud but not daylight robbery,"
+    Tsvangirai said.
+
+    Possible attributes:
+        nested-source - List of agent ids beginning with
+             the writer and ending with the id for the 
+             immediate agent that is the source of the 
+             private state being expressed by the
+             expressive-subjective element.
+
+        nested-source-uncertain - Used when an annotator
+             is uncertain as to whether the agent is
+             the correct nested source.
+
+             Possible values: somewhat-uncertain, very-uncertain
+
+        strength - Indicates the strength of private state being
+             expressed by the expressive-subjective element.
+
+             Possible values: low, medium, high, extreme
+
+        attitude-type - (Exploratory) Indicates the type of
+             attitude being expressed.
+
+             Possible values: negative, positive, other 
+
+2.3 on annotation
+
+    Marks speech events (spoken or written) and direct
+    expressions of private states.  We use 'on' as short-
+    hand for a "direct private state or speech event phrase".
+
+    Possible attributes:
+        nested-source - List of agent ids, beginning with
+             the writer and ending with the id for the
+             immediate agent that is the source of the
+             private state or speech event.
+
+        on-uncertain - Used when an annotator is uncertain
+             as to whether the expression marked is indeed
+             a direct private state or a speech event.
+
+             Possible values: somewhat-uncertain, very-uncertain
+
+        is-implicit - The presence of this attribute indicates
+             that the speech event is implicit.  This attribute
+             is used when there is not a private state or speech
+             event phrase on which to actually make an annotation.
+             For example, there is an implicit 'on' annotation
+             for the writer at the beginning of each sentence.
+
+        onlyfactive - Used to indicate whether a private state
+             is indeed being expressed by the 'on' annotation.
+             If a private state is being expressed, onlyfactive=no.
+             Otherwise, onlyfactive=yes.
+
+             Possible values: yes, no
+
+        onlyfactive-uncertain - Used when an annotator is
+             uncertain as to whether the expression is 
+             onlyfactive=yes or onlyfactive=no.
+
+             Possible values: somewhat-uncertain, very-uncertain
+
+        overall-strength - Indicates the overall strength of 
+             the private state being expressed, considering the
+             'on' and everything inside the scope of the 'on'.
+
+             Possible values: low, medium, high, extreme
+
+        on-strength - Indicates the strength of the private
+             state being expressed by just the word or phrase
+             that is the 'on' annotation.
+ 
+             Possible values: neutral, low, medium, high, extreme
+
+        attitude-type - (Exploratory) Indicates the type of
+             attitude being expressed.
+
+             Possible values: negative, positive, both 
+
+        attitude-toward - (Exploratory) Agent id of who the
+             attitude-type is directed toward.
+
+        not-significant-particular - Used when the private state
+             or speech event is NOT "significant-and-particular".
+
+             Possible values are combination of: c1, c2, c3
+
+             These possible values correspond to criteria 
+             necessary for a private state or speech event to 
+             be 'significant-and-particular'.  Please see the
+             annotation instructions for a complete description
+             of these criteria.  The criteria listed for this
+             attribute are the criteria that the private state 
+             or speech event failed to meet.
+
+             In (Wilson & Wiebe, 2003), this attribute is referred
+             to as "is-minor".
+
+2.4 inside annotation
+
+    The term 'inside' refers to the words inside the scope 
+    of a direct private state or speech event phrase ('on').  
+    The annotators did not mark 'inside' annotations.  
+    However, 'inside' annotations were created automatically 
+    for each writer 'on' annotation.  Each writer 'inside' 
+    corresponds to a GATE sentence.
+
+-----------------------------------------------------------
+
+3. Notes on Sentences and Subjective Sentences
+
+3.1 GATE Sentences
+
+    The sentences in the corpus were identified using the
+    default sentence splitter in GATE (http://gate.ac.uk).
+    This sentence splitter makes a couple very obvious errors 
+    that you are sure to notice.  First, the sentence splitter
+    mistakenly identifies sentence splits after many common
+    abbreviations, for example, abbreviations for months, 
+    like Sept. and Oct.  Second, the sentence splitter fails 
+    to identify sentence splits when a sentence ends in
+    a quote (").  For example, GATE counts the following
+    two sentences as one sentence.
+
+    Sue said, "Thank you."  "Your welcome," replied Bob.
+
+    During annotation, annotators were instructed to 
+    follow the sentence splits, as provided by GATE, 
+    even if they are wrong.
+
+3.2 Subjective Sentences
+
+    The annotations described in section 2 are expression-
+    level annotations, performed below the level of the 
+    sentence.  We ask annotators to identify all subjective
+    expressions in a sentence, which gives us very 
+    fine-grained, detailed annotations.  Although the
+    annotators sometimes differ over which particular 
+    expressions are subjective, and how many subjective
+    expressions are in a sentence, they have very good
+    agreement as to whether there is subjectivity in a
+    sentence (see (Wilson & Wiebe, 2002)).
+
+    For the work using this data that appeared in CoNLL03
+    (Riloff et al., 2003) and EMNLP03 (Riloff & Wiebe, 2003)
+    the following definition of a subjective sentence was
+    used.  The definition is in terms of the annotations.
+
+    A sentence was considered subjective if 1 OR 2:
+      1. the sentence contains a "GATE_on" annotation WITH
+         attribute onlyfactive="no" AND WITH attribute
+         overall-strength NOT IN ['low', 'neutral'] 
+         AND NOT WITH attribute not-significant-particular
+
+      2. the sentence contains a "GATE_expressive-subjectivity"
+         annotation WITH attribute strength NOT IN ['low']
+
+    Otherwise, a sentence was considered objective.
+
+    The file, test_setCoNLL03, contains the list of files
+    used for evaluation in (Riloff et al, 2003).
+
+    NOTE: Since the experiments performed in (Riloff et al., 
+    2003) and (Riloff & Wiebe, 2003), a few annotation errors 
+    have been corrected in the documents listed in 
+    test_setCoNLL03. 
+
+-----------------------------------------------------------
+
+4. Data
+
+The full corpus contains 535 documents, a total of 10,657 
+sentences.  A pre-release containing a subset of the full corpus 
+(258 documents, a total of 4965 sentences) was released in
+mid-September 2003.
+
+The articles in the corpus are from 187 different foreign and 
+U.S. news sources.  They date from June 2001 to May 2002.  
+
+The articles were identified by human searches and by an 
+information retrieval system.  The majority of the articles 
+are on 10 different topics, but a number of additional articles 
+were randomly selected (more or less) from a larger corpus of 
+270,000 documents.  This last set of articles has topic, misc.
+
+The 10 topics are:
+
+   argentina: economic collapse in Argentina
+   axisofevil: reaction to President Bush's 2002 State of the Union Address
+   guantanamo: U.S. holding prisoners in Guantanamo Bay
+   humanrights: reaction to U.S. State Department report on human rights
+   kyoto: ratification of Kyoto Protocol
+   mugabe: 2002 presidental election in Zimbabwe
+   settlements: Israeli settlements in Gaza and West Bank
+   spacestation: space missions of various countries
+   taiwan: relations between Taiwan and China
+   venezuela: presidential coup in Venezuela
+
+The file, Release-Full-Doclist, lists the documents in the 
+full release of the MPQA corpus.  The file, Release-Full-ByTopic, 
+lists the documents along with their topics.  
+
+4.1 Changes from Pre-release
+
+    The annotations for a few documents received one final check 
+    since their initial release in the pre-release corpus.
+    Consequently, there may a few _slight_ changes to the 
+    annotations of these documents were corrections were made.
+    These documents are listed in the file: rechecked-from-prerelease.
+
+-----------------------------------------------------------
+
+5. Database Structure
+
+The database/ contains three subdirectories: docs, meta_anns, man_anns.
+Each subdirectory has the following structure:
+	
+		        subdir
+		       /      \
+		  parent  ..  parent
+		 /     \          
+	  docleaf  ...  docleaf
+
+Within each subdirectory, each document is uniquely identified 
+by its parent/docleaf.  For example, 20010927/23.18.15-25073, 
+identifies one document.  20010927 is the parent; 23.18.15-25073 
+is the docleaf.
+
+5.1 database/docs
+
+    The docs subdirectory contains the document collection.  
+    In this subdirectory, each docleaf (e.g., 23.18.15-25073) 
+    is a text file containing one document.
+
+5.2 database/meta_anns
+
+    Each docleaf (e.g., 23.18.15-25073) in the meta_anns 
+    subdirectory contains information about the document 
+    (e.g., source, date).  The meta_anns files are in MPQA 
+    format, which is described in section 6.
+    
+5.3 database/man_anns
+
+    This subdirectory contains the manual annotations for 
+    the documents.  In this subdirectory, each docleaf 
+    (23.18.15-25073) is a directory that contains two 
+    files: gateman.mpqa and gatesentences.mpqa.
+
+    The file gateman.mpqa contains the human opinion 
+    annotations.  The file gatesentences.mpqa contains 
+    sentence spans identified by the default GATE sentence 
+    splitter, minus junk sentences that were entirely made 
+    up of meta data still in with the article text.  These 
+    junk sentences were removed by hand.
+
+    Both gateman.mpqa and gatesentences.mpqa are in MPQA 
+    format, described in section 6.
+
+-----------------------------------------------------------
+
+6. MPQA Annotation Format
+
+The MPQA format is a type of general stand-off annotation.  
+Every line in an annotation file is either a comment line 
+(beginning with a '#") or an annotation line (one annotation 
+per line).  
+
+An MPQA annotation line consists of text fields separated by a
+single TAB.  The fields used are listed below, with an example 
+annotation underneath.
+
+id	span	data_type	ann_type	attributes
+1211	790,800	string  	GATE_on  	nested-source="w,chinarep" onlyfactive="yes"
+
+Every annotation has a identifier, id.  This id is unique ONLY 
+within a given MPQA annotation file.
+
+The span is the starting and ending byte of the annotation in 
+the document For example, the annotation listed above is from 
+the document, temp_fbis/20.20.10-3414.  The span of this annotation 
+is 790,800.  This means that the start of this annotation is 
+byte 790 in the file docs/temp_fbis/20.20.10-3414, and byte 800 
+is the character after the last character of the annotation.
+
+     blah, blah, blah, example annotation, blah, blah, blah
+                       |                 |
+                  start byte          end byte
+
+The data_type of all annotations should be 'string'.
+
+The types of annotations in the gateman.mpqa files are 
+GATE_agent, GATE_expressive-subjectivity, GATE_on, GATE_inside, 
+and GATE_split.  With the exception of GATE_split, these annotation 
+types correspond to the annotation types described in section 2.  
+
+Sentence annotations in the gatesentence.mpqa files have type
+GATE_sentence.
+
+Each attribute is an attribute_name="attribute_value" pair.  
+An annotation may have any number of attributes, including 
+0 attributes.  Multiple attributes for an annotation are 
+separated by single spaces, and they may be listed in any 
+order.  The attributes that an annotation may have depends 
+on the type of annotation.  The set of possible attributes 
+for each annotation type is listed in section 2.  
+
+-----------------------------------------------------------
+
+7. Acknowledgements
+
+This work was performed in support of the Northeast Regional 
+Reseach Center (NRRC) which is sponsored by the Advanced 
+Research and Development Activity (ARDA), a U.S. Government 
+entity which sponsors and promotes research of import to the 
+Intelligence Community which includes but is not limited to 
+the CIA, DIA, NSA, NIMA, and NRO.
+
+-----------------------------------------------------------
+
+8. Contact Information
+
+Please direct any questions that you have about this corpus or
+the annotation scheme to Theresa Wilson at the University of
+Pittsburgh.
+
+Theresa Wilson 	email: twilson@cs.pitt.edu
+
+-----------------------------------------------------------
+
+9. References
+
+Janyce Wiebe, Eric Breck, Chris Buckley, Claire Cardie, 
+  Paul Davis, Bruce Fraser, Diane Litman, David Pierce, 
+  Ellen Riloff, Theresa Wilson, David Day, Mark Maybury 
+  (2003). REcognizing and Organizing Opinions Expressed in 
+  the World Press. 2003 AAAI Spring Symposium on New 
+  Directions in Question Answering.
+
+Theresa Wilson and Janyce Wiebe (2003). Annotating Opinions 
+  in the World Press. 4th SIGdial Workshop on Discourse and 
+  Dialogue (SIG0dial-03). ACL SIGdial.
+
+Ellen Riloff, Janyce Wiebe, and Theresa Wilson (2003). 
+  Learning Subjective Nouns Using Extraction Pattern 
+  Bootstrapping. Seventh Conference on Natural Language
+  Learning (CoNLL-03). ACL SIGNLL.
+
+Ellen Riloff and Janyce Wiebe (2003). Learning Extraction
+  Patterns for Subjective Expressions. Conference on 
+  Empirical Methods in Natural Language Processing (EMNLP-03).
+  ACL SIGDAT.
+
+-----------------------------------------------------------
+
+Theresa Wilson
+Janyce Wiebe
+
+version 1.1  
+last modified 11/3/03

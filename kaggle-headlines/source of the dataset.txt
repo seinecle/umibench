@@ -1,0 +1,7 @@
+source: https://www.kaggle.com/datasets/rmisra/news-category-dataset?resource=download
+
+I have manually annotated the dataset because some headlines were clearly subjective
+
+894 objective
+106 subjective
+1,000 in total

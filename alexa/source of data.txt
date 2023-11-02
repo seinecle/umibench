@@ -1,0 +1,15 @@
+Data is extracted from the file human_annotations/factual_dataset_expert.csv
+
+at this repo: https://github.com/alexa/factual-consistency-analysis-of-dialogs/
+
+This is a project by the Alexa research team on how to distinguish facts from opinions.
+
+In the file factual_dataset_expert.csv; the field "knowledge" contains factual statements derived from the field "context"
+
+Entries in this field are objective, not subjective.
+
+In practice, I extracted all the entries of the "knowledge" field, with filters on two other fields:
+- "hallucination" = No
+- "verifiable" = y (yes)
+
+This led to 470 entries, all labelled as "Objective"

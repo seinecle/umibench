@@ -1,0 +1,15 @@
+# Umibench: testbench for 📏 factuality and 🎭 sentiment classifiers
+
+## Function
+Umibench compares the performance of various models on 2 tasks: detection of factuality (objectivity vs subjectivity) and detection of sentiment (positive, negative or neutral).
+
+It generates a leaderboard which is visible at the bottom of this page.
+
+## How to add a model or a dataset to this leaderboard? Just provide a link!
+
+I will take care of everything. Please send:
+
+- for a labelled dataset: a link to a place where I can download it.
+- for a model: a url to the API of the model. If an API key is necessary, please provide it. Otherwise I will do my best to run it at my own expense.
+
+## Which models are tested so far?

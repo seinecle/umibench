@@ -1,0 +1,5 @@
+general clock for run on 2023-10-31T16:52:20.622977600
+
+finished evaluating mpqa with umigon. [Duration: 9 seconds, 257 milliseconds]
+end of run
+finished general clock for run on 2023-10-31T16:52:20.622977600. [Duration: 9 seconds, 850 milliseconds]

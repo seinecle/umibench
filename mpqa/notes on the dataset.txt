@@ -1,0 +1,7 @@
+Entries labelled as "subjective" are the ones annotated with the following annotations: GATE_expressive-subjectivity AND nested-source="w"
+
+Within the "subjective" entries, sentiment was characterized based on the annotation "polarity", which takes the following values: "positive", "negative", "neutral". 
+
+Entries labelled as "objective" are the ones annotated with the following tag: GATE_objective-speech-event. All "objective" entries were marked as "neutral" for sentiment.
+
+In all cases, the entry was not included in the dataset if it included the following annotation: polarity="uncertain"

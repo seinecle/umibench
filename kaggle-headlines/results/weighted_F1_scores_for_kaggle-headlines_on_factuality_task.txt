@@ -1,0 +1,156 @@
+evaluation conducted on 2023-10-31T13:53:42.218446900
+weighted F1 score for factuality on dataset kaggle-headlines for model twitter-roberta-base-sentiment-latest: 0.71864796
+
+evaluation conducted on 2023-10-31T14:01:20.717281200
+weighted F1 score for factuality on dataset kaggle-headlines for model groNLP: 0.85703814
+
+evaluation conducted on 2023-10-31T16:50:18.572187600
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T15:26:24.250734
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T15:26:24.334837
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T15:26:24.393138400
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T15:33:46.678411500
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T15:33:46.730095600
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T15:33:46.785234
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T15:49:34.894718100
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T15:49:34.944209300
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T15:49:34.993599500
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T15:52:53.926696500
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T15:52:53.993004500
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T15:52:54.063693800
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T15:57:48.356014
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T15:57:48.408676800
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T15:57:48.464225500
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T16:01:07.883571800
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T16:01:07.943475500
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T16:01:08.004379900
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T16:16:43.138678100
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T16:17:40.976648200
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T16:17:41.053971100
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T16:17:41.111307300
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T16:26:02.414567300
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T16:26:02.464990
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T16:26:02.536993700
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T16:30:26.926660400
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T16:30:26.973003600
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T16:30:27.043057600
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T16:32:50.439783100
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T16:32:50.492651100
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T16:32:50.549662300
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T16:34:13.682757400
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T16:34:13.753618500
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T16:34:13.850455500
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T16:38:19.211534
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T16:38:19.283162100
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T16:38:19.376558700
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T16:40:18.581861900
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T16:40:18.645550700
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T16:40:18.698652300
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T16:44:48.384823100
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T16:44:48.445860
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T16:44:48.519100800
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T16:50:28.311001800
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T16:50:28.380401900
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T16:50:28.420703200
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+
+evaluation conducted on 2023-11-02T16:52:14.349836100
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.9404874
+
+evaluation conducted on 2023-11-02T16:52:14.465157500
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+evaluation conducted on 2023-11-02T16:52:14.536547900
+weighted F1 score for factuality on dataset kaggle-headlines for model Thesis_Titan: 0.85703814
+

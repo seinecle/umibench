@@ -1,0 +1,9 @@
+general clock for run on 2023-10-31T15:43:11.384729200
+
+finished evaluating alexa with umigon. [Duration: 2 seconds, 225 milliseconds]
+
+finished evaluating alexa with groNLP. [Duration: 11 seconds]
+
+finished evaluating alexa with twitter-roberta-base-sentiment-latest. [Duration: 5 seconds, 441 milliseconds]
+end of run
+finished general clock for run on 2023-10-31T15:43:11.384729200. [Duration: 17 seconds]
