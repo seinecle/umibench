@@ -151,3 +151,30 @@ weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.609852
 evaluation conducted on 2023-11-02T16:52:14.052654600
 weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
 
+evaluation conducted on 2023-11-03T16:27:43.858970100
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+evaluation conducted on 2023-11-03T16:27:43.985728600
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-03T16:27:44.083635600
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+evaluation conducted on 2023-11-03T17:10:25.658736900
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+evaluation conducted on 2023-11-03T17:10:25.867671600
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-03T17:10:25.991460600
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+evaluation conducted on 2023-11-03T17:12:51.202934400
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+evaluation conducted on 2023-11-03T17:12:51.210884100
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+evaluation conducted on 2023-11-03T17:12:51.286829400
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+

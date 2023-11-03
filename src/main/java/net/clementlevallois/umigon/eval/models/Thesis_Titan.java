@@ -66,12 +66,14 @@ public class Thesis_Titan implements ModelInterface {
         return "https://huggingface.co/GroNLP/mdebertav3-subjectivity-english";
     }
     
-    
+    @Override
+    public Boolean areConcurrentAPICallsPossible() {
+        return Boolean.TRUE;
+    }    
 
     @Override
     public Sentiment extractSentimentLabelFromAPiResponse(String response) {
-        throw new UnsupportedOperationException("This API does not return a label for sentiment"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-
+        throw new UnsupportedOperationException("This API does not return a label for sentiment");
     }
 
     @Override

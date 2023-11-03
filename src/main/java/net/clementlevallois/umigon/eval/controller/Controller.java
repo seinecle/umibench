@@ -29,6 +29,7 @@ import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.stream.Stream;
 import net.clementlevallois.umigon.eval.datasets.Clef2023;
 import net.clementlevallois.umigon.eval.datasets.KaggleHeadlines;
 import net.clementlevallois.umigon.eval.datasets.MPQA;
@@ -51,6 +52,8 @@ import net.clementlevallois.umigon.eval.models.TimeLMs;
 import net.clementlevallois.utils.Clock;
 import net.clementlevallois.umigon.eval.datasets.DatasetInterface;
 import net.clementlevallois.umigon.eval.leaderboardgenerator.GenerateLeaderBoard;
+import net.clementlevallois.umigon.eval.models.GPT35;
+import net.clementlevallois.umigon.eval.models.MistralHermes7B;
 import net.clementlevallois.umigon.eval.models.Thesis_Titan;
 import net.clementlevallois.umigon.eval.models.Umigon;
 
@@ -68,6 +71,7 @@ public class Controller {
     private static final StringBuilder log = new StringBuilder();
     public static String HUGGINGFACE_API_KEY;
     public static String UMIGON_API_KEY;
+    public static String OPENAI_API_KEY;
 
     private static Set<DatasetInterface> datasets;
     private static Set<ModelInterface> models;
@@ -79,7 +83,6 @@ public class Controller {
         controller.initDataSetsAndModels();
 //        controller.runEvaluations(datasets, models);
         List<Score> scores = controller.computeF1Scores(datasets, models);
-
         List<OverallScore> overallScores = controller.computeOverallScores(scores);
         GenerateLeaderBoard generator = new GenerateLeaderBoard(datasets, models, scores, overallScores);
         generator.generateFullReadMe();
@@ -98,8 +101,9 @@ public class Controller {
         models.add(new Thesis_Titan());
         models.add(new Umigon());
         models.add(new TimeLMs());
+        models.add(new MistralHermes7B());
 
-        F1.setLimitForTests(LIMIT_RECORDS_FOR_TESTS);
+        F1.setLimitForTests(Integer.MAX_VALUE);
 
     }
 
@@ -140,24 +144,6 @@ public class Controller {
                 String fileNameEvaluationsOneDatasetOneModel = dataset.getName() + "_evaluated_with_" + model.getName() + ".txt";
                 Map<String, AnnotatedDocument> predictedLabels = null;
 
-                Path predictedLabelsPath = Path.of(dataset.getName(), "results", fileNameEvaluationsOneDatasetOneModel);
-                if (Files.exists(predictedLabelsPath)) {
-                    try {
-                        predictedLabels = jsonb.fromJson(Files.newBufferedReader(predictedLabelsPath, StandardCharsets.UTF_8), new HashMap<String, AnnotatedDocument>() {
-                        }.getClass().getGenericSuperclass());
-                    } catch (IOException ex) {
-                        Logger.getLogger(Alexa.class.getName()).log(Level.SEVERE, null, ex);
-                    }
-                } else {
-                    System.out.println("file with predicted label not found: " + predictedLabelsPath.toString());
-                    System.out.println("EXITING");
-                    System.exit(-1);
-                }
-                if (predictedLabels == null) {
-                    System.out.println("Error loading predicted labels for " + dataset.getName() + " , " + model.getName());
-                    System.out.println("EXITING");
-                    System.exit(-1);
-                }
                 Clock clock = new Clock("computing F1 scores for " + dataset.getName() + " with " + model.getName());
                 Boolean printFalseClassifications;
                 if (model.getName().equals("umigon") && printFalseClassificationsForUmigon) {
@@ -168,6 +154,24 @@ public class Controller {
                 switch (model.getTask()) {
                     case FACTUALITY -> {
                         if (dataset.getTask().equals(FACTUALITY_AND_SENTIMENT) || dataset.getTask().equals(FACTUALITY)) {
+                            Path predictedLabelsPath = Path.of(dataset.getName(), "results", fileNameEvaluationsOneDatasetOneModel);
+                            if (Files.exists(predictedLabelsPath)) {
+                                try {
+                                    predictedLabels = jsonb.fromJson(Files.newBufferedReader(predictedLabelsPath, StandardCharsets.UTF_8), new HashMap<String, AnnotatedDocument>() {
+                                    }.getClass().getGenericSuperclass());
+                                } catch (IOException ex) {
+                                    Logger.getLogger(Alexa.class.getName()).log(Level.SEVERE, null, ex);
+                                }
+                            } else {
+                                System.out.println("file with predicted label not found: " + predictedLabelsPath.toString());
+                                System.out.println("EXITING");
+                                System.exit(-1);
+                            }
+                            if (predictedLabels == null) {
+                                System.out.println("Error loading predicted labels for " + dataset.getName() + " , " + model.getName());
+                                System.out.println("EXITING");
+                                System.exit(-1);
+                            }
                             Score score = new Score();
                             score.setDatasetName(dataset.getName());
                             score.setModelName(model.getName());
@@ -182,6 +186,25 @@ public class Controller {
                     }
                     case SENTIMENT -> {
                         if (dataset.getTask().equals(FACTUALITY_AND_SENTIMENT) || dataset.getTask().equals(SENTIMENT)) {
+                            Path predictedLabelsPath = Path.of(dataset.getName(), "results", fileNameEvaluationsOneDatasetOneModel);
+                            if (Files.exists(predictedLabelsPath)) {
+                                try {
+                                    predictedLabels = jsonb.fromJson(Files.newBufferedReader(predictedLabelsPath, StandardCharsets.UTF_8), new HashMap<String, AnnotatedDocument>() {
+                                    }.getClass().getGenericSuperclass());
+                                } catch (IOException ex) {
+                                    Logger.getLogger(Alexa.class.getName()).log(Level.SEVERE, null, ex);
+                                }
+                            } else {
+                                System.out.println("file with predicted label not found: " + predictedLabelsPath.toString());
+                                System.out.println("EXITING");
+                                System.exit(-1);
+                            }
+                            if (predictedLabels == null) {
+                                System.out.println("Error loading predicted labels for " + dataset.getName() + " , " + model.getName());
+                                System.out.println("EXITING");
+                                System.exit(-1);
+                            }
+
                             Float weightedF1 = F1.computeBasedOnSentiment(dataset.getGoldenLabels(), predictedLabels, dataset.getName(), model.getName(), printFalseClassifications);
                             Score score = new Score();
                             score.setDatasetName(dataset.getName());
@@ -196,6 +219,25 @@ public class Controller {
                     }
                     case FACTUALITY_AND_SENTIMENT -> {
                         if (dataset.getTask().equals(FACTUALITY_AND_SENTIMENT) || dataset.getTask().equals(SENTIMENT)) {
+                            Path predictedLabelsPath = Path.of(dataset.getName(), "results", fileNameEvaluationsOneDatasetOneModel);
+                            if (Files.exists(predictedLabelsPath)) {
+                                try {
+                                    predictedLabels = jsonb.fromJson(Files.newBufferedReader(predictedLabelsPath, StandardCharsets.UTF_8), new HashMap<String, AnnotatedDocument>() {
+                                    }.getClass().getGenericSuperclass());
+                                } catch (IOException ex) {
+                                    Logger.getLogger(Alexa.class.getName()).log(Level.SEVERE, null, ex);
+                                }
+                            } else {
+                                System.out.println("file with predicted label not found: " + predictedLabelsPath.toString());
+                                System.out.println("EXITING");
+                                System.exit(-1);
+                            }
+                            if (predictedLabels == null) {
+                                System.out.println("Error loading predicted labels for " + dataset.getName() + " , " + model.getName());
+                                System.out.println("EXITING");
+                                System.exit(-1);
+                            }
+
                             Score score = new Score();
                             score.setDatasetName(dataset.getName());
                             score.setModelName(model.getName());
@@ -208,6 +250,24 @@ public class Controller {
                             scores.add(score);
                         }
                         if (dataset.getTask().equals(FACTUALITY_AND_SENTIMENT) || dataset.getTask().equals(FACTUALITY)) {
+                            Path predictedLabelsPath = Path.of(dataset.getName(), "results", fileNameEvaluationsOneDatasetOneModel);
+                            if (Files.exists(predictedLabelsPath)) {
+                                try {
+                                    predictedLabels = jsonb.fromJson(Files.newBufferedReader(predictedLabelsPath, StandardCharsets.UTF_8), new HashMap<String, AnnotatedDocument>() {
+                                    }.getClass().getGenericSuperclass());
+                                } catch (IOException ex) {
+                                    Logger.getLogger(Controller.class.getName()).log(Level.SEVERE, null, ex);
+                                }
+                            } else {
+                                System.out.println("file with predicted label not found: " + predictedLabelsPath.toString());
+                                System.out.println("EXITING");
+                                System.exit(-1);
+                            }
+                            if (predictedLabels == null) {
+                                System.out.println("Error loading predicted labels for " + dataset.getName() + " , " + model.getName());
+                                System.out.println("EXITING");
+                                System.exit(-1);
+                            }
                             Score score = new Score();
                             score.setDatasetName(dataset.getName());
                             score.setModelName(model.getName());
@@ -268,12 +328,17 @@ public class Controller {
         Jsonb jsonb = JsonbBuilder.create(jsonbConfig);
         Map<String, AnnotatedDocument> predictedLabels = new ConcurrentHashMap();
         try {
-
             Map<String, AnnotatedDocument> goldMap = dataset.getGoldenLabels();
             float[] i = new float[1];
             i[0] = 0;
+            Stream<AnnotatedDocument> stream = null;
             float total = goldMap.size();
-            goldMap.values().parallelStream().limit(LIMIT_RECORDS_FOR_TESTS).forEach(docGold -> {
+            if (model.areConcurrentAPICallsPossible()) {
+                stream = goldMap.values().parallelStream();
+            } else {
+                stream = goldMap.values().stream();
+            }
+            stream.limit(LIMIT_RECORDS_FOR_TESTS).forEach(docGold -> {
                 AnnotatedDocument doc = new AnnotatedDocument(docGold.getId(), docGold.getText());
                 String response = model.sendApiCall(doc);
                 Annotation annotation;
@@ -412,13 +477,14 @@ public class Controller {
         return overallScores;
     }
 
-    private void loadProperties() {
+    public void loadProperties() {
         Properties privateProperties;
         try (InputStream is = new FileInputStream(Path.of("private", "properties.txt").toFile())) {
             privateProperties = new Properties();
             privateProperties.load(is);
-            HUGGINGFACE_API_KEY = privateProperties.getProperty("huggingface_api_key");
-            UMIGON_API_KEY = privateProperties.getProperty("umigon_api_key");
+            HUGGINGFACE_API_KEY = privateProperties.getProperty("huggingface_api_key", null);
+            UMIGON_API_KEY = privateProperties.getProperty("umigon_api_key", null);
+            OPENAI_API_KEY = privateProperties.getProperty("openai_api_key", null);
         } catch (IOException ex) {
             System.out.println("error in reading properties");
             System.exit(-1);

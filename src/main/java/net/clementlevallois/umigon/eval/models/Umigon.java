@@ -62,6 +62,12 @@ public class Umigon implements ModelInterface {
         return "https://nocodefunctions.com/umigon/sentiment_analysis_tool.html";
     }
 
+    
+    @Override
+    public Boolean areConcurrentAPICallsPossible() {
+        return Boolean.TRUE;
+    }    
+
     @Override
     public Sentiment extractSentimentLabelFromAPiResponse(String response) {
         return getLabelOnSentimentFromJson(response);
@@ -79,7 +85,7 @@ public class Umigon implements ModelInterface {
                 .empty()
                 .withPath("api/sentimentForAText")
                 .addParameter("text-lang", "en")
-                .addParameter("owner", API_KEY) // this param is not absolutely necessary. If you don't have it, you need to make 40 calls per seconds max.
+                .addParameter("owner", API_KEY) // this param is not . If you don't have it, calls are throttled to 40 per seconds max.
                 .addParameter("output-format", "json")
                 .addParameter("explanation-lang", "en");
 
@@ -111,6 +117,10 @@ public class Umigon implements ModelInterface {
                     System.out.println("waiting for the model to load... (" + waitloop++ + ")");
                 } else {
                     System.out.print("*");
+                    if (API_KEY == null){
+                        // without an API key for Umigon, calls get throttled to 50 max per second. This pause gives ample time.
+                        Thread.sleep(Duration.ofMillis(30));
+                    }
 
                 }
             } catch (IOException | InterruptedException ex) {

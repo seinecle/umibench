@@ -3,11 +3,9 @@ Umibench is programmed in Java.
 
 - you need Java 14 or later.
 - clone this repo, open it in your fav IDE
-- create a directory named "private" in the root directory of the project.
-  - create a text file named "properties.txt" in it.
-  - add the following line in properties.txt: huggingface_api_key=***your huggingface API key here***
-- open the files where the API calls to Huggingface are made. Replace the endpoints with your the endpoints of the models you want to test. Public endpoints don't have enough capacity. You need to spin your own endpoints.
-- run the main class of the project (Controller.java)
+- in the directory `private, rename `example-properties.txt` to `properties.txt` and change the API keys in it.
+- open the files where the API calls to Huggingface are made. Replace the endpoints with the endpoints of the models you want to test. Public endpoints don't have enough capacity. You need to spin your own endpoints.
+- run the main class of the project (`Controller.java`)
 
 ## Why factuality and sentiment compared in the same test bench?
 Most if not all models for sentiment analysis classify the 2 following statements as being SUBJECTIVE / NEGATIVE, which I put in question:

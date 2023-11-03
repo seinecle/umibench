@@ -14,9 +14,12 @@ I will take care of everything. Please send:
 
 ## Which models are tested so far?
 
-1. umigon ([link to paper](https://aclanthology.org/S13-2068/no),  [link to api](https://nocodefunctions.com/umigon/sentiment_analysis_tool.html))
-2. TimeLMs ([link to paper](https://arxiv.org/abs/2202.03829),  [link to api](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest))
-3. Thesis_Titan ([link to paper](https://ceur-ws.org/Vol-3497/paper-020.pdf),  [link to api](https://huggingface.co/GroNLP/mdebertav3-subjectivity-english))
+1. Thesis_Titan ([link to paper](https://ceur-ws.org/Vol-3497/paper-020.pdf),  [link to api](https://huggingface.co/GroNLP/mdebertav3-subjectivity-english))
+2. OpenHermes-2-Mistral-7B ([link to paper](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B),  [link to api](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B))
+3. umigon ([link to paper](https://aclanthology.org/S13-2068/no),  [link to api](https://nocodefunctions.com/umigon/sentiment_analysis_tool.html))
+4. TimeLMs ([link to paper](https://arxiv.org/abs/2202.03829),  [link to api](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest))
+
+[Supplementary information on these models](supplementary_info_on_models.md)
 
 ## Against which annotated datasets are these models tested?
 
@@ -44,14 +47,14 @@ Weighted F1 values:
 |                                                            | [alexa](https://github.com/alexa/factual-consistency-analysis-of-dialogs/) | [clef2023](https://gitlab.com/checkthat_lab/clef2023-checkthat-lab/-/tree/main/task2/data/subtask-2-english) | [kaggle-headlines](https://www.kaggle.com/datasets/rmisra/news-category-dataset?resource=download) | [mpqa](https://mpqa.cs.pitt.edu/) | [subjqa](https://huggingface.co/datasets/subjqa) | [xfact](https://github.com/utahnlp/x-fact) |
 | ---------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------ | ------------------------------------------ |
 | [Thesis_Titan](https://ceur-ws.org/Vol-3497/paper-020.pdf) | 0,964                                                                      | 0,821                                                                                                        | 0,857                                                                                              | 0,877                             | 0,789                                            | 0,960                                      |
-| [TimeLMs](https://arxiv.org/abs/2202.03829)                | 0,872                                                                      | 0,610                                                                                                        | 0,719                                                                                              | 0,706                             | 0,948                                            | 0,671                                      |
+| [TimeLMs](https://arxiv.org/abs/2202.03829)                | 0,872                                                                      | 0,610                                                                                                        | 0,719                                                                                              | 0,706                             | 0,948                                            ||                                            
 | [umigon](https://aclanthology.org/S13-2068/no)             | 0,962                                                                      | 0,588                                                                                                        | 0,940                                                                                              | 0,791                             | 0,954                                            | 0,974                                      |
 ### Overall scores and leaderboard for models on factuality task
 The values for each model are the sums of the weighted F1 scores for each dataset, weighted by the number of entries of each dataset.
 
 |               | [Thesis_Titan](https://ceur-ws.org/Vol-3497/paper-020.pdf) | [umigon](https://aclanthology.org/S13-2068/no) | [TimeLMs](https://arxiv.org/abs/2202.03829) |
 | ------------- | ---------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------- |
-| overall score | 0,921                                                      | 0,919                                          | 0,701                                       |
+| overall score | 0,921                                                      | 0,919                                          | 0,277                                       |
 | rank          | 1                                                          | 2                                              | 3                                           |
 
 ## Sentiment: differentiating between positive sentiment, negative sentiment and neutral sentiment
@@ -63,27 +66,26 @@ The values for each model are the sums of the weighted F1 scores for each datase
 Weighted F1 values:
 
 
-|                                                | [mpqa](https://mpqa.cs.pitt.edu/) |
-| ---------------------------------------------- | --------------------------------- |
-| [TimeLMs](https://arxiv.org/abs/2202.03829)    | 0,762                             |
-| [umigon](https://aclanthology.org/S13-2068/no) | 0,860                             |
+|                                                                                   | [mpqa](https://mpqa.cs.pitt.edu/) |
+| --------------------------------------------------------------------------------- | --------------------------------- |
+| [OpenHermes-2-Mistral-7B](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B) | 0,373                             |
+| [TimeLMs](https://arxiv.org/abs/2202.03829)                                       | 0,762                             |
+| [umigon](https://aclanthology.org/S13-2068/no)                                    | 0,860                             |
 ### Overall scores and leaderboard for models on sentiment task
 The values for each model are the sums of the weighted F1 scores for each dataset, weighted by the number of entries of each dataset.
 
-|               | [umigon](https://aclanthology.org/S13-2068/no) | [TimeLMs](https://arxiv.org/abs/2202.03829) |
-| ------------- | ---------------------------------------------- | ------------------------------------------- |
-| overall score | 0,860                                          | 0,762                                       |
-| rank          | 1                                              | 2                                           |
+|               | [umigon](https://aclanthology.org/S13-2068/no) | [TimeLMs](https://arxiv.org/abs/2202.03829) | [OpenHermes-2-Mistral-7B](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B) |
+| ------------- | ---------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------- |
+| overall score | 0,860                                          | 0,762                                       | 0,373                                                                             |
+| rank          | 1                                              | 2                                           | 3                                                                                 |
 ## How to run it
 Umibench is programmed in Java.
 
 - you need Java 14 or later.
 - clone this repo, open it in your fav IDE
-- create a directory named "private" in the root directory of the project.
-  - create a text file named "properties.txt" in it.
-  - add the following line in properties.txt: huggingface_api_key=***your huggingface API key here***
-- open the files where the API calls to Huggingface are made. Replace the endpoints with your the endpoints of the models you want to test. Public endpoints don't have enough capacity. You need to spin your own endpoints.
-- run the main class of the project (Controller.java)
+- in the directory `private, rename `example-properties.txt` to `properties.txt` and change the API keys in it.
+- open the files where the API calls to Huggingface are made. Replace the endpoints with the endpoints of the models you want to test. Public endpoints don't have enough capacity. You need to spin your own endpoints.
+- run the main class of the project (`Controller.java`)
 
 ## Why factuality and sentiment compared in the same test bench?
 Most if not all models for sentiment analysis classify the 2 following statements as being SUBJECTIVE / NEGATIVE, which I put in question:
@@ -100,3 +102,6 @@ To extend the range of tests, I have included datasets which are carefully annot
 ## Contact
 Clement Levallois, levallois@em-lyon.com
 
+
+
+_This readme file and the leaderboard it includes has been generated on 2023-11-03T17:12:52.538541600_

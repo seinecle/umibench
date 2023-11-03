@@ -26,6 +26,8 @@ public interface ModelInterface {
     public String getPaperWebLink();
 
     public String getAPIWebLink();
+    
+    public Boolean areConcurrentAPICallsPossible();
 
     public Sentiment extractSentimentLabelFromAPiResponse(String response);
 

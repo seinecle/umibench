@@ -151,3 +151,29 @@ weighted F1 score for factuality on dataset alexa for model TimeLMs: 0.8715486
 evaluation conducted on 2023-11-02T16:52:13.689208500
 weighted F1 score for factuality on dataset alexa for model Thesis_Titan: 0.9636163
 
+evaluation conducted on 2023-11-03T16:27:44.620805400
+weighted F1 score for factuality on dataset alexa for model TimeLMs: 0.8715486
+
+evaluation conducted on 2023-11-03T16:27:44.744180700
+weighted F1 score for factuality on dataset alexa for model umigon: 0.9624724
+
+evaluation conducted on 2023-11-03T16:27:44.791528300
+weighted F1 score for factuality on dataset alexa for model Thesis_Titan: 0.9636163
+
+evaluation conducted on 2023-11-03T17:10:27.052719300
+weighted F1 score for factuality on dataset alexa for model TimeLMs: 0.8715486
+
+evaluation conducted on 2023-11-03T17:10:27.188469200
+weighted F1 score for factuality on dataset alexa for model umigon: 0.9624724
+
+evaluation conducted on 2023-11-03T17:10:27.266904300
+weighted F1 score for factuality on dataset alexa for model Thesis_Titan: 0.9636163
+
+evaluation conducted on 2023-11-03T17:12:50.859582800
+weighted F1 score for factuality on dataset alexa for model TimeLMs: 0.8715486
+
+163
+
+evaluation conducted on 2023-11-03T17:12:50.979572100
+weighted F1 score for factuality on dataset alexa for model umigon: 0.9624724
+

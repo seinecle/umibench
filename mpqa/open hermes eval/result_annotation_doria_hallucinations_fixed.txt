@@ -1,0 +1,3197 @@
+708fc477-6ce0-4274-b9ca-be68be9aacd4 #  positive
+51017e82-430c-45a3-8095-8df359c4386f #  negative
+d4c8c9ca-edb5-4150-a95d-e0374b6df99b #  negative
+9b94cdcc-3fad-489f-936c-fd994ff8eeaa #  neutral
+24d07c06-38db-459f-b616-5024826efc15 neutral
+07882adb-ec85-431d-bb10-f963a6387700 #  negative
+1456bd16-b1b7-43ab-878b-06673bdfdc94 #  negative
+bb9ff2f5-f097-41e8-812c-990188c2d3c2 #  positive
+614f5a3d-d040-4946-bbc4-be2eb658f538 #  neutral
+a048d1e8-85ca-48ae-89c6-6226f94b045a #  positive
+1e8818a4-9afe-46f6-85a2-dae119f894cd #  neutral
+ad025639-5254-4b44-b411-c1bb81627f4e #  positive
+74e92ae7-a28a-44aa-bdd2-ea707cea2f8e #  negative
+a39ff074-a585-4117-894d-633c325a95ea #  negative
+5d4acc48-da5c-43e8-89da-3d056d4cb78c negative
+6e491ed9-d06d-43a4-9c51-313dd1819608 #  neutral
+51920fd5-517a-43be-9bbb-72e6b5ab26cd #  neutral
+bd8ebaa1-e7b6-44fe-b8de-3c81a9ec1eb1 #  negative
+e8e835c6-50ac-4c01-82db-1649c785bfca # negative
+05308744-0fac-4f6b-98b4-f315a9594a1c #  positive
+87b55517-ca5e-4d28-8692-66848578a6d8 # positive
+65bf1818-6919-4122-8ce5-46afe63cbaf3 #  negative
+e00d65b5-0290-4476-b8ff-b50d89ef65dc #  negative
+fdeb9136-cfb7-4ae8-8b92-938498875249 #  neutral
+cbf89b14-ce30-4238-98e3-62b4ad268c2f #  negative
+c25d5eb3-e9a3-4c3b-9d82-946b472cbb39 #  positive
+0437f80d-4188-4172-af41-e59913c76c26 #  neutral
+fc8f38d4-7938-4b2e-9694-51e82c5ff775 #  negative
+c14911b1-3c38-4b87-8de3-0677746be771 # negative
+e5f797bf-c9a1-403a-8464-e5411424ce50 # negative
+778989d8-cf94-44ff-a7dd-d532e98c7176 #  positive
+50616347-49c7-468f-9f0e-7df3435f446c #  negative
+eb0c719c-91ed-41ca-9a2e-dcd63d83d9b6 #  positive
+48800f30-07a7-4b2a-bda2-52abb5aa9d12 #  neutral
+ab244786-bc34-42ea-91ec-d6ecba45ff01 #  positive
+6a1e2d81-e477-42f5-9cf7-40811f5bfc61 positive
+9329c282-d411-46a1-80f8-e60cc0ba6959 #  negative
+8b22a683-e513-4321-90bb-aa073a8fb2c7 # neutral
+b66a25c8-3d19-4d33-bf97-219bb5d49edf #  negative
+3a485496-2d02-42fb-94de-7010a879f443 positive
+72c7180d-dcc0-45cc-8c8d-b093c882d8d3 #  neutral
+e4b9a1fd-1584-44b7-b4fa-e9c0387316c9 #  positive
+6c4212d2-0005-41aa-a93e-3c2222d2b3fc #  neutral
+7970180b-3374-4ba4-a485-3ffd0c37ab8d #  negative
+54b85c21-f3a0-42e9-b8a2-67bd963fd3bf #  negative
+4e6e3de7-0161-4a2e-8cf4-24eedb27aa65 #  positive
+09bb526b-7ab2-4c58-b051-2052bb477e32 #  positive
+b59cd63b-d9f7-44b3-a110-144e9b8bfe4e # negative
+bdcb94de-addf-4684-af52-309c421eca98 #   positive
+5a6f7aa7-86e4-41ae-b766-5f4e33f6cb67 # negative
+9d4860fd-c62b-42a2-b9da-44dda72df443 # positive
+4ee5f7d3-19e6-4f81-ad8b-fb09ccd1d6fc positive
+eab89cef-2485-41d0-aa95-cfb07dd1aa83 #  negative
+22fb9dc0-932d-4cc7-9e79-9ed74fc03cdb #  neutral
+5a5f05b0-d4d4-409a-9f55-1f1ed0cc5805 #  negative
+36ef1f05-1442-4ec2-b2f3-8f2795571531 # negative
+19cb5b96-a5e7-4557-90a0-d9dac845165a #  positive
+e94fb286-3040-48e9-a1f2-4c876d9bd8a8 positive
+01b7505d-5457-47a2-b189-e5706558b1b4 #  negative
+743ad8fc-56a0-433c-a7b8-c839a9fd3a49 #  neutral
+78b105bf-15ed-4961-a669-0e29e4835985 #  positive
+ed968244-d64d-4dc4-8696-abbeb9e09735 #  negative
+03d76a60-db9a-4526-a3a8-fa62d8a34cd3 #  neutral
+6d5557bb-277f-4896-9c3c-ca9b8eec2b20 #  negative
+131921df-c083-4aa2-98fe-2e55e3b2d364 neutral
+01378a16-10f1-49c6-ae61-cc625edaa2d6 #  positive
+b5816ae0-fe0a-4daf-82c4-df4d5f028449 # positive
+ae66b9cc-b623-4272-a4ca-cfdde074fd11 # positive
+6f08481f-39c1-46d9-a3ba-27c5514709cb #  negative
+ccb534ac-71c5-4653-9595-09642825ad5f #  positive
+f01ee773-3f9f-4efe-bbc1-53859bd95866 #  negative
+491b707b-fe1c-4ca2-ba53-c312b6ab45af #  negative
+971a1afb-33cc-4a62-b19d-0e6a4a63c4f4 #  positive
+93295a02-fa07-46e3-8460-ae2ab24207d8 #  negative
+d4dd5009-76e1-4526-84fa-c37e3b1af843 # negative
+113e464a-cb62-4f93-9dcb-9644c2156b35 # negative
+446b34df-352b-4ac0-8a6f-1b3bcf1220cc #  negative
+1160261a-2384-432e-984b-3fa8b032a951 positive
+5cd87e75-b7f1-4fe0-9367-6512eb83fa1c #  positive
+022d268b-5290-43ac-8ab3-33353022b007 #  positive
+b77096d9-15ca-4d63-bdc5-2acb8a8fdd6a #  negative
+f325f82b-c935-4232-8ad3-61e12e102bf8 #  neutral
+95e5c12c-2b41-4c83-a7bf-64f8bd972937 #  positive
+a4504273-9ab9-44bf-a0c5-3c16ef37e5da # negative
+8c2ba1bb-2fed-420a-b1bf-1ec3eda65ced # positive
+c19e0e62-5aa1-4e4e-bceb-04941cf7e284 negative
+96b6d772-38a0-415c-8e70-937f73505c25 #  neutral
+75aa2cae-0812-4efc-b74d-d6c6615e94c0 #  positive
+402a0dda-50c0-499a-968f-5eb70dc9c310 #  neutral
+a4d97da1-7ee2-4451-993d-49766091a02f #  neutral
+658e6498-d6f1-4bbd-82b2-312391abeb04 #  neutral
+14effb52-81fa-4802-8f5d-23f66677e996 #  positive
+c04f8256-cf7a-4a37-83ec-584760b2de4e # positive
+7d106394-6a2a-458c-b0e5-5a5058df6b2a positive
+9fab6625-4ca0-4937-aec1-89bf9d9f0887 #  positive
+19552998-83b1-46e6-86cc-5ef61ef1a932 #  negative
+15116304-306a-48fa-bb0e-f2d342f504d4 #  negative
+b432dcd8-4cbf-431c-a177-6fbe8dd99e67 # positive
+7a899635-1c6c-4eb1-85d4-0db70f14464a #  negative
+43cbe708-256f-4e9c-885a-492635c8316c #  negative
+0209cdbf-79b1-49a1-b7ad-eced4c01dd13 #  neutral
+cdfe8631-6a59-4745-a2a1-7ef9871a9dd2 negative
+d4f68e0c-081a-4772-b9fb-28a0afa925bd # positive
+d913e949-6307-4a54-9509-6cc70f336ef8 #  positive
+409d226d-b067-4d2d-85be-edf15f51715a #  positive
+c2a322e9-439c-4bd7-a749-5763bd9257a7 # positive
+da4de1c4-9fb7-44ab-bdbe-5a5a654f095d neutral
+485874ce-fdc4-43ad-945c-2e2288bb67e9 positive
+ff8e1f3f-f9de-487d-a046-35bf81e4677f #  positive
+3f7a60f9-ca16-49dd-a919-9d4026a5a227 neutral
+415841f2-4967-43f1-a839-bc66fe81edee neutral
+f3a12bf5-e2d1-45b4-b051-8da62fda9b25 # positive
+a8d554e1-e217-4b61-b7ae-089033447ea7 #  positive
+321fd9ba-6c30-461d-8ecf-b021a5215c61 positive
+8820cb96-fd0f-4b83-936e-1b4300d1c2ef #  positive
+ae25cf44-a078-462f-a8d7-679af2e19455 #  negative
+2e529085-f902-4c4e-a288-733ef0ae859c #  positive
+1e0097a2-eb89-4fcb-8aa4-1bf0f5abea7a #  negative
+e617e887-6299-45a8-97ac-3f2b877aba45 #  neutral
+2410679c-42c7-4f58-a97f-e14c156c8ce5 # negative
+e724ee96-53e1-474f-acf5-f72c1ff136af #  positive
+7bcf1a56-1497-4b93-b373-a0a61a32463c #  negative
+8c072bd5-e088-4dd3-9aae-1897f950b446 #  negative
+935b9734-a260-409c-9e6a-cfd7834a8cea #  negative
+0f30d988-e5ef-4e11-ab8d-43ed2513a9df # positive
+64e66ff6-85b9-4fa2-b293-968924037832 #  neutral
+30a61678-1509-477e-a5b7-f12195b0dc43 positive
+5202c9de-fb76-47df-94e9-613b4febe46f #  neutral
+b344bf0f-f9b0-45d2-bb8b-36c9cddfc0ad #  negative
+617f7aca-fbd2-40bf-bc1b-c5715a72e32b #  neutral
+bc3f69e6-bd55-43b4-a0c4-f668784bc41a # negative
+cc89c631-7bdc-4370-895f-58482ebd2c83 #  positive
+f8a0db22-d74d-4f21-8d2d-7b380713852e #  neutral
+4f7ea042-7e58-4116-a133-6c619748b4c3 #  negative
+32c5ab92-77cf-4ae7-b530-3029912ff43d neutral
+ef727f2b-560f-4027-a21d-e9312123e004 #  negative
+892e6d15-44d9-4db4-b85a-a1fa2ec1af6f #  negative
+bbb19366-2fcb-4815-92c2-8289b7fba007 #  negative
+fd529062-0897-4350-b765-3a2f87e816af #  neutral
+f01d36f8-4c1a-4b5d-95f6-462e35e663f3 #  positive
+356d6577-bf4c-4754-a05f-abe55242ffb1 neutral
+b655f029-78b7-455f-92c7-32edbe4a2b1c #  positive
+c42c44ea-9c1c-42d1-a6ec-511658900d8b neutral
+0a6be85a-b135-484e-8628-bdf0af1092ce positive
+909be1f0-eb24-4f78-9750-4df2bc38ab1a # negative
+8761b650-4a73-4f51-b623-d7b1210625c1 #  positive
+04114619-b41d-4a53-84d3-dda5acc95751 #  neutral
+ca9ceff0-d6d1-4b13-9d73-1c4285d587ad #  negative
+b2eb825b-995b-40ad-90a4-43dc05145474 # negative
+c8c2242e-4ddf-4581-a755-c84b41cef9f1 #  positive
+d359c3fa-4575-4bb6-9987-a5552f0c5dd6 # negative
+80f972ee-cda2-485e-ab42-c3ff12a83f95 positive
+b042772a-7721-42f6-ab59-374162e7a698 # negative
+fea0526f-faa7-46fe-a44c-f1ac3c27e2c1 #  negative
+bf7af65e-d765-433e-bcaf-f6c42b45d194 #  negative
+5820ec9e-b900-4595-a6ef-479af047c6d0 #  negative
+6291b60b-0a05-4c3b-be35-768dc2ca6179 #  negative
+15635b2e-539a-43bb-be8a-baae22df88bf positive
+94e86364-1b15-4c97-a55c-b0a895f91549 #  neutral
+0787bf47-3e87-416a-8469-f59262f48e6e #  positive
+898e5858-8c31-44e2-ba6c-60fc09024009 # positive
+26cfdf42-157a-47b9-9904-0f283a087497 neutral
+4282a94e-bb6e-4525-9c43-3e5fde6ed3b5 #  positive
+d75a5be6-70bf-4363-a5d5-35f539eda1d8 #  neutral
+8c40bb84-db41-4ac8-983e-f11ef7c1a11e positive
+254cc1f7-d881-4bf8-b2fe-879995a31a80 # positive
+8d424506-0b9d-4332-9f6f-4157f00631e9 neutral
+379c2125-3b3c-471e-a57a-bff178c0d971 # negative
+960e6b54-7de4-4754-b52b-f615b9b573a5 # positive
+6702205f-d010-4e6d-a3ea-7a8d73f35e49 # negative
+815b5dc3-1959-425a-b8c1-dcdd38bfa538 #  neutral
+ec056726-2734-4f70-b313-09af0124bef8 #  negative
+d9f44850-89aa-417a-a6e2-e3a9d3a07e92 # neutral
+ee4f0382-70d4-45da-ad3d-481329b9b0fa # negative
+83586b6d-2510-4a86-b9fe-7462632d77c9 neutral
+fb8b0552-202b-480c-ae69-1dddf237c72c #  positive
+3452e471-e2f2-4787-8217-41f31f556cef # negative
+7cb76c5e-fb09-4b5a-a1c2-5b866845811c #  neutral
+b2836017-f266-43fe-8d0f-c5cf44ab394b #  neutral
+9e7a9ece-1b6b-492b-97b2-baca261f999b # positive
+899255b3-2b39-421a-a3ad-435d37eb6433 #  positive
+edfa7ec3-63dc-47bf-bc4f-d28ebd65f4e8 #  positive
+bc3bcfb0-340f-4eea-8bf9-bc127f6c9899 #  positive
+00e676bf-3ed5-4130-8513-770807025bfb #  negative
+7fe419ae-0eec-4d2b-8a31-b53050eca74a #  negative
+659b8756-bbd4-4913-96cc-0ec4bca35d5e #  negative
+68e5deca-b923-4ece-9793-15547cb7b4ea # negative
+9cd1da11-24b6-445f-a5a5-d1d15c2376ca #  positive
+f2763e44-1a6e-4cf4-9cd4-5d7cb78ffb67 positive
+9034942d-27e6-476c-8b4f-a108e723d766 #  neutral
+0c562bb2-debb-48ef-aa6d-ceb6cd8a73ff positive
+22743bbb-f7fc-4910-a7f7-1aed4d0d212b #  positive
+74ca4fcf-3de0-4fd0-8e79-f487a7ffb3b1 positive
+e610c4b8-85dd-4407-b2ff-4cd3dab50458 neutral
+ca871bd2-a2ac-4ecb-a4cc-c3749ae3df83 #  negative
+5d8cbe77-b0f6-4599-96cf-0ef3b341e2a6 #  neutral
+c45d5099-8311-4c38-a85f-4d68660ebe8e #  negative
+361e462e-3f40-452f-87cf-6da088e9daf9 #  negative
+94469b2b-1c43-41a4-94e2-013cd4a1c6fa # negative
+c371aec9-3ec2-4ca9-8be5-3b7bdfb7bf09 #  negative
+b2caf5ed-2069-49ab-9996-418f5f594d59 #  negative
+76b20ebc-f753-442a-8e60-0d1c5ac1169a # negative
+d5482ef7-c1b0-42f3-84f3-8c43ec5a8dd3 #  negative
+229f20dd-a0fb-4661-8154-38d19b071409 # negative
+e856e270-6578-4c43-abe3-88d2251fe92b #  negative
+91f35521-5a33-4f30-970b-d3437bd30c69 #  neutral
+6888370a-4126-43e7-944f-0a9a49ca003a positive
+fb99aa98-d30f-4066-bef2-08325de89cb7 #  negative
+f23d7e7e-3c6d-488a-8a8a-457e08274a75 #  negative
+95e3edb7-d17c-4985-b9b7-a82316b6fe1e #  negative
+6a760381-f5b3-4c58-9b0b-33a89e16775a #  negative
+07d062aa-7efe-4beb-91ce-f7780c7fa954 positive
+30892ba5-9fc4-4418-a87c-944a0cf4861c #  positive
+6d0ea82b-a082-4efd-a524-1add35d87a97 #  negative
+670eccbb-b0c2-417f-ae59-eefbda10df17 positive
+e55f85a1-0404-4b3e-998f-c25f69e11544 #  neutral
+f5221e7e-812d-4208-87cb-24380113fb4f #  negative
+f397f017-acde-4494-8679-e6eaa815296a #  negative
+026357cf-a31d-4002-9eee-42ad6a9cff98 #  positive
+6511c914-c333-4ba6-9138-bcaff8908155 #  positive
+cba7614e-fb37-4120-b790-f38eb3c2abaa #  negative
+0d12fbcf-22c5-49fc-a03f-d8ad69bdf23f positive
+95f968e9-22b1-4a19-8b64-9d4d01551855 #  negative
+5cbe90e3-7119-4f23-969c-016a0ae73b7a # negative
+4da4dca2-ecc9-4320-ae42-82fcc067e455 #  negative
+7034aa42-26dd-4a85-ba61-c9e1ce520755 #  positive
+3ea9d23d-afe8-439f-999a-cd59ba71e4ea #  neutral
+0055ce48-1e14-4df2-9a3b-12d81d6f999b #  negative
+3fb19ec8-ea90-433b-8e9f-f74a927a0f03 #  positive
+d40772ef-0d97-4b5b-8368-83057f90c445 # negative
+e958ca3b-7649-479c-97d3-504c490dfdc6 #  neutral
+a82c9f0d-82e6-47e0-aa7b-21b0c0f7c959 #  negative
+7b9227aa-aacf-4ac5-8eee-a723c6a28c8b #  negative
+928e2d22-f9ba-473f-96ea-051f9ef3e24e #   positive
+2e271d3e-718e-4340-b960-7cb92a96724b positive
+73ae27f7-c0ab-4255-a836-f33414e63509 #  positive
+c311af25-96f7-44eb-a195-c38d206de627 #  positive
+2abb11d8-c7f6-43df-9e50-2f753292f6b1 #  positive
+c3a1dbb2-0930-45b1-bbb2-a91f894bad83 #  neutral
+56f3ebfa-04a0-4939-9eb4-d552aa4e488c positive
+381688b7-7b8d-4cbc-86c7-b2e86bb78071 #  negative
+4c416a5b-462f-479e-8faf-323811383b82 #  positive
+e7ed4d31-6b28-4876-b8d4-7f0dba934c00 # neutral
+c428104e-e5e8-44b5-8c35-833a3872ef10 #  negative
+a2ec7a44-49cc-4e25-8d83-3ca57ca5306d #  positive
+90d13d8d-b672-42fe-a917-902677493365 neutral
+3947ea96-51e5-4805-aa5d-ed1ac1d107c9 positive
+4f7af398-f0ae-40c9-926b-23e51b0d370b positive
+bd8ae092-3422-43a4-bf44-1605e304c14d # positive
+2c2e1b00-984f-4f01-b799-c8318b95d9a3 # negative
+15750e01-6538-450f-aae3-1ef7b259c9e5 #  negative
+1bf7c555-f9ad-4c23-95e7-d3675407c324 #  negative
+72f5ba3f-ce7d-4ab3-b419-4c87c75df24d #  positive
+87d91850-5616-4006-979f-f5fa868a0eca #  neutral
+eef7cce4-2cfd-4985-97f6-c5abc5a0013f # neutral
+0fd1aeec-1b2d-465d-a285-0d9a21c592b7 #  negative
+693e0762-e2e1-4170-a33e-6c817440b396 #  negative
+ab81792f-c746-4236-b944-8bea4a950917 #  negative
+94a9e2df-f5ff-4ba3-9599-c2d530427e81 #  negative
+1427a63c-7e23-4a4f-a627-7db08fa158a2 #  positive
+1aebca31-b8c8-4f79-bcdb-af81c4688197 #  neutral
+cd4d5a69-88c0-4b45-9f58-80d43d6fa146 #  positive
+0ddee0d7-3db2-493f-9289-a581713e1ad3 #  positive
+539b5b16-71e8-4c08-8cb7-a6f241ba2d5c #  positive
+0a845737-7331-44a9-9468-0e08cbb84d28 #  neutral
+6821581e-2ffd-497c-b096-e4fa221ca8aa #  positive
+98c3ef1a-68a0-4381-bbbe-b75eb885582e #  negative
+a5c8a6b5-2e2c-48da-8744-8fccc0de606b #  negative
+0879947a-1199-4528-8761-cc883133501e # negative
+f5da091e-80a2-4488-a420-30c0d2feb3b0 #  neutral
+555c71e8-fd1a-4a5d-9318-23f83253e4fe # positive
+e4468b19-5268-4c76-bec3-aa7f9a42ac16 # neutral
+22dffc03-2529-459b-8f70-78b1c7fbd92a neutral
+62243826-873c-4335-b7c9-483ace11d272 #  negative
+88a28a8e-334d-46ca-b05d-afb69eb8f16b #  negative
+24571574-8f55-4946-a787-3828a569608c # negative
+c821fa65-38ff-4ad2-9b95-8988aea74179 positive
+f7e6bf8b-ad2d-49c2-b7ef-3e3e392394bd #  negative
+6223829e-91b4-4987-b313-1f4cb2bdf8b1 #  negative
+91b9b383-4d6e-4455-b732-4328333af8f3 #  neutral
+d79b6789-0db9-491d-816d-fe4422ef872a positive
+6c6f7348-1cf2-4966-90b4-8e67fb0c7b40 positive
+4db4e545-e2eb-4f21-a33a-21f0c28198ad # negative
+f7c71525-20d5-4d18-8d40-c9b9c8dcb3e3 #  negative
+34e2c09f-0d45-4127-84cf-37c7df7e2c50 # positive
+e97b7103-cb39-49b3-b1c9-a3ed9f2067b5 # positive
+bcd95288-1d69-4c5d-b0b1-5e1a9dfb5fa0 #  negative
+50597c40-e76d-484d-8618-3eca7d4371c3 #  positive
+ac036146-fff3-4746-95af-32d3c80117e1 #  positive
+a46be649-a6cf-49c2-aaa4-4aa46a960db5 # negative
+b87f83e2-a58a-45e0-aec0-753a56bbcf22 #  neutral
+481b5069-c35d-40c6-be0f-3c058ca4dc21 #  negative
+bbdc8164-3de5-4b3c-93a1-cbb53af7ff3b neutral
+0d6bd0d4-811d-4d7a-a1a2-8dfbe2cf6f82 negative
+0ad00f84-ea8e-49d0-8b0d-82f82a128d5e #  negative
+6be80e0c-6129-4c64-be1e-8e668ef2309b #  negative
+dee2b892-0169-433f-aa60-82481bf0e11a #  positive
+dd037151-4097-4159-b82a-d00e2c86194a #  positive
+adee1f36-7328-499b-af6d-8c9011c03805 #  positive
+ad1a55ce-9a7d-4801-bc22-64edee55b02f negative
+d32cf9c8-c113-47d9-95c9-5ffd1bd9c015 # neutral
+b7c86291-fbb1-428c-9852-1d47ec4f4e8a #  positive
+ca5988c2-7389-4593-abc6-d1d44052d320 #  positive
+2ca10cc8-29f6-41e8-a715-f64ddaa955d5 positive
+1e815ea5-4414-4bcf-9404-0e95897e1df6 #  positive
+7ffc2693-2995-4371-8fec-67ddf70ef3b8 #  positive
+4cb69191-35c5-45d8-a003-be3dfa1548e4 positive
+4ecc9a54-293b-4bb4-bcad-1796e1ba3b9c neutral
+8bdf6e75-1632-4e65-85ff-703c67b893ad #  positive
+16903479-2e4d-4073-8727-ade5865c3b40 #  negative
+6fac0c05-011e-43f1-b523-193829ffe606 #  positive
+c1a75071-981a-4f63-b028-5d8b928806d9 #  negative
+3a9868d9-71fc-4773-9565-0461523673ff #  negative
+e0aa66de-d1e6-4d18-9ca6-ffa284fd10f1 #  neutral
+6acba0e2-0d92-4513-8255-06520f33fa46 #  positive
+6fe0b830-565f-455f-952a-6499441c61b4 #  positive
+80d6fbf0-7df2-4276-8f8e-172becd1236a neutral
+16f4c721-ec21-44b6-b75c-698c7d3e2b52 # negative
+b2189935-d73a-4ba0-80c4-47471bf23d5d #  positive
+eb5a30a1-65cc-48d3-ab24-8ffc71a0c09e positive
+eaba9619-a04e-408f-a63f-fa251c16b017 # neutral
+e6dc8102-382d-4877-a739-49e4ab6d7035 #  negative
+79f09ab3-12e6-4b12-9c41-b04e5ed0e4f6 #  negative
+960d3e8f-ffa7-4131-b2c4-a040410ce4c4 # positive
+9ea067c3-cea0-4d66-a32d-ad2d3dc64da1 #  positive
+c45f4e50-2c39-4541-b1d0-ca8ef1d82ef4 #  positive
+c37f7cbf-ea26-4957-b46f-0d4aeb6ed581 #  negative
+b42cda67-9825-43b0-b7cf-325b2a2d1658 #  positive
+b7a09d15-2fa0-4d4a-a1fe-ed95f1b719e5 #  negative
+cde8c000-89bf-43c6-8202-9f1e86dc3b30 # neutral
+13b13ddc-d8c1-4624-88aa-76b45ec31a5e neutral
+30f8466f-5a1a-4118-9221-5b0bef04f9dc # negative
+573af499-c968-4831-82ae-d77145816069 #  positive
+b6bbad65-532b-406a-b1f2-cc1ded638dde # negative
+072764c9-30a2-4bea-a957-fc5c1a6e388f positive
+e6b3695e-7749-4c62-9025-ab93c4b77db0 neutral
+3880a416-2272-4744-b93f-263132fcb7d5 #  negative
+2dfddf55-6f58-46de-aa4c-8c6a988dedb3 # positive
+b3596b70-f652-4249-b7cc-9d7a81e5139b #  negative
+1c62025a-709a-4e39-80db-24cd755786f3 #  positive
+f7deb2d9-377b-416f-acd5-204018227b86 # negative
+30cf71f0-812f-46a0-923b-daa0fca71197 # positive
+ae9a9bd0-b85f-4d14-bf50-8736b16fb19b #  negative
+b6066d2a-2aca-4000-b2a1-5ead22d8a8ca #  negative
+27558ebd-a4e1-442f-8a26-0ef265727011 #  positive
+8fe3ac24-41be-4d21-b1aa-7a785048d09d positive
+a57d8f65-82cb-41f8-b040-3bdc24103711 #  positive
+90ab5387-dc47-475f-8009-7b7636dfb95c # positive
+ac245393-8796-4ed9-9f7a-176126b4de53 #  positive
+a474e609-e9f9-4dd1-8496-959faa1d281a #  neutral
+53470ddf-6103-47ba-88c6-0224b7f620dd #  neutral
+ab9c5cfa-e4e3-40d7-81de-b9bd133b5e7b #  positive
+6791badf-4861-4588-8cee-5e14a58c6389 neutral
+f5e18476-4be2-4a39-b4fc-256261e8eea4 # negative
+6d58b91d-4cd2-46d6-9121-93e8e6d9fe7c #  negative
+8857b948-2892-487a-9acc-6cb9b057ff14 #  neutral
+aacdf8d6-8f4e-42b8-a8e8-0144e61f327e #  negative
+994eb987-137c-48aa-9942-693b2991415e #  neutral
+190b077e-5265-4ca4-93e3-6e20ed3a829e #  negative
+ba7e6c66-31e0-4d3c-ba28-e567d97d65de #  positive
+4be3f543-1ecb-4e2b-875b-7d99c98fdb15 positive
+432d081c-f64e-4b6a-b34b-5eed3a032fca #  neutral
+20a8f7de-d5a9-4485-bce8-c99b27acbc64 #  negative
+5ea34be2-5cf9-4da1-b9e5-0faa5397fd77 #  positive
+da625abb-372a-467c-928a-8c2f18101ae0 #  negative
+5ac26404-1dc2-4e87-9349-ccd913b6742d #  negative
+cb849ea0-ae23-4c0f-b131-d932df16124d # negative
+619db330-d12d-415e-b0fa-91df424fa1cd #  negative
+64e4d896-2519-4485-8bc7-fe8ee499064e #  positive
+d11d76b4-fe85-4cbe-9839-98c0e3e56d51 # positive
+ada0a14f-1e5e-4e3b-b0ea-43e754f744aa # negative
+38037df1-5000-4004-ae71-43044234fffb positive
+07feb299-5e19-4e7a-93c0-feb04f6b487b neutral
+919a13dd-b356-44d2-9c2e-797ede258ffa #  negative
+4618f142-47bf-44dc-8f39-b5f988176cb5 #  positive
+7720db0d-8336-4c27-b491-c97807b79fba #  negative
+c8eda2d8-f7d2-4711-9005-880332fcc464 #  neutral
+3088b8e0-a4d0-45b6-b48a-766b3b9cc7e9 # positive
+9af4d4b8-554a-43bf-99d2-6cc2deec945f positive
+abfca12f-787a-4da1-b0fd-2e4152d6cd6e #  neutral
+6eba90cd-3718-4b43-adfa-2a971cc82932 #  positive
+13f12fbc-7cb5-4f9d-b795-b10518b6e3f9 #  neutral
+95917774-2579-48e1-b6a0-08ea29e6a5c5 # negative
+38984eb9-e901-489d-85bb-8c4f3ee6cffc #  positive
+ae515352-ba42-4e64-a399-758226c4b97c positive
+8edc2138-e0e8-4564-9b9f-5342160c9f79 #  negative
+1965c0da-8148-46ec-ac70-df201639782b #  neutral
+2ae1a9c6-eb62-4794-9aa1-4ed90db902df #  negative
+8e8ec6c8-d9b0-4f68-a00a-f3588c78d4ec #  positive
+d23f4339-e268-4b21-b5ed-580c834b2231 #  negative
+cfcdf5eb-cee8-4308-9cc7-f30c2b1bc5dd #  neutral
+06e2e071-f7ae-4468-920c-6f4846499c5d # negative
+a986ac96-2420-4549-b227-02bb12ef5e09 # negative
+4126bbdb-4d4b-4d5d-acba-864a64d68706 #  neutral
+ac05cebf-5d01-4920-8212-76df4a56380f # negative
+bb8187ff-5a21-49f4-80ce-dbaa64a90d7e # negative
+321de091-9397-40e3-bfa3-9341d40c3945 positive
+b99ccf4d-8ec1-4af5-b25b-b45ad1856172 # positive
+b9ad83c3-b25f-4c8c-88b4-3d308e10de9e #  positive
+a922366d-3cd2-4f88-9755-73e10f55df53 #  positive
+47c88bec-1cd5-4b58-a19d-ddbaedab753d positive
+725331e5-ccce-4e2f-96fa-300895e1fb72 #  negative
+9ee32e6c-b588-4cfa-89b7-288d1c16f47c positive
+3eef2cd0-c042-4caf-87cb-48dca43bb55a #  positive
+f04d00d0-3ece-4074-9d2c-1d93d3d3f49d # positive
+4723d5b1-f5f6-462d-a89b-7b3322bd1cf1 #  positive
+f882cd83-614d-4408-9978-b023e734a5e0 # neutral
+e2982ffd-09f5-44a1-8aaa-29293d70a4ac # positive
+53c10628-d294-47ab-91f9-2c4ddb929a9e #  neutral
+63ce2722-6925-433d-a388-ec6157428041 #  negative
+f493ba00-e9e6-423f-b7ed-6ee90c060aa7 #  negative
+9ad199da-adba-4adf-93e6-8e0903a009c6 neutral
+0e6e62ed-02e4-4b6d-bb9e-2a26bc719449 #  negative
+3366daf2-b78b-4942-b699-506bbbb7976a #  negative
+ba52cac8-a8b9-4132-9fcd-2dcc94919c54 #  positive
+9afd005a-7509-4c59-b792-50bc2c637ba8 #  negative
+12f3789b-7732-4252-84d1-a956b5402a18 positive
+dba57403-83eb-498e-b187-450778deffa1 #  positive
+1ef0ab6b-cf13-4289-8a6e-dccdb6ac3aa2 positive
+a73422ca-2e43-4e6a-b929-404e29101f3a #  positive
+7080d798-d310-4557-a700-f64575a011fc #  positive
+0cd8a488-0998-45f3-b5d7-7d9703a4033f #  positive
+a561a12b-4cd2-4040-88b2-983cfcf0fe07 #  negative
+05ac63d9-8066-4712-b446-c5588d8c37a9 # positive
+bbc48344-dedd-43ba-a288-d4faa6659f5c #  negative
+821da1d8-1ea3-46d0-944e-70c707b69356 positive
+99df31fc-7065-4000-ad99-d8adb07626dc positive
+317e9e7d-cec5-4c18-aa31-cbea65a2f80c #  negative
+8f6ac10e-6a60-4f98-935e-84ea373bbc46 # negative
+66455432-ea7e-4d10-abe0-3822bb941c54 # negative
+9be24cfe-3bfc-40d2-8e21-1c7c62366890 #  neutral
+78da1314-913d-4827-9612-87d9e55bcbaa #  negative
+d19f8ff5-ebfa-47ad-9649-83d4ee088841 #  neutral
+c45cff91-595f-4208-aaf5-457bab541e81 neutral
+c273ae24-03f1-47d3-847e-6363666ffbfa #  positive
+17a97996-a77c-4931-a7bf-8e738c196246 #  positive
+d03eb3ea-0964-44ad-985e-18b8fc40f28b # neutral
+f449c9fd-c3c5-41a2-bf18-3602d681229e #  negative
+c94a4771-cfdc-4202-b309-b332d6e421b5 # negative
+ee9fa1ab-099c-485f-809d-8a9d6388f119 # negative
+2895b69a-edb9-4173-9fa1-be94769c15ad neutral
+904f6ce5-18bf-4f40-8a5a-a1f96ad5e2f8 #  neutral
+414f024c-6c93-4d20-91ce-6deaa68b168d #  neutral
+a001d3b6-363b-4130-880b-f92e0f57c35a #  negative
+74f4159c-91d6-4ceb-ad1c-7cff38c4ef76 positive
+b565f86f-eb24-4a5b-937f-a6e93c6b4b86 # negative
+2f1ab6a3-ee08-4248-bfd9-ad0118c68f12 #  positive
+6892e613-5410-49d5-9a17-f4e379b1a9b9 #  negative
+706bfb18-8b9f-441a-9a86-5d28417bd44f # negative
+a570abb6-1eae-48e4-b58d-0a16a07aaa10 #  negative
+d2fb4ed7-d4d7-43c5-a391-b037ac3b0e9f # negative
+eef6996a-1870-4b3c-865b-423332459b9c neutral
+56bb69e7-dd09-4139-af8a-c8fe2490bca5 #  positive
+0cb814c3-1670-4836-a1b7-9ec2ce2ff9be neutral
+61cb3f6b-5030-471e-9b44-1aac1773d796 #  negative
+f9fc4e9e-351a-4a5d-bfe4-989123472492 # positive
+74001c05-5ebd-4ddf-af70-b3fc549cc748 #  negative
+3efeb84a-876a-4feb-a106-3adeaaea2f1d # neutral
+080857e0-0e5c-4e5b-a13e-f08282f2d4a2 #  positive
+91ea5a5f-d1d0-4be8-b0de-6c9b9c19a2c6 #  negative
+3db3a476-4a1a-4add-8d28-6e9c9083867c #  positive
+a615e753-715b-4baf-a2ee-04cfe5a7371c #  positive
+c4ca7f23-262c-426f-add7-f47cec20732b #  negative
+784e125f-0095-496f-b616-9f46d8f72ee0 #  neutral
+3781608b-4da9-496e-bf07-78795985ac27 #  neutral
+72808e49-c749-4340-a0ed-d0d6a537432f # positive
+e47236d3-77a6-4c33-90dc-6bba72c973c8 #  neutral
+30d0f9a6-431b-47f4-b1aa-df6b88545739 negative
+e59e8716-19e7-4200-95d6-45b07f7c8ef1 positive
+6a0422d8-8ccf-45d1-80f1-eef11011fe3f #  negative
+324402c0-cf79-47b9-95e4-682c13bb7a1f # negative
+60694680-0850-4fd5-aa18-4ba92cea5942 #  positive
+15fe352b-b455-4f18-bbe3-ee4d9d049ac4 #  positive
+f420ad0a-19bb-46d5-bdc8-34a113c38f3e positive
+eb3359c7-15e3-4c3f-996e-a87b3ceda7a9 #  negative
+ac0e1e7b-8275-4b60-a1e5-767bb4b2e815 neutral
+f260174d-4d29-478e-bc42-0134ced7d20c #  neutral
+d265d5b3-5341-4f52-9a9d-65194b2c833c #  negative
+a5b22613-a525-46d0-8fab-384ba560f5ec #  negative
+35061589-2835-4485-9024-de5e750c4613 #  neutral
+929a07fd-2e5e-4591-a51d-48f856c368f3 #  negative
+b517ee06-bddc-4ed4-82b2-2d8d3205a7c4 #  positive
+2007fefb-8ad9-4dba-9208-cb3f21742a4f #  neutral
+3ec28b59-db67-44fa-810d-da4b00145c1d #  positive
+686e61ca-313e-45ba-a880-290cc63542ae #  positive
+a60ea913-5458-4358-88ef-6ebd6996b308 positive
+dca33230-a11d-4af1-b6de-f015381398f8 #  positive
+c9faea17-6e85-4b13-9587-3840ce215681 #  positive
+1398853d-6b12-43c6-bafe-f1ac098aaf70 # negative
+b0432260-d586-41b9-8047-7100cbd752f5 #  positive
+9947b734-87e3-4fb2-8e68-c579f52ff955 #  neutral
+5258db74-e039-4970-b1d4-738c45dcf2ca #  negative
+63bbfe3d-697a-4d41-b32c-455023de4d07 positive
+a50ad2d3-1266-4437-84e5-9f456d5e114d # negative
+f351952e-edf3-4fa6-a503-8d94c453d290 #  negative
+6cb9a86d-280d-4d9a-9ca9-35da45d26cbd #  neutral
+4f65a4e1-4882-4c40-ba50-ee163f66f1f6 #  negative
+0b0e0fa8-2d76-4cb7-b3b0-f4b20f56cc13 #  neutral
+c00ed5f4-f260-4250-94b9-cc3f0b1b81a1 # negative
+4d45f451-e0f5-4d03-971d-cfa6cb92a34c #  negative
+ec239971-b935-4083-81e2-1e4256f27690 #  neutral
+875aad66-065e-4177-ba48-ea9222482553 neutral
+7fa58470-6a7b-40ae-849a-52a806ef0cff positive
+8f5f8fc8-2000-44e5-8677-394e8df6a663 # positive
+8c6e2a4a-bb39-403c-85cd-c8e37712dc87 #  neutral
+71b146e0-f7cf-408e-91af-1c45c68e5934 negative
+ffbd03f9-5192-4225-9c0f-05bdba0f68c6 #  positive
+4695252e-5815-42c1-8621-d232c1313e13 # positive
+1c8d3479-d3be-4bce-a084-510383450cc6 #  negative
+37cff430-c44c-4dd5-82ee-492bfb3cb683 #  positive
+55aeaa95-abea-46dd-a774-18e4be68b43f neutral
+43c19dcd-707b-4c49-a7dc-0fd893b84d54 positive
+f9e712f1-97f2-436d-a329-432922c40d9c #  positive
+3675f35f-09e0-43bc-9f20-c5acda31af03 #  neutral
+3bd78cbc-dd22-4924-ac83-fa8bdd954c01 positive
+9139ec87-d563-4c6a-84cb-cadbe758e0b0 neutral
+74c006c8-89d7-4d93-a49c-1aec233561a8 #  negative
+7b1ee7fa-6436-45c0-9499-c57418947d84 #  negative
+9cce1b77-1703-42fb-9b23-512b4f502df2 # neutral
+0cdd95fe-bec3-490a-a94f-247b0c45e527 #  neutral
+926d381b-097f-43f6-b4ae-5dc991a799c5 #  negative
+fd47bacc-3053-4425-9a4b-40a21d5515a8 #  negative
+487c3286-196c-42d5-ad69-776f8c194430 neutral
+becd5702-6c58-40ac-b8ff-dbd05c52b485 #  negative
+12938851-255d-49ec-907d-a8749806f54a neutral
+080f74a9-cdf0-4f92-9649-53de607b5c40 # positive
+1e09fae1-449a-4858-8ee9-fbdf6440cc59 #  negative
+e8916b35-9ee4-4d95-a20c-2bac2a6681a9 #  neutral
+76b13b2f-0686-4746-8364-cd6cea2dd012 #  negative
+02b36538-d3d5-4bb9-bb4f-868d2cdb6f0d #  positive
+084f71ef-1d11-4708-9179-f8f1744e9500 # neutral
+a2d69990-1d06-495c-90f2-83e86ec532a6 #  positive
+ade3bf76-44bd-4fb3-b0e0-b59472506dfc positive
+32fb67cb-d0b7-4bd2-b395-a3e92df39b23 #  negative
+9b14c053-0907-4966-8b4f-e6f3c47f1719 #  neutral
+8cb99fb6-b9b5-4697-9f4b-f56d14536b17 #  negative
+0306d451-78ee-4795-8555-c3c1dc36c8c5 #  positive
+2e48b7c4-12a3-4266-8c76-aba6d6ceb303 #  negative
+512cc65e-8ab2-4baa-b4a9-c5272996ce5d #  negative
+0def8c1b-c583-4f2b-bd8c-0c10fc8410e8 #  negative
+f1ec2719-4647-4a8b-bd38-67df7bdc5989 #  positive
+3b0685d1-7b5b-4f32-90e1-ee14c2ec2ee6 # negative
+587b1d36-9211-4c22-b0c9-a7c4dd08290a #  positive
+851112d9-7cc5-42be-9986-99954846cf12 # negative
+4d904fbb-5e69-4db6-872a-5a890a84c5ab positive
+b0f7cd14-07fe-47c7-ab3b-65aa5f2f92cb #  neutral
+d2969e0f-6e6a-4214-ba83-0eef0f0c0a47 #  positive
+c0b67b26-cc49-49a7-a099-f4f0153f428a #  negative
+2f81f8fc-a053-4d7a-8752-761db1606523 negative
+d2802b2b-1c62-43d2-afe5-db45baca9b0a neutral
+f19c613f-9e52-49f7-8e54-218fbc7d78a6 #  neutral
+85a78a23-e902-4f2e-88e8-65feceb37a9b #  neutral
+f6e8642d-3b65-4ebc-8062-c0f90aebd591 #  negative
+39d9e161-3c8b-42da-a6e7-f42056077155 #  positive
+8f40327e-924f-4052-8752-88a65fd14ac4 #  positive
+74c2ab24-aed8-48cf-91fc-af02abb0fd24 positive
+d1c66155-25a8-4829-9a1b-9fd565966c78 #  neutral
+0ca962a5-de43-4a7a-8fa2-b7e759c5cf01 positive
+1867c95a-50ab-4802-af9f-e7a369819456 #  positive
+f4ff0437-7cbe-459f-999b-543186035db1 #  neutral
+3c16b665-049a-46c2-9497-8ecdd2134934 #  negative
+d11a9ff1-0d9c-408d-ae6a-71d00856817a #  negative
+546357b8-fba2-4329-9356-0819168169fe #  negative
+d71184d2-d5f4-49be-84d9-a69f46b74e7e #  positive
+cfb605d4-7a68-4720-8fd5-d26021f50da1 #  negative
+8e944bd8-ad98-4251-b569-8798cfe38d14 #  negative
+8a2fb02b-69de-4c33-9ef7-cb4f22502de2 #  neutral
+bea0ffa4-6bb8-4578-8962-a2c0b64b8f05 #  negative
+036859d1-cfb9-4d90-95e1-345b8ed45b52 #  positive
+aeb88560-2fee-4817-805b-05f3f49e83ae #  negative
+1d6caa8c-13b6-4b90-a937-31206956b8ea #  positive
+185e865d-49bc-4a83-91f8-23a2b0ba0b6c positive
+ee402960-a9e0-4dc0-be6e-2a311bf5c550 #  negative
+6c69afcc-7015-4ceb-b2fe-92d44f5c410d positive
+d69cd3d7-2589-48c1-b103-8a8223b7a47d #  negative
+6545365a-6bb3-4109-9a3f-64e8e89fed69 #  positive
+8288f5a3-43c7-446a-8bc3-6f04fa1a82cd positive
+4fb0125c-fa7f-4ebb-bc9f-70583cbb684e #  neutral
+cb388e5a-ebf7-489c-97c3-ffcc38c281e4 #  neutral
+2e6e282c-8efe-42ac-9bd5-924bf9eb173d positive
+e908980b-fc56-43d2-80d5-5983b5aa188a neutral
+a421206a-33b2-4348-8ad5-3b26b71bc272 #  neutral
+bab3cd87-eb98-4a9f-8fba-3d3bdbb6e3db #  negative
+05773c19-199e-4079-a420-2d460d594247 #  positive
+47c5846d-3e47-4be9-aa34-c3f4939f927e positive
+07b16caa-891a-4f69-acab-ecd73efd1b47 #  negative
+c237138c-f4c7-4486-9c94-4e4084719320 # negative
+f54d4cb9-8885-4f1f-ba43-83f94829c428 #  negative
+9b0fd1eb-17e5-4cb9-8614-e6e28366cb70 positive
+0c1d6505-a372-4391-8163-83837db2fb11 #  positive
+e65f0306-9811-4fd8-bc3c-e67d968d52a0 #  positive
+89569e6b-91ec-46d5-91ff-d6a3e9ccf08c positive
+67b8fe0c-4d4c-44f8-b35a-e7ced67d2a77 #  neutral
+56383d9f-f2d4-4af8-858a-7e00a1de5c45 #  negative
+3744336c-cad7-4945-863b-ee34a70c7048 #  neutral
+980e754b-4d2c-4377-ae31-8ed65d46d68e neutral
+e0a5bcf0-e48c-4892-96c5-8fb1cc81f310 #  positive
+5ee5f776-12c2-4bac-82da-4493cca8ddb1 neutral
+b1559038-1a04-40da-a164-2beadbef4925 #  positive
+d572324b-d561-41d6-accd-230aaa5f2746 #  positive
+b11a70c4-c232-41ad-9480-df652337cb98 #  negative
+9dc7cecd-06bb-4d99-a69a-90b6dbb57f1f #  positive
+b09456f2-deda-4320-bf3c-4ba4717c0cea positive
+aeb5bfd3-414e-4125-9c69-24ea69b96d69 # negative
+20596c3b-1fdc-4b26-b2d8-ba4903c03700 #  neutral
+bfc29e35-14c9-4e20-a1c4-b57c834addd2 #  negative
+cb9125b9-c5fa-4b3e-93e9-6d5794576fa6 # negative
+1e1c70cf-6cb5-47e6-9ac8-93a2faf208ce positive
+38947cd6-685b-4c43-98bf-46a9c1e62410 negative
+df31fa1c-51ef-418a-b490-36c992e79341 #  neutral
+32a4a1c3-0e57-4216-900e-6995fcb26b58 neutral
+8f8139a5-53e8-4ba0-9b83-d14afcbd8b9d #  positive
+1c106adc-bfd6-4ab0-9893-f320f621f805 #  negative
+66a4afca-d564-4fa5-b701-35998c89dadc # neutral
+dd3b8fa2-8c84-4482-9ad7-379dc4e5428d #  negative
+9435e6e0-14ec-457e-9823-ee6043a77ae5 #  positive
+2367ea6d-fa62-4acf-a79e-0576e59728ca #  positive
+9dbc787b-4ab6-421f-b9f9-bc8864f3f8d3 # negative
+951e57ed-bae9-45be-b5a0-5d648db67b99 # negative
+22802849-5a5c-4e94-91d8-ca2049770022 #  positive
+6b3719bf-9923-4f80-a478-36348cd315c7 # positive
+0eab1d2c-7637-47f8-bf23-53c2a5d770d4 positive
+f178c527-c637-4563-83c4-ea84178d1cdf # neutral
+f2750046-d9c3-4248-b3b7-838140a6da4e neutral
+2baa1905-56f9-49bd-8821-433b83e5ba35 # negative
+70779db4-fb89-445f-ab3b-b65de9ffaa7a # negative
+635a2064-b569-46a7-94a3-3b68dd54f342 #  negative
+82a03510-fb00-4091-b06c-abc768b1be38 #  negative
+ea87b3ae-1cd4-4717-876d-ab661f76b0eb neutral
+d713d5cb-f835-4a9d-8107-350c12d7088a #  positive
+e2b590b4-4871-497c-a47b-8ae80f1ce1c1 # positive
+af946ccc-1f93-43ea-b2e7-de9a56426cf7 #  positive
+a85223b1-5cdc-4e4c-ab57-206b87591311 #  negative
+b15df86a-75c6-4e59-b900-070f71eb13f9 neutral
+51da89c3-1cf6-45ab-8238-342e64e03502 positive
+660517f2-db86-44a3-b515-d031e0a05fe5 #  positive
+939815de-5ec2-4bad-a935-095449602822 #  neutral
+8194d3d3-ca12-4fed-bda3-488aff362898 positive
+b5c04cfd-a708-4f64-b668-acad198ae74e #  negative
+36c5d0c3-e2a5-4979-ad82-a7e3eeba55c7 #  neutral
+4a5fd6c8-8185-48a4-a560-d2267c02f734 #  neutral
+8735d412-0aee-4321-9265-4af2289625b3 #  negative
+4f25313a-fe92-42a5-bf36-afc0b80660eb neutral
+c5e1bfb8-a6fb-46b8-bee9-3c5dec085142 # negative
+3e9e6397-0e13-409e-b739-8c778c756a1b #  negative
+73ddfb6c-1036-4a53-8f6d-351367d7028c neutral
+a0e79a45-eb51-459b-9e86-62bb5e6a5f2d #  neutral
+965c3b65-f793-4ffe-a727-ad03b01ebf26 neutral
+fde02a08-0c0e-460e-9755-307871a8cc3d #  negative
+d1441038-a68e-4ae7-b5a2-33b916e3d24d #  negative
+d6bc2e81-e374-41a9-a37d-8ced528ff2c5 #  positive
+1a3f10a2-45b7-4248-80aa-e8dcd1139d88 # neutral
+b5df8e09-a8f3-4417-8649-274d1b5156ee # negative
+34aa41f5-d084-4d4e-a570-767f893c1a52 # negative
+0afceee7-cf39-439f-a681-aa23e2084f22 #  negative
+2d25bd78-3d7d-41be-8489-91446b8f9e47 positive
+28f21c4c-3103-4371-9fa2-5e968f86dfe0 # negative
+b260335b-b806-4e59-96bf-cbbd9254de2b #  positive
+3a3ad690-0f7d-4e1c-8ae7-aa83ceca2440 positive
+b0c9f572-751d-466c-8649-3c83fd9df636 #  negative
+60ca911d-b476-4198-8d70-51c35b4a1ce0 #  negative
+521108ab-86ec-4308-957b-192a6ac4ad55 #  positive
+f7b946e5-eb3f-47ad-911c-178dcb84264c #  positive
+346d2d86-5fe9-4809-823f-c7ef40dfbc10 #  positive
+418fbbcb-9129-4c80-b3fa-c530c27d6533 #  negative
+cabd8815-330c-498f-8ad9-ad9b733eff28 #  negative
+fd0898c6-b540-4a06-b707-52623674987b # negative
+ee132052-2d40-4517-90ec-8775488f7034 #  positive
+6a9c2df2-f543-4779-89c5-88e31cb8e165 # positive
+d9ad49d8-df2d-483f-ba94-4f4b1673fcbc #  negative
+7ccc17b6-c3ab-41e7-a814-6fbbd2b0c6ab # neutral
+0bccebfd-a375-4a71-800e-5b957d2ba7d6 #  positive
+32b19975-9d26-4464-adc7-e685442ebe0f #  negative
+f0c2a3ee-5b47-460e-83b4-22bdfecb9140 #  positive
+9c34cac5-3fc6-4eff-b76a-accef3296b95 positive
+4f83c5b8-d255-490f-b91a-a9852fa9681c #  negative
+161e4a56-2c9a-44b1-bed7-398b67ee73f6 # negative
+a5a8a911-5aa9-42e1-885d-e365d346b829 #  neutral
+033a00e2-2e87-4938-8f11-98411e3590f8 positive
+ed53333c-31aa-481c-81f8-a63797d782f7 # negative
+621637a8-b10f-4146-b9ed-59a365726b4c #  negative
+9c1fe547-f6f3-4c93-b6e3-749d8a8929f7 positive
+672cbd2e-1563-4004-b202-a4ecab80b719 #  negative
+29750b28-10da-473a-959a-1753f8430f4b #  negative
+f22fe431-34da-4cba-8e13-c0ff9300fa7a # negative
+84255473-1c64-4fca-846e-1a0bc44ed7a4 #  negative
+b1397efc-f1e5-47e2-acb4-61e82b99608e neutral
+e72f432c-ef3d-453d-ab95-9504de1bc6a6 #  negative
+72fff409-6d3b-4e26-acaa-ad5cf2d0ebc8 #  neutral
+d55e27a2-c665-4fe8-b118-055cdaa33e6b #  negative
+71f0ba5d-f06a-475b-abdc-b1f7f3a83389 #  positive
+bc10e7ac-8f32-436f-a685-e09e66dbe923 #  positive
+789bb53b-db4b-414a-b981-f3afbe77f09b positive
+c8074b06-d797-47ab-a69d-79c44a861ff8 #  negative
+b54bab84-4e38-49d0-9d65-095159c4f5d3 # positive
+b5dda771-810c-40da-922d-964438d23142 #  negative
+e7f10a5c-b524-4ed0-ad19-8756ea3cc3a1 # positive
+cc5e799d-4b9d-440f-8909-2fab2de85013 # positive
+6095ee43-1150-412c-9d11-7e704a2e7138 #  negative
+40559ddc-72b9-4c4c-a84b-2686b9c895e3 #  negative
+1ad56cf0-38c7-4e1e-b04d-9126c43484ff #  negative
+99f74e57-575e-48bc-9364-328a4d9937d5 #  negative
+4c6f2e15-8f1b-45d7-9cda-d00c07a1154f positive
+ce7f8888-4c2a-46f6-87a6-458c89400b9c #  negative
+316a3715-94f6-4830-b1b8-fe528e409a2b neutral
+b961ebd5-fc51-4a2a-b451-787b6aca6a56 # positive
+a08171eb-5ba8-4ea3-b93b-d0719e97d5e3 # positive
+f305c71c-a146-4476-b35e-f152bd4f5d99 #  positive
+afd497c5-8a94-4b46-b8cb-df3ffbcbcd25 #  neutral
+fd10f2d1-1ff7-4667-a03a-c1816698f41b #  positive
+2e44c42d-4200-4aa6-8158-0cda63fe29d1 #  positive
+20b105ca-6e93-43fc-92ff-e012988e9d0f #  negative
+2d2e7455-e775-4e6f-9e97-b0dd60e9eed1 neutral
+9f0dac25-ea12-41a2-8028-cdde7a6994dc #  negative
+0929f38a-baf7-4faf-906d-8a1d54cb780f # negative
+846396ca-5641-4742-b6ab-571f310a3e11 #  negative
+3e0b926b-7a0f-4d74-bdb1-13efee3816cb #  positive
+808f751d-9c15-4deb-91f3-3e8dc10d64fa neutral
+ad1118d4-ad39-41ff-aaad-62ff74fde5f2 #   positive
+f25b252a-1305-4274-b516-44ec6629cc54 #  neutral
+1ba32207-8cc6-4faa-9121-b393515b09c2 #  neutral
+ef301e07-1499-4312-8522-b28a9e0ab812 #  negative
+3ef5714c-7590-43f1-bce6-a318f2336d99 #  neutral
+83c45aa4-bbf4-4be5-a1f4-43322961e901 #  positive
+216c77d3-fc96-4619-aacd-5c3ff437cb8b #  negative
+423d7741-b58d-4ab3-872e-f0ec3ae7ca4d #  positive
+27445023-26bf-4145-b896-4f08ca9b6207 #  negative
+53d8cc95-c824-4f50-a857-d98d40471670 # neutral
+4cb85f64-57f0-48f0-bf11-b350d8fa0eb7 #  neutral
+59409258-40ff-42b2-992d-ae5d091af1d1 #  negative
+b8e74e1c-869e-45dd-ad5d-c2f28b8afe9f #  negative
+ccb19fdc-2e88-4ab8-9bfd-767d11305a3b #  negative
+58626da2-ad56-446c-ace5-9aef90fd5edc #  negative
+06d4cbca-c7b5-4264-9f8d-ad02fa77f320 positive
+fa9440a4-d5f9-4410-b417-b44287a8e92f # negative
+adbd32f4-a923-4ef7-8c39-73982f123800 #  negative
+0ec7ad38-581a-4c12-8415-933b5036f20e positive
+ce67c6d1-ac04-436d-acb5-5db1b868b259 neutral
+02bcde85-2c25-40c1-868a-e0a7bb17c0a8 neutral
+15e40b82-e265-4b02-8e13-6ee3c957b027 # neutral
+c8140ab9-6bca-435b-a1d0-fcf94349f4fd # negative
+32027ae3-fe8d-4f8a-8043-14befb7b5a51 #  positive
+b1a3a851-1df2-4b4b-91c2-4ba860b45a0c # positive
+616e5cb2-0b73-4d3e-ba5f-9fb54a3e376e positive
+19b9f4df-29aa-4e06-872a-5f720c7bf8e2 #  neutral
+c334cc45-34d3-4c0f-9547-3465c0724302 #  positive
+662081b7-31b2-4356-8094-031ec44ee429 #  neutral
+600d43fc-070d-47a5-b41d-072676204c04 #  positive
+f661daa7-431b-4dc7-8895-7c1011e87523 #  neutral
+328b0583-a7fc-43cc-8328-d014db4941ac # negative
+99221923-e9c6-4120-bf00-602addf33bda #  negative
+edbd8787-35fb-4e43-b97f-c25f59bdab1c #  neutral
+d365b060-f235-4a21-bb2c-cd813a9012f4 # NEUTRAL
+dfbb6b17-6497-4918-8ddf-8b55af48ff73 #  negative
+3dfedf95-102e-415b-8b14-d7b95bad79d0 positive
+6c08549f-85b8-4d0b-9fca-9f99adcaa80d neutral
+1e884a79-51db-426c-bd92-acd5219a5a0f #  negative
+26e4a8ef-b8dc-48b0-aecd-726aef5ab36e positive
+2e28e4e0-4f07-4c86-8427-fcbbfd06ac41 #  negative
+0186c974-a5c4-40dc-9e19-d685c199e6c2 #  positive
+9dc755ba-e4fe-4d9b-99dd-6675a234d6a3 #  neutral
+255d2a93-a539-478b-aae6-c3dc31b0345f #  positive
+ca296b5c-350f-4636-ad54-1940ad16405a #  negative
+1e37118f-98b2-4616-90cb-e7dd747a82e9 #  positive
+0def9dc7-7023-4545-b173-263e107c3fdc positive
+68c23751-dc9f-4aad-b845-ad58368ecb84 neutral
+78f77857-a9bc-4919-981b-bd24a03580ee #  neutral
+47da186d-cdca-4371-bc71-5265a6267ef4 negative
+714ee9ef-7670-4600-bbf7-6e89b9d3d05f #  neutral
+6a8e6d1f-9cf1-43d7-bf65-000b0edb7768 #  positive
+b00e9a27-e968-423e-b436-c24e030366a6 # neutral
+dc50be08-e801-4409-b483-2f6dd3e7d39e # neutral
+4d181bed-eb81-49ed-be0f-a7e20cee77bb neutral
+0370fbf7-fc31-4632-9d3a-59304400625f #  negative
+d4dccdd0-5fc7-4dc1-8d11-5a2d146068af # positive
+0795c153-99f8-4b32-83d5-3a72f025d283 #  negative
+158ab249-36ad-4f2b-bd73-3e6b11455931 #  positive
+69cea1ef-af69-4f6f-a0b6-c736de67131a neutral
+3dcba450-6d8e-4af5-9b0e-3cd84bde4661 #  negative
+92593e41-1b84-477a-926d-88da74650820 # positive
+cb6d5994-b9bb-47ff-8611-4fbcce559ac2 #  negative
+6f121469-de8c-44ff-9580-9a68ac8b824c neutral
+88ad12ce-2cf5-4809-90bf-9e8190818bdf #  negative
+15697296-286c-417a-ac59-ace35da49744 # negative
+ce8cc0a2-d331-4dce-b057-6084aca3b8c7 neutral
+85e1ce07-6b0d-4822-b262-309fe63ac863 #  negative
+eb75f6b2-bea0-4a71-a67b-c27e3449d12f #  positive
+4ac963a5-b763-413f-a4a1-7098adf394fa # negative
+6889ff3c-9676-44f2-a9da-2ea1c462924f # positive
+ef8150fb-4411-4483-926e-bec875d14cd9 #  negative
+bfd6d4f8-3bc2-4d03-9fb5-40677e68813c #  negative
+88460b23-0b89-4287-9ace-2b32f0364511 neutral
+6a47fd5c-d01c-4fca-834a-a68627ab4b44 neutral
+b22deff4-8347-4cf7-9745-884070ecc483 #  negative
+510f93c7-2d33-4974-8964-70de3080febd #  negative
+feafb62a-a48c-44e5-9ce4-3fc200c70581 #  negative
+c10c06c1-cd05-4fbe-b238-aacc30f5b90c #  neutral
+89e03c1a-9d20-4b9a-8ea2-5db876877fad positive
+3cab393c-9885-4b55-9971-1e8ad5f8f279 # positive
+993bc518-fe46-4348-aca8-90ed192959c7 #  positive
+d1dc8d8a-5dd6-4091-bb94-e10459af47a8 #  negative
+ce3da70b-5d59-4ba3-9f70-a29bb4591b3e #  positive
+bbc5298f-1a33-48c5-bf14-ad4d9fbf29ec #  neutral
+1e843633-f43a-4794-93b0-de8a280c447e positive
+121d846b-32fb-4c18-b262-57a3d9b474c3 positive
+c6d97870-1758-49ad-84bf-a7ed0d55ca92 # neutral
+cd261fcb-b047-4ea3-b8f4-71b0ecc80209 #  negative
+ab5977a0-9e59-44b6-a354-b41e9c7da9ff #  neutral
+b59163d6-14e8-40ab-b71c-3b85d9176644 # negative
+8933bfbc-f81a-4495-917a-b2e43083c234 #  positive
+986d1212-3c35-40fd-ad31-6099fe74672f #  negative
+3d00d6dc-6d27-4457-b4af-d7a08b8ec7c3 #  negative
+ae64b83e-20ac-49e3-b790-d54fff004383 # negative
+35483393-1974-4574-a307-384b73cb8adf # positive
+a912e6e1-f2b7-462e-81c9-57863520f7fc #  negative
+30b9332b-1fca-4b69-aeee-50bd9c95824a positive
+d8420994-5922-493c-8db7-80a13957d635 #  positive
+37512887-dee8-4634-bdb1-c8325548e91f #  negative
+80c43470-56a7-4445-9d13-2c6935eef01b positive
+2c46e1ec-134a-4bbc-b8a0-51fd890e6dc9 # negative
+c583ab48-638b-431c-8dd6-f3d83c8e26ef #  negative
+7ea85e30-3afc-4b1b-959c-533ef26e9573 #  neutral
+31d9f635-80de-4fca-9dd0-e5f145ae1edb positive
+6950f412-113d-4e95-b4ab-0bf0dff36b09 #  negative
+adc47b4b-0efd-4b72-97ce-54213d092dd4 # neutral
+3086162d-2cdc-41ac-b0a7-b7b4a0eea3aa #  positive
+0174df23-dfdf-448b-855c-f29e1dce2218 #  negative
+f86e3958-cb56-472b-abbc-48c5c8c556df #  positive
+0bdda756-3466-4040-a913-d2b5b1f4fc05 #  negative
+9b5597a8-5286-478d-8e03-8adbb7554d03 #  positive
+d0428712-8a78-4ade-b538-0273959fef4a #  positive
+d516f31c-b1e9-4f71-b096-4cf41512d35f #  negative
+411219fb-b579-479a-9cf9-7c3d450c82af positive
+f98a4a82-4096-46c4-af2e-ee3f84e775f8 #  positive
+9723afb4-73b4-4204-b0f5-4a4e1a5368ab #  neutral
+226eeef7-8df4-41be-99ba-58c31a351da0 # negative
+bd25b2a7-00b9-4ddd-a213-12cf6fd49b7b # positive
+95a7c82d-f36d-4a30-84be-64151e0a2c49 positive
+0945bbe6-4a6c-4f78-b691-34d78a5bc515 #  neutral
+165da701-1db0-41c9-9f73-ae4a3702ab28 #  negative
+8d48537d-494b-4c09-97d1-61e7e8f98fc0 #  positive
+9434fc23-4a9a-487e-b573-57ecbc5132b8 positive
+c4fe9fff-6fb7-4ac4-a260-2985cde56be2 # positive
+c98386c1-92eb-4f47-b3f8-53be81113cdc #  positive
+85cea3c0-ff12-4573-b3dc-ead7b8707216 #  negative
+58f58c68-62df-4fbd-b34d-a324000b72ac positive
+c1069e4f-487a-4677-a0c4-ece07a1c1c7a #  negative
+e6ae37f2-b1af-492b-93a7-d6c2fe27d7f6 #  negative
+1693160a-7b72-45c7-8197-cf5ffdf87678 #  negative
+456f6c4a-ce4b-40d6-b6fe-5c7ba3ede219 neutral
+2e09152f-8d8a-47f6-bef0-c2def4406f80 positive
+d3064ae8-47bb-444d-9b28-b79b4382179d neutral
+361d2949-a916-4582-960d-e6df2f83784e #  negative
+451f6f91-9711-49f2-b568-cc1e4ec51cd8 #  negative
+f5e489ff-a76c-412d-8d7d-8a7c5dd18012 #  positive
+9895cd27-dcae-41e1-b02f-b3c524b092af #  positive
+aa06232c-9c97-420c-972d-e72a5996240e #  negative
+18c5ee1c-3fd4-4f8f-8af9-d4b1be2e1c61 # negative
+1ba449cc-7e98-447f-a073-ca99fc8efd33 #  neutral
+85eef705-a846-4ff3-ae22-b22775b6e56d #  negative
+ff3e7756-6591-4431-985e-cb12f49de090 #  neutral
+d97b2c9e-57c9-4096-aaee-c6da4093018d #  negative
+90cc6b8b-025f-4bc1-8df0-3c9be991b002 # positive
+ca935cfb-1dda-404d-9171-c7e246ab4d10 # positive
+08d2b904-0204-4e32-982e-ffd5d3bd59d6 # negative
+63f5b1c9-4f26-45b1-ae99-54b84c6d2619 neutral
+cfcf0bfe-b0d6-4bdc-abc1-f28f8a060430 #  negative
+255dcc1a-b082-4cab-ac16-2a72d80e863a # positive
+39a1c4e6-12d8-4bff-8664-2e015b88c721 #  positive
+ed167549-86f0-47c7-9cfc-3b35c00f77d5 #  positive
+b3b77e7b-f508-4e04-832d-005104a7cde4 # negative
+5d6d7edc-22a6-4055-b3bb-9f1a6a20b791 #  neutral
+daefb042-4833-4b59-b32c-71612bd15309 #  positive
+b85df7f2-ecc7-4670-a53e-1d57cca6fb06 #  positive
+1bc7595a-c569-49ac-b3d2-cdc8c5a4aa00 #  neutral
+a8310572-25bb-4ded-9dfb-95c59c8e0abf #  negative
+914872b1-3ea5-40e0-8101-8c979a3bc0d6 #  negative
+16fbb0d3-0eaa-4e18-946f-7a8d3137cf9f # negative
+6cc354b4-c0a9-47b9-badc-d4a139b20f92 #  negative
+1ec67561-ae4e-4af4-9c18-7d3d36928587 # positive
+62c2a5a7-912b-4829-9dca-36f2ababc737 #  negative
+4566c24c-73d5-4d51-84de-f9a9e2de26b2 #  positive
+569f3dcb-08d0-4f53-937e-6794bbb01200 # negative
+cc675a98-949f-4aaf-8d67-75e4f9207b0e #  neutral
+2102c691-bcec-4fe7-a659-915eb52c81b2 #  positive
+110cc88f-9212-4607-a221-24925e32336d #  neutral
+1cc500bc-9761-4f9c-ad78-fdcd5fc47d25 neutral
+dcdba292-4263-4b15-bdf0-e84837d27b02 #  positive
+831df51c-ca86-4226-93c9-55cf3542f54d # negative
+2caea49a-67a3-4f7b-aa8c-508f5e27198e positive
+fd868ca7-efca-453e-a6ed-c177847db5a6 positive
+47a13abe-4a17-4af9-9cf3-22de6bf0ac4c #  positive
+2510d78f-128b-4531-8cc1-775ffcd5e183 neutral
+acaba77e-a10a-4ed8-8e35-359025ef97b7 #  negative
+161fd9bf-3f2d-48a9-8978-e0ff6672ce0e #  neutral
+d013dcaa-3637-4f4b-af6b-e405b6b8677e #  positive
+e175e2f5-426a-4c9c-8052-b2746f54091c # positive
+fe4c5b0d-d66f-407e-9efe-7692d6d5bdba # negative
+3d47eff5-290a-45cd-bad7-dac5b2f5e762 positive
+dd109119-51f4-4de0-be79-465faecbeadc #  negative
+e26237a2-be6b-44bc-9c9c-4a1af9187c70 #  positive
+1cd13254-843a-4d39-9b38-0a895278e26c #  negative
+c57a5fb1-b726-4330-848e-71568fe225d6 # positive
+65a038e6-8cde-4a14-9f85-90f51a4c3573 #  neutral
+1f906fb6-42b3-4756-8e34-9dbd03f7a659 neutral
+26f6349a-406a-42a0-aaba-a12ec03e0b8c neutral
+2d498995-46ae-493f-8eb8-cfccfb4c9930 #  negative
+06c5f985-8533-431b-9888-25d6fe5797d3 #  negative
+baebcdb6-5fc1-457b-908b-989c2a6cedc8 #  positive
+07ad5e40-0a22-428c-a710-308ab02851e2 #  neutral
+42912143-8d2b-4cd0-82be-878a4aa21d27 # negative
+ee092f88-f93f-4985-a975-b63c52986fa9 #  neutral
+840ad6bd-eb43-4205-a5b6-58e4830c8794 #  positive
+03633ec6-c80d-4c42-a13a-8d5140438209 positive
+ac2a2717-43d0-4a16-9aba-ca61ab3c0bfc #  positive
+4463ce5e-c93d-4947-911d-ea3779631c02 #  positive
+5d41fb45-24a4-4db1-a212-135d076ed7bc #  neutral
+1e6681e8-6941-4502-9599-ddc72761378e #  negative
+1d301f59-99db-4f8d-8c5a-1bf0b6a40596 #  negative
+2466aa91-4883-4c4f-807c-80ff74ea6037 #  negative
+d1380466-001e-4bc9-bb25-403da46faad0 #  positive
+83650b15-cdc6-435e-90cc-706086d03945 # negative
+40ae8635-b66c-4e4f-91a7-f44ab14cb43a #  neutral
+20684f30-f247-4c20-b290-4c48f4525ae2 #  positive
+8c4a77c8-5eab-4663-9b65-8a34c148f644 #  positive
+d8d62379-56f7-4c51-a5f3-f6418c685fb1 #  positive
+3b4c40a2-3876-45d8-a2f5-e4adacfd14c9 #  negative
+4165c59d-89cb-4a9d-82e4-b2ef67e783ed # negative
+6d6c2194-67e3-4282-8e6b-6c7d250ff8c9 #  neutral
+8a2869ea-ca32-4027-8fca-b8514a77f77e neutral
+9d475597-6bf8-49a9-9d16-ce7f85b6d2da #  negative
+6a1c5b55-4853-4ab7-a3e6-5972a848f5bb #  negative
+1a26a76b-2881-483e-968c-8bc0790ddaae #  positive
+82817506-3f52-42fd-810c-f57c654a9157 #  negative
+5871a81a-d872-4e38-a1c4-3758b856d829 neutral
+cba6119e-b960-4ca0-a741-a45530f82d08 #  negative
+5e0b9a4d-e3bd-437a-852a-177ee833211d #  positive
+47484115-cebd-4672-a833-79155ac9db3e #  neutral
+e779af5a-8d6c-4956-a3df-b74023d5b0de #  negative
+e298697e-626f-4940-965a-eb47f0c017b8 #  positive
+1bb9e47b-5d0c-4a45-a52f-6d67424445f1 #  positive
+d72f2f97-d523-4a3f-bbbb-bdf2a2e4429c #  positive
+fc007b72-b371-4b58-af01-c41a241176ad #  negative
+e8d2aa91-e677-4517-b131-71f77aa404b8 #  neutral
+4be0ff79-1e69-4a6e-8881-d9ce9141d347 #  positive
+3fdda914-fa62-4073-8c0a-d1783b22f574 positive
+3beea247-9d5e-40d5-a547-92fe94a00b4d # negative
+0427bdb4-a9bb-44ec-b39a-4f4ea01a0018 #  positive
+fe050b97-1132-4455-92cb-cb8d5cd5bb61 #  negative
+811816f6-6857-4027-abb9-81e6b765b9fa #  negative
+356fc0af-52af-44e8-8ad5-90a642eef132 # negative
+23cc3f04-f1ae-4d88-8acf-3d3275d48f41 positive
+beade5eb-b4ab-4264-87fe-80b844ede96a #  negative
+918985bd-f733-4b89-9d6c-1626aa130433 #  negative
+2896e2a4-9e58-4934-a1b8-6acf8ddb5d09 #  neutral
+14ad44f9-ee37-47c3-9a09-e4f5bfdd8e76 #  positive
+6a4813dc-7ab1-434e-b622-756d2840e33b positive
+e104bc97-9cb4-4096-8b84-a640970340d1 #  positive
+ed31afad-4664-4c41-96fe-663d90d19a23 # negative
+900e59b5-c16f-43a1-82af-1e00de1da7a4 #  negative
+82b95db3-9ded-4f52-b9ab-486733713b6a positive
+9507d268-2a39-4027-b8fa-4ee6125a520c positive
+1a5dd694-4e17-483b-ab1b-e20fc83152ce positive
+4481715e-1c0d-457c-8a0c-8e794041d426 #  negative
+784e0359-df57-42b4-a079-57ceb5a33b20 #  neutral
+38cc51ba-e748-48a3-b2c5-4533aa30d61b #  neutral
+af7a57a5-35d8-45f5-adb7-7b6f2e387322 positive
+b02beda6-117e-4133-afa3-a8cac2f14686 neutral
+47cec300-0470-4ee3-866e-1c4491b845b2 # positive
+b5be6963-3129-42de-97d8-942799bedd9f positive
+96156de8-838a-4e98-b764-535915305b02 #  positive
+d4ead39b-1db8-4f7f-b844-216b32c5b64b #  positive
+082ae996-a164-40fe-a534-72289786527c #  positive
+26f15dec-53bf-4a4a-9a0e-8336fadb4fb4 positive
+0747a713-24ae-4200-91c2-b914a05fcd51 #  positive
+60cab7eb-48a7-48bf-8aa2-a0727837506c negative
+fe23eb91-2203-44ff-b510-777f4d687fcf positive
+913462ea-3f12-4c99-ba1b-f666dfac70ea positive
+fde93eea-a3bc-47da-8e69-96e3711d5f24 #  neutral
+378cba45-90c5-4c0e-a954-d7b436b8b266 #  neutral
+3a4ee84a-d299-484d-8ca5-76d0c348ebe3 #  positive
+a217a821-c55f-4fda-b092-74b625692360 neutral
+8ef4058c-b2a5-4b07-b6d5-2797b35dab91 #  positive
+359e6cd9-8b79-439b-a844-1329c8649ae9 # negative
+3667e5a4-0513-4761-aaea-65f5b2a3f0f4 positive
+83af386f-b3ba-4445-a620-cb18eb302bc4 #  neutral
+53c485ca-b39a-427a-b630-96bb601c2d14 positive
+58e7e3c6-2ca5-4cc7-86ae-594435b44b8f #  negative
+6e7b7911-16f8-485a-aeec-9332dedf3b8b #  negative
+e05171f2-6efa-43b2-81dd-814639cf913b #  positive
+d0aa8749-2376-4a4e-852d-513b6fc4bc63 #  negative
+4a6cbaee-c65f-4d9e-9ddf-6e8b7c3393f4 #  positive
+8b9ff773-a33b-4b91-bd54-b0b7b2ad68ba #  negative
+26b1616c-c122-49b6-9c59-4d349215a058 #  positive
+9743fd5b-0751-418b-b772-5407b747037a #  positive
+7b2854d2-3ffe-4855-9a77-f5ba58da9fc1 #  negative
+e0f35839-31fe-4a92-a9c0-bcb3ea5a286f #  negative
+8a5cbff6-26a1-4bf2-b31a-a86500b85228 positive
+2c234a99-222a-4324-970a-51abec309be1 neutral
+2899d787-7659-4603-a9cf-d952a096f141 #  negative
+bd080407-7dd5-426d-acd6-8b6fa9339ae2 # -neutral
+756a3909-12f9-417b-a2df-b2b4dccaf27c #  positive
+6d8d92ae-a73f-4505-9281-b09a13c0b83c # positive
+696aa1ed-9539-4a4e-b2a6-61deb48fe79b #  negative
+7ca8ce18-1736-44f8-8bd4-0da5ebcdb48a #  negative
+d6b7f6b9-c6ab-4625-a323-ca62f36a6b9f #  negative
+79c4cb21-4da4-4e82-950e-d74d0f924828 #  negative
+7ec660eb-96d1-478c-bc17-20bfb18a1c78 #  positive
+780f9f3c-206e-4d2b-9f78-3363a373cd6b positive
+8a7ae40b-c823-4c17-8c91-b87912a01908 positive
+1b3b58e5-29d8-4d88-bf24-b4450613cd2f # positive
+323bcb06-b048-4fe9-b2f1-70e2964a5d8a #  neutral
+43784f37-7fd1-4ef4-b4ff-ccb35abf577a # positive
+6d323880-8fa3-4fe5-abde-0c7858e74cba neutral
+aa6b9185-e2ba-4956-ba86-d5e9df7cd83a #  positive
+18904f7f-9da3-44c8-8058-f4d7985cf6bd #  negative
+c2315a68-23d6-4bcb-bc48-2c054d0baf39 #  negative
+75fb160e-ad32-446c-b71a-a89757cd0278 #  negative
+1564c21c-4d5e-4791-8093-8a6f77c8fcb1 #  negative
+19651319-7b09-41e3-a3c9-440af6d2d922 # neutral
+efbf7744-d7d7-49cf-829c-b9cf21981b34 negative
+8c15428a-974e-483d-993d-3544aa5d9d64 #  negative
+a4df2385-5109-4490-9fb1-c3e63568064f #  negative
+ffbcaad9-9954-4a41-abf4-8689766667c5 #  negative
+4f10398b-4d6e-492c-80da-ae72ff9d15af #  negative
+7f48e1c6-0d65-4571-ae36-0d9dec61a60d #  negative
+18205aea-f10c-4852-a0a2-3bf75062c099 #  positive
+300d2538-0c55-4d6a-a263-b14029460569 #  negative
+1b031526-2e1b-4447-828b-67da7a9e4c56 # negative
+a569510c-50aa-4aee-bcb5-543146a7098b #  neutral
+6ccf374e-880e-4ecb-bcad-b2eaf4251c16 positive
+dc3feeea-7bb8-4c8a-8c58-8e074a390859 #  negative
+58fd90df-2bfa-45f1-bf9f-f43e919ab2e9 #  positive
+b9b9be4a-d617-4289-a3a0-2caaf9b8502c #  neutral
+9374bdff-45e3-4f90-b464-9d62c6b0371d # positive
+f94cfd47-722f-497e-ac3b-1644bb76aa0f negative
+4261fc9e-9a9e-4ba8-aa6c-d1a7534187bf neutral
+340b5a6f-c0b2-4156-8302-ba97e4622cb5 # negative
+ce576396-43f5-42d9-870a-94399861ca91 positive
+38858b84-0885-433d-9d33-bed254301bb9 positive
+3163486e-83d0-4de3-b20b-249c9c309694 positive
+bd459903-8741-48fd-893a-f5459b9bbd48 #  negative
+c9f96588-61d2-48ea-9837-9ee60f6eeeb7 #  positive
+c7176659-ad80-435a-b1ae-aec3661008bb #  negative
+832bfab0-bd59-42d2-ae0f-da9b3a89604d positive
+00be2b57-5a9c-4a92-82ad-fbfafe4d11c8 #  positive
+edfd0824-b34d-466f-9d20-d42f419858b1 #  positive
+086f0d27-2e5f-4678-bb65-d9f7da30d3af #  negative
+870f11ad-c676-4244-bc51-13f11ee0c243 #  neutral
+e1eb5113-1708-4c6c-b3e3-cc1675d9354f neutral
+79b392c7-1951-4dd2-9846-fad6e1b9b82f #  positive
+1f812d0c-235c-4848-97f8-685310bf142d # negative
+b0246619-88cd-456e-b44d-ed5c44d8b8f5 #  negative
+48048b53-9f25-456e-97ee-1d5fbd818ce8 #  negative
+f30c1710-f950-48ae-a5b3-61a74e2e2fc1 #  negative
+45be22bc-95f9-4655-a476-ce78c1fd9fe5 neutral
+67ab5802-7aaf-4e59-816b-5303b83d2167 #  negative
+b42f0773-54e4-4462-b204-1e98d608c88e #  positive
+e54a7ad7-3314-4d90-9e3d-e286358a54b5 #  positive
+4827b96c-144a-4100-a64d-63efc971ab83 # positive
+58987cb9-92c0-440f-833c-cb724d74a3d3 # negative
+5415577b-7269-4c54-854b-2557031ecf91 #  negative
+36e6f9f1-c962-4d4c-95f2-803966990a78 positive
+521dfb67-0e70-4ca1-b83f-c9bb1039c772 #  neutral
+717b9298-fbd3-43d0-8b9d-1f1e79b3f2c2 neutral
+760a236b-7c2e-4d05-b882-0ae95947f377 #  negative
+fa7fd0ff-6c55-4e26-9f69-7bf9b281eefd #  negative
+e6fc4254-49b5-4b7b-b1f9-a62a0eae0749 # negative
+a02450a3-4707-490d-bfa5-53e00d879b79 neutral
+95f87c26-2fc8-4dcd-ba29-1dcd9b1fa69d #  neutral
+2b355b2b-dd13-43d8-bf1c-547386b49d16 #  negative
+84f852ed-aa48-4e18-a580-799b1a604e94 # positive
+3be4de67-0d4a-43af-9de4-8971a7e4d2a1 positive
+7e8e5c0e-5b63-4b41-8f60-61e9810d20d2 #  neutral
+fbf80723-bd4b-4476-9a69-b8334536952a #  negative
+ea07814d-7a03-4fc7-aa44-4cc2b48cc0e2 # negative
+fdecd18b-c91a-4d20-8712-3c327b7f37ac #  positive
+3315cee7-e5cb-455d-93ce-6649ca723cb7 #  negative
+8f4a8a53-84e6-4e14-bad2-fad455c576fd #  negative
+1b0baf9a-75b4-4873-b26b-bce558e82930 #  neutral
+6f273b43-f04d-4ec5-b4ef-4ea6ed4d8756 #  negative
+2981ecb0-f715-46ec-968d-1540d7617569 #  negative
+852a8fda-cf37-49fa-97ad-30f37517019a # negative
+d866d069-d863-4b06-9230-c605729690c9 #  positive
+4450ef08-076b-4bc6-b2de-25d68e720a2e #  negative
+fbadf827-915a-4cc9-bd0c-716a7d50ac9e #  negative
+1c337846-ab16-4acd-a1ca-46dba59cb198 neutral
+2da55978-f132-4efb-a778-f463f97d2a5a neutral
+07d7e4f5-92bc-48cd-88c6-5656bb6911b5 positive
+37ad6734-a1cd-4811-8a1a-4ecaed39c1bb neutral
+feea30f4-76e9-4a17-a96d-4cfec8606c5a #  neutral
+a5f7b42d-81b9-478d-b040-e3f2ac8d563c #  neutral
+1f217779-fd13-4d83-bb7e-0ac44459324e #  negative
+aec48133-b5d6-4070-8514-324b74a5f94a #  neutral
+6b3995f7-4dfe-4089-9215-c649ead2cfdc #  positive
+f3a86b9e-4f01-4afb-8d9c-7c63163200b9 #  negative
+c0ccfadf-908e-40ff-a5e0-3139e6a05ef1 #  positive
+699bc8f1-1afa-4688-b47b-0b8bce904074 neutral
+8f21751d-b4af-4f2c-ad40-f4d990ced094 #  negative
+a92794ab-8d3f-4e67-9aed-cc911b01905e #  negative
+75d6ce00-19c7-4d4a-a70a-311b5b0ecd4b positive
+ddf503f8-2b61-4c6c-bb19-51edfe3129e1 #  positive
+9325a107-43d5-45e7-a9e0-7b1f2dca9f84 #  negative
+40a14397-a5c1-4fe1-8be6-59f86b34896d #  positive
+01220218-f431-4923-b914-8042b76106aa #  positive
+abe6e1fd-70f9-4b3c-9016-4a7cdeb6f524 #  positive
+dbba1b4e-896f-40d9-8b45-17d0ec961b67 #  neutral
+b15e421c-76f7-4d14-a8aa-66241ac24ce1 #  negative
+c012e515-5cb5-467f-a207-b68483f8b145 # neutral
+291b1afd-a803-4313-b5e4-a178a4c96390 positive
+29d1ec44-d1e9-4b43-80b9-ef1c4cdb4c7b #  negative
+f3fdf625-76a6-4036-93bf-4ab803e0a263 #  neutral
+a048fa15-256d-4624-a479-3172da426819 #  neutral
+1075bd65-42ba-4422-b91b-bfe3c849ad22 #  positive
+9f454155-6b1c-4f2e-b751-fcf4c054a7e5 # neutral
+78fa1d40-47e7-42cc-80b8-e46b5365ada5 #  negative
+361463a6-0383-48d7-ab38-1d04dfd8c5ca #  negative
+5f33024f-71e3-4746-8fdc-00b0792119bd #  negative
+07dc77fa-2a4f-45b7-a62e-04654c8505d5 #  negative
+66dc34cf-23a9-419e-a65d-05976c9c7c63 positive
+70f9bade-86b4-4e53-a295-776044ada203 neutral
+a220675f-b8ae-4302-a4b9-551ee4138253 #  negative
+314210d0-9bcc-477e-a3f2-1fff76874b1f positive
+f1166ed8-4e52-4e13-9a3b-a698172a8925 #  positive
+73053c7e-4afb-405c-8c3b-256e97bbcb2f #  negative
+811383cf-4b6f-45fb-872d-05afa54b5d06 positive
+66b49772-edef-4a79-b2da-cf2484c79815 # positive
+f901cf5d-84b5-4eca-aa01-9560bb38bf9e #  positive
+8ae45e0a-cb7b-47f7-b712-4169bf53f8fe # positive
+caa8ec53-d9c4-4932-836c-be3672f02d70 neutral
+3d7e4b01-1a9f-4b76-9d1d-35e292d59f54 # negative
+b8f1e805-2811-4e43-aa87-501e69df43ba #  negative
+16ffa376-e9a4-4a37-a6b4-3a90457e0f7c neutral
+3ceb0725-03b6-46be-98fc-4470cced501f #  negative
+97df7b87-4fb1-44c0-8337-d0167e4736f5 # negative
+931833b7-f75f-42f6-abe0-d6ae8bcc7281 #  neutral
+19f50e7d-f6ad-4b4c-a7f3-782a3e7dd38d # positive
+debf6863-08a2-43bb-b239-3eb072eaae06 # negative
+36242715-cbd9-437c-96a3-d1141e925120 # neutral
+22764048-cd12-4ed9-9242-c8331a793fa6 #  negative
+472ebbc5-be99-43e5-9d7c-9129a4da950e neutral
+293d32af-91f8-48ec-a50e-7c8614b165e4 #  neutral
+7b44d191-1725-412e-aed3-c543ce3d9cd4 #  positive
+d8cdad6a-4366-437b-94f3-7df5ffe5ed10 # negative
+6d60423a-c83e-42cd-bd8e-74ad520fbf99 #  negative
+e69bf8a7-7e58-48d2-9146-55b04a418ac8 neutral
+375ace8c-9edf-4aae-991e-8ef13bd1e128 positive
+992aa541-2080-466c-8e2a-dae5668372e4 # negative
+7cfd6194-f670-4557-bfec-01c12e3bba59 positive
+26205451-5cb7-4794-a432-fd5a3f8f16e5 #  neutral
+3fff0c2b-515f-4067-93a3-6febfa657467 neutral
+2758de51-59d3-4a64-a4b2-8ba265618719 neutral
+dfa1932a-28bc-4d9d-b7f8-2b93edac94b7 neutral
+aa32c1e3-94a0-4dba-bdba-6d7461c2c9d7 #  negative
+771dc6ef-4eeb-4eab-8a0f-8e35102c9381 #  positive
+3f157932-bc42-42c9-bdc6-e3a3d753bf3f # negative
+9906266f-16ba-47ac-8a12-7b725289dbec #  negative
+d521984c-337b-481d-b2f4-9d6bf03b7d47 #  negative
+c72e5937-c813-4d15-85b9-62f9a2eed6d7 neutral
+b84738a6-7754-40fa-b980-218751e54995 #  positive
+76faaa6f-516c-4730-84fc-b0d3012dd71d #  negative
+6f3f4f57-5f54-4766-ab4e-f984de816231 #  positive
+020a04e9-11cd-42c2-a038-3017775d6f72 # positive
+d94c8456-2d00-4f2e-97e4-98aeed4f8437 #  positive
+7446660f-2e4c-4130-958b-e815c8c5f1e7 # negative
+6075c3e5-2101-4cb6-89fa-aa5b8e5af1f6 #  negative
+a04c668c-ff0c-40cc-83d0-37cfb7fedf67 #  negative
+e0d82cf3-c14f-4fe4-ac3c-8dd8cbb4a339 #  negative
+776852d1-2720-4ff1-ac39-a4a19611115c #  neutral
+2025c227-e437-4f93-bc96-864787804868 #  positive
+893a6f02-8631-4191-8aea-898d934d2152 #  neutral
+92c3e195-24f8-46b6-bf35-234dd808823e #  positive
+0d48de0e-2efc-4490-b25e-2a598ad262e1 # positive
+dbfafbb2-4088-4845-908d-e57761e96f45 # negative
+d9820e08-d4b2-40a5-b267-ae5f537fbbea #  positive
+30b3bf2a-5ec6-443d-9741-d40163d465b4 #  positive
+162e7e1f-0243-40e5-9151-c7657e39302d # negative
+e11d084a-f700-4c74-ad02-75649582b5aa # negative
+42f69d3b-b98f-4ead-93fa-891303bdb623 #  neutral
+6ceabeae-3db7-48f1-9b5c-63e16072f321 neutral
+43c80627-7229-4974-a5e9-efe80473afa9 #  positive
+d418b3a4-22d7-40ab-83ad-9a292eeb4722 # positive
+905c5fda-eeb5-4033-a805-1dee0639c354 #  positive
+ff784f18-dc7b-4ac0-947f-f2d3072535c3 #  positive
+890288ac-652a-4b23-bd6a-076a3f665e13 #  neutral
+6597161f-9785-41a2-abc3-b4c3798fe2ca #  negative
+74ec521d-4dbb-411c-b64d-6701fda6b43f #  positive
+cca4d7d7-a832-43da-b35d-f4da09fcfef5 #  neutral
+8bcdb74d-2dfd-4596-a5ed-29da6bda1332 neutral
+7d05324e-47aa-4e5a-a6d6-e239dc42088d #  neutral
+e6dc9936-94f7-4900-ae07-d006fbadcd06 #  negative
+ee8d77ee-e9e7-45ce-8cdd-a5f55f68d7e4 #  negative
+044792df-41af-42b2-a6eb-bd3fdee0f08c positive
+5f3f4fc0-17e4-4e24-ad60-fd33a84a65b8 #  neutral
+2cc571ad-ecc5-4590-afb8-d7e6ab5083db #  negative
+63d84c72-ab2d-407b-a698-ed7ce472ade3 #  negative
+774e1cd6-b067-4dd7-92ec-eb8c7f1cc85e # negative
+9125f84d-5882-460e-84b6-d7dad69f2fc3 #  neutral
+4333ea71-a7bd-4d58-8b30-00255faf9448 #  negative
+e16c4cb9-63ed-4e73-8a5b-2535c9a24276 # negative
+1778a841-d1dc-4c20-aa68-1bf4c06db10a #  neutral
+41c8841f-7a9b-4e8d-8c7a-5ba774b8ba6f #  negative
+d0a026a8-775d-4049-ae92-74319887f33a # negative
+07ee33e3-c29a-43e9-b50c-9a2f1e96089b #  negative
+1c7a6813-c524-436c-82c8-1a751e4bb4c5 # positive
+88cb84d6-05bd-4f8b-8ba2-6becec4d3a3d positive
+4cc3cd4d-13ab-4a37-a5d3-ebbaf2c14afe positive
+918f891b-3e0b-43c5-8aa5-af1a996a1ddb #  negative
+afbba483-a8bf-403f-9fcf-04e3bead4a27 #  neutral
+9cee64f0-b2a2-4f76-b336-bd46f016053b #  negative
+18c41f57-23c8-4aa3-9f5c-ceecd13543a2 neutral
+70191a57-727c-4fee-b025-4ff15e574e75 #  positive
+4de9b58c-aeb4-422b-b999-83e1c0c96bd3 #  negative
+b2c60bf3-affa-414c-b4c4-8ee15c7df2d2 #  negative
+a750d0b6-5ca8-41a6-8e95-3e489feda03b # negative
+89282ae4-bff7-4647-8c68-77bba0d2ebbd # negative
+b5b97863-ebfd-4e7a-a3bf-ec5fb2693ee3 #  neutral
+f42d06e9-b8ca-45dd-b89c-87fab4f46088 positive
+ee002b31-0471-47ae-a2d6-8a46217398bc positive
+0a5caa6f-36ce-4eeb-9262-24357e45b988 #  positive
+9c2fa448-71c6-4155-b44c-82beac5f4b12 # negative
+cac5af6b-d2d0-43bf-8f49-d7b40d695585 # positive
+016e8a9a-a5de-4eb2-8e70-cb6ac257e8aa # negative
+f9d2f4dd-36d8-4edf-8651-46116e1f2552 #  negative
+e33d7192-1871-4722-8ba1-963b24cb8213 # negative
+0b854096-8379-47e5-9652-f6a343e0655c #  negative
+4d445f39-c986-4883-9e32-dac851280f44 #  negative
+3fc919a1-24ad-4d24-b3d7-2cd2986eb66c positive
+296a5cc6-a853-4f7f-a963-067377e3f94b #  neutral
+0a9d593d-5e80-41db-aef7-ef8d4cecc09e # positive
+8e81a725-594a-4482-ba96-d87a0a461474 #  neutral
+6f6c4b92-0384-410b-80e9-36832b418714 #  negative
+30c37bbf-9a27-4120-a026-903dd07f2421 neutral
+b280b93b-65f5-4749-9d68-1d1221ad57ff # negative
+9fe52cbd-6449-443a-8967-1b7ce0b0511c positive
+034063a8-12c5-42fe-a46a-625824b221c1 #  negative
+86910c5c-e1f6-4e2e-856e-deb4fb9fc889 #  positive
+0001e72b-b07e-42f7-829e-cb1b6f5b6aa0 #  neutral
+1f01cd87-578f-4b56-8144-73e3fd43ec48 # positive
+37d8229f-c275-47f7-a845-10e6a534c827 #  negative
+1a5f26c5-053a-44b2-ac52-fcd13ba8e330 #  negative
+9e638a77-7c82-4594-952e-155cd057650a #  positive
+49bb88f3-1d38-48a1-9d56-7c49a105c0f5 #  negative
+ff162333c-c031-47bc-a4bd-8ae0f0043350 #  positive
+883e2bc6-d7ed-427e-a65f-cfead0309c04 positive
+ee98b348-e8fc-4f0e-a744-07261c622c2d #  neutral
+37903d01-e555-4724-8be2-14f9252df9c8 #  positive
+f297d888-aad9-4ed1-86e4-1ecbf86590be #  negative
+492aecab-b3df-42f4-a205-1451cb6553c9 #  negative
+5abc21a8-e284-46c5-99d8-0da2bca039da #  negative
+99ae0e8a-d7ba-41f0-81e9-cae98323e050 #  negative
+a6363efd-c727-4eb4-b855-0d64dcfd79bf #  negative
+6de5e257-061e-4556-b5e0-84d5ae7ef4e3 #  neutral
+faf56feb-bc1e-41cd-a2c4-0cb71a73817a #  negative
+2780dd86-8587-4e71-8915-dbaa2a62d17b #  negative
+6f3aacf5-6c21-4e71-aca2-e8439ef2ade5 neutral
+b3ccb7ad-af56-472b-9bb8-6d6f7f332a82 #  positive
+1761bac6-0885-40d3-87a0-b544dead1185 #  positive
+0b6f5cc2-d6e9-483e-80b6-bbc70f4e7240 #  neutral
+6c6648b9-91af-4e98-bca1-d94b132e5134 # negative
+15152965-6f98-45e4-b22a-d4b8a602775f positive
+62b124a4-8c0c-42b1-85f2-7ec2366453b4 #  neutral
+09399355-b854-4c38-8655-f6b85fd62cdf # negative
+7a406941-a32b-4c57-8fc9-05fac77bf9ec #  neutral
+1339b6fb-c72d-4ed2-b084-366034b9d722 #  positive
+85fe7e45-d52c-4d53-b48e-e5e384dfc427 #  negative
+b27fb66d-8247-4776-a43d-4584624b6ced # positive
+3585a653-941d-4d98-ac6e-d40206b9102e #  negative
+e1e1e6c6-2435-492c-b381-def456f56a38 #  positive
+e7e97fe7-3d31-4f04-b8cd-dcae3ddb418d #  negative
+574cdadc-893e-4cc3-b3e1-0926183fdae5 #  neutral
+b202a81a-41c8-4ceb-bc6d-1da4a273fb84 #  neutral
+ead3274f-ed92-4406-8b8f-a258bc3320ae positive
+76552765-7cac-4bb7-9202-b3282b6f9719 positive
+511f7269-82b6-4b20-9cb4-05f55474cf6e # negative
+39e05077-353f-4ead-a615-67cdf7ad86f8 neutral
+1ac78c66-9c1f-4101-a79e-ab26e6e1603f #  positive
+736697af-4c29-44af-9909-9e91cafee71f #  neutral
+d27beae0-71a0-4603-9650-89e76aadf6a6 #   neutral
+1fd5aa09-582a-4606-8883-03eae3958535 # neutral
+dd613ef7-b9ca-408f-940e-a849a99c7fc4 #  negative
+d405ecfa-ded4-472a-8c99-572240df2c81 positive
+afc50b28-e98e-4a1a-8753-560782a5e750 # positive
+614d7ce7-c929-4f13-8b21-6a72fd906408 #  negative
+5ba6c1a0-67a9-4686-9f4f-59b04994fe65 #  neutral
+f4b197ec-c820-4b21-abf1-af704ee9f9ac positive
+1cf5e52d-d6a2-464f-a512-9b84ac0c54ad # negative
+f416456c-9858-4bf2-9cc5-580cacc58870 # positive
+78b06938-dcea-4c39-8afc-78af7bdbd7f4 #  negative
+f267aab2-e2ef-45b0-9743-1ee56934c93d #  negative
+3b5d6844-2e05-434b-8504-d3d2aa7145db positive
+6f8135b4-d731-4e38-9c32-476bcb7f1ab4 #  negative
+071eb37f-6b0b-46ee-b751-32878ac50d6c #  neutral
+fc7cc8db-1ba9-4c4a-a160-f792393eb405 positive
+f8aca4d4-df23-4662-84bc-e1355828cc91 #  positive
+38a33b93-c761-447d-820e-83f655acda93 #  negative
+eae5bfc5-64ca-4398-a673-538d2e78a74a #  neutral
+d173b322-2c64-48e8-bf3e-3e340b4af012 neutral
+8cd4a919-4c9b-4349-a5d9-2c9b571df35b #  positive
+e2fa2671-79dd-41dc-8812-0087c2b9e6cd #  positive
+956c1edc-f96b-4c91-9317-39a290a590de positive
+67f5b2ba-66d3-4553-9932-c604032aa8d5 #  neutral
+39282d19-f990-478d-93a2-b1082f01990e # neutral
+49d06f7b-2d23-4c21-983e-55e461b3c942 # positive
+c887226d-977c-46e3-86c5-07c8badb2e76 #  negative
+582c8c49-7bc9-48c5-b4b1-392a37ece2c5 #  negative
+ee06e2ab-435f-4190-b92e-e7514ae407a6 #  positive
+7993d2b0-0b6e-457b-99ce-fb04d6c0622f # negative
+b9335cc3-a7e9-4e51-8926-c507d58ec348 #  negative
+baf2fa5f-23ce-4f02-9c67-c90737c4bde8 #  negative
+c2d6356b-44e7-4006-bac2-ba2e0ff82865 #  positive
+28ca398a-4e9e-421e-956c-5affb9c0f4bb # negative
+1112e2ea-789b-449c-ae37-9b9a598543fb #  negative
+2e916f34-5d07-4080-93b3-b3ed13b2e59e #  negative
+f7e650a9-5540-4d18-ba47-a02fe1bc6117 # positive
+39ed2966-0e3e-46fe-803f-766efba4427f # negative
+976d19e2-b514-42b9-8f3e-92b15617b0b1 #  positive
+ba5e86a1-352b-4ac8-8cb4-50ea94b735c9 # positive
+8a4d73c4-5483-4148-8b3e-b12dfa12eeaf # negative
+0db009f4-f79f-44c5-bb2f-5bb40c749a79 positive
+d634a660-1b00-43b0-942a-f5e2cfdf7d25 #  positive
+bce7b547-2ebe-4f8c-b4f5-9987839b5d85 # negative
+c99f4a0a-644b-4e27-92ce-ed44671c1a45 #  neutral
+3edb734e-e96e-4b69-b2be-b5d64b8fa7c7 #  positive
+2cab5257-d39e-49ca-a532-2b0862fe4469 # negative
+c12aa1d0-020e-491e-90b2-4ecc1fc8cba0 #  positive
+c660b8f4-4796-4df5-9d01-316c71478cad #  negative
+a1253c85-b570-4620-8a25-b176224f2cc9 #  negative
+e80c49ba-133e-4717-8fac-da469f0549fd neutral
+d88bae57-f263-4248-8327-22cc1fb0384f #  negative
+8d3fda37-093f-409c-82f2-643f8aa1e9f8 # negative
+959035f6-5f59-4628-b1bd-43ec55afd221 neutral
+bb30e4da-1180-4833-ba1e-e737f964c246 #  negative
+95739d46-9430-4ebd-b7b8-f21c2d5c63a9 # negative
+5964ce1e-f6c4-4690-8850-20923ae71d71 negative
+2cfaea2c-eb9c-4d64-bf98-2cba299928e6 neutral
+18b11c0f-04da-4fa8-9414-a16cc1b665e5 # positive
+4435f0f1-d63f-4bc0-a149-2725e9d409b9 #  negative
+af22b535-c63f-4327-8b33-0ea8723ba998 #  neutral
+9686164a-d869-4a85-a86d-83e7a995be73 #  neutral
+b717d517-a646-4f6d-bd9b-929fb3c69e30 #  negative
+43cc94df-4995-436d-b880-81dfcc9755c5 #  positive
+c4b6493d-99dc-4249-b934-e201d4fad0e3 #  positive
+2e50e505-f39f-4084-a71a-c00e81009aff #  negative
+7b916c7b-e639-4a77-8355-f69df283db41 positive
+50a396d1-5330-4cf6-bebf-1e1259b16aba neutral
+3816ced6-5717-4d90-871e-ea409639942f #  positive
+fb7614d2-653c-4c09-b7d3-78dbc0221ad2 #  negative
+60531248-3e23-42f0-88f5-efe9295ec3bc #  negative
+eb655c27-3968-407e-ac80-992a0d620ab9 #  positive
+a0c200bf-ddc5-47b2-af7f-6f8c35c2b33e #  negative
+4f13910b-2b81-46ed-8cd2-bb4441e7dee6 # negative
+101b39cc-d2c5-4400-9508-b63a49e50d3e #  negative
+212b6eb4-61a7-43c8-8af3-68895e5bd1ac #  neutral
+2cab96ee-4bec-4199-8325-d321db99bd1c #  negative
+52cdd150-f850-49f0-b69c-9b14197bb698 #  neutral
+c57520d5-c360-44ad-82fb-90baeedc5e2c #  negative
+d33be596-67ed-4839-896b-f1bf8cd0009f # positive
+d4f1c49b-da01-40c3-8af4-fdd29331a028 #  negative
+44649983-c642-4db6-abe2-7a55d0ec1c48 positive
+044f7dd9-f60b-4bf6-8691-47ddd391f4c3 #  positive
+aef44059-bd98-4a71-84ca-434dbef630f4 #  neutral
+0d9878e1-66a8-4b2f-8f45-b1532d99211b #  positive
+56f00ba8-1439-48d9-9d2c-946e7c62517e positive
+c57bce17-a806-4bd3-9b6b-9db4559260ba #  negative
+4200004f-03c3-4bc9-8cf1-40f09063e09f #  neutral
+b4affeb6-7a96-4e15-97e7-5fc2dbe93280 #  negative
+d5d63cfd-37e6-47a1-bc16-b0ba9f3adee3 #  positive
+4fc80525-9a3d-4057-812e-efd93de4d294 #  negative
+196061de-de9e-4172-be12-163f06e94ece #  neutral
+c85c1e18-905f-47c2-ad0d-f0b2e3b479b8 #  negative
+48008f38-566f-4278-8fc7-54740ab4d8ce #  negative
+b80549d2-e525-4e46-9fc4-64b87465ecf6 #  negative
+198e916a-f963-4f28-8efa-183ee3252714 #  positive
+c71ff669-e5b7-4417-bab9-6f0700719c0b #  positive
+167b3375-db7e-46ca-9eae-0248072aeda9 # negative
+1a250aae-49c8-4998-aaeb-4d6d76e8eff5 #  neutral
+ab57886e-edc2-4bac-af89-af235bbaa2b5 positive
+20932708-3370-4926-8932-9014286f01a4 #  positive
+0a72c075-2b46-4ae6-b65a-76abab8b6990 # negative
+1c928921-e896-4258-abaa-2b9bbfb7f26a # positive
+51f0745b-6d5e-450d-bd95-dd1fb745245f # negative
+fb8f910f-8a3c-4fe3-b675-370bb37435a8 #  neutral
+3c483ae9-3dd8-47ae-8cc7-f95558369216 # negative
+0551c220-784d-4203-9902-724a6eba62d5 neutral
+cbf90e36-90f1-4a84-be74-c4f30cd26d03 # positive
+dd59d875-37bb-464b-bc5f-d77ecb970271 #  negative
+cb025650-0eeb-4be7-87ec-85ee36186033 #  negative
+8c9f1d13-c79c-42f2-b068-860024b41f10 #  negative
+dc995b5d-f505-4e23-8eb9-b5d7c823e2aa #  negative
+83156edf-5d63-4e8c-ba04-01fd8dd1988d #  positive
+9ba1eba3-3a8b-4b78-b477-a1d9546f7afb positive
+522122f9-365d-41c6-b29d-ad95a0d4f71d #  neutral
+619fbf13-6c16-4861-af4f-c3f7c9f962a8 #  positive
+ea2ea05f-65f5-4515-802d-32d26aedb405 #  neutral
+875569a0-e1e7-40cb-9060-5e38fcd685ff #  positive
+84597cf8-5c00-4959-8cf7-dffcac46bb09 #  negative
+34d56e9a-b519-4b41-b79c-bacf0680bff2 positive
+6f0d1fb3-85a1-48d4-a565-82432ded1229 #  positive
+53bb17f5-0b29-4aae-ab5d-bc1f1ea3879f #  negative
+47bb2201-1f79-4fa6-b773-9a471ca3b816 #  negative
+d4dd40b9-cad9-4861-96d9-3b8ce96aa18c #  positive
+d879b7ba-cf33-4046-9a46-8a4e81bc4ff9 #  positive
+3de47f30-8dd6-4c71-9a9c-8d5618ceb414 #  negative
+ee5299f7-0f56-4f83-a87e-afd6b58cab11 #  positive
+15c1c87d-cde3-4df2-8aa3-dba39a2945bc neutral
+429f490d-bb2f-406f-8c23-bd45549b50b7 neutral
+0bd005a0-13df-4fe2-8e07-956230236a2a #  positive
+eb8d09d6-bd21-4c6a-ada6-c3edf94b7d62 positive
+f9c609f6-8945-47dd-ad31-ae17aba3116d #  negative
+ad7b3baf-7e97-4176-97ee-a6e39acd25a4 # positive
+d09a37e4-2ec8-4ad3-94fd-331753dc1eed #  positive
+6a25b486-a0cd-49c0-a2f0-ecea4d82c9db # negative
+a7deff62-0262-4a91-9757-e1bc983044e6 #  negative
+dd80e952-c039-4445-977f-597f63814a27 #  negative
+7c02aa64-f075-4b4b-81ea-f17bccd11066 # negative
+224caba9-68d9-4591-aaee-e9f94542df95 positive
+c5f01f68-4742-430a-be9a-e7c9ed8fec1a #  positive
+020a2040-5543-4ab6-9477-61fbef94d64d # negative
+65010318-8087-4881-9489-f772e3fa8761 #  neutral
+b6bf4e1b-f924-4b6e-b86e-78771cabbc57 #  positive
+f977977b-f6ff-4635-8cc4-469d730d2bb3 #  positive
+f6a14401-2deb-4a08-aa5a-741fbeb4d833 #  negative
+61896eed-b709-4a18-a835-10562f25d569 #  negative
+d7317ee2-212b-4a84-88e9-8f93b61b50f8 #  negative
+d0a94ad8-c1b5-4612-bcf0-435ba9181ae7 #  negative
+2c2f1275-d546-4ecd-8c02-84880852fca7 #  negative
+6f0b723f-bef2-44e5-a7de-52fedaa3d43d #  negative
+6919d650-10a7-4bb7-8e71-9f62809abded #  positive
+3ed909ad-b1f8-4d76-a39f-32b7a81a05eb #  negative
+cc694df5-9ba9-41be-92a7-4d90ef620a22 #  positive
+0e3a01d3-ce66-47f5-b86b-36ecd932513f #  negative
+b98b57d4-4542-4bfb-ac83-92b8d2d57499 #  negative
+5263a500-f468-4c2b-ae25-cef3159d5a6f #  negative
+dbe7742e-0b81-4bc9-b135-1997a6bf08be #  neutral
+d375df9c-9798-49d0-b55e-cadcb0fd51d3 #  negative
+69bf278b-e3a7-40ea-be3e-f53b5b0c19e0 # negative
+37840e41-345e-4177-81aa-868002981aa9 positive
+0f7084dc-2d24-40ce-993f-322cddef75eb negative
+de39aec8-f8b3-4a99-8784-8a29b5badbf2 #  negative
+f307b8cc-7917-45a0-9900-06b2cf34751c #  positive
+501ae7e8-1be0-4a1e-8969-4192f0f27f03 # positive
+7a2c3ab6-7b07-4780-b5e1-713f39a77c70 #  neutral
+88d5cf60-6481-48de-989d-bc1c333e57ce #  positive
+0c594856-bb2a-4b7a-9aee-ef1da92572ae #  negative
+2273d1a0-f2c9-45b6-92f0-ae07e4c21a51 neutral
+b9cd38a6-e63d-4503-b4c2-1263c3a84773 #  positive
+94c5f791-86aa-434c-9bcf-b276107d0309 #  positive
+9513235d-6699-4131-b625-2a6c5f311404 #  negative
+63484a1c-a9fc-4250-af09-a66adf2493d0 #  negative
+d51374af-78cf-4657-a349-3f42ffa5a386 #  neutral
+5cd4dc0e-8dbc-45f6-a54b-57dd3ae60070 #  neutral
+af4a4f6e-3208-40ac-b7ae-357f5bee1d9e # negative
+2c18c190-6775-4c64-8e63-d7f6062bd424 #  positive
+7bb675b2-fd29-4c43-b609-5e374313b0b2 #  positive
+45260e59-b2e6-4b7e-ae25-097c738cd0e2 #  negative
+e5017f84-5fee-417e-b890-1b340cd79eba positive
+2a2d5088-e395-43a4-b102-e3eb8a1877cc #  positive
+953e1e40-1b2f-4b95-810b-67adc352cc85 #  negative
+93023a27-e04d-49a3-aca4-abab77975dbd #  neutral
+529fb3c9-fce2-423d-9d8f-28f28e45e18d #  negative
+93375156-447e-4791-9a6c-8ed7bdbd4bdf # positive
+d16a479e-46ca-471d-b2da-5d11e3655593 #  negative
+fa175445-c6f2-4d2c-ab06-96cafb090595 #  negative
+fbddfdac-e7a1-47dd-8c8f-a192f0ec8108 #  negative
+9551d115-68ce-45a8-8495-d8b9c4638041 #  positive
+854889c3-404f-4c91-a003-4291178c52f6 neutral
+0168e3b7-4746-4553-8be4-0bd0b022328c #  negative
+f8a014f4-5827-4262-8005-dc39d4d45901 #  negative
+21e02a59-b938-44c3-9f63-f19d3a3cb847 # negative
+1be3b9d7-4035-4530-86e6-517efb2d9cf3 positive
+e0b8b5ed-1eb6-4c71-97c0-2aa7678f985e #  negative
+4a3bf057-71fe-4bb9-a006-7b3effaa3cae #  negative
+8cda1d40-5aa3-49a7-b6f5-abdd0f92ab56 positive
+0e8bfade-3944-4f21-91c7-286c5c6fe55e #  positive
+52744805-9701-4133-ad4c-b478ed66ab23 #  negative
+d55fa04c-3773-4877-b25a-b8719db6683e # negative
+12db6c91-2d41-4b7e-be00-df100ef1a94c neutral
+4112b966-e187-4f17-afae-b59e7faf3902 #  positive
+dc7b3e26-9d9-4801-94d2-c78a1c15d53a #  positive
+500005c2-3b47-48c5-9d78-fa178590ea00 neutral
+3b79afbd-248e-4e8f-8f11-f18a65a0f34b # positive
+6400be43-9968-4c51-914a-0fdb855f9638 #  neutral
+e42f3383-3ce1-47d4-a06b-8c760f340fa5 neutral
+6e7612d0-ac2d-40c0-8c5e-29ba6a8a1435 neutral
+89bb102e-488c-4cf9-9fc1-160b8aad082b #  positive
+18221766-1109-4d1f-87e6-2a93b8a1c61b positive
+8e9cd0ef-0b67-436f-aea9-d4f5706db911 #  negative
+d6dc0550-fa91-43f9-9f11-02bc0c923001 #  negative
+2f435e25-e1bf-4a4d-b8df-48c0625eaf26 # positive
+f0eb3e49-d42b-4517-a96f-d2a52900fbe3 #  negative
+54900dca-93a0-43bc-b71a-db3eb85f61db positive
+a140b2c1-b21d-47ac-809f-61b2570082f4 #  neutral
+101bebc8-125e-4cdd-9cb4-46b99e4f195b #  negative
+0481f634-075b-4bd8-a51b-d0f8a66d8f68 #  negative
+bab53f7c-ce6b-4118-b9dc-eac66caef148 positive
+81ac8a51-54bf-4109-aca4-b71547bd09a3 #  neutral
+8c71f553-3037-45a6-bff3-3511cdd8fac0 positive
+6067d761-90bd-4acf-a870-570ab1b6736d #  positive
+9a8e4231-07d9-45d0-8936-963ca29bcc87 #  positive
+04202526-1bd5-4ad6-a944-21a558efea54 #  positive
+24c67631-0374-494a-bae1-5f3372831848 positive
+482cfb14-ac66-42b6-bb2e-70e173587574 #  positive
+7e5198ff-5353-46b0-8652-24e77c567633 # positive
+687b8a8b-7455-4226-ae22-c99873b3d699 #  positive
+499cf0fa-111f-46fa-8957-fdbc4249e8b5 #  neutral
+04cca7f7-615b-406c-9ed1-08b493c914bd #  neutral
+a58d243b-62f0-4694-82a7-e27303919247 # positive
+7233e656-94ec-4c29-ac43-ec689928cd0b neutral
+a7b3ae78-add4-49ab-ac00-0a221547fbb6 #  negative
+0f77a55d-40ac-4ed9-a287-770d7291b06a #  negative
+e6d9ea8f-99cf-4c46-92d0-443fd3c9d3bf # neutral
+24b2b493-c2a8-493f-81bc-b55c6e2c648b #  neutral
+53d5c8a3-7612-4263-b43d-47120246e4a1 #  positive
+6156cd88-a2df-4e98-b29f-d5525d0b49d6 #  negative
+81263300-9a54-4e52-99f0-52472ab35b88 # negative
+47b1e06c-9045-4147-966a-1f0f5ffac0e9 #  neutral
+ce00fb6f-5634-4138-8f1c-ed31c4e10b95 #  neutral
+05fbf1a7-bcd3-4410-b1ab-96171a24c398 # negative
+b79c2115-f5f4-46b3-ad69-688b09fe114e #  positive
+af4e78fb-b260-4a0a-b4f9-9139232b6794 #  negative
+8c5d68d5-fa03-45bc-930f-fdde2b3ee3ec # negative
+e68e02b0-7b73-4659-92a7-e4bef6e4e7a6 #  positive
+78832bfe-1b74-4f7b-b56e-86b72bdcfe17 # positive
+393d1815-a69f-41e7-8154-f36785637662 #  negative
+cc5927a2-8fbb-4319-baa9-3feed4153c9d #  neutral
+db2a3c94-ff82-45de-a0c8-9b420c371ad8 #  neutral
+acf6896a-0069-4fa5-8c00-b2d7eab0453b #  negative
+23cdafb3-5069-4f1d-8286-fae25734f7d9 positive
+d24a6c43-b22f-4eb4-96cb-b17b089101f5 #  negative
+d16c7ed8-5c7f-4b67-9765-a14173aa4512 #  neutral
+430569cf-9609-4b81-98a6-38417a9cf281 #  positive
+fb8d62e1-84ed-469e-a20d-c573bef92f77 #  negative
+0e67e2c6-0d6d-4ef0-a9be-7dfdb8baa510 neutral
+60c7bcb5-2655-44b1-a514-5c205e5a46ff # neutral
+796296c7-d0de-4b30-bbff-8c2d026f6ad0 #  neutral
+cc5e6f36-a3a3-4f81-a8fc-281dd7c811f8 #  positive
+61da9d47-349b-4358-b286-e42690ac2924 #  negative
+23326b46-9bc1-4c8c-b086-9a2f6d8e2698 # positive
+f707e956-d8be-4180-8cf5-ff7816780b2e neutral
+f5b455b1-d651-4a74-b2b7-0df029658264 # negative
+cdcf7437-b424-49b8-930d-37a4b6c3275a #  negative
+8c20d224-3b74-479b-b3fb-70280ccf5a9c #  positive
+06ed3016-f18b-44ad-a259-6b70da148a50 #  neutral
+9273089c-3c58-4b54-a71d-a38e7df15f1c #  negative
+57fd31f5-18f8-43d9-adda-5f1278b4e873 #  positive
+f8fac2a9-2346-4890-9f49-1b08b8ca1e02 # negative
+c166f5c2-3b52-49ff-9d48-71c06c1a1389 #  neutral
+de22333d0-89d8-43c1-859e-318b675c3f17 # negative
+7dc0e148-203d-4428-a100-28cac0369918 #  neutral
+16303386-0dd9-4ca9-944f-59361273eade positive
+952911f3-4823-4344-a6df-b59184d46cd1 #  negative
+5258a978-bfb6-4958-9d64-26e362c57f58 # positive
+1799db3a-4ec8-4a52-9eca-16ec6c37a88b #  positive
+704fb416-e7ca-4382-8cd0-7f1efc079c3c # neutral
+786ada58-5977-4cc3-b7f5-c7661f881aba neutral
+5230e59e-b3dd-4f47-bbc4-78c88f080b5f #  neutral
+caafe145-f9d4-4cee-8379-7424699483c6 # positive
+541f0b36-84ea-47b4-b882-3a176e9ec008 #  positive
+1a7c6701-f0cc-4589-9420-1a849f4ec821 positive
+52f36c3d-dd3c-48fb-878d-bb055dc33f4a neutral
+df285848-947c-4685-bdce-1c545a365d3e # negative
+ea1d33cb-18fe-4ba7-a2ec-5d562059a50c #  neutral
+3acf44d4-ddd9-44dd-89ce-a05b2177c0ca positive
+ff99be98-92ae-4d7d-a01b-adaa5ff4107f #  negative
+2f5ca1e3-dab5-46e9-a828-fed073c2daf8 #  negative
+af8a227e-66d3-44a4-ba84-b155f740235c # positive
+0262bd7f-63d7-48b8-aeaf-9c94508d8dbd #  neutral
+619c0a24-89fa-4dc3-b2d8-0e2ec6e6c616 #  negative
+db6fe9af-a5d8-4524-b11d-a98af7ba5cec #  positive
+3cc93cfc-c952-469f-9f83-5610695d5d53 #  negative
+bf3176cd-9d9e-4ffa-9977-e9f983c066a1 #  negative
+ae834541-0812-44ed-b4e0-07bf85821454 #  positive
+5e0e9152-605c-457b-a095-f2c17e9730bf #  positive
+42b2dca3-bd0c-449e-80f7-c8963abeb6b1 #  negative
+9bdab53b-27ca-46e4-aaac-f982144f9166 positive
+0585b273-f249-44c7-acf8-7825b290ba69 positive
+804a41e0-ec09-40e8-a868-29280f24c6da # negative
+f2c487ba-9116-4c15-9a58-1b576aae5b92 #  neutral
+42902d57-23f8-45bb-aede-7fb140b27ca4 neutral
+22da1164-4f59-4652-ba4f-fd3102e043c7 positive
+641883d3-0c8c-488e-974f-62ec1dde6f02 #  neutral
+6783f349-6a29-4ac9-a615-e132fc560e0f # neutral
+4872c728-2bab-43ac-9604-6223483bbef3 #  neutral
+12ed7565-d6aa-4ab2-90a9-5e5ad3728ef1 #  positive
+93af319d-dabc-4ad1-b724-bf60bbeea453 # positive
+edaf089b-6b54-4ed4-95d7-0fd84c941a72 #  negative
+6d90797d-b206-40f6-86e2-0353ece9729d #  positive
+60d6cd36-4ae8-4333-945c-a651ddc8bc4a #  negative
+e122816d-709a-4e64-a080-92698b87dd72 #  negative
+4094df15-1561-4e2b-bdf9-1a1802c09b11 #  neutral
+732d9bde-d3f2-49b1-b4e7-e4e0b4198ae6 #  negative
+96b0ac2c-1e08-4239-9583-facb50f20cb1 #  negative
+ebc9807e-4ec4-4bef-a403-b0444ec8ce3b #  positive
+f64653ee-b2e5-4a40-b9d9-1a546ff9f17b # neutral
+b95a029b-20cb-44da-9a19-974a98afdb0a #  positive
+a2aaa2dc-19cc-4c2b-a348-fd4cb0bdaa88 #  neutral
+352cbae3-87ee-48dd-9da3-3ecda90cc26e neutral
+272a5cd7-9530-4ef6-afe9-8f2602f79870 #  negative
+3870642a-3f0f-42de-9300-e91674b7dbda #  negative
+d4c65677-9098-4cad-babe-1d775fc8a1f9 #  positive
+1bf658ab-4c0c-490c-a3d3-c4628de71ad0 #  neutral
+60302dc2-6c26-49af-bc6b-b2ebeafdf562 neutral
+3ea7da82-7d21-457a-bbaa-896078103f59 # negative
+de364e4e-b3db-47aa-8d91-25ca4a18a2f2 #  positive
+19653dec-cc75-4854-9e50-9af595a72bfa #  negative
+01ca9a16-c1c9-4602-a94c-2d129805c28b neutral
+6da0c3a4-dc14-4e23-91be-6ed82c201464 #  neutral
+c6d98249-178a-4a73-a7bd-cf53d8973742 # negative
+37395d56-caf8-4068-94fc-b032f52f47c1 #  positive
+8d132643-953e-47d5-93aa-62a3fb977ddc #  positive
+9f21f133-3d7c-4901-a7e6-46c1550b27d4 #  negative
+29922683-eaaa-462a-8b37-147ab98b3bfc neutral
+64e9b00c-c3c5-454c-a335-a51756bd12aa #  positive
+20bc8a64-d436-477c-bd51-999751c69141 neutral
+89adc8ad-fbb7-425e-adce-b61fbce060ae neutral
+915b2875-34d5-4ae4-a306-e537f34e57bf #  negative
+c1132b3f-6eca-40ec-a57c-bab60d64594c # negative
+fee4f851-31ba-495c-848c-d616e7b2a5f3 #  positive
+4ea9411e-d797-40f8-84fb-a5c23268df27 negative
+061519b5-6791-4e24-be4b-cd02ec7a258c #  positive
+f2f2c51e-b0c9-4fd4-90c0-6c590016eec8 # neutral
+c831c9c9-8342-489c-90e1-855b06e5e9c7 #  negative
+964faeac-afc3-43eb-ae14-116ee26dfb3c #  negative
+9ea6245d-cb89-4a53-b792-73c454773fd6 #  positive
+648f1638-3273-4a82-a051-c3a306c46ee6 #  negative
+6bd91916-ac74-41ef-a3c4-3c622ccf5f1b #  positive
+3fe0adb5-81fa-4317-8e3d-748d3614549e # positive
+b83bd0d6-dc5d-4e05-97c3-0e2b80a6e402 #  neutral
+0b01705c-c722-4959-9434-2de45c441d54 #  negative
+242c4c4f-37c2-4732-a5a3-0b9f4e293a6b #  positive
+d6e3dc77-b6b2-4b5c-bbe4-6259104188fe neutral
+255524e3-9e49-4326-9e9c-a2834fee1939 positive
+af8ab5ba-bc92-4b6d-9482-4a1812edcc80 #  neutral
+e9ad8155-e139-4c5f-b5d5-508bc4cff201 # negative
+c8bf931a-3551-4eda-84c9-21563bfdc58d neutral
+f7b7e240-3dee-46c9-a1e8-41063c3f627b # negative
+78cba931-bd61-4cbd-b777-fa67d48402ab #  negative
+2d1c27e3-ea43-4f89-a192-cadbc7eda50e positive
+ae6f4f9b-d0d1-4d18-91df-bcc4777c3794 #  positive
+2cd75dc8-3e75-4695-b248-3b4f0e3bd7c1 # neutral
+fbcf2cfd-3afe-4272-926b-295a22cbd976 #  negative
+2277d94a-2cbf-4040-9cfa-b389b96fdaf2 #  neutral
+71380011-1698-4afb-b5de-096c3d535bf3 # positive
+c3ec9f41-b6c6-4905-9290-a347dccc9dbb #  neutral
+fa4f7e87-a495-46e4-a487-b5b6531e3564 # negative
+15407eaa-4755-41a4-a2d8-df4d09130d21 #  negative
+6f97ac44-73df-47a2-a9d6-45e70a2f07cb #  negative
+f0f61c9f-1eea-49a2-9055-98d260943af3 # negative
+7fb6a74a-4a00-4890-97aa-5265b2b45e0d neutral
+f388042d-ac93-4ab3-96a3-3a5879d032a8 #  neutral
+90836236-76b8-4916-b667-945536b5a086 #  positive
+c6e33d7c-14e8-4f8e-877f-edf05b39b966 #  negative
+b604d1ac-88ff-44d5-a8ce-c554067393bd #  positive
+62c141b5-8cee-4895-b06b-c2cb8a5d527a #  negative
+577da299-e82e-442c-8c9d-de78ee93841f #  positive
+b10469e1-c039-4b42-8eeb-122504cd2717 #  negative
+d3145c92-6b22-4055-b0fe-22ce7a011a52 #  negative
+093b648e-771e-4393-a99a-23b2f86bd8a2 #  negative
+3df979cc-3159-4367-8a25-58dae68efad4 #  negative
+e845e9c3-4aa4-4646-bc3c-7acdec4bbd32 #  neutral
+0dc57550-0de1-456a-a169-7ce237ef8cef #  negative
+2787e7fe-60ac-48b7-833f-a46774ddabd9 positive
+0ab05d68-b9f7-4b79-92a1-ddd98e9871b4 # negative
+6f5318c9-138c-474d-a783-a91f8e323923 #  neutral
+413f1ab5-f02a-45ec-89f3-451630b07bc2 neutral
+f35b2c34-5c81-4e18-b38f-46d12ecfb9af #  negative
+5fb71550-33b4-448e-bcf3-f69136315a6d # negative
+aaf8ba4b-24a5-4a4f-b057-86946dcc3a46 # positive
+98d72645-432d-4c0f-a265-f54c8474eba3 #  positive
+4b34376a-720f-460f-8036-0982bb7582ca positive
+ac0c7daf-a655-48ea-97c9-11f6ea94d625 neutral
+f4379162-88f6-44cd-8608-04b373598119 #  negative
+8a01e38d-7760-4d96-b817-fd5962c07bd1 #  positive
+b56d393f-c0da-484b-acde-359c66ea6b4b #  negative
+291d1f8f-aae0-4727-a6c5-6326296dc231 #  neutral
+fefacb64-d5a2-4450-bfb0-ee16de7a0f4b #  negative
+b91f3e63-acd1-4c63-b2a8-5f12780f9de2 #  negative
+5f9c9663-28b6-4dda-8a15-0ca18edc565e #  negative
+34a78c5e-dcb1-4ca8-9d77-c8e0bf323458 #  neutral
+b55cba5b-5b1e-4011-8ef6-714dc508f3b6 #  positive
+65f19ca3-bf11-42b2-9466-ba8f08699038 neutral
+23afbbcb-6571-4ee7-8050-0610ef1d76ee neutral
+f5db4cd3-5100-4769-8e17-85f4a88bedc7 #  positive
+7bb753f3-0f8b-44c5-8d88-9aeb2835eddc #  negative
+fc90bf05-5889-4414-9fad-2488c676d63a positive
+b07545de-207c-4476-9460-a26ca0b4e237 #  neutral
+6aa9e264-64ca-48a7-a016-fa505dbc2cc6 positive
+c2b793ef-5bda-48c7-bfcf-14784061da2a #  positive
+95cacd05-e752-47c1-8602-42a914b3e949 # negative
+bdd155dd-bcf9-4f86-90ed-d2611584b847 #  positive
+69b97029-46e4-4886-a2ec-a8b6a3415854 #  neutral
+a5e79e4a-7469-42a7-86ff-038818719ac7 #  positive
+2000aeb4-d412-4408-8ae7-c72c0e1b9b74 # positive
+d85d87a5-6c61-48cd-ae80-d434b0cc5d0d #  neutral
+88c842c0-cba1-4412-ba66-e703bafe7b73 #  positive
+f2f51584-d3b7-45ea-882a-3d2c0a4c6e7f #  negative
+44e18db5-324d-437a-93d4-21243a5f3ce2 #  neutral
+ee4305bd-5bee-4dde-9245-c3c7d95cd24d #  negative
+6379e136-6e91-4b42-bdfe-a017dae4f1d1 #  negative
+38f837fc-a930-434f-bc1a-bbb3985c436a #  neutral
+5f0ccbe0-5623-4430-9137-eaf54cf16bcb #  neutral
+390326bf-834e-4b5a-a9fa-be5bf7b0474c #  neutral
+286d08cc-d490-4f7f-a8c9-ae27390218ed # neutral
+ad345408-1171-4978-9018-ea5758e3d2f7 #  positive
+22955ea2-03c7-4d97-bc3d-36c90a311437 #  negative
+b6fd3978-52a0-4fdb-b668-d544540520f5 #  neutral
+3ae79564-bd28-429a-9275-5ede85b71ff0 positive
+a8129251-0438-4c5a-a407-bb336fdc4f5b #  neutral
+ec1710a2-0623-49dd-877f-c51869af3b39 negative
+a90849cf-3ecb-4506-b593-a9b8dc7a5471 #  negative
+77985d7a-6ec0-401a-ad5e-30ffd8bd917b #  negative
+9983e570-5093-4d13-ba7a-3be943cd607e #  neutral
+901725ed-9fef-4c7d-a573-8841842b82ea positive
+aa8a0252-d0b9-4fbf-ac51-3661abe04816 #  negative
+64b76d95-518c-4a6b-8d2e-ce76b6e7b132 #  negative
+1e56ce72-7556-4e24-af3a-a311c1939174 #  positive
+5b3c02dc-ba2f-455b-90f9-55fb04c1a37e #  positive
+92e3f90d-6c59-4ad1-af50-bb564c598e71 #  neutral
+c8ff2fbc-685c-4861-9502-ba05c56995a7 #  positive
+f968c976-d8cb-4aeb-9dd4-9287ca638328 #  positive
+daaa83ac-bbbb-4a31-97f9-3fe753d10cab # neutral
+c7bbdffd-54df-4a5f-9031-aad54dde4d87 positive
+02b6d851-ce3c-4baf-9dc8-dce81ea3e923 neutral
+a72b5616-5705-4215-b3e6-d9458f1708f1 # neutral
+f0895ac9-07bb-46eb-ad3a-16947776c77f #  negative
+0a060932-080d-414e-80dc-6e36ff4288f5 #  neutral
+ce1fc460-4a99-4538-800c-bb41f8b398f3 negative
+ac07adce-3e71-4599-bb16-ea549acb374c #  negative
+86b57f48-948e-41ac-9a9a-a405a61267b6 #  neutral
+1345477e-6f4c-4fe8-8b0e-1396b21af736 #  negative
+5d57e6c7-efff-4f96-991e-f43d3795b539 neutral
+d73a492a-1503-4d21-8e2c-ed8a79767c56 #  positive
+82716987-09a2-4165-b26a-30301a245dd1 # positive
+85c18188-5d9b-4cdc-b4e3-5ceb8b897296 #  positive
+1f39fb0d-18c6-45b8-974e-1da6bf721f23 positive
+8eccc4f0-069b-4c0a-87ad-5a536b884e1e #  negative
+d7572898-b6a4-4e95-b136-d8974ec6b969 #  neutral
+96825e6e-82ce-4d65-b949-d818973e934d # neutral
+dcd990ad-4746-443e-a94a-96f1fad515b2 neutral
+84fa7d32-b1d5-474c-969a-d93167e14cae # negative
+eff7c3ba-7292-429b-a549-1666e1082ad3 negative
+d790b90a-05bf-463d-9559-af56e83a683d # neutral
+d80f9852-8bad-4ef7-871c-1c70b929d491 #  negative
+27d8b9a8-4cf5-4f13-9f5e-2d09b1067ce3 # negative
+6900467d-2d02-40f9-a30f-42162bac6a57 # positive
+879f1a33-c2c2-4026-aa76-6cbcd97665b4 neutral
+d526d5f4-03fd-46a8-b875-6d373661aebf #  negative
+f8379f58-012d-4b45-b3d0-895802f32fef #  neutral
+e9ddc820-d181-4462-8c53-8bb25255eeb8 #  neutral
+a6edb2e2-265b-4074-bcb2-a065382440a0 #  negative
+43e494fd-0366-4212-874e-feb3a26c7416 # negative
+169a8776-d18c-458d-9afb-5a4e8bba3bd0 #  negative
+d60d8a60-6832-4fa8-a4df-07f6eb476b9d #  positive
+943318e8-75e2-4f99-80af-a17aaa2cdbd0 #  negative
+b34d865d-4c3b-4c8b-80db-e7f216980264 #  positive
+94b05059a-5cd2-4cf3-ae5a-682bb2429273 #  negative
+23067842-0cb3-44f5-be9b-acaf6ec9bebb #  neutral
+a98590d1-9db7-4397-9b74-61ad357bd204 #  negative
+0b62e521-4685-4ab4-84d3-9a26e5aa1a87 # negative
+ebdeadee-af08-4d24-b6dd-0e53c38a4afd #  neutral
+1411f096-c4a0-4afb-81a2-2a6949acc040 # neutral
+90d43d3e-d921-4611-8135-9bbc385efa83 # positive
+50b752f6-cc50-4ad8-b30c-5c86e3775ca1 positive
+a7550448-049e-4014-9a9c-8d96f7f77b4f #  positive
+3ec8f588-01b7-478b-8247-032a7a772e57 #  negative
+084de611-e0cb-42e5-826a-5d28d100f19e #  positive
+4ad10796-3bb2-4b80-a298-5c1986a9e643 #  neutral
+1fb8848-a441-4caf-bc0c-86b24b996b9a #  negative
+e610319f-9036-4df5-b13a-0c23f08193c3 neutral
+43a29d7a-a03b-4171-9edd-2767d08f645c #  negative
+28d11be8-f79c-4400-b4b3-e295fca7afac #  positive
+f5d71c77-90e1-4913-a968-1b500b79117f # positive
+44ace8fe-7912-4026-b9cb-fc2ca1ca04a1 #  negative
+66ddc954-fdc7-4124-890e-72fd40f328e5 #  positive
+554d6707-c3c0-44c9-92fa-f7699043bb9c #  negative
+ca9297f4-c3d6-4308-9525-ff21015a99ab #  neutral
+d2c03930-8f53-4fbe-b100-8d11ca8806c5 #  negative
+82669be7-9de2-4ca2-9531-21b373d5f828 neutral
+c319719d-b67c-4a09-857f-42b07705581f #  negative
+c54ffb7f-bd3b-4b39-8449-0be54884bbd3 # positive
+21bfaa44-3307-4b8e-a9ac-71ebcae56745 # negative
+2b21e8a0-7547-4e14-bbb3-ba816bff8cbb positive
+badee3dc-d6a4-4af5-aad9-3f2b9cbfdaff # negative
+68d55fce-4c9b-45ad-93a1-5ba9289a6326 positive
+1cfdbcc9-8c2d-47fe-a5ef-18433795b2d4 neutral
+546ec5c0-bdbc-4971-ae2d-2aefe0ee96fc # negative
+97f498e9-438e-4bc4-b08e-9a428a97fa56 #  negative
+18ec44a0-05f2-4c22-9242-4a585a62a4b9 #  negative
+fb490b59-ca1f-4f7a-9678-fdbf60bb9b07 # negative
+53f8d6c2-1293-4e69-a5ac-12e7426f4d56 # positive
+f81f762e-0a60-43fc-afb0-9a062549b935 positive
+c75e08d6-7e68-4595-ab89-57295c1efe9e # negative
+70144e81-a379-4902-b274-13295e9e5e61 #  negative
+a9f4c49c-7a70-490c-848b-508b05505210 # negative
+345bd57b-b97f-4b44-a632-db121d605da3 # neutral
+39e0ce38-5ab3-4ff1-ac23-b4c773cc5f5d # negative
+3266dc0a-1dc8-4c19-be1f-44751bdfcb1d #  negative
+4baeb5fa-a4c9-4a51-baac-57c8dd64e15b neutral
+a6691063-3269-4273-a490-506ff30ce1d2 #  negative
+d6f09488-4f1a-47a8-8202-5d5cae1d368b # positive
+b5e814ac-713d-4ef8-bee1-2875cafc5783 # negative
+fb7137ca-29a2-4502-8b85-31ee85850da9 #  neutral
+8abadcac-7fde-4851-89ec-7b6ffc3ebfae #  positive
+4326562a-4d51-48b7-8f2e-47c17e9976b4 #  neutral
+bb7d444e-65cc-44a8-87b0-972ed1c200c4 positive
+46530728-eed8-45a8-a6cc-2cbf3371eeef #  negative
+486c067d-8add-4540-a75e-9c302c71167b #  neutral
+d817da30-e886-4a0b-8533-1f73a87ff746 #  negative
+c6a4ad05-83ea-4a9b-bfca-0a3cbea494d3 #  positive
+beb7677df-32db-443c-b5e8-5be57e29e92c #  negative
+534ab312-d2dd-4147-81d5-e386be8373ee #  neutral
+a0ec8bb2-4d0c-4f5e-bdcb-5cc606f1902c #  negative
+fc314436-10a6-48de-969e-fd8ff6af1b12 #  neutral
+f88c8b98-2175-4aa2-8c65-eceb06e6e2a8 #  positive
+14056a7b-c383-455b-8061-2fd56fe1e8bb #  negative
+5b62f36d-ca50-491f-93b2-41c8568dfeed #  negative
+9746adc9-4192-4910-afdd-7cd7b637d539 neutral
+42af0d71-01de-4494-b2f2-59e17e38cf21 # negative
+9a1b9ac0-e1bd-4679-b53f-a0f1a253e125 #  positive
+9177075a-7ed5-4cb4-933d-a9eb07e82df4 #  negative
+c8baf0b9-a414-4ac5-887c-2f58056b5550 #  negative
+0bfe1f95-3e43-4b3c-aec6-680530872d5f #  positive
+677a4c8c-bfda-4cd7-92ca-16e39e1748b8 neutral
+6c6d23c6-8908-4f21-a9d3-f369a8cba2b0 #  positive
+988ffd40-7656-4794-8c7f-cdcc35ba67fc #  neutral
+bb559914-7aaa-4ba7-b36c-422b59f7c2e8 #  positive
+9f2b52d1-9418-4fb4-b3c6-a2662ebc83d7 #  neutral
+3ccb817b-8bce-48fc-8bdc-44a127d7fa18 #  negative
+36205759-6be2-454c-badf-fc1846ccfa04 positive
+284bf1f7-03f6-45d5-8b95-0fe40a32d5f0 #  positive
+f9bb57fc-a0ae-40b4-bdd7-8ff0d6581e2a # negative
+90598085-809f-48f7-aee8-6e041a135066 #  positive
+6615ebb3-8e10-4a13-a7fd-0c127526e0a4 # negative
+d468f6d8-50ed-4a6a-b985-424e504f5de2 #  neutral
+a595b780-df2a-435b-a24b-7335ccd934a1 #  neutral
+498e48e3-df2a-4dda-a8a1-d7a9ed09894e # negative
+f1022fe9-070d-4e68-9d75-a403a0c2b7de positive
+61e9f801-8db8-4ee9-9491-922c88a27adc #  negative
+36c54602-9fad-4a6d-a397-ab4107d5603b #  positive
+0a48e094-2e65-4b80-95d7-4de046d1a0d8 #  neutral
+cf9d3074-554d-4c27-88c4-4045b55eeb4e # negative
+263caefd-da74-43fd-b7bb-3d086ba11e0c #  negative
+f766da2d-918d-4cf2-9898-b91a52e3a6b0 #  negative
+2f3a55f1-afae-4a1f-b43f-a02a7169ec4e #  positive
+5405872f-cd64-40fd-8259-dcbc6a9afe58 positive
+09d8f815-6bf6-41cc-b781-2dbccd3f376b #  negative
+7cf07213-8509-4e28-8c73-ec5f8b6aa9cb positive
+07739435-786a-4229-874e-daf267dda293 # positive
+1b96f4e2-dc17-4bb9-bcc3-a39d3dbe48e7 #  neutral
+f6e0d1be-aa5b-4c85-9ac2-4d6529845819 #  negative
+f0493774-dbc6-4af0-a4e1-d0f4e88343a3 positive
+7952b40c-df17-4274-8bcd-94c642e97134 #  positive
+9082bda1-4e73-440b-af52-24b9eb50656c #  positive
+1898ad07-fcbd-4585-9b03-bd4071134c53 #  neutral
+ce28c0d5-82e0-426b-b8e6-303a9026f5fd #  positive
+c0617386-e7bd-4ab5-9103-7e665746e746 #  negative
+8bed0c88-685b-455f-902e-014827255ca8 #  positive
+a96b2c0e-6113-473b-8544-e3129afd5c45 # neutral
+f102af61-523e-49a5-ba46-1b56115d5632 # negative
+9a871a89-7d92-46f1-99ca-9d337e70ca40 #  negative
+a935a02e-248f-4fa2-848e-2426ca5ce29b #  neutral
+7bcb4370-0645-4c4d-adae-90f52ae28b4e neutral
+7a0c0eab-7091-4f23-aadd-f14fd7ce4548 #  negative
+db7263bd-9cd7-452c-b5f5-991931008fed positive
+6fb38f3e-a2cb-498c-b9d5-f064e0e7e524 positive
+d77a53cb-6e3f-4d01-be34-97affbf83827 #  positive
+facef7b9-5035-4581-bbe2-698724aeac11 #  negative
+f49b522a-e2ce-4683-b64f-cdd5856a6b13 #  neutral
+16f0ec04-f577-4c64-bb43-6f1109ec66d8 neutral
+2886e7b0-d83f-45a5-9a8a-d3a1b50bb9ae neutral
+0add8144-42ff-4af3-86c7-00844f5266c9 #  negative
+719d8866-7932-4d97-a8e8-3a35fc7b2191 # negative
+8b208be5-2616-40f3-98c1-fc69270434cb #  positive
+ce3d53ba-24d7-4779-9626-35155e6df28a #  neutral
+ae8c1665-ea4b-436f-ab02-82a855cabfd5 #  positive
+a1e2f4bf-78f4-49ab-948c-9c736a970e76 #  neutral
+dcc9945f-e8e2-4a2f-a16b-615b12a1df63 # negative
+ad440b4e-8a40-4b8c-a6c8-42e8a31d1510 #  neutral
+318a6abd-4e9b-448f-a546-96778dfe1248 #  positive
+f351ec5f-de11-492b-b185-dc279318377a # negative
+6fc1fb01-2d8d-4036-a28c-8b3c5692ce63 positive
+fb626f47-0b7a-4ae6-b860-a27eb56fcd75 #  positive
+65bec82f-4c96-40f0-8786-17056684f8a6 # negative
+e6b6d3d1-79a1-4211-9a31-95364f22cd78 neutral
+8e6901a8-13a9-4343-a6f6-3420f46bc42f # negative
+c4311c05-1548-4b65-92c2-56e4f0351fc3 #  negative
+352e810e-2e9b-490b-a566-73fbf9f2a264 #  positive
+c27e00f1-4142-4ff2-9750-5f0b4eba39ba #  positive
+9a186201-c9db-4bfe-b127-c55b0fc1304c #  negative
+013844498-860f-45c5-96de-ef5f2d2df54a #  positive
+b2d98fb5-1d5a-4a49-b546-142628c29e06 #  positive
+0b5dd9a0-2bab-4b72-bbef-b60296495399 #  positive
+f7ec49c8-96dd-4f8b-a4cb-b1b6c2c40e1a #  neutral
+7b697c26-228e-4754-bc52-d0f7f0c4e4f8 #  positive
+c49c0702-5b17-4fcf-bb50-1250292794f0 #  negative
+90aa90e0-839f-45e3-8d40-6eedf1031654 # positive
+91ee2078-4798-48fa-b30e-d18bf91da2bb #  negative
+e235ef2d-fb61-4995-aa44-a1e55400f8a9 #  negative
+4d4637a7-31ec-4055-8106-3f50e5bf064e neutral
+b8fc4e52-932e-4bd9-95bb-1e696aeebbde positive
+53127406-4e3d-444d-888f-e229b4e864f6 #  negative
+e97b1de2-1e7d-42d5-8d6c-d7be76252435 #  neutral
+196b41d9-5807-40bd-bfe4-142224301c54 #  negative
+26c75241-2d8c-43b1-b087-a79e6cdfdd09 #  positive
+72f63eb9-90e8-4be4-b157-53255ac0f591 # negative
+94ee5d0b-1581-49ff-bccd-3bf1c8775a01 # negative
+b29af7b0-b1b7-48c3-9a03-ca5f29260695 #  negative
+9dff882d-90a0-41f7-8e91-f65831db0d06 positive
+8cf18b17-3257-4e31-8efe-c984e2fc87e0 # negative
+b2c42d3a-d1b5-4854-bc96-a1400fc0884b # negative
+d66cb834-0cce-45f2-9222-3f57284af27f neutral
+458a1633-162e-47fc-b246-b3cfb6c36eb0 #  positive
+aa94fd66-79a6-46bb-99a0-2cf33e8db240 # negative
+b74f527b-0264-499a-af35-ef5b16e4e3eb #  neutral
+3afb4988-d3c6-43c5-9cb7-4a25d83d64f3 #  negative
+ed1eeb4f-984f-44a2-a23b-eefb49ace5a0 #  negative
+90c1e519-aa02-4ba7-bf52-1d7aac545f1b #  positive
+c148835d-bdce-4494-81e9-90b26994cb97 #  negative
+18ed13a0-7057-4fbf-a6ac-65b8cc95f48c #  positive
+995f6788-04c4-4731-a67a-37a929172a66 negative
+8903c219-859b-4f43-bb91-3e1374a9b960 #  negative
+e36e0a67-2bc3-483b-be73-14a68f4d2a4a #  positive
+7b766eb0-8e44-4806-b5ac-35ea3993d4b0 # negative
+41c4001f-df27-427d-9c35-119fbc57c4d6 #  positive
+beca2ec0-3e29-46cc-9473-2f7459f2a6c8 # negative
+fc12d1c7-6a4f-4da1-a9cb-839c2d2838ab #  neutral
+722b1d15-9042-4bcb-abb0-298a53083898 #  positive
+8ce26a39-a2c6-4ec0-9b3b-a0413a97eee0 #  neutral
+b660e337-beb8-4768-aa8e-748468f4ba73 #  negative
+0d4bf165-1a6d-4062-85cf-d924b040116b #  negative
+f9986551-8ee3-4734-a836-1bfbeab423f1 positive
+fe9c2c18-ed0d-4f2f-a101-4272239b4466 positive
+723bb9a4-04b9-4a1b-a0e1-6bb683c33b5e # negative
+6421baf2-cb54-483d-8162-0727b00e3d91 #  positive
+ce1d6452-20d8-4cf8-949e-0d067debecbd #  negative
+c0ea3171-96fb-4242-8045-ec0b645c7674 #  negative
+916dcd54-c8a0-4fb6-bf38-ef962c9d917e #  negative
+b75ba1c4-d7d3-46a7-aea6-aa8cb1ff240a #  positive
+24c4ddcf-5cfb-44ea-822e-5f3724c62886 # positive
+bafd25d3-cf6d-4ef8-b1c9-fd1584961e83 #  negative
+55c452bd-a840-43dd-a802-71c67379aa4f #  neutral
+1453788c-b49d-4de9-91ab-78fbfc44ecce #  positive
+f0bf4381-ccb9-436c-9cc6-0837cc49acc6 #  positive
+1f3ccf78-98f3-4542-af5e-9074dd5df4b7 positive
+eeadbad2-f243-4a12-87cf-d0610857f33d #  negative
+af3a662c-2647-401a-bfb1-50aa8b9f778c #  neutral
+6b3e690e-b12c-48a5-b578-b8e61aa778dc #  neutral
+390e47e5-c9d4-4095-943c-7d59b41dd278 #  negative
+dd48af44-b661-4c23-9a19-923381506a67 #  negative
+47d777bc-e4cf-4866-9266-d19e2d0fb98b # negative
+2deb772a-2f1e-4a68-983e-0205953d82bc # positive
+c8f45603-536c-4537-ae19-0f955ec8d1c3 #  positive
+9bf43304-f07c-4b23-af63-b69962c63d69 #  negative
+bfc37f7d-4387-4dad-9504-02322c2b0637 #  positive
+004cf5b0-09f4-4965-9476-fb239642fadc neutral
+01ed2c32-e21c-41fb-996c-63ce3285a67c positive
+0c069597-3497-478f-8db8-2343a68c1e7e # neutral
+94c663eb-512c-485f-a57a-27f403446955 #  neutral
+4e04659e-cd86-435e-8c5a-5d62a92ec8d8 # negative
+a9c66f98-15d0-4972-b468-3f5f56d0a5ae #  negative
+1c26b5b9-c5d7-465c-8b3f-e55b673880f5 #  negative
+306c01ed-429a-420b-98b7-28fdd186ef9e positive
+981118e9-c52f-4f2c-b19d-842a6a6f2999 positive
+18785b49-95bd-4828-b010-a223c488232d neutral
+dbe51bee-d4e7-4590-ad8c-0a8fc046f981 #  positive
+fb9e80db-4aa7-4988-ac18-cd60a7fae1a3 neutral
+8d63e955-542b-4736-b606-736c953a5f64 #  neutral
+f3050ea5-921b-4fe5-8027-d248e8523af2 #  negative
+92ec4058-73ab-4a85-b1e1-5d7adeec40ab neutral
+e86c7ee5-451c-4fc3-b18d-0aed5b9e773a #  positive
+2264f649-2ba9-48e4-8cb3-203a493c6170 #  negative
+8cf378d9-dd13-4f93-8ee2-cd9304d50cfd #  positive
+2f8b27c8-8acb-4946-bb3a-22fa5412178b #  negative
+474f5bc6-672c-4970-9494-c1c2f32876f1 #  negative
+83e5d50e-561e-44c9-ac84-7fdc80e933cc # positive
+6fa609cb-5d86-4e62-87e4-d2ad94ff77cd neutral
+ad6776fb-7596-4641-9832-0c598f1c811a #  negative
+92475ec1-97a0-4b46-8e35-80bcf15b97a6 # positive
+1312fc06-18c9-468e-ad61-89e72dc1f8c3 #  negative
+ad99a585-cf41-4dc5-a64a-c05377a019a3 # negative
+ad780ee2-8b66-4f97-bd61-eae5abe3754f positive
+15f2726e-7b34-4f16-a081-eaf22ab0f9dc # negative
+9e0e4136-24e0-4343-b6c1-a0f7e10685e4 #  positive
+65d53dc8-44ac-4b87-9904-3e56f53fc63b #  negative
+13948fb3-e38c-4a8e-9fb6-455663c0686e #  negative
+694ddc5d-a74c-4f63-8bff-f70f236f7559 #  negative
+a4bc6326-54fb-4420-a1cd-dd2f1f2759d8 neutral
+9d8c2db4-ddfe-43c8-9b35-bb2a6b50ba32 # neutral
+5a590aeb-77ac-49eb-8cee-bcd7d516c799 #  negative
+637b0b7a-f4ad-42dc-81cb-5ffcfdb598eb #  negative
+f2b6cbe0-7051-4d72-9a3c-bda2a7541d7b #  negative
+999537f4-8084-4b30-bb5a-9e33545a3b6d positive
+f46a5d79-953f-40a3-a4de-e3e7664bd8a3 # negative
+622caad6-3e3b-4661-9b94-f8e35455776f #  positive
+e3f5bb82-80e9-46d7-a868-f2e39ccea95d #  negative
+e91d8f57-c6e2-47fc-bfc3-658e47508b7b #  positive
+aabd7010-8ccb-4ffe-ad7a-5c6949ed906d #  positive
+327b0a8e-fe36-46ef-8f7a-35623a8ada1a neutral
+abef8e86-bb35-4c76-9905-0b1fdb564c9d # negative
+45653949-2bc9-4956-9c07-e3d35da0b6a6 # positive
+2f5a790a-2c7cab1-45ff-a8b2-e62e16e4d068 # neutral
+6cfbfbb4-5873-4fea-a16b-03c6797c4855 #  positive
+94f490af-fab2-4619-bbf3-c238d6fe5f9c #  positive
+7e212d7c-b4ef-4521-bb52-c1f4ac5f650a #  positive
+d57250de-eb1d-4af4-be30-be97d2b8ea73 #  negative
+60b39ff0-e706-4f55-8b6a-023a3be8d054 #  negative
+d1fbbf17-9a28-4df1-bb8c-866227590b56 #  negative
+38b955f5-82a7-48e2-8486-162e4069e5f2 positive
+29f80105-aea9-454b-a10f-b8b40e873840 #  neutral
+8a90a860-6535-4f4a-8b66-fde856f179ef positive
+90907a33-5532-4150-9ebd-1a8936a9bee5 #  neutral
+73a8d38b-cdae-4723-abab-72dc5fac59b7 neutral
+97d50bef-90e1-4677-bba1-4993d96e8c41 #  negative
+c269cb85-8bd4-4637-8b6c-0956fb4a8dc0 #  negative
+ed4e254a-eed6-4087-a313-5168570490f5 neutral
+b0386a4f-187d-4953-9fb0-53870c9faa4c # negative
+14f21cb0-6d19-45bd-a68e-64ccb824bcec neutral
+1e9a73bb-19e9-4d55-ad13-7260ca7339fd #  positive
+62353cae-ece5-4473-96ac-38f7d337dc42 #  positive
+7f8cdeb4-5934-4ce3-b0d8-4e11047cebb1 #  positive
+054af8f2-d93e-4645-9309-e3363ebfa551 # negative
+9c23aeef-8749-428b-ab1d-ea5b750d38da #  negative
+8b770ff8-f121-4b43-b9bc-0a4cf6c49b6f #  positive
+98064460-6988-45b2-ab76-5d33dccb2aec # negative
+6e057156-505a-4125-bea6-d575a02b5124 #  positive
+85badeef-61b7-4e07-bc62-c84cfeeae4d5 #  positive
+ead94649-178c-45ef-ba45-b89b91bdcbd2 #  negative
+ee5c28a9-5f2a-41fd-8d86-304a80d4e4a5 #  neutral
+f17d44e5-b635-452c-b9ee-0428d5b3cee3 #  neutral
+154c2fd7-04a0-4c09-94f5-f1426504490f #  negative
+59785a0c-986a-4b0c-aee2-3b4d47172ae4 #  negative
+8f339862-fa7c-4fd1-8045-1b07bc2ee4c8 #  negative
+b67234bb-8831-409c-bfdd-8ead127f577f positive
+a48b3fec-8720-4555-b759-20251863f14c #  negative
+f665a41a-e528-4c0e-b7bf-5aa0c68746e1 # negative
+d23fd26b-9705-4bb5-8ccc-bbdc7a110b22 #  negative
+96afdf3c-d3b3-4dbf-96a7-304cd1352ee7 # neutral
+78cb9fde-ea3f-4ce4-aa84-26c3f2c23864 # positive
+9bc2831c-9736-4d54-872a-f6551fe0ef38 #  positive
+5150d0ea-7037-478c-ad0f-09aeab6cb12b #  negative
+be452f72-295d-440f-8c98-f56d314180a2 neutral
+78b6e408-eb3b-449e-a816-e77b1a639d25 #  negative
+838d39c7-51dd-47aa-8cf9-d15e3f0ec4b7 # positive
+e0041d40-f720-4c87-9b17-3ca7c1d97c0e positive
+34f8f8f7-7fcd-4805-a04a-83ee6283a5b1 #  negative
+87cf9231-f385-411b-8eec-83df0a1c421e positive
+387a0bf1-d5e8-4cec-9359-9593fbbd83cb #  neutral
+0c1b8400-eeff-4bcb-9955-1e3e3931ec1e positive
+05eb4747-4e30-4bd2-a40c-7e219dbadae3 #  positive
+38a93ace-1afc-4563-8495-fef7f970138e # negative
+c4356032-650c-457e-9eca-7be37dc61626 #  negative
+67f90753-6c85-49c7-a7cb-8d1273a1101f neutral
+b61be77b-bc60-4a88-bcd7-c6dc42085f6d #  positive
+ecfecb60-5225-4f2c-9a8a-296d8ad8c077 #  positive
+cb8dcade-7834-4fdb-8c39-345dedc1fc51 #  negative
+868c82d2-2b41-439f-b8b5-fa15c4043b95 positive
+d2c9a2e2-87d3-43fc-b0e7-292ff13011f0 positive
+c6d1d2f7-7fd0-475e-adf1-0711b668a3d0 # negative
+84830baf-1cd5-4abe-9448-497da44fc45f positive
+49972324-5539-4c7b-ba78-5458d52dc179 #  neutral
+e33b2cc2-d3ea-4832-a465-7cce5ad9cef0 # positive
+7f11ebda-144a-467e-9525-5e36dd292bc0 neutral
+5ce5a563-7446-49b6-b604-2e96d4e98157 #  neutral
+6214b00b-6db7-44f3-82c0-a76445cc71ee positive
+3ddd54b3-0dcd-4e12-ab8b-244ece4ef15a #  negative
+4c5a2cf8-bcba-4b43-b292-bde834a8a7f0 neutral
+56d9ccb8-4cb5-4d02-a41e-97eaa72cf580 positive
+44f8620d-d9df-4df4-a89b-8fd8d684d563 #  negative
+31deaebc-d35d-4ff2-a8ae-068288ee970a positive
+60df0180-a959-434a-9771-8942239e306d #  neutral
+657a2262-0f21-4e89-9539-59ff8eca0177 #  positive
+8008ffd6-7b86-4864-a17f-ea8e559349d5 #  positive
+4893c2ef-33ce-45d0-8dd0-fbc27cfef776 #  negative
+8c4fa1ed-47f8-4850-889c-d7e06f69007c #  negative
+1d674d00-f581-43ae-a2bf-90b93c69facb # 1 negative
+acd3abc1-58ef-4526-904d-fc28e33feb83 # positive
+9b4852b1-aa56-4ef1-9398-2e8869ae3ef1 # positive
+bb9cc70d-24f3-4e4b-b9ce-94881e8354b3 #  negative
+b016693e-27a8-4cde-ae9d-9cfda6596a21 # positive
+e5903b8b-ff4f-4ceb-9fbe-b383c5d654b3 #  negative
+9359383b-ce2f-49e2-929f-7dcd63c51d64 #  neutral
+9881f6ca-cbb7-4591-99aa-f4c01a61adc9 neutral
+e63186d8-9f08-4ebc-b5b0-e61a0790d8b5 #  negative
+77132b53-00ec-4841-b5c2-174be0acdc8b #  negative
+7f5c2301-ac31-41f2-b9bc-d347e6c61252 #  negative
+e4465d78-0c26-45c7-94c3-3b2477ac301e # neutral
+526b86bb-1162-4fa5-8118-d875f7167cbf neutral
+e9e9caa5-d696-4f7d-8be4-141f13868d7b #  neutral
+b3ea252d-064c-471e-824f-c66d967b97a3 neutral
+879a0154-67bf-4141-b6ac-548c2c2b7f07 #  neutral
+059b0d8b-0366-4377-ad89-f587569cc38c #  positive
+5997d52c-100c-4e9a-bcd6-3699cb270f1f neutral
+a968da05-93ab-4ff1-a1f2-e597f565d7e7 #  negative
+b5184519-309a-4752-ab2b-755e095946fa #  negative
+96d08444-162d-4432-9f71-39262a081b31 #  negative
+490e962f-311a-4835-8feb-c22d45a14e4f #  negative
+bb7dea49-331b-4e49-8f1d-07f25bb008cb #  positive
+dd404f59-6817-4890-88d2-85cd2b30bdda #  negative
+63b9359a-5c7d-40db-8198-b9af9d28559b #  negative
+0ca8d8cc-6375-475c-9b56-7637160a08f3 #  negative
+dc5e8bb7-64a1-4467-8426-f2303b01c8de #  negative
+abb0f3da-1eef-4dd4-bd78-d17927aaceb4 #  negative
+2a4d5678-bbe2-465e-95aa-8a9d5447c6fd negative
+e1a8875e-3672-4bea-9f90-e567665d978a #  positive
+b4188976-f45a-4744-93b4-518275efaf74 positive
+7dc51d64-bea3-4c00-8ff8-82782b992b8e #  negative
+b1159e73-bc97-4550-a075-81463121feb5 #  neutral
+71ffee72-9742-47a3-b59a-8bda958e9106 #  positive
+5fe8ac5d-c68d-4d5d-a85f-2e4b401c9d08 # negative
+f93f7e0d-25bf-4ff9-95b2-fe0afdad56fe #  negative
+63172a07-60ff-4968-9275-871835b93c04 #  positive
+64356fd5-b06f-4d44-9b32-c04d5a74da87 #  negative
+51209427-7571-4cf1-b907-b982b3fcede6 # negative
+39d1054c-04ab-4c31-abb2-e32985a499ce neutral
+1dd9909-e612-4089-9cf1-9d0fd8e0c42e #  negative
+49a79ada-326a-481c-838a-e912dbbc057b #  negative
+9f1eda80-e15d-4e2f-9b79-54ae20635f3f # negative
+79001460-63dd-4b17-a073-87ee7b4485bc #  negative
+d80b2062-5eff-4624-877c-71f453c9665d #  negative
+898c155d-7ba4-41cb-9dd8-da3664e484a4 # negative
+63534650-a48b-42d1-9cbe-246fadfa08cc #  negative
+fc2dda05-326a-4107-b39c-7c703f58a4ee #  positive
+50bcc8cb-fb3a-42ad-85c8-1bcc91649267 #  negative
+d55679ef-4846-4335-91ea-57118d93f559 #  negative
+e0a1213b-d539-41a9-b35f-42d2e5317b44 #  negative
+ab3d5ad7-ad1a-4812-a5aa-817255c99466 #  positive
+11674cb4-8358-44ce-926b-634cef250113 #  positive
+e5a39cd2-50d5-45ea-9061-6ed8557a0221 neutral
+ecb5012c-609b-4723-aff4-a5eaeb0fe9e5 #  neutral
+5e35b3bd-0266-49ca-9df9-96e2009df04c #  neutral
+af301fc9-078b-48ae-a465-aefe38a950f9 #  neutral
+909321bf-e011-4509-93e4-2c60624ecf53 #  negative
+a70c3a7a-23b6-468f-8350-0b36f3969316 #  negative
+812827b3-1913-4e1f-9738-8ff10e30c3a0 #  negative
+fb1d90e3-aad5-4d73-9f0f-55cb6510ab4c #  neutral
+e1c628ee-435d-4513-a828-9b751f7d98e3 # positive
+ed813eaa-a93c-4c2c-ba4e-326d1a956e2a #  neutral
+9434a950-2c21-43e4-a2e0-dc9cc363510e #  negative
+a2c483ab-2927-43f7-af5f-1a3f64c3caee #  positive
+e86401e8-b81b-40fe-8df7-7c64b760ea06 #  negative
+47c1afc9-38ce-41de-b1be-d1b11c7dbeb9 #  positive
+f97633a2-69ec-48b4-89ac-cd4d990860bd #  positive
+b35445d5-56ef-4e24-8a21-3b251ccf0f9c #  neutral
+1bd15f39-dd07-4d12-8d5c-1f057061a38d #  positive
+e8f0448d-ea22-403b-a334-f65b9c564a1e # negative
+ea577fbf-ef6a-4904-9101-7833a0c09902 #  positive
+38b89369-bb21-4e1b-a438-bcc9aaf09907 #  negative
+4573c074-47f3-4ca4-972a-209472f018b6 neutral
+6e49977e-40f6-4c12-873e-c7d85f0ed1f9 neutral
+371db0da-1eb6-4c82-a3c4-90a6efeea1a8 #  positive
+fdddab8f-f790-47b7-8cff-b4c57f1773fd #  positive
+8b7dfdb1-a73e-4b67-8891-9edc4296d19f #  positive
+ec2b7c09-9e44-4a7a-9b88-7574d867bee6 # positive
+54ed4eaa-66c4-43fd-af50-e089859f24c5 #  negative
+d79df40c-5458-46ee-b881-f3ff599f854e #  negative
+cca9afdb-b441-4798-890d-ec56827e217e #  positive
+05e7939a-312d-4780-a50c-0d3554cae072 #  negative
+64ccb624-dd37-4f15-a3c7-5097b5225d89 #  positive
+95fb6b2f-f25f-4d0b-b353-af3d3c2d4805 # negative
+8104dd94-276b-4f45-9768-cc7fc5f4fa33 #  positive
+25a6e931-a6d4-4212-ae08-8a943b182c21 #  neutral
+33cfee28-17fe-483f-9557-45f448a080f0 #  negative
+f1a5bd70-4757-47ae-9929-1e5cddd17c53 # negative
+b856d9ff-1389-4c67-b002-3f8a988fddd0 #  positive
+8b33084b-2913-474c-b086-4d7ec4bdf2a7 #  negative
+05231bb7-31ea-4d80-85b5-90d05a79f8d2 # negative
+9a78ba98-07dc-4f82-b981-3feaf74a0efe positive
+0b389a86-cf33-474c-9dcc-ded3a646cc57 #  negative
+9972ce8a-448d-4276-b3c4-642b844e7997 positive
+c91f5948-e2bf-4379-a4bf-0b54d52ac4e6 #  negative
+0acf3994-b8b2-47f6-ba5f-dcb3b6be366b positive
+915e75d7-703b-425c-ab97-cb3eef92023e #  positive
+cbd7150e-e816-4618-83b8-27d4891b7891 #  negative
+ccb00be2-1dc7-406f-8845-8522e64ddea7 # neutral
+3d174f9e-1ef5-40e5-8df8-393490d02d24 #  positive
+72ab5731-3a7b-44b7-9be1-4555215bf5c2 #   positive
+7b44d89e-3164-44ec-a3a9-fd2e4e946ee9 # negative
+48bbb650-8b6d-48a0-8235-a1a8154bbecd #  positive
+3b8667fe-ce97-4a5c-adcd-14aee9d02ba8 positive
+1493790d-3b27-49a7-9ac2-0088c1b8ce6c #  positive
+61053c94-8262-4960-8fcf-c1fc81525c3d #  negative
+99653118-9985-401e-920c-b2e9c3458cc3 # positive
+18111e13-05a2-40d3-a9fd-be05d066ac42 #  positive
+756f4019-b72e-4851-807c-ec5572c82109 # negative
+7fb601ad-3b54-4275-9e90-31d27f517f0b # negative
+5811f02d-a947-4e75-a4c7-d4dc39d063ce # neutral
+527a32b0-66e3-4a5e-955c-a682d8e9d043 #  negative
+baac638a-dc0e-4fa2-8c94-192db205a849 #  negative
+b9b59d5f-2d24-4004-b094-41129c487b44 #  negative
+ad687754-eeb9-4f0f-8042-6561157adcb5 #  negative
+735ebec9-aea7-4bca-90b4-812499fc8f5c # positive
+abc1a333-cbe0-4104-9165-c03f20d6360a #  negative
+8a9d470d-497e-46cc-b35b-9a0bcb2c8a85 #  negative
+4e415660-616d-4565-a359-d64548ecb812 #  positive
+6e03ac04-bd73-4332-9774-f3e4467ac17b #  neutral
+c6dd7f58-038d-48dc-b169-996f083ca763 #  positive
+c323551b-0e68-4328-bc12-ff8221fa5c73 #  neutral
+c9b16d8a-0923-4dc6-8238-47fcd08fc408 #  negative
+7e1e48c4-cde9-4718-9805-94b8c4b8e9f7 positive
+57141d72-4cbc-4a43-865e-a91374c08e1c positive
+d164e4eb-1f95-4979-8581-963c0cce230f # negative
+0dd6d8e2-d42c-4ab9-93d2-9a334cb2822a #  negative
+66cc7913-929f-43a7-8b08-184e60f1c485 # positive
+57efd564-a9c9-4af4-a23b-2291ba6b21c4 # negative
+f2c70f5f-2646-4feb-9345-268c31906a17 #  neutral
+c78810bf-9c8d-4c39-a3f9-3d3dc63ecbd3 #  negative
+117b0e74-6ab9-47e2-b02c-ccf6ff384fc9 #  negative
+e29d4638-1c76-431f-9e86-d9a81289ec58 #  positive
+f00aa8fa-d6c2-4526-8a1b-7534ecbe5234 #  negative
+6d3d5c43-56d3-4a01-8026-ff026b3a6a2a # negative
+749ec4fa-96ad-4aa3-8cb1-6d760c9990a3 #  neutral
+682d5b46-a5a0-430d-bd03-3dd7592d74d3 #  positive
+20f4230f-00d0-4be7-9cbb-262b8bb9439c #  negative
+f376091d-143e-4a62-af5b-8474dc01b3b3 #  negative
+a0fdbaef-ada2-47f0-bfdf-da22e126edfd #  negative
+1e42f3f6-b58e-44fc-9b52-2c589578584d #  neutral
+a399bf6e-a349-4d21-8837-157ee32dab5f #  negative
+7bb1df8a-2303-4935-8745-423b44536283 #  negative
+96120f1e-59cf-4672-be36-51ff7076584c negative
+5c9c2095-720a-490c-8e68-d1b2a2423c9a #  negative
+4f801fdb-a7b7-450a-9652-31ea45e80621 #  negative
+8afcc70c-fddd-40fc-b260-bbb686311589 #  negative
+e384314f-e220-4bb3-8e83-33357e2905b0 positive
+64898c0d-5b0b-4255-a76c-733e20d2413b # negative
+e6d93b71-95a8-40d7-b8e5-edbcfbcd8587 #  negative
+2415281e-0f15-433d-8aa1-e4eaf24f85c5 neutral
+763cdd28-bbc0-4c8b-8c78-a1b0519ef1b5 positive
+cc31a7f8-8fbe-4f28-bd26-69c3a5114beb #  neutral
+6f51f110-3d54-41c7-a246-6b9042298246 # negative
+9a3cbe13-3d7a-41be-8468-7e0206f86dd7 #  negative
+9ce82685-eaa0-4e21-ba28-1869b9d1860e # negative
+b280623a-9590-46de-b37f-c33153f1571e # negative
+615a326b-dd8c-4be7-8e63-8a6981195f4e #  positive
+1cb6ee39-1079-4cea-ad0e-731de2bb5994 # negative
+3e198b5e-70c3-4b43-80bb-7479a3df44f8 neutral
+1454036e-260e-4801-9ca2-4694124b3305 #  positive
+52dbcc56-8f0d-4e9d-aef1-8aee2aa66ab7 neutral
+62ac07e1-fe2f-4d44-8fab-114bfcb9243c #  positive
+0244b272-77c5-4fba-afbd-aefaa584f8cb positive
+e64f57e9-427f-4c48-a895-e3ecf5eb9015 # negative
+c58ebf8e-9c57-4210-b028-739448efae57 #  negative
+ec391359-15c0-469b-b314-93d7d163d93c #  positive
+a13122dc-d290-454e-9673-45842733c448 #  negative
+d2cb14a6-c06d-4cee-a22c-cb8ce6178479 # negative
+ddc6492f-831d-4c17-8d1b-fc23516c5170 #  positive
+9970be99-1513-49d6-a0f8-8ae3d4477010 #  negative
+7ac7e55a-477e-4f1f-8e63-7c5e0eb77b30 #  positive
+55a592bf-6064-41f7-9575-f02be557aa46 #  negative
+160457c7-b972-47b0-be0a-f1e6581a0e60 positive
+9d558cc9-839a-4155-a709-59aa60f64054 # negative
+b4201055-411a-4f13-ac67-8ce5d772e2d9 #  positive
+13538203-1b15-464e-95e0-62a3656be365 positive
+986d75bb-7c52-4044-9d96-e21e2d95342e #  positive
+10cb3b66-f2e8-45d8-9315-bc99051fa631 positive
+42785333-ffcd-45ba-8003-9da8c86123a2 positive
+c5989a10-fa46-427c-b240-45eb537cec43 #  negative
+caa959a6-2586-4d23-bb12-11278b32110f #  negative
+f75cd73d-d77b-4b7d #  positive
+5c07df23-5061-4b9a-b3f7-c18a18170954 neutral
+7dcf09b6-71d8-4c31-9d65-fc3f426b245f #  negative
+2cdfc974-aea1-4421-92e0-a76cf6aeb54c neutral
+aa213117-198f-47b9-b8ef-9df105995c39 # positive
+8f2e6948-6bbb-4006-8ceb-f1646263bbe5 # negative
+2dd05c42-b6a8-4c52-b9a6-472f1afca15f #  negative
+24b2d980-4249-4900-bd8d-1037da5ff80b #  positive
+73da193b-7c45-4e63-9260-935e280690db #  neutral
+549537fc-8c5e-412e-9ad7-6205b0e458bf #  neutral
+5380d281-8dc4-4b0e-a383-32a39ca3ea2f #  positive
+5e244fec-bfc3-40d4-a882-347ef32c54fa #  positive
+8b45ec21-232f-4207-8c2f-f1fff7be058a #  negative
+1a6bfde8-9eab-42c1-9d44-54bca6275bb9 #  positive
+edf1a124-9c57-494e-827b-a19fd7250988 #  negative
+f8897da8-86d1-4d8a-8c30-722df73a4ec3 # negative
+57f2d35a-613a-4a57-bf6c-ada29cc5eeac neutral
+75237c7c-2e9c-4e4f-9928-d583bf0d2865 # negative
+8fdb49d9-7308-460a-bb13-2eea5e68464b positive
+32bf782d-5f1e-427a-9378-edc6f0dc5c19 positive
+26c7c3de-63b8-40af-b6c5-78259df4eed7 positive
+a432f8bd-b89d-46c4-8ffc-ecb254cbecf9 #  negative
+67fe3d71-b094-49c1-a54a-3202a100a21d #  negative
+04730b2a-d92b-4952-9ed7-da05eca866c1 #  negative
+6ec0569e-9ac2-4c98-a4f8-4fe13aef0d58 # positive
+b2985b64-39f3-4c47-9678-a17a64054b5a #  negative
+8a9f6dce-5b0d-4bd5-9b4b-661826d4987e # negative
+2710c10c-17df-4c71-9a59-d0e1fb259066 positive
+cd7ae0d5-858d-4c6e-8e4b-72bc29b7804e #  neutral
+8800ae3b-9163-43f3-95df-97efef79d683 #  neutral
+75dd2351-bcd7-4e1d-8ae5-50e90eb76300 #  positive
+a036ee52-575d-4396-84bb-610930f6efb4 #  negative
+eaf0030b-9b98-431b-a1a4-dd1b118a40bc #  negative
+3e179146-780d-4e46-8f0e-5dfbba2f051b positive
+4acf784a-28d8-4e9c-909b-7ab3039b7d35 neutral
+89fb3e90-ff0a-4950-81b9-424b7ad3e2c9 #  negative
+e5e90bea-8a1c-4502-b0f9-81354f4c700b #  neutral
+bcf021e3-e5e1-4dc1-a445-48f90932f799 # negative
+270fe027-de03-4402-9e20-a7a636d9d3f9 #  positive
+61ceeff4-ad9a-487d-8ef3-85ad4498eeb5 positive
+eb434157-c595-40e6-ba45-48a82833fb8d #  neutral
+dfa936c5-f443-4aaf-ae4a-234aecb883fa #  negative
+1cb9236f-46f2-4462-8b0b-bbf7761aad19 #  negative
+81e0bd2d-c7e0-4f2a-b023-37a5e78503af #  positive
+7c684984-0bcb-4fb3-b257-009aea312a91 #  negative
+062636a1-8edd-4a6c-8ba2-cc027abcf142 #  neutral
+275300a5-d573-40be-9a16-75b153cc3ebf #  neutral
+d7c800fa-a175-4558-8136-cbed218b9d04 #  negative
+746fb98d-71ec-4fd1-8fd0-34110a1b0492 #  positive
+692907c1-1d06-4ac9-963d-5fa873d96e6c #  neutral
+98197597-3655-4934-a6b6-eb5562ba5f53 #  neutral
+55984f7c-2949-4021-8e61-2a4f9d3c02d5 positive
+7fdd1649-de58-48b7-ad17-99eea4f27fec #  positive
+94827d36-6a97-480d-9821-ee80b3ebc73e positive
+2ab6af11-977f-4f2c-a07d-385b4a92353f neutral
+68eb3b66-ba2a-4629-8233-70d186560863 #  negative
+340e9bfa-66f4-4793-8d94-456dc4de37c2 #  negative
+95ae245a-f615-4b92-be77-73d15a48e5da # negative
+224a1dd4-d20e-4cca-972d-8381239cc924 #  negative
+bb933878-26a9-4bf1-aae1-a021f42e6f61 #  negative
+582caa48-e056-44a4-8633-86c839da3964 positive
+7066a398-30e6-4efe-a8a0-e024566d38a3 #  positive
+585374f7-c0f5-42f7-9d61-70ed53b151ec positive
+a2f6a917-9b11-4efb-8ada-ed3709801c6e # negative
+00b07e60-7e49-44f5-95ec-be426bc27fd1 #  negative
+172f3030-6e27-49d0-8e83-872c9e6aeed4 neutral
+89cd6aba-0f2b-4d8e-85d2-1de0d65b5b4e neutral
+f9cef3fe-778c-4cd4-8813-e8639ee95acb #  neutral
+f35fa047-84bf-4080-823d-0f3ccd4fb2cb #  neutral
+6e755557-8c2b-46db-93b7-7c16dd7e8112 #  negative
+d506eb59-5c7c-4318-8bf2-940e91249556 #  negative
+c978b4ef-a186-4ee1-b518-3533b4244d78 #  neutral
+553778ab-8bc1-4bd7-be50-8cf6188af65b #  negative
+3fd6d944-dc02-464f-b9d0-e05bb1b94a2b positive
+b8d76f33-1e2c-4996-a3a6-b6210dafa0f9 #  negative
+d465c382-41e3-4273-b0c0-00ce8489b494 neutral
+333f76a5-ab10-4159-a26d-4673ad5ac5cc #  neutral
+57ef9269-8704-4e89-b7e6-ee5e9917eb17 #  neutral
+589e1ed2-4703-4674-a094-21fb3baf3c11 #  negative
+6ef4346e-fda9-4c9f-9b7c-fc74a66abc62 #  neutral
+f7f1897c-11af-4f68-896e-e3f0091bff5d #  neutral
+88db4d28-5376-43f3-8a74-43961002c24c #  negative
+79b31a7c-fd85-4405-b48c-693843fd3e63 #  positive
+4c43a54c-0c38-483e-b4ae-345eae7445a2 #  negative
+88f0a222-4c0f-4ff9-a8ed-06135d76556f #  positive
+7a48b819-b5b2-413a-9c38-0662a21f53d6 #  negative
+d1bf2cd6-b136-4569-8838-3d0898610446 #  negative
+88d5a9c2-e20f-407a-88f2-b1f0355bb34b #  positive
+1d1fb399-1bd6-4049-8946-44d0364fec8c #  negative
+4edb0be4-cb78-43e1-8422-4c82603dba40 #  positive
+1bc8134d-7d61-41f7-aab9-fa6f4fd930ac #  neutral
+68135276-264f-4605-938d-85ae7e5882a9 positive
+016323fa-3b1b-4491-b2be-e41e4d6fb11a #  negative
+e83424ac-2b30-4a20-bfd0-b1fed7fd3e0d #  positive
+21670803-432b-48f4-91c8-04c889da4077 #  negative
+42af33ba-383b-4c7e-a6a4-303e7c142246 #  negative
+b26dc018-c8f2-434d-9ed2-0d8eaa1dcfe1 # neutral
+93421c2b-e852-4861-8ac9-29b9206ef2f8 #  negative
+4ce0387b-f5bd-4171-b3f3-9d0c98f6f67f #  neutral
+166dfca4-069c-4630-b54b-ae12c1b4cca5 # positive
+e27b9957-8675-4acd-beaa-d059c6c78b05 #  positive
+cac28940-03e3-4939-84aa-27cddbb6beb6 #  negative
+4a5494be-b8cf-4619-8f45-784d985b2bc5 #  neutral
+0654fc9f-312d-4197-ad2c-ea61643a3225 #  negative
+9d6b0e01-e542-4130-9f5a-ed02f8a54316 neutral
+10bdb8c5-2254-40fb-ad30-3add14d47ecb #  negative
+41e7ecab-d8c7-4ec7-a592-3dc440b54a1e #  negative
+f2efcd54-5a26-462f-9e78-0a52cbad0842 #  neutral
+0eb6a12a-b8bd-417e-b057-12009bd9ffa9 #  negative
+423f6330-af15-4935-8f1c-713a7753e903 #  negative
+2a16cf10-8a1a-4d68-8484-9b8c052ca723 #  positive
+74df54cb-f65b-4818-9703-85d63b054f03 # neutral
+41984ddf-952e-4f82-af79-d4e9c252a328 # negative
+cd1f20e3-8429-4edf-a646-45f43af8f449 #  negative
+9f4bbf62-9ea7-4d20-8815-0d9082786d3e # positive
+60fbc66b-e4f4-4d73-a579-cf0951a8c63a #  negative
+ac626a16-3581-4cae-aeb1-2c4ae3bd4bb9 #  neutral
+40af2fd7-9230-4e1b-a1c3-6f2a4224f487 neutral
+0eebb2aa-521a-411d-86a2-9e6e7dc41771 # negative
+4bbd2e96-975e-4045-9485-94a98731de19 #  neutral
+ba83233e-eb7c-4107-bcef-2ecffa9a7518 #  positive
+0c64144c-ac2b-4bcc-8700-a44d12b1253f #  negative
+f097b055-067c-4d5c-9497-d30f6f549d97 #  negative
+c4e03319-9120-477c-a189-4a887d399ceb #  neutral
+c156bc25-554c-4fa0-bcb5-6d9c1825ced9 #  positive
+3135eeba-9adb-4171-8209-5935907cfdb2 #  negative
+2a9b75f4-b385-4df3-ac1d-c2061fd31017 #  positive
+8bd928a6-2f95-449c-9d6a-225a942aa8d2 positive
+bfdb9494-33ec-4ffe-a0e1-0b6355a017eb #  positive
+3d626643-1f6e-4a88-9d9d-e2013cdba57b positive
+5936d84f-2ccc-4eea-a64e-2928b3d8c212 #  neutral
+03ac8508-be11-451b-8817-0ef5c938d803 #  neutral
+0b2dbc4e-25ec-478b-8811-a31b3e738496 #  negative
+a6027060-f8fd-401a-b325-0caf6f789a9e #  negative
+7190d750-31ec-48bc-b680-a4d5ac9770d0 # negative
+406694e1-3ba9-4f38-8ec4-47001bb96262 #  neutral
+cd18c600-a84f-4ef8-8103-433e9d892505 #  positive
+7278d5a5-eb44-4895-8876-74ff77645b4a #  negative
+5af16e1f-346a-448a-9027-9392d7284a69 #  positive
+8ade0701-4b85-45ee-b468-2d4390f67330 #  negative
+be0f4a6a-93cc-463d-a8bc-7d07669be620 #  negative
+24bed5e4-db7c-474d-80c9-2d75e7b119d1 positive
+5cee22b4-bd1a-4fef-aa91-f0df2b23ef32 # positive
+dbf816f1-a9b9-4d88-b0b0-3280553425bd #  negative
+2a39d57c-257e-4feb-8fa7-a65c74016855 #  neutral
+2f810dc7-b51b-4bad-9f2c-d4e54a90fef9 #  positive
+210718b1-436f-4b35-ac71-a282df5cfffb # positive
+6103eb73-880a-42da-ab4b-bb10d8a774dc negative
+7d545a89-687a-4489-914b-f0f6e0c7a1ac positive
+d3b5cb9f-5843-4457-b119-211884af9b5f #  negative
+2928460a-e146-4c91-b3a3-7da52b613548 #  neutral
+e62c8d47-d5ef-42be-86a8-126590879973 neutral
+8aac15a0-1f28-4aca-a588-ca11deba6bf3 # negative
+08676ae7-88e2-4ce7-a79b-bbce251c5879 #  negative
+7bd55766-6e77-4b62-af9b-c491019f36e8 #  positive
+ee90db7f-7be8-4ad8-96d8-6e03844a45a8 neutral
+32fc79ea-0e66-4838-bb39-6164986efe1e #  negative
+a6bf4355-e701-41fb-9738-6ba2622411d6 #  neutral
+ba714aad-2db3-4202-b2e9-fbd94de76c36 #  negative
+ef036a1b-f607-46e1-9062-35fc10c020e1 # negative
+36b54c0a-ee58-449a-828a-ebae9cbaf5ed # negative
+f5d8baf5-9d1b-45e6-ba5e-fa98ad40e3f2 #  negative
+98d25f29-0773-4d50-a2c2-c43ec10be848 #  negative
+06176d61-8eb8-48b9-9c1f-d8f614ec5c08 # neutral
+6ba7b211-97b5-4a3d-ba9a-673535ebcbfa #  negative
+e90b6301-5a1a-4a76-b864-1cb573439665 positive
+79f3d38f-10b7-42fd-856a-7e9ac97abff9 #  positive
+30a9e567-5829-4f6b-8543-b882033b870a #  neutral
+18e7695c-555f-422a-a567-d117a8b376d7 #  negative
+9d001f00-70df-4b42-97c4-5745b8bb9fc1 # negative
+85814024-a51d-4572-9b45-492e96261f7d #  negative
+2a7f6c25-0f90-4c33-82c4-270115715273 #  negative
+820ee00e-0c90-45c2-a120-f6ef099f020d #  negative
+ff936fd7-19ad-4515-b8b8-7dd5912678df #  negative
+03597fe9-79b4-484b-9c35-562ce6d68312 #  neutral
+580070f7-3268-4b69-aa74-3dc6e3c07c7c #  negative
+407fd828-e69d-4ae6-a523-7dbae48cda0f #  positive
+10b5b0be-9fc8-4b7c-ae19-0c7c2c7e8ef5 #  neutral
+36c49cd3-4de1-4c21-abd4-1363ee9b256c neutral
+1f266e2c-fda9-48b7-890b-634110a7db49 #  negative
+e5b85f76-900c-4b06-9328-d92c91a62a2f neutral
+34abe38b-fcc7-48bc-9da2-0ecd70902249 #  negative
+20a21c79-3361-4e2e-8154-e442d6b0e4d8 #  negative
+00ee15a8-c3fe-4d47-b88b-b94546e3c50c #  positive
+ee640651-6a9b-4748-bf20-8bb9e945f616 neutral
+9d0b3a7b-a1f5-46b3-ae7a-dbc7065bdd67 positive
+aec20f02-3763-4799-97a2-358297095360 #  neutral
+686d0852-6b82-421a-920e-ab0be5bc43b1 #  positive
+6fec7dc5-51a6-4d6b-ae0c-60bab31ee770 positive
+f4186b5f-f281-4d65-b842-096a9adb684e neutral
+25619d07-7e7a-4ed3-9df6-f573f21ce655 #  positive
+3bfd962e-8d35-480b-ba31-54f2c7912542 #  neutral
+fefd4bc3-8219-40e5-92c8-0b671f8478a5 positive
+5d4d8ccf-ecfc-4710-a5d8-5a2b2613c745 #  neutral
+c4a55da6-8ff5-4752-99f3-84066f007fee neutral
+bc0c3f07-e9da-4371-866d-b5fdc9498073 #  positive
+11bacd00-b599-42e9-9db6-404d6563830f # negative
+c13c2738-fb18-4644-b69a-1e4135525bd1 #  positive
+61507cb6-43f2-4de3-ae75-cc3e91bdf1e4 neutral
+64c712ee-ffef-44f6-a271-9f3fe1a4b369 #  positive
+c47955cd-ecd6-4846-88e1-67df3d79ade4 #  positive
+6e0c9cc7-89bc-4c46-b677-439aa07d7704 #  negative
+1bc89d73-af93-4f92-809b-705a0ba477a5 #  negative
+a2ee7b06-0ab5-4903-a695-ce6af9dd2835 #  negative
+15caa49c-4c46-43ec-8883-976f748c0415 #  neutral
+314b6b95-4cc2-41ba-b847-33db88a6771f #  neutral
+ba305580-f60d-40fd-a8a4-baad2e4e2d5f #  positive
+3a8f786a-c8e2-4560-ad81-6546bea6e9a0 #  neutral
+59363b81-1a35-4ac0-bc13-b0152f129e63 #  negative
+22501a98-26c8-4f4f-9e68-36c816d87851 #  negative
+6b10baeb-063e-40f3-b29a-f5ac9edadf93 # neutral
+20ee4265-ac7c-4208-a22b-6f51c00310a0 #  negative
+58668b94-9503-4adc-87cf-374a1afc3de9 #  negative
+d03eb7af-5de0-444e-8a42-c6f29fbc4f3e #  neutral
+98002ce1-53f8-49b3-bf4b-af545b1e2ebc positive
+133a4dd1-7563-472a-b0ad-8c3fdf2e5fc0 #  negative
+dc259781-091d-4dc0-ab3d-f835ca966964 #  positive
+66f3da59-a18e-49c3-ae3a-ab119b8a5b3b #  neutral
+9300d3d5-edaf-4957-bee9-2c0929057361 #  negative
+34f4de6d-7e46-42af-8311-97dbda5b89bf #  neutral
+d97692f9-f20f-4a06-9891-9add3d415fe9 #  positive
+3b8fdc3e-c52f-4d6e-bb12-a98df30127f7 # negative
+cdfa9a88-cfb0-4849-b769-f17e90bca34e #  negative
+eee4f0d6-df10-41bc-af49-59f32a99aea7 #  positive
+f5a4e0a9-5846-4408-a909-11036a3388c2 #  negative
+b1ff90d5-c0a6-4f90-ac01-98b4a306d878 # negative
+b8eb75d5-cf74-4a7f-81c6-0908e80a2700 #  negative
+5e76bd53-aaf7-44cf-9b2c-1e12f09590ab #  neutral
+99d8879e-2cce-4ad0-a135-c65f6d798540 #  negative
+6b2ba065-a19c-46cc-a4e4-726cafbc85ee neutral
+9509f2c9-51fd-479c-b63d-4ffeb3e16fc6 #  positive
+388facf5-6c85-49cb-8f5b-da26484ae52f positive
+fbb57a61-8437-4c2f-bb55-d0c7e6822b62 #  positive
+1390a425-61d8-4294-a919-b479c2187db7 positive
+20a1e3a7-9624-420c-8534-3acbdf154cf5 #  negative
+b8bf772c-307a-4e51-b894-02b73c67d755 #  positive
+f4537b44-24e2-4240-b1fc-e43211c9b8cf #  negative
+36e9ee5c-4de4-43ad-a293-4afc35f63e6e #  positive
+8c21cb7c-75dd-4002-ad43-de63986d01b2 #  neutral
+6c165968-2b8d-4d7c-9a43-c2987ae936ab positive
+02b95d50-b84e-4384-b842-162096f69bac # negative
+163d43b0-a013-4cd6-a062-acbe79ba9913 #  positive
+15351d91-5707-4d89-adfb-830bd05d7548 #  negative
+539f00ab-95ac-40e5-ae8f-7ca41f7e2f79 #  neutral
+1bed2cc6-07f5-482b-90e1-cb9b93906401 #  negative
+d0c3677b-01ce-4535-9a9a-fc55a1cc247f #  negative
+648501a2-1c02-4a5e-a05a-5f64ac8bf8e0 #  positive
+d9293069-30fd-487b-b193-925bd6874096 #  negative
+80f920e7-224c-4d5e-8f4e-b01cc74d9df9 #  positive
+0861c24e-b6f2-4de0-bc1e-38412c9914f3 #  positive
+ddc6cc74-0b67-4a31-988e-e177bc13995c positive
+a7eef0d1-f1d7-492e-8ae5-58301891527f # negative
+89f86ccf-ba14-4731-ab42-54da99ff1b00 #  negative
+949894d5-2a5a-4ff8-81bf-c1c2381b9234 neutral
+83028453-949c-46ca-9a6b-36de913cbd06 #  positive
+853846bb-2c95-4cc9-aac2-7e40771a519f #  positive
+3df3d9d2-2cc4-4dff-901e-976e88eaf906 #  neutral
+ad8f64f3-7a87-4265-90f6-2214a3d02d03 #  positive
+3df0b433-4175-4a59-a569-a32e0ee06fa4 #  negative
+b086c8ef-1239-487d-9ef7-76676ebe000f #  positive
+3c598aa1-0ee7-42db-8a6a-2cf8a0775837 #  negative
+ba1cc088-0419-43d7-8d00-b948c6eaffe0 #  negative
+4b46cf59-4904-452d-9633-889789dc09b8 #  negative
+64f5722b-a40e-43bb-b121-56d00762106a #  positive
+53180860-3211-469d-a01a-7c4974c89d10 # negative
+3d9258c3-f520-4ac3-9147-98717cd4405b #  negative
+2fed8634-4a70-48fb-8b48-126ad660a5e2 #  positive
+0e5729c1-b7e2-4463-afc7-1830c027c4b3 #  positive
+fa0b37e5-b07b-4a60-9b82-241cbc911c03 # negative
+031c316c-a364-45c3-8dee-35f2efcec705 #  neutral
+f39728f3-668b-4cea-afb4-6670598da606 #  positive
+9ed1354b-5b7c-4a4e-bf1b-5bd93608e409 #  positive
+ed1ebdcf-6055-4a77-9406-287e06d7b548 #  positive
+9f283909-9071-47bf-bd32-d0d54b999c6b #  neutral
+d93b08dd-aae2-465d-bb88-5ac867316a5e # negative
+eb39dcbf-1ac2-44b7-82fa-8f89d1ffd6aa neutral
+b9098934-11b5-40f2-8350-16559f21b4a0 #  negative
+8276efed-5107-4596-9b59-749665f1da5a #  negative
+9e90fd0c-8d32-444e-be6d-55f1a97ac91e #  negative
+ae13d53d-f4dd-40ab-b49e-e06606041661 # negative
+0fc0e372-422e-447a-ae8f-224bdda483e0 #  positive
+c272c9a0-fa41-430f-a7dd-669ea92d7cd9 #  neutral
+04408754-feb0-425b-ab25-7d03619e00a6 #  negative
+2c95a30e-be40-4637-a0da-ba38c267fdf5 # positive
+b3191bc2-a166-48b3-9627-1237c896af68 #  positive
+c05226b0-8c45-4d5e-b669-83d5a38887cc #  negative
+211e49ae-073f-40f4-8d2b-2778af746681 #  negative
+7b274031-8ca6-4b62-9888-644c8d34596b #  positive
+188df6d0-90e2-499a-9a34-bbe57edaa3fc neutral
+1ca9ed7f-d7b6-4969-ad9a-30ca1b9a8a6d #  neutral
+6fc65453-e4ad-49b3-a70b-7bc15a4fa07c #  negative
+50c288802-9d79-4434-98ff-1cab3d1b2b54 #  positive
+6c996d41-331d-49e7-b0ed-3445716cc847 #  positive
+2ef162a2-398b-4366-a983-375f7df80f11 #  positive
+80ca0989-a26f-40f3-b8d1-674782099635 #  positive
+4e75ce0d-fea5-4b4f-a745-5f71f86f4e20 #  neutral
+9274014a-3123-4e9e-956e-ff57ad47ce61 #  negative
+4561de81-1496-458d-a888-a6750d2d8c79 #  neutral
+ed713847-8e6f-4c7d-996a-e1497f1089a3 # negative
+79baa540-8c37-471c-96bb-4ae6438ec4a1 # positive
+3a6dcdff-b76d-4268-8246-fa9591fe2710 positive
+22afae9c-007a-4c33-8ba9-8f5157bfda9d neutral
+8de3ad6e-aad1-4bb1-a4d3-077fe77ff2d9 neutral
+f373e50e-f1cb-4d99-801c-28d69c1cd821 #  negative
+5e6ea39b-5978-49ff-8520-ff88f05bf885 #  negative
+07d6ea71-863e-4efa-a8c5-069a47aa09ae neutral
+1f726354-9682-4b1c-9584-504564afb427 #  neutral
+367ad7c2-ebfb-4158-afe2-dd223dfc69ce negative
+7a9b6e1a-4c54-4a79-8398-57aec6e94a2e #  positive
+dd362f76-e496-4398-846b-970c17193428 #  negative
+6223c1a9-835c-4a8c-8980-9e2094307839 #  positive
+fab4b0de-6d7a-40ab-8dc0-4cdd99611d85 #  negative
+a09be4e6-2155-4d16-9569-2d127f71a2f1 #  positive
+34d27173-812c-43ba-bd01-50dc503bdb42 #  negative
+ba8530f4-fab6-4867-a342-08a7ab8ce8b5 #  negative
+d71e7afe-c12f-4553-b6b1-7a61ef559014 #  positive
+48d917fd-0ec5-44c0-8b51-f717e4c6c76b #  positive
+a670ac7f-6d51-4c3a-8a0c-0560009c9be9 # positive
+2b6438e7-61c1-4b18-8d99-b3d5f8becd7b #  positive
+4f5e2fca-aa44-471c-a4ba-20128f4a2c32 # positive
+3bfe8a01-85e3-489b-ac9b-a3290f834a50 #  neutral
+79ccf7db-161a-46c6-9ddd-b6b9d742cf2e neutral
+d3a04a28-0158-45b9-b260-7a31d6686138 #  positive
+326322c4-24e8-4ceb-8bb4-408798ac6d25 neutral
+eea5653f-583e-431f-a416-d2c7a64d9b6a #  neutral
+cef7ef6c-b1c7-4933-b8d2-ecace5e88bde #  negative
+40e12c8a-9a54-4968-8d77-9eb2cf4ee315 #  negative
+c5dd96f9-a92e-4a21-831f-1aff9b4ba756 #  negative
+6789c01c-91af-426d-ab27-56b300be62f4 #  negative
+6dd000fd-9149-4fed-8842-ac65c97405a5 #  neutral
+8a5e58bd-db76-415d-ac2f-07d5a9e8105b positive
+159448d1-8352-454d-8bc3-fe7c0175c14d # positive
+f10737fb-34d1-446e-ad5e-80639cf4d5b5 #  positive
+bc57cb11-7d70-4a75-a890-15db69798a11 #  neutral
+5b9f1738-cd35-44d2-9c4f-3751d5bd1ee1 # positive
+f43de48f-a5f1-465a-a99e-7f59c0e1bace # positive
+160cab13-681e-4fb3-a237-37b3dd2fa98e #  negative
+f678b2ed-81ea-4e31-9ef6-7f55ecc45567 #  negative
+dab0775f-f6f4-4b3f-9085-4cea7fd11412 # negative
+275cc87a-b69e-4b4e-8a73-95a76aea2aad #  negative
+e6ca0dfb-8416-496e-8b1b-33f0e8f83d6c #  neutral
+bf32609d-7cdf-472a-af41-e628edbb16d3 #  positive
+f157957b-4907-4fd9-aca1-e0a6cbfe8569 #  negative
+f7218c9c-da48-4b6e-9ca4-3ca3a28cd449 # negative
+3bbdd0f2-1cb5-42d8-9a04-92ef50fb7f59 positive
+2c498d85-7cfb-4474-8604-0f6f003dfdc5 positive
+140b2304-980a-42e5-b062-123ee1a511fe #  negative
+480471ca-7569-420e-ab3d-455d43093c42 #  positive
+0b0a14a9-89fc-4985-a722-c83546c1d31f #  positive
+2fc5adb4-ef10-4ad2-a6e8-4c432af398f9 # negative
+a5ac21e9-0ce0-4671-9272-38def8b2414d #  neutral
+8627457f-9dcf-4847-9e94-dae695a149c6 #  neutral
+d2f78a3c-85b8-4de0-a43d-2385b7b7fddc #  positive
+cba4286a-902c-4269-b4ef-c19247611f21 # negative
+b23eab08-35b9-4ea3-a1bc-f61fb7f2080a #  negative
+aa055256-28a3-4a44-8523-15eece519f54 #  negative
+00cf30d6-c235-490a-9916-f0cab4ce1969 # neutral
+d39bcfef-caf9-43aa-87ed-eb62edef77be neutral
+589049d7-2093-4a0c-81f2-d3db9f0a2a57 #  neutral
+9727c61e-1d2b-4a84-916b-e1d9515670fb #  negative
+ba06a62e-1b7d-42a3-8211-ce76fbcd6aba positive
+a6727d34-7877-4d93-a861-bb55a915f5cd #  positive
+b3dd3d0b-1135-46d3-87ea-4a254a9418c4 positive
+60c94590-da24-478b-885b-7a118523174c neutral
+b9fd661d-bc2b-4408-ba59-39fbb8d7395d #  neutral
+f62776a9-073e-4ab6-a3f1-a64b113cd6d8 #  positive
+962f080f-6bd2-403a-b56e-0a077cc211fc #  negative
+a1fdfad7-e0da-49cb-ac23-8c84b8d38fe3 positive
+5b5fb07d-c90e-46ac-88b9-1c4ad5121ef1 positive
+23d93475-0990-4378-8ee9-8bccdb447729 positive
+4836e431-8ef1-4f7d-b3b5-4b2c9ca9e46e # negative
+84710987-5d84-4aee-bb1e-68c9d0fea9be #  neutral
+1f59323f-a9f9-4e31-baf1-b211181ed1783 positive
+8515b57a-008b-42cf-b1ae-69ec338b7c4c #  negative
+2e83bdf4-6ccc-4343-86a5-4870c7a768e9 # negative
+d7b07360-9a90-418e-95e0-3999c64ba883 # positive
+eea82049-6441-43b0-910f-dc7ad5b0867e #  negative
+bcfd7226-98a0-44b4-a9fa-9735c05b918e #  positive
+fb589b33-84f7-4976-98a3-eb2ea1ef5b17 #  positive
+413b3bb1-73e5-457f-adc7-1feab5985c93 #  positive
+d9a53222-d13e-40c5-9377-e177c6b39a45 #  neutral
+4ed7fce1-40ab-426a-8492-aaff3c0f0e62 #  negative
+6234e275-8934-4e15-be02-d3518f7e9561 #  positive
+1f9f8428-7fdf-4e03-91bb-4adb0a7c7ef6 positive
+6d095516-1ff0-4139-8aa0-0b16a569d6da #   positive
+54762933-b5aa-44ea-96f9-5cd58ebb52f2 #  positive
+6511cf14-74be-4735-a7eb-5570c2345514 positive
+3a26464a-2e6c-4664-b236-7a3564936c65 #  positive
+dfe6c868-6796-4db4-ab32-85f1d28b56b6 #  negative
+7bd0a8a0-00ab-4f1e-9ef1-9b62129df3f0 #  positive
+cfb8010e-d54e-4a18-9ac0-90ddac1bc08b #  neutral
+de9d62d5-3d5c-4b7f-a64d-54e7c0d1429c #  negative
+e2010c9b-ca38-451c-a57b-6b2893bb7f1f positive
+d7ffc5ac-6b6b-4c04-9144-953c8e4e6d66 #  positive
+cd12ed31-66ac-41af-99c2-f62c8e9bf4ac # negative
+c3b8d6ed-eb9d-4e54-9c92-2bee0fd3965d #  positive
+bcb25c39-b2fa-468b-9602-a09962aaedcd #  negative
+466ec2bf-43d1-4bb9-b954-c3d33ac5d506 #  positive
+62b5f8f8-a8f0-43f4-8842-88013048a848 neutral
+c8c886cf-e1c4-4e82-98bb-42198ca1de92 #  negative
+96e4be14-8cca-420e-b611-ac52b67c900c positive
+38db6738-3e91-4b81-96ee-dcea4c020ad0 # positive
+2e6fa021-d888-4c6c-8109-e6ab3895f48e # negative
+79404631-9a7a-4733-a84b-ce464b3704d4 neutral
+c9360915-f638-4f8f-bd3a-1c8870fe8a3d #  neutral
+88152798-6d16-46db-a2da-2a8f103a9dfa #  neutral
+cf0ee157-961b-4dfa-a834-28641dd04798 #  negative
+78d6effa-8b79-4f8d-8710-10596b1b07f7 #  positive
+31776405-9d72-4ecd-91b7-b0d7f469eb89 #  negative
+55469d1b-a389-4014-ad1f-aefe8ab6cf8c #  negative
+c78ba180-ef3d-413c-9573-12f376be8e78 # negative
+d2079018-fac8-488a-bdff-f88f2a5f8989 #  neutral
+72324bca-deeb-4364-afee-651e9b069224 #  negative
+74156dba-c79e-4a4b-acc7-3f83a90fcf13 #  negative
+01077702-43b7-42ff-8a41-b1f7996c523b # negative
+6bdc91f6-7434-4792-82bf-10d6fab08ff4 # negative
+7d1d226d-af2e-4228-bed7-6073768fa22d #  positive
+698c60e4-c367-44ce-99fb-8793fd4a2a03 #  neutral
+00b76634-8d07-46f9-a893-c71b968bddba #  neutral
+72344307-2977-4923-9b99-6d47865bfdf1 # negative
+9de3ddb5-ce34-43e4-b1a4-900334062159 positive
+cef75aec-536d-43f7-baeb-69813a23fbf9 #  negative
+11597161-63b9-4de0-9dab-90a96b8ba2c5 #  neutral
+43ef6ee2-8bda-4c44-90dd-bd0793249274 neutral
+6ec80b6a-ef3b-4bed-8cc7-255ad1b1b600 #  positive
+d62b2c4d-62d4-446d-a1f5-b20283358884 # negative
+4b8d52fe-c872-4aae-81b5-6b84033f77e6 neutral
+779580ea-db81-4ea4-8795-446b7772ab48 #  negative
+2cdbedc9-738f-4055-845e-b12c4a4766a9 neutral
+59a96792-aeda-4c71-8f1f-b3b1f3354df0 #   negative
+faa37be8-9f4c-4d4b-af4a-a01554c725a7 #  positive
+39b30806-6342-448e-881b-bf1bcef6f040 #  negative
+6ae80179-40b3-4325-864b-7ad77d0c80ad #  neutral
+e96183d8-23ad-48c5-9064-70ca63c8f037 #  negative
+107f1f42-a834-4736-a4ae-4a6f4be065dd positive
+ff9318e8-5abc-4a1c-b849-fbd3d6760d0e #  positive
+86e5cb09-329b-47b8-8aef-063dc81c4e2a # positive
+a62a2fba-586e-4ff4-9274-121d224fe2e1 #  negative
+b3750b8d-1c45-4e91-8fb9-40a3b095cda9 # negative
+c951637b-3b7c-41f8-843e-538426941d86 #  neutral
+1f46cb98-e178-4528-a091-bd8df4446282 #  positive
+3cb436ce-61e2-40c7-9158-25cfe1d0b707 #  negative
+f00a3249-e6d7-43aa-94e7-3c596f518592 #  positive
+b58a432d-06f8-42d1-b352-0e80da207d22 #  negative
+0cb0be28-0c97-47e8-b582-937d0c669c93 #  negative
+fb2ef60a-3fb2-4e78-b310-8ffab1e00285 #  neutral
+59315ae5-c2d6-4150-b9ca-34848ac64777 #  positive
+8fc18d81-3abc-4466-8958-785bc0c040d8 #  positive
+f866aedd-98c5-41cc-90f3-032f1a7d6d40 #  negative
+fa5ae29e-6fe5-4ce2-bdaa-9bec621062cf #  neutral
+1a752b97-916d-4735-8258-fd3c9c3eafd8 #  negative
+9982a75a-c264-4dd3-974e-213489edc237 #  negative
+63200567-a960-47b5-88ea-a7eb31976742 #  negative
+2812ca6f-b50a-452c-b636-2e2ebd6c3271 #  neutral
+85c80de0-0661-40d2-8a1b-5a9af4a015d6 #  positive
+7d50277a-1ecf-4e3d-a956-43ee72383f16 #  positive
+95c14a70-e38c-40a6-963e-109aea81d73a #  negative
+88a36bbd-7b7f-4225-a2dc-bc3cf727f842 #  negative
+aada1ece-2a8c-40ec-9d22-6af1a0059f61 #  negative
+a872e1c4-a454-4bfd-91fb-abafcbdea048 #  negative
+21eed636-72b7-40d9-8238-3ea2acd50fbe positive
+6c2e0a5b-211d-4b2d-880f-e5b480e1cdaa # negative
+40c0a61e-9f1e-4989-9f55-d54bce9fc2af positive
+76ef3615-7df8-49e1-b8e6-9da056cdbd31 #  negative
+183435d6-de6c-4664-8c00-cf5e817912e2 #  negative
+1d6d8458-689b-4458-b3bd-44b271293c39 neutral
+2ac30d26-7b63-47be-b12d-3c4c8fcb89c4 #  neutral
+c5e4d39f-0310-4637-8614-7c022f047d61 #  positive
+774134ba-eb91-4a6b #  negative
+23f11e76-6d2b-41e9-8594-8fab0c7116e2 #  neutral
+cafae290-5728-4bcd-b682-80e4b4bc6906 #  positive
+4cd457d6-46a9-402b-bc84-67186a958db4 neutral
+788e09d5-9f27-4596-b66f-3071c0ff06a6 #  positive
+15dd1d64-8157-4261-b577-4363972e1f71 #  negative
+07a2e5f4-3bab-40af-ba5f-ebbc9e631a74 #  negative
+7d30e0a0-47eb-442e-8eef-d1ff832d5aab #  positive
+ee7d8862-9807-4984-9c10-7195d85f52ee # positive
+9343b4ca-4368-46f7-9f18-c22d20e921ab #  positive
+abb61e8d-8e63-4f98-a915-a02033a8ea49 #  negative
+7b2202e5-cc4d-4ff1-8b71-09150745939d #  negative
+1500fd40-37b0-4467-b15f-6b0cd698bfa7 #  neutral
+3bf6882b-0182-4166-ad08-7dc92ec996b5 #  neutral
+4403bc6d-dfd6-4b05-9f53-c20bc294afd7 #  positive
+b48e1b4a-a312-4091-bbfe-8b68dc7c8825 #  positive
+1ee0e7dc-519a-41da-a67c-897f85f8898d #  positive
+351c9adb-8367-4555-86af-4a42c87f07cf #  negative
+7d22d520-eb38-41c3-8ada-57ae3fe6d7cd neutral
+31746529-64c7-4be0-8a8d-33e1c9f48d26 #  positive
+a34e5881-ac34-4941-8c62-dcbdba64ff36 #  negative
+e0c74409-decd-4272-93bc-02b93f8cfda0 #  positive
+032a87c1-ba9f-4163-8e69-d4a7dc729f57 #  negative
+c6596bbd-335f-480f-9d5d-ac50cfe8ef7e # negative
+04a4e024-361e-4d3c-9b49-df271d81de9c #  negative
+6d9bbbc5-0052-409a-855c-75505cf378d6 # negative
+7c912fad-aed7-4706-bb4b-332a2838be82 positive
+4ae53609-322b-4853-becc-252bb05e862d #  negative
+6bc8fbad-d661-4141-ac5c-d9aad423d0f0 # positive
+22a14a09-846d-4cec-b764-be5c24813a0c #  negative
+cc1966ad-9356-49c9-9c5f-f9fd48dc75bc #  negative
+b4e1089a-89bb-4a8d-9744-a549be06078c #  negative
+a0c48ac3-aec6-4269-9853-bab9d1cd6ffc # negative
+4c5d371c-c41e-4b03-b911-265cb343f4c9 # positive
+6cdb7f04-d44d-4dfe-9487-8d202e5eb5cb neutral
+3cfe86ff-d5ba-4d55-82d8-effc70c7e25f positive
+6dbf8e32-d787-40cc-83cb-77faabae414f positive
+003fd212-d76d-4f86-b631-685688e67a7d # negative
+c1a08c13-e41a-4ca4-a357-8b1379df4db5 #  positive
+b6757955-dfbc-4560-9360-e68343af9116 #  negative
+5b3cbc5a-6988-450a-b041-0c11cc545a6b #  negative
+f21c81e7-5138-45a6-bdbf-ec264edaa789 # positive
+cd01513b-a956-4b6f-9fe3-e4f3167327eb #  positive
+dc7d98c8-a1e7-4a2f-af92-f8a99ae82c07 #  neutral
+68cf070e-2e6b-425d-91fa-f1e62eaacbdd positive
+be176e9a-482d-4a4c-9c55-45fbe3651f8d #  negative
+b546d99c-90ca-4e25-b4eb-c5438de74084 neutral
+1f0fe197-cd0c-4c1e-b37e-045d05bd1b5f #  negative
+bf7738d3-fa68-447e-90a8-a4df52495d6c #  negative
+38296e50-b66a-4cdb-9602-dded6b9ae6a0 positive
+df43e0ae-f8f8-40fa-935f-db86c9dbbe19 #  neutral
+f0879f9e-82fc-4f0c-bd89-0c9846cdb830 #  negative
+8d37388d-4490-477a-af05-30920a97525a #  positive
+af27419d-fdaa-44b4-93c4-ba4dfd796a86 #  positive
+d34e63f6-6b07-4ecb-a614-6aa554695501 neutral
+7879e3d5-5651-4d5c-8fd8-6f4c6cf25cf9 #  negative
+28be6bbc-3671-4904-9d11-fc1705ab6fb4 #  negative
+fc6a90d7-c527-44f7-a13e-a76a403a3c7b # neutral
+21ccd70b-802d-4874-87df-4046223723e8 neutral
+9965cb8d-4f77-4414-a8b7-168d3b3dde11 #  negative
+01dc688e-e8ee-4b54-b933-9e709a61d89b # negative
+74f9058b-ea15-409a-8063-1a853312d82b neutral
+a8dc37cc-88d7-4581-aa16-b6a1b8a822bb #  neutral
+fe15cc1d-c2ce-43dc-ac61-1abdbfafcc40 #  negative
+4f5ba2b9-e28a-42a4-a128-a01b78d3f496 # negative
+5f6a63c7-9787-4571-bb44-c24d5c5e3c0f # negative
+aab40850-f916-4271-8041-cdf6678afd1d # neutral
+e3a8bca4-6f10-44d6-b54a-d1aedcdaf5b7 #  neutral
+79cfb659-769e-495f-b48b-c85b62d8271f #negative
+811487f7-9a71-44dc-a609-94784927aa97 # positive
+638d8ef8-94d4-4049-a224-108cd2d38c4d #  neutral
+6b9fd8d8-a1bd-40bc-937d-3af8d9786070 #  neutral
+327fa63d-f8e1-4a1e-9116-5b47c4dc53c2 #  positive
+c0266179-776f-4868-8c5a-aa353c6c177d #  neutral
+dc83d1f6-f455-423b-b5d5-b66e69701103 #   negative
+f1277031-6156-4632-96e0-869b00c51f0a #  negative
+b9c15c29-97af-47c4-b9d8-77857f0e73cf #  negative
+f87f2575-ffc0-473b-9427-11d8fb74bc71 #  negative
+ce5342e2-3779-4255-b32a-609dad36224f #  positive
+e7b57f54-0538-4111-9f94-43fe619b6412 #  neutral
+2b3081bf-a5e2-41a9-bdf6-8134c82dfc49 #  positive
+83977ef5-769c-4d68-8742-ee4115e1466f positive
+057f1e63-2ace-498b-94df-2b21d0a25272 positive
+b072637a-9024-4b82-9046-6655c3592ed4 #  positive
+f92b09b0-95de-4295-813b-ec78463c38e9 positive
+9a29d606-3aa9-45c0-8fd1-72613d9fe59c #  neutral
+5399e0fe-ade0-42b3-b301-a30b23e98a4b positive
+a2d21a1b-306e-4e88-930f-913e240b1265 # negative
+7aa1a076-6615-494e-bb34-278a81253069 #  neutral
+3bf20b5c-2548-465c-b3ed-ae5d1d4cd53e #  negative
+0a15c24a-82ff-4b9d-a604-c1caef683e67 #  positive
+5bc4a06b-dbb7-4c25-a61f-3363e6e85632 #  neutral
+1533f2f9-1135-4568-b6f4-5ac57e6bf087 #  positive
+6f9f0082-dcf2-4847-99c0-27d40f9f4be3 positive
+9c938f0a-f1c2-45fd-b809-685968322f7f #  positive
+115447bf-8d5d-4e76-807f-7e6736e310f6 #  neutral
+73159d76-695f-44e2-ad38-d8190c92aa76 #  positive
+6ec2e1b2-656d-4969-a80d-c5f6ea50d758 # negative
+a34d8aab-167c-43ab-98ee-c51e3cbfa5fc #  positive
+e42eb380-742a-4808-a9ca-db027e6f3945 #  negative
+ebbd16a1-79fb-4b88-a868-9c291038a45d neutral
+6315dcf9-9769-4b2f-b9d6-9a35a290ddba #  positive
+9cedaf05-058a-44a3-a041-f412f4115505 #  neutral
+5fdeb38b-d4ab-477f-b780-473971988ea9 #  negative
+8347dd43-6f4d-462c-a882-a6e6468643f3 #  positive
+d2f56da0-067c-4bc5-b333-8f651d68e5fc #  neutral
+a58bb28a-5f31-4aea-940e-28779f9a947a # negative
+ef8429b2-dc13-430e-9148-d8114ef937be #  negative
+c4af91a6-05ec-4f3a-a036-b7d4c9ad8007 #  negative
+1d9781d3-8364-477e-98a0-9e62e93e4b9c # negative
+157fde17-4439-4a8d-927a-31b0a0972bde #  positive
+18de456a-a3aa-4ae3-af0e-a08fb2e422c4 #  negative
+935a6128-d15d-4a97-a25f-570563d71170 #  positive
+b9880f49-00b6-40a3-934b-0cef8ec75afc # positive
+f1272158-6b07-436b-92cf-305737f85883 #  negative
+cfae85c9-726e-455c-b8bb-7967e717d46d positive
+780b7d71-067b-4c65-a0c4-31123bfe5fa8 positive
+1d7f8ead-7853-496c-b10c-476e73281bfb #  positive
+5424dbb9-39a8-4679-8b46-dbd4d34afa79 #  positive
+0b36d535-168b-454b-a577-25724391a071 #  positive
+f8274699-6e02-46a0-8dc3-71b8bdf1082b #   neutral
+149c5571-ba79-4417-b753-7432c6115a9d #  negative
+d624d7b8-9656-47ae-8f21-f363aaf3473f # neutral
+09d41e5a-6981-4aec-871a-23a32eb6bdc5 #  positive
+9edd3f24-0748-4ebb-91f4-939109daee00 #  negative
+9b79613c-abc8-4017-80a7-02af3aff972a #  negative
+0de17fad-119d-48b1-9832-360460067523 #  negative
+d11deb31-a13e-4d6d-b958-117dca6a6402 #  positive
+13f48008-723b-41e7-975c-f824875eb223 #  negative
+aeb20023-172a-496c-9356-f9be0719ea21 # negative
+64a84756-05c6-4ac7-9467-e233c4a0964e #  neutral
+0083fe34-d9bc-4050-934f-f6abe1dfa3d2 #  neutral
+c50c36e6-9a39-453b-9704-1941bdba9779 #  positive
+34a9b855-af23-4722-b7ac-6280ff33fde2 #  positive
+5f4bfd63-c07f-4f75-89ac-1eab8707b2bd #  negative
+9851aaa4-866c-4af2-bd83-ed66a0cf5fd1 #  positive
+21e7331e-c851-42d7-85d8-261348d39fce #  negative
+88131f13-4157-4afe-b61e-1347d8e97bd6 #  negative
+1931124b-799e-4cde-a452-f0486d377e6d #  positive
+d8f052e7-f051-4acb-bd1b-e34deb6cbf8d #  negative
+ffde7141-a17a-4059-96af-6a97a3802c47 # negative
+ef2accf2-99f3-4bda-980d-21be21288543 #  neutral
+e41a5dca-c54c-44a4-ad5a-e79f9358aea0 #  positive
+c8e60b97-0626-4e7f-937c-60625ae744a4 #  positive
+4239995a-5343-46ba-b967-070e24aa3f07 #  negative
+6eefc18b-f28f-4661-9563-be7e670df284 #  negative
+c1739b91-026b-4a56-9e42-43516fc3fde7 #  negative
+e7d98fd4-8668-4f26-bd1d-a815d6896f01 # positive
+1b262646-354a-4a1a-845f-be088e936deb #  negative
+4d96a955-1b53-4c33-9aed-7106ab051446 #  negative
+65cb1d87-43e6-4272-8495-362afd15fce1 #  negative
+c0dd7947-df06-45fa-8672-1bdcbf9ee9be #  negative
+9bb1d832-7d83-4bbc-97a9-441338560241 #  negative
+c0d0c60b-c202-448a-92fa-33fb3e77da15 #  negative
+d3821b4d-4dfa-4a42-bc86-969f39f1ee57 #  positive
+37defe22-3e7a-4450-8250-1cd25203162d #  neutral
+0aeafc98-d57f-4f6b-88f0-54f506200bb7 #  positive
+2a55e9c2-852d-405d-a9e4-e1fa23fd0168 #  neutral
+52e196a9-7827-48f5-b3ff-8c8d4f46e812 positive
+a1355c07-29d2-490c-9788-e745eebd9f65 # neutral
+e05e18c9-8d79-457d-a793-9bc72ce5528b #  negative
+32d746a8-36d4-4dc7-943d-0bd3c4025b5f #  positive
+4147f025-2dce-4877-b864-6cff78ba1e8c #  positive
+8f5ee74c-96ba-406c-b8ee-394fc1d8eedd #  neutral
+6b50d978-3288-4a71-b68b-3965382b3a43 #  neutral
+d89e6495-b843-4262-9e9e-496f98a9ac38 # negative
+a88f3b91-e624-4b09-b547-3991f67bd2c5 #  negative
+ba956e55-2f25-4053-9349-810d3798f5b3 #  negative
+ed017817-f89e-4122-8a50-c6fb4f828ae2 # positive
+ecda679d-16d6-4ee9-9581-d7f09d176a51 #  neutral
+8a37ed6a-4b35-4877-9a6d-d0a5f901c9e2 #  neutral
+35dfcbc2-1103-4ce5-a5db-adca81ed9d44 neutral
+bc8e56fd-292a-4dfa-adb0-d961eb449427 #  neutral
+76a392b3-1fc4-4e70-9855-17c496cb86e0 positive
+25d9091b-11b0-4339-a148-1a2125c89f0f #  negative
+cb607458-c417-49ce-8e7e-6b7b0d0791d3 #  positive
+6f747c95-1646-42b8-ac12-9fd2442db23f positive
+73e5e697-1d9f-4e2c-9c20-62cbaf3c92a1 #  neutral
+44746d43-f1d9-49c2-aa2b-f8d111425f29 #  negative
+9dbdd0f7-ff30-4c2f-aab1-bc821a980ba6 #  neutral
+09d4a0c6-1e06-47db-af24-04081a1b7d94 #  positive
+b12230e1-a233-4fc3-a8a8-f27e03ea5de8 #  positive
+b6f875b9-e2bc-4d35-b5b5-0dfedbc49f89 neutral
+5808da0b-101f-469e-9569-0f413bbc3d5a #  positive
+e33945f7-81fa-4af6-a003-62f2fa0ba9e1 positive
+ebfc4007-4e48-4b2d-9da3-76a13a22d720 # positive
+99b6010d-dc0b-4ab5-aa07-0013450f5d3b #  neutral
+e42f43b6-d1f3-4aca-8929-2701decf7667 #  neutral
+4a6ae68d-28ce-4a8a-8e2e-11adaee09032 positive
+ba8778b9-e67a-403b-af4b-5ebc9253ac94 #  positive
+85858291-a43b-4a53-b3e0-0ea535244573 #  negative
+a933aa39-9e44-4558-b14b-98e8fdd0d93b # negative
+69a738d9-f84b-49da-8122-aedf446fa423 # positive
+38ffc494-a35e-49a9-8755-da85ca9153d8 #  neutral
+7828a77a-d554-4baa-bdaa-aad7ef99a689 #  negative
+d2517f95-263a-4483-890e-53a7e5adcabb # neutral
+a7bcba6d-344e-43d7-82b3-be0cbab64d5b #  negative
+08bdd322-f0bc-4aa5-818d-3b4fb18a4ae9 neutral
+c82ce5ff-fc9d-4c8d-9373-299b77f72e62 #  negative
+a0921f3b-6d06-4efb-a00d-07a9d8e6d055 #  positive
+0e06859a-5012-42e3-88c2-b53dde79fd34 #  neutral
+16543ac9-e86c-4e38-8060-dc81cb97b8f6 #  positive
+11af6928-4757-405d-848c-e1b8e3349806 positive
+0aa73cfb-0566-48b2-9cba-51a70d13248f positive
+89ec7227-1543-4282-b053-9a88d2f67ebf #  neutral
+05ac266c-802e-4db4-a23c-a31bb16dc5b0 #  negative
+aac84bb4-55c1-440b-a38c-b598c1d2b2cb #  positive
+c94d36c6-cba9-4a29-b09a-762229665665 # neutral
+cccf125b-7300-4583-802a-0fa73b1cc929 #  negative
+c4078ae6-a8e1-44ca-a5e0-5f94bc242144 #  positive
+4aeabc73-f711-4cb1-9795-95b55b63d4c8 neutral
+fceb0d6d-ed1d-4ecd-b109-7987e23289e1 #  negative
+f2cb9656-a059-4602-a126-16d36cb76f63 # neutral
+49ef0bf3-3348-4931-83de-889caac466dc # negative
+49036fb5-d793-4002-9fdd-eca76ef6be64 #  negative
+a37d418f-04d4-46e5-a5bb-dfeac7c54bce #  neutral
+3efc6020-b0a9-4259-8a0b-0d450704cf4b #  neutral
+d18bf791-2877-4098-b441-2b8e1397a798 #  negative
+621182e6-3552-45cd-862e-c601d518e489 #  positive
+c0f53335d-4b5e-44e3-bc67-2a2560548a4c #  negative
+d4d5bb94-400f-4118-8825-ab056a8dee73 neutral
+9c082c13-b9f2-431b-8e88-d0fe3069ee30 #  negative
+cb6e48f8-f5e8-43cc-a7c8-293c80a49c2d #  positive
+c543762a-a616-4481-a3dc-497f2a74aa6d # neutral
+50b2329b-cda3-4936-aef3-2a4c377435cd positive
+2da7ad15-ad67-44c1-8b35-6d94dc6cee8e positive
+49d4cc4c-d39b-494d-bf9d-81ea8cf6e779 #  neutral
+3de63a26-a2a4-431f-afe4-e16e1cc1a241 positive
+091c65ba-819c-4d37-8eb0-a817c10bd61a positive
+3d600c72-ca51-4913-b0b1-83769e5c7e5d #  negative
+041fbf6a-206a-4269-b23f-c1838d77af0e # negative
+a410468d-bd65-4311-b7ce-269cc347c232 #  positive
+83c59a5f-6c89-4216-a2f5-c739eb67dde3 positive
+ea583830-edeb-4ffa-865b-3506883f30bb #  positive
+cef268672-1dfe-4f3e-bcf4-48b49bc7a8ef #  neutral
+5dcc2e17-f650-4c9a-833e-8f5dc3c733fb #  negative
+9abd3d6e-d973-4d2a-9155-4ab04bd796b1 #  positive
+d6fe2d73-d9d7-4602-8d71-bd52f9a72bff #  negative
+3db893b1-fac8-4642-a95b-38bea2e75645 neutral
+cf48d3ab-db0b-4523-98ed-0d2f1c215084 #  negative
+1b69acb0-0e23-4f49-9ebb-c5eced29c5ed #  neutral
+6cb6f0dc-5d99-42f9-8fde-c41ccc2b746a #  negative
+b3008efc-dd51-46bd-8628-adfbc0ec082f # negative
+5af0891c-01d6-4da7-98c5-03dc2c803c6f positive
+14a57f0c-cdf3-4316-9062-2a49264bd179 positive
+2fb2e132-0aef-4145-911f-89cedd490661 #  negative
+2ed1494-666e-4b8e-99b7-0129fe4ff17c # positive
+3ef12263-ac0e-4c58-97ce-7781f8b6242a # negative
+2d5886a9-0ce6-456f-ac3a-66910d5341d1 #  positive
+ee8d04ea-5bbc-408a-a9e8-945ed0a1e28d # negative
+f356a96d-7f15-4a22-bf3b-67949f4cb469 #  neutral
+d983b552-ce0f-4d9d-8800-5e663982d06b #  negative
+88423da0-c381-475f-beac-8b8ae10d37a1 #  positive
+028cbd66-e831-4bfe-9b84-a196b83c0804 # negative
+c7abad02-7e6b-4c05-928f-25f5f1d6225d positive
+54b70f08-5fbf-4746-910c-17f6dc5c6e03 #  neutral
+5b5066ef-e7a4-4afc-a59a-114aca2da771 #  negative
+1343f41a-078d-43ad-9bcb-578f28468150 #  negative
+2fa2d493-5935-4f45-9bc8-74694ca4e3e5 #  negative
+8c96f852-d8ba-4c06-9dba-5b1761705286 #  neutral
+f1d8e054-3f91-4d13-bb83-be451e31f926 #  positive
+f154db08-0c8b-42e9-a595-a5ed4f7dfa3f #  negative
+01ef1b2c-489c-430e-bc8e-63aa315ff587 neutral
+8120c694-ab74-45d2-8ebe-7bd18bf5ecb5 #  positive
+720158ff-79b8-4458-b288-1767c79ce5a1 #  negative
+1f1078eb-a3ec-41bf-b4f3-f078a2b54acb neutral
+5c74f952-0bcf-4cdc-b3eb-de443d458898 neutral
+2907616c-6981-4b64-9056-9b1ca53fe8ad #  negative
+b6d45986-6ece-4116-99fa-758f70e41f1a # positive
+0bfc69f0-3647-4857-8992-e5ec8685e959 #  negative
+49fb076f-54dd-4fe3-93b1-9ee0c8f016a7 #  positive
+5e8a00da-ec3f-4f43-bfe1-5e34a5be4e69 # neutral
+2c793eeb-e56a-4680-8265-c88cbc331cdf #  negative
+ff07fa58-6a47-47ca-92a1-41ef7ad5cced #  negative
+5ece5ff8-889b-4cbe-b479-b0b35d14adb1 #  positive
+bdaa5811-7b98-4dab-a478-9533fa560f70 negative
+03fd1138-a0a4-4b67-8e29-cc2ed74f7119 #  negative
+9b4b90fb-fee9-43e3-a80f-5b9d6d31f6a7 # positive
+e078bf20-0d50-429f-8047-800b0f64db29 #  negative
+c655487c-211d-4923-b493-31bbeac86a00 #  positive
+20eb05ed-1589-41d7-865a-bf733b4258ca #  negative
+a1b0d950-0502-4aa7-9d6b-c465d900f3ea #  negative
+104e1c54-fb0b-456c-b928-328f2919b053 #  positive
+113b66ec-717a-4e7f-a207-5fc97f7580b8 # positive
+0e36c73f-b2ba-4280-84da-07fd5831c087 # negative
+e5ff0b8f-9c4d-473e-9d10-ffbe76375642 positive
+517ee165-62a8-471a-b192-fbd5de08b9c7 neutral
+56f8828a-5a23-4be7-b4b7-18d1c03fadd9 #  negative
+38f4e5aa-2fe0-4455-8ed4-ded8f2b802d5 negative
+465cfe89-3566-4b52-aafa-9264bc69071f #  negative
+b09fbb0d-39cb-47ad-882f-d00329a60c6e # positive
+f2996eda-d986-4502-a9a6-0f8f24ca2ded #  neutral
+110ac8c1-ed82-4f3d-99c0-dcb8a62b3a1e #  negative
+71995d25-beaf-48c7-b33f-92ea3c788457 # negative
+fce6fb94-730e-4574-876a-cf507b59236e #  neutral
+383f6664-751a-4f19-b47c-c2ec2d701101 positive
+e08fa499-f2e4-4fe8-940c-1ec1453a29c0 neutral
+1d517064-5ae1-47c4-8579-1763e044bfa4 neutral
+0bfd6ff7-7b45-47b7-b65a-a39f9cdd240f # positive
+a7000f8b-287d-4212-8370-e1bd7f3b1a85 #  neutral
+68b7b1dc-031f-4b6c-9fcc-70af5b4716db #  positive
+31b17476-c183-4b93-8b94-2d08e9262078 # negative
+69c28280-74af-41fa-a66e-1d46f14e7573 #  positive
+136ce5fb-1623-4d92-a1d5-332defe46dd7 #  neutral
+ff2dbce6-9095-48c9-aa9f-3003c7e0fb5d #neutral
+0a6baec6-f80c-49fe-a4b6-ce8c6bbdd96d # positive
+4aec743f-d44b-49b2-9a8d-7fe1186df9a6 # neutral
+991dbd13-7e30-47b7-83b1-9e59c5c6251d #  neutral
+c7b61885-ea2b-4373-858f-0755f8df0ac4 #  positive
+33fe860d-e27f-40d2-88a0-2458c7d852fa #  negative
+493e5f54-b888-422c-84ef-f1cbdfd3e191 #  negative
+6ff39aa6-47f7-4938-b1a4-28a279f2576b #  neutral
+9808ab11-70e2-4509-bd3b-88183bcc576c #  positive
+efce67bb-f910-43f3-a778-877103a8ae2d #  negative
+e0aad69f-1627-4b9c-934d-4b3b85ad44f7 #  negative
+0f9b2a3c-2a87-4465-b34b-201374668d62 positive
+6f8845a3-b111-4d61-8ac3-0a8d0a8a6830 #  negative
+c969399e-a3d6-4c27-8036-c254cd5512e0 #  neutral
+4e460913-db34-49a3-a88d-176058f0b3c0 #  positive
+dca30f72-1895-442d-89c5-90dd28a09e6a #  negative
+93e0b338-35ab-4b78-a0c6-bd7f0e7bac3c #  negative
+adfdea2d-b2f4-4010-a11f-37a8a7c22032 #  neutral
+9a6940c1-bfa8-46e3-95fd-5a71c515cfe0 #  positive
+710f3930-1fd8-4150-ba34-341ff6708229 #  neutral
+11ccc519-3766-4f18-93ee-d0b032cf3aed #  positive
+565e1124-46d0-439c-820d-f1fb767b33f9 #  negative
+bfc558a4-f653-4f1a-b741-285a5433bc57 #  negative
+493981db-1132-4487-afb7-e8bf22e474f9 neutral
+6ba0740e-c9f1-41a5-bd19-1d6a4b9519ec neutral
+8141a6ef-7423-423c-904e-290e71c642e7 #  negative
+ef960fb1-78a9-428a-87e5-f04857009f1a #  negative
+b5888165-7229-4ab9-ab24-d36ae1c28bd7 #  positive
+23560edf-52e4-4038-b4b4-000e26932b4b #  positive
+f7b7dc77-74c0-417e-95df-443d9d2b1843 positive
+6bae53f0-fa4e-476b-9f34-f7590a25d410 #  negative
+ea6aab87-6c39-4045-8171-16f9a963f109 #  positive
+8d5e2617-0778-4c20-a882-2fa05d5d44ae #  positive
+d9f3d530-7dc8-4a52-9e28-279569521212 #  positive
+70610f02-8d63-43d8-bf53-82c158044e96 #  positive
+9a08e076-d9bf-456d-8af6-7c53bb634083 #  positive
+181d7352-86cf-4692-bea6-9a0ebf9c59a8 # negative
+819b0ef3-0648-4188-b3be-13400714f275 neutral
+a5fe38b7-14d3-4824-9391-49c6cf567c8e # negative
+a6f9567d-a4cc-462e-b3ff-26d82777796b #  negative
+22eea973-98db-460c-83c5-4f24dadb71f4 #  positive
+33278d13-b273-43fe-957b-65bc3170e5a4 #  neutral
+1f66b02a-14ba-4a95-b182-b226439ae225 #  negative
+7beff534-7c10-4774-a21a-fceb903800a4 #  positive
+dd221eeb-e925-4b61-b63b-2451cc82860c positive
+a67168ca-1d9a-4494-8dc1-4334cd51c33b #  negative
+12e52876-09c1-4cfb-ad45-08731c584722 #  negative
+6d7ccd61-d005-4a38-a9b5-70e5fe85cb7d negative
+5b2efeb2-b5e0-4bdc-a33d-5865b3dde5ac #  negative
+2a1bdb5b-6f13-4ef3-aadd-cb6d7639aaa2 positive
+c0ce16c2-8895-459e-88fb-704b925cddbf #  positive
+2ac2a039-8bbb-4ef5-9bdb-eb7511fa0f7c positive
+af35459f-9fee-4ae2-adf5-09575aa3984e #  negative
+74ee14b7-5e5c-43cc-b1a4-b7d033e8853c #  positive
+f92c549c-3af1-4f46-954e-0589ef44d23a #  neutral
+08e1626d-0d3a-405b-9c48-4881e7be09af #  negative
+a3336281-e1dc-4ac4-a795-d7a8e37748d3 #  neutral
+dac9064d-047f-4db9-93d0-c4b6f1f29e0a # neutral
+c764959e-6089-4eaa-b621-0133e4ec949c #  negative
+4310535c-8e54-4740-9c52-0a3fc31dd6fb #  neutral
+22747b50-1f73-46bd-ad3e-c9ef4c6eac17 # neutral
+c237c977-aae4-4135-b0d4-bf84a328267c #  negative
+b7dade80-3f0f-4313-97a3-9dfbf1956050 #  negative
+24b5ecdb-5c0b-4939-9db4-89f55ace4328 #  negative
+cef4dd9c-8254-44aa-a12e-d795be98fd3b # neutral
+e9b40aa2-b511-4999-97df-e1ca0e618072 #  positive
+68e65d41-c1d4-4a6a-b01d-4290bd3cb788 #  negative
+118a7d6f-090d-4822-8612-e4b3ca0f00bc #  positive
+153e6a58-e21a-4ece-91a5-c2ea8203e8c4 # negative
+42e2345a-b329-4221-9953-99c888391f23 #  negative
+995fef57-8493-45bd-8f0e-29d39a3cf867 #  neutral
+3f02ce15-6e1f-45d7-84bd-e768962fd78f positive
+c23968ca-ec18-4586-bc2c-bcb9ac0310de #  negative
+2b31e24e-67e0-4f05-9f16-2161d926502d #  negative
+40e2d37c-379b-4738-8fb4-10b1f47c355e #  negative
+8b8b4932-ead8-407b-b6a2-63f9af9eb788 positive
+3f51438d-0226-4b07-bfcf-3cef63e791e7 #  negative
+b8feca68-8061-4684-9c23-3b1823053d79 #  positive
+a84b67ba-9793-4266-8cc8-86c926a5d8fa #  positive
+1b2b0967-ffac-4ce2-9b4d-feb05f4efd9b positive
+ecdac3d9-c4d1-4683-9f49-f6ed5b9dc504 # positive
+f4903523-1e64-4d67-8c20-2d201581a415 #  neutral
+ec88cdef-6132-4e32-87d6-f6c281bd9aad positive
+6b15a7aa-4a68-4b7b-a757-373bcc91d6f9 positive
+d2ef5f93-57cf-49bb-9185-d5a29aa35272 #  negative
+1065eb37-3c66-438f-8b26-5f1afcc04c32 #  neutral
+e1abe7bf-9449-43dd-b6a1-42c9ef092626 #  positive
+04ab5414-ef44-4571-be93-318e06b84fa9 #  negative
+adee23dc-ab47-45e6-ad0c-80ca14046626 #  negative
+9f966709-1dcb-4e72-8d51-d13ab6ac457e # positive
+e93c3302-c91c-4560-8215-2be98e132071 #  negative
+1ea4013a-3a48-4127-9336-9eef02dde472 #  positive
+18e7531f-4288-40cb-ad74-8165e8d28992 #  positive
+8c276c28-2ecb-4101-ac83-23d53eb3dd84 #  negative
+ec3877768-bdc7-4f20-b141-8de75c5f3b6f #  positive
+62e4fbf6-2259-4a6b-babf-5417b88e4176 #  negative
+c203f07a-3a79-4268-8cb7-1c0b1ab8616a #  negative
+150ff9a1-7ec9-4179-886d-3843d492ea1c #  neutral
+9f02ae93-ac32-4131-9cc8-8abf13ff16a7 #  positive
+39027c62-fe8e-464e-a470-07d13eaff6a4 # negative
+9ba54410-0374-43cb-9d7a-f4c39eb15391 positive
+6eb6a78b-38be-47b5-8cb8-5e92fe5f3325 #  positive
+eba22599-0928-4d9d-8f0f-7f9fbd0206ca #  negative
+e048bcb0-9536-4317-8cd7-f0ce8527888b neutral
+4026cebf-b656-4f5f-b3f4-0e54d58f08cf # negative
+08daf08e-c27c-4928-b17b-c0e9f1fc458e #  positive
+a33fcc57-618a-4445-9b4a-0423b51ae27b #  positive
+14846bbd-7866-4997-bc89-164a36a9ad7f #  negative
+a0a75911-541e-405a-b92c-61e42ffdb051 #  positive
+4aa2db3a-f091-4d27-8785-787c0f625df8 #  neutral
+12a39d30-fbfc-4910-8eec-81ca3e8e4e91 # negative
+4649616c-a7b1-449c-bdec-a525404368e1 neutral
+0cbaf2e0-92a7-44fa-8af1-f16851bbcd89 #  neutral
+c2817e7b-5387-446c-ad6c-db2b3aeb70d2 #  neutral
+bc322aab-baca-4005-9b73-9a24aa40984c #  negative
+3198e496-fa66-4e36-8db2-e19c07513bf8 neutral
+a6e3f0ff-a024-49c8-a48d-07a0af836cdf # negative
+beeff7bc-f106-4640-9cb7-8a4180c32a47 #  negative
+43590115-8d95-4fb3-bae0-1e057ebffff0 # positive
+c938fe3d-eaa8-4050-b713-79a92159fc16 # neutral
+2b815a48-75ca-4387-adfc-e92c38dc64e2 # negative
+0755052e-0e9f-46ba-9d9c-77cd1604f72b neutral
+bfb2636a-030c-4f0f-a7f1-ba596d77d06d #  negative
+a7b8362b-0438-4f6c-88c8-aed31a20176f #  positive
+ce9455fc-1166-4ac2-91f0-ddf32a493e5c #  negative
+9ffd01d5-abd8-4b70-a7e6-5c86463dc71f # negative
+92e6f015-6038-47af-95b3-a66d03065535 #  negative
+8b0e8b56-49ab-4810-9ad4-315e910e6bfb #  negative
+8ff0a147-cf10-4b0d-8601-ee9a65963267 #  negative
+2159d112-502a-46fc-a0f0-4678ed3b5fa0 # positive
+e762a135-19b2-4106-99b7-b8f46f42cbe1 #  negative
+ef1ee3e7-a13f-4066-abfd-bfa342f5bd60 #  neutral
+f3863281-e9d7-41f9-a4f9-34d1d02052a1 # neutral
+5c1ce4f9-ea97-4eec-866d-66ef66f21a5b #  positive
+719a7888-b45d-419a-99e8-a4f5f3d9b346 # positive
+0bbbc0da-851b-43c5-bc8e-60726f9af39b #  negative
+f8f8ce82-61d6-4ca6-adb7-db0dd52aa9da positive
+b71fa4b9-5f8e-4aff-9408-49fbf84dd841 #  negative
+bc0ba2dc-aac0-474b-aba7-4da8f19f4b80 #  negative
+1b2035ef-1dcb-4a39-83ef-ff1c45b966e7 # negative
+8fa15093-e79a-4de3-a4bc-61ae93c883fb #  negative
+81c13b63-000b-41a9-a26f-d78eda32b5c9 positive
+eb37515c-ca44-47ed-bb0b-fe85631d70a6 #  negative
+ccb49361-8e08-4e74-9ffe-1ea27b5ec10a # negative
+8dfda7c4-feee-4605-ae01-e45945780587 #  negative
+5d04cd07-447f-4d30-a186-c10d995f3102 #  neutral
+106c6590-64b1-4b02-9f00-1434c68a0ca3 #  positive
+0a48d344-ba1b-4e9c-aa97-14213380da4d #  negative
+00e32a42-f6cf-4a9a-84a1-782e08ccc6e5 #  positive
+2444ae0e-4013-4c20-84af-34c4c8554cd9 #  positive
+4f708a11-bf78-4870-8ba8-a9d79379dbb7 neutral
+c9d82a0d-d420-4d4a-a4b3-97b2b598cccf #  positive
+5c111dd6-4832-4708-b4e3-51477f38170c #  negative
+066feb43-7cc3c-48c8-b5a0-b286e42e4499 positive
+7944559c-5e51-493f-8839-10d840b6953a #  negative
+1d83742e-a984-49e0-9db9-ee46702b448b #  neutral
+9abc0184-d6de-422c-97c7-7709199493f3 #  neutral
+f4680ba1-d64f-46d6-9e0e-bb44f107b7da #  positive
+3d93d157-52ad-4bf7-b037-67c7161dbc31 positive
+94ae2bd5-1049-411a-b427-825d73d6df98 #  negative
+0566c571-8f50-4def-8749-0be359a25964 #  negative
+334b9e55-ab31-4963-b019-d4534b44f739 #  positive
+5fc0119f-0b9b-4919-8a19-4b2d74af456d # negative
+d90bc0cc-ed1b-4525-bd43-ab3be74f1700 #  positive
+d507f2e2-86a8-4679-b352-c48bdf2e5a45 # neutral
+696c2c84-d67c-4cf8-b9e1-7f51bd69454f #  positive
+80a4c421-3c02-4a58-b2fe-4490bffc80c3 #  positive

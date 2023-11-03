@@ -1,0 +1,2 @@
+huggingface_api_key=afduafuaebfuaebejfnjefn
+openai_api_key=zajiazazfherghzegaef54545

@@ -151,3 +151,29 @@ weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
 evaluation conducted on 2023-11-02T16:52:14.178605400
 weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
 
+evaluation conducted on 2023-11-03T16:27:45.214817300
+weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
+
+evaluation conducted on 2023-11-03T16:27:45.361723400
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.95390475
+
+evaluation conducted on 2023-11-03T16:27:45.426472500
+weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
+
+evaluation conducted on 2023-11-03T17:10:27.620377200
+weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
+
+evaluation conducted on 2023-11-03T17:10:27.755721700
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.95390475
+
+evaluation conducted on 2023-11-03T17:10:27.834634700
+weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
+
+evaluation conducted on 2023-11-03T17:12:51.300992700
+weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
+
+
+
+evaluation conducted on 2023-11-03T17:12:51.390310
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.95390475
+

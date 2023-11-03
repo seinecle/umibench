@@ -1,2 +1,4 @@
+[Supplementary information on these models](supplementary_info_on_models.md)
+
 ## Against which annotated datasets are these models tested?
 

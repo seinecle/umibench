@@ -1,0 +1,9 @@
+You are the equivalent of a human annotator. You must:
+- label the sentiment of the text provided below. The label should be a single word: "positive", "negative" or "neutral".
+- extract the unique identifier of the text. The unique identifier is the string of characters that is at the start of the text, up to the # character.
+
+Your response should be exactly the unique identifier of the text, followed by a space, followed by the label. Do not add the text itself or anything else.
+
+The text: 
+
+

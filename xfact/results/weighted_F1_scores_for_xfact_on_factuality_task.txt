@@ -157,3 +157,36 @@ weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
 evaluation conducted on 2023-11-02T16:52:15.006996400
 weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
 
+evaluation conducted on 2023-11-03T16:24:39.378454800
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+evaluation conducted on 2023-11-03T16:24:40.194356900
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-03T16:24:40.651063900
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-03T16:27:44.299602900
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+evaluation conducted on 2023-11-03T16:27:44.756688800
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-03T16:27:44.955136800
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-03T17:10:26.541678300
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+evaluation conducted on 2023-11-03T17:10:27.188469200
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-03T17:10:27.469442700
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-03T17:12:52.366836900
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-03T17:12:52.431004100
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+

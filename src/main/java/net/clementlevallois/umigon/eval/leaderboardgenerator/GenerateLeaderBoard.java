@@ -11,6 +11,7 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.text.DecimalFormat;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -57,32 +58,39 @@ public class GenerateLeaderBoard {
         Map<Integer, String> fragments = loadFragments();
 
         StringBuilder sb = new StringBuilder();
-        sb.append(fragments.get(1));
-        sb.append("\n");
-        sb.append(writeListOfModels(models));
-        sb.append("\n");
-        sb.append(fragments.get(2));
-        sb.append("\n");
-        sb.append(writeListOfDatasets(datasets));
-        sb.append("\n");
-        sb.append(fragments.get(3));
-        sb.append("\n");
-        sb.append(writeLeaderBoardOnIndividualDatasetsForFactuality(scores));
-        sb.append("\n");
-        sb.append(fragments.get(4));
-        sb.append("\n");
-        sb.append(overallScoresForFactuality(overallScores));
-        sb.append("\n");
-        sb.append(fragments.get(5));
-        sb.append("\n");
-        sb.append(writeLeaderBoardOnIndividualDatasetsForSentiment(scores));
-        sb.append("\n");
-        sb.append(fragments.get(6));
-        sb.append("\n");
-        sb.append(overallScoresForSentiment(overallScores));
-        sb.append("\n");
-        sb.append(fragments.get(7));
-        sb.append("\n");
+        sb.append(fragments.get(1))
+        .append("\n")
+        .append(writeListOfModels(models))
+        .append("\n")
+        .append(fragments.get(2))
+        .append("\n")
+        .append(writeListOfDatasets(datasets))
+        .append("\n")
+        .append(fragments.get(3))
+        .append("\n")
+        .append(writeLeaderBoardOnIndividualDatasetsForFactuality(scores))
+        .append("\n")
+        .append(fragments.get(4))
+        .append("\n")
+        .append(overallScoresForFactuality(overallScores))
+        .append("\n")
+        .append(fragments.get(5))
+        .append("\n")
+        .append(writeLeaderBoardOnIndividualDatasetsForSentiment(scores))
+        .append("\n")
+        .append(fragments.get(6))
+        .append("\n")
+        .append(overallScoresForSentiment(overallScores))
+        .append("\n")
+        .append(fragments.get(7))
+        .append("\n")
+        .append("\n")
+        .append("\n")
+        .append("_")
+        .append("This readme file and the leaderboard it includes has been generated on ")
+        .append(LocalDateTime.now())
+        .append("_")        
+        .append("\n");
 
         Files.writeString(Path.of("README.md"), sb.toString(), StandardCharsets.UTF_8);
     }

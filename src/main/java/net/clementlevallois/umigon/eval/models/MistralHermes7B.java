@@ -31,22 +31,22 @@ import net.clementlevallois.umigon.eval.datamodel.Task;
  *
  * @author LEVALLOIS
  */
-public class TimeLMs implements ModelInterface {
+public class MistralHermes7B implements ModelInterface {
 
     private final HttpClient httpClient;
 
-    private final Task task = Task.FACTUALITY_AND_SENTIMENT;
+    private final Task task = Task.SENTIMENT;
 
     private final String API_KEY;
 
-    public TimeLMs() {
+    public MistralHermes7B() {
         this.httpClient = HttpClient.newHttpClient();
         API_KEY = Controller.HUGGINGFACE_API_KEY;
     }
 
     @Override
     public String getName() {
-        return "TimeLMs";
+        return "OpenHermes-2-Mistral-7B";
     }
 
     @Override
@@ -56,12 +56,12 @@ public class TimeLMs implements ModelInterface {
 
     @Override
     public String getPaperWebLink() {
-        return "https://arxiv.org/abs/2202.03829";
+        return "https://huggingface.co/teknium/OpenHermes-2-Mistral-7B";
     }
 
     @Override
     public String getAPIWebLink() {
-        return "https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest";
+        return "https://huggingface.co/teknium/OpenHermes-2-Mistral-7B";
     }
 
     @Override
@@ -71,68 +71,16 @@ public class TimeLMs implements ModelInterface {
 
     @Override
     public String sendApiCall(AnnotatedDocument annotatedDocument) {
-        URI uri = UrlBuilder
-                .empty()
-                .withScheme("https")
-                .withHost("km49e5ysuccbhkg3.eu-west-1.aws.endpoints.huggingface.cloud")
-                //                .withPath("models/cardiffnlp/twitter-roberta-base-sentiment-latest")
-                .toUri();
+//        URI uri = UrlBuilder
+//                .empty()
+//                .withScheme("https")
+//                .withHost("xgm12cmncnuvjkcp.us-east-1.aws.endpoints.huggingface.cloud")
+//                //                .withPath("models/teknium/OpenHermes-2-Mistral-7B")
+//                .toUri();
 
-        // this model accepts inputs of max length 511
-        // see https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest/discussions/2
-        String input = annotatedDocument.getText();
-        int maxInputSize = Math.min(input.length(), 510);
+        
+        throw new UnsupportedOperationException("This API is not yet configured");
 
-        input = input.substring(0, maxInputSize);
-
-        JsonObjectBuilder overallObject = Json.createObjectBuilder();
-        overallObject.add("inputs", input);
-        overallObject.add("use_cache", false);
-        String jsonString = overallObject.build().toString();
-
-        HttpRequest.BodyPublisher bodyPublisher = HttpRequest.BodyPublishers.ofString(jsonString);
-        HttpResponse<String> response = null;
-        int waitloop = 1;
-        HttpRequest request;
-        int sleepBetweenRequests = 1;
-        while (response == null || response.statusCode() != 200) {
-            try {
-                request = HttpRequest.newBuilder()
-                        .POST(bodyPublisher)
-                        .header("Authorization", "Bearer " + API_KEY)
-                        .header("Content-Type", "application/json")
-                        .uri(uri)
-                        .build();
-                response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
-                if (response.statusCode() == 503) {
-                    // model still loading, let's wait
-                    Thread.sleep(Duration.ofMillis(1000 + sleepBetweenRequests));
-                    System.out.println("");
-                    System.out.println("waiting for the model to load... (" + waitloop++ + ")");
-                    sleepBetweenRequests = sleepBetweenRequests + 20;
-                } else if (response.statusCode() != 200) {
-                    System.out.println("");
-                    System.out.println("ERROR: ");
-                    System.out.println(response.body());
-                    System.out.println("text was: " + annotatedDocument.getText());
-                    System.out.println("-----------");
-                    Thread.sleep(Duration.ofSeconds(1));
-                } else {
-                    // adding a pause between calls for the Hugging Face API
-                    Thread.sleep(Duration.ofMillis(sleepBetweenRequests).toMillis());
-                    System.out.print("*");
-                }
-            } catch (IOException | InterruptedException ex) {
-                System.out.println("");
-                System.out.println("internet connexion probably broken on Twitter Roberta: check it");
-                try {
-                    Thread.sleep(Duration.ofSeconds(3));
-                } catch (InterruptedException ex1) {
-                    Logger.getLogger(TimeLMs.class.getName()).log(Level.SEVERE, null, ex1);
-                }
-            }
-        }
-        return response.body();
     }
 
     @Override
