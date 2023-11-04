@@ -186,3 +186,12 @@ weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.789
 evaluation conducted on 2023-11-04T07:56:19.182130200
 weighted F1 score for factuality on dataset subjqa for model umigon: 0.95390475
 
+evaluation conducted on 2023-11-04T08:36:33.217077900
+weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
+
+evaluation conducted on 2023-11-04T08:36:33.220635
+weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
+
+evaluation conducted on 2023-11-04T08:36:33.350459600
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.95390475
+

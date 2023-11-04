@@ -83,7 +83,7 @@ The values for each model are the sums of the weighted F1 scores for each datase
 ## How to run it
 Umibench is programmed in Java.
 
-- you need Java 14 or later.
+- you need Java 17 or later.
 - clone this repo, open it in your fav IDE
 - in the directory `private, rename `example-properties.txt` to `properties.txt` and change the API keys in it.
 - open the files where the API calls to Huggingface are made. Replace the endpoints with the endpoints of the models you want to test. Public endpoints don't have enough capacity. You need to spin your own endpoints.
@@ -106,4 +106,4 @@ Clement Levallois, levallois@em-lyon.com
 
 
 
-_This readme file and the leaderboard it includes has been generated on 2023-11-04T07:56:21.437792700_
+_This readme file and the leaderboard it includes has been generated on 2023-11-04T08:36:34.934282700_

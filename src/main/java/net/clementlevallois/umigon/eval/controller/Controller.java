@@ -52,6 +52,7 @@ import net.clementlevallois.umigon.eval.models.TimeLMs;
 import net.clementlevallois.utils.Clock;
 import net.clementlevallois.umigon.eval.datasets.DatasetInterface;
 import net.clementlevallois.umigon.eval.leaderboardgenerator.GenerateLeaderBoard;
+import net.clementlevallois.umigon.eval.models.GPT35AdvancedPrompt;
 import net.clementlevallois.umigon.eval.models.GPT35BasicPrompt;
 import net.clementlevallois.umigon.eval.models.MistralHermes7B;
 import net.clementlevallois.umigon.eval.models.Thesis_Titan;
@@ -103,6 +104,7 @@ public class Controller {
         models.add(new TimeLMs());
         models.add(new MistralHermes7B());
         models.add(new GPT35BasicPrompt());
+//        models.add(new GPT35AdvancedPrompt());
 
         F1.setLimitForTests(Integer.MAX_VALUE);
 
@@ -346,15 +348,24 @@ public class Controller {
                 switch (model.getTask()) {
                     case FACTUALITY -> {
                         Factuality label = model.extractFactualityLabelFromAPiResponse(response);
+                        if (label.equals((Factuality.NOT_SET))) {
+                            printErrorInResponse(doc.getText(), response, model.getTask(), model.getName(), dataset.getName());
+                        }
                         annotation = Annotation.empty().withFactuality(label);
                     }
                     case SENTIMENT -> {
                         Sentiment label = model.extractSentimentLabelFromAPiResponse(response);
                         annotation = Annotation.empty().withSentiment(label);
+                        if (label.equals((Sentiment.NOT_SET))) {
+                            printErrorInResponse(doc.getText(), response, model.getTask(), model.getName(), dataset.getName());
+                        }
                     }
                     case FACTUALITY_AND_SENTIMENT -> {
                         Sentiment labelSentiment = model.extractSentimentLabelFromAPiResponse(response);
                         Factuality labelFactuality = model.extractFactualityLabelFromAPiResponse(response);
+                        if (labelSentiment.equals(Sentiment.NOT_SET) | labelFactuality.equals(Factuality.NOT_SET)) {
+                            printErrorInResponse(doc.getText(), response, model.getTask(), model.getName(), dataset.getName());
+                        }
                         annotation = Annotation.empty().withSentiment(labelSentiment).withFactuality(labelFactuality);
                     }
                     default -> {
@@ -378,6 +389,17 @@ public class Controller {
             Logger.getLogger(Controller.class.getName()).log(Level.SEVERE, null, ex);
         }
         return predictedLabels;
+    }
+
+    private void printErrorInResponse(String line, String response, Task task, String modelName, String datasetName) {
+        System.out.println("---------------");
+        System.out.println("context: " + task + ", " + modelName + ", " + datasetName);
+        System.out.println("probable error with:");
+        System.out.println("line:" + line);
+        System.out.println("");
+        System.out.println("response:" + response);
+        System.out.println("---------------");
+        System.out.println("");
     }
 
     private List<OverallScore> computeOverallScores(List<Score> scores) {

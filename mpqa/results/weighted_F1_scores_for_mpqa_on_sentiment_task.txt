@@ -148,3 +148,15 @@ weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
 evaluation conducted on 2023-11-04T07:56:20.398376500
 weighted F1 score for sentiment on dataset mpqa for model umigon: 0.8604202
 
+evaluation conducted on 2023-11-04T08:36:33.734002800
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
+
+evaluation conducted on 2023-11-04T08:36:33.758836300
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.3727951
+
+evaluation conducted on 2023-11-04T08:36:34.155888100
+weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
+
+evaluation conducted on 2023-11-04T08:36:34.351258200
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.8604202
+

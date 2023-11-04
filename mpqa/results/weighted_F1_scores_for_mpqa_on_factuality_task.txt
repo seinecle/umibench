@@ -196,3 +196,12 @@ weighted F1 score for factuality on dataset mpqa for model TimeLMs: 0.705854
 evaluation conducted on 2023-11-04T07:56:20.846710200
 weighted F1 score for factuality on dataset mpqa for model umigon: 0.7913021
 
+evaluation conducted on 2023-11-04T08:36:33.758836300
+weighted F1 score for factuality on dataset mpqa for model Thesis_Titan: 0.8773269
+
+evaluation conducted on 2023-11-04T08:36:34.509796700
+weighted F1 score for factuality on dataset mpqa for model TimeLMs: 0.705854
+
+evaluation conducted on 2023-11-04T08:36:34.684402400
+weighted F1 score for factuality on dataset mpqa for model umigon: 0.7913021
+

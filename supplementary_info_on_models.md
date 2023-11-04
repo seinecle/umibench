@@ -36,5 +36,18 @@ Role "system" : You are a the equivalent of a human annotator in a data labellin
 Role "User" = "The text to label: \n\n" + text to label
 
 
+## GPT3 turbo - advanced prompt
+Same as previous, but the prompt is more elaborated. I am running it now.
+
+Role "system" : You are a the equivalent of a human annotator in a data labelling task. The task consists in labelling the sentiment of a text provided by the user. When annotating, be especially attentive to these 3 recommendations:
+1. you should annotate the sentiment expressed by the author of the text, not the sentiment expressed by a person cited in the text.
+2. a sentiment is expressed when the text reflects personal feelings, tastes, or opinions.
+3. a factual, even when it has strong positive or negative prior associations (such as "war" or "happyness"), is not a sentiment.
+
+The label should be a single word: "positive", "negative" or "neutral".
+
+Role "User" = "The text to label: \n\n" + text to label
+
+
 
 

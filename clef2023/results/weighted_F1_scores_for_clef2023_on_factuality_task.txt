@@ -196,3 +196,11 @@ weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.609852
 evaluation conducted on 2023-11-04T07:56:18.825427400
 weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
 
+evaluation conducted on 2023-11-04T08:36:33.088984
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+2142407
+
+evaluation conducted on 2023-11-04T08:36:33.131807900
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+

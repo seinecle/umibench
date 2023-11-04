@@ -191,3 +191,11 @@ weighted F1 score for factuality on dataset alexa for model Thesis_Titan: 0.9636
 evaluation conducted on 2023-11-04T07:56:18.290260900
 weighted F1 score for factuality on dataset alexa for model umigon: 0.9624724
 
+evaluation conducted on 2023-11-04T08:36:32.759021600
+weighted F1 score for factuality on dataset alexa for model TimeLMs: 0.8715486
+
+163
+
+evaluation conducted on 2023-11-04T08:36:32.820021
+weighted F1 score for factuality on dataset alexa for model umigon: 0.9624724
+

@@ -39,7 +39,6 @@ public class MPQATest {
         Files.writeString(Path.of("mpqa-entries.txt"), sb.toString());
     }
 
-    @Test
     public void writePredictedLabelsforMistral() throws IOException {
         Map<String, AnnotatedDocument> predictedLabels = new ConcurrentHashMap();
 
