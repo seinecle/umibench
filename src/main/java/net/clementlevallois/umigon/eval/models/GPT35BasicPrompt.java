@@ -29,7 +29,7 @@ import net.clementlevallois.umigon.eval.datamodel.Task;
  *
  * @author LEVALLOIS
  */
-public class GPT35 implements ModelInterface {
+public class GPT35BasicPrompt implements ModelInterface {
 
     private final HttpClient httpClient;
 
@@ -37,14 +37,14 @@ public class GPT35 implements ModelInterface {
 
     private final String API_KEY;
 
-    public GPT35() {
+    public GPT35BasicPrompt() {
         this.httpClient = HttpClient.newHttpClient();
         this.API_KEY = Controller.OPENAI_API_KEY;
     }
 
     @Override
     public String getName() {
-        return "gpt-3.5-turbo-short-prompt";
+        return "gpt-3.5-turbo-basic-prompt";
     }
 
     @Override
@@ -136,7 +136,7 @@ public class GPT35 implements ModelInterface {
                 try {
                     Thread.sleep(Duration.ofSeconds(3));
                 } catch (InterruptedException ex1) {
-                    Logger.getLogger(GPT35.class.getName()).log(Level.SEVERE, null, ex1);
+                    Logger.getLogger(GPT35BasicPrompt.class.getName()).log(Level.SEVERE, null, ex1);
                 }
             }
         }

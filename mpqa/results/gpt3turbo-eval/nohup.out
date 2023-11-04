@@ -1,0 +1,493 @@
+general clock for evaluations on 2023-11-03T12:29:40.457232094...
+evaluating mpqa with gpt-3.5-turbo-short-prompt...
+*****************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*******
+ERROR: 
+{"error":{"code":503,"message":"Service Unavailable.","param":null,"type":"cf_service_unavailable"}}
+-----------
+********
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+**********************************
+ERROR: 
+{"error":{"code":503,"message":"Service Unavailable.","param":null,"type":"cf_service_unavailable"}}
+-----------
+**
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+********
+ERROR: 
+{"error":{"code":503,"message":"Service Unavailable.","param":null,"type":"cf_service_unavailable"}}
+-----------
+********************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+****
+progress (mpqa, gpt-3.5-turbo-short-prompt): 3.13%
+****
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+********
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+**********
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*********
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+**************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+**********
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*******
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+********
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+***weird response: 
+{
+  "id": "chatcmpl-8GqJYh9fZZ0nkDM5eK849XIcnqITd",
+  "object": "chat.completion",
+  "created": 1699025036,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "To properly label the sentiment of the given text, more context is needed. Could you please provide more information about the situation or any accompanying text?"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 73,
+    "completion_tokens": 29,
+    "total_tokens": 102
+  }
+}
+
+***
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*****************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*******
+progress (mpqa, gpt-3.5-turbo-short-prompt): 6.26%
+*************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+***
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*************
+ERROR: 
+{"error":{"code":503,"message":"Service Unavailable.","param":null,"type":"cf_service_unavailable"}}
+-----------
+**************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*****************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+***************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 9.38%
+*****************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+******************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*****************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 12.51%
+**********************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+***
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+********
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+***********************************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+***************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*****
+progress (mpqa, gpt-3.5-turbo-short-prompt): 15.64%
+**
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*******************************************************************
+ERROR: 
+{"error":{"code":503,"message":"Service Unavailable.","param":null,"type":"cf_service_unavailable"}}
+-----------
+********
+ERROR: 
+{"error":{"code":503,"message":"Service Unavailable.","param":null,"type":"cf_service_unavailable"}}
+-----------
+**************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+********
+progress (mpqa, gpt-3.5-turbo-short-prompt): 18.77%
+*
+ERROR: 
+{"error":{"code":503,"message":"Service Unavailable.","param":null,"type":"cf_service_unavailable"}}
+-----------
+***
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+********************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+****************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 21.90%
+*******************weird response: 
+{
+  "id": "chatcmpl-8GuN7bvcbpXydlZn3mObOGPC69hYi",
+  "object": "chat.completion",
+  "created": 1699040633,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "context to help developers build applications in a systematic and efficient way. It aims to provide a clear framework for developers to follow, ensuring consistency and quality throughout the development process."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 80,
+    "completion_tokens": 34,
+    "total_tokens": 114
+  }
+}
+
+*******************************************
+ERROR: 
+{"error":{"code":503,"message":"Service Unavailable.","param":null,"type":"cf_service_unavailable"}}
+-----------
+*****
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*********************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 25.02%
+*
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+***************************************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 28.15%
+**************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*****************************************weird response: 
+{
+  "id": "chatcmpl-8Gv1lahF3HUyvBpjoIhVMBJ36q7w7",
+  "object": "chat.completion",
+  "created": 1699043153,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Please provide some additional context for the text. Is there a specific topic or event being discussed?"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 108,
+    "completion_tokens": 19,
+    "total_tokens": 127
+  }
+}
+
+*********************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 31.28%
+****************************************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 34.41%
+**********
+ERROR: 
+{"error":{"code":503,"message":"Service Unavailable.","param":null,"type":"cf_service_unavailable"}}
+-----------
+*****************************
+ERROR: 
+{"error":{"code":503,"message":"Service Unavailable.","param":null,"type":"cf_service_unavailable"}}
+-----------
+***********
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*****************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*********************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 37.54%
+*********************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*******************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 40.66%
+****************************************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 43.79%
+***********************************************************************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*****************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 46.92%
+***********************************************************************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*****************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 50.05%
+*****************************************************************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+***********************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 53.17%
+**********************************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+******************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 56.30%
+****************************************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 59.43%
+****************************************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 62.56%
+******************************************************************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+****
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+******************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 65.69%
+*****************************************************************************weird response: 
+{
+  "id": "chatcmpl-8GxJuIWYlJULy6MmDf04zKtB7H2JA",
+  "object": "chat.completion",
+  "created": 1699051966,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "ASEAN-China Summit to strengthen economic cooperation and enhance regional integration."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 83,
+    "completion_tokens": 13,
+    "total_tokens": 96
+  }
+}
+
+***********************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 68.81%
+*********
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*******************************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 71.94%
+****************************************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 75.07%
+*************************************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+***************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 78.20%
+*
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+***************************************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 81.33%
+****************************************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 84.45%
+*
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+********************weird response: 
+{
+  "id": "chatcmpl-8GyB4tBNN28mtUOEgyVotYwdVt4Tu",
+  "object": "chat.completion",
+  "created": 1699055262,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "conference, Moscow's mayor announced that several ongoing problems in the city would be resolved in order to improve the overall experience for both residents and tourists."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 85,
+    "completion_tokens": 29,
+    "total_tokens": 114
+  }
+}
+
+*******************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 87.58%
+*weird response: 
+{
+  "id": "chatcmpl-8GyCYgVErh3p5hTtSimwffmh0RcNE",
+  "object": "chat.completion",
+  "created": 1699055354,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "ASEAN grew by 7.2% in the first half of 2021."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 83,
+    "completion_tokens": 18,
+    "total_tokens": 101
+  }
+}
+
+***************************************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 90.71%
+****************************************************************************************************
+progress (mpqa, gpt-3.5-turbo-short-prompt): 93.84%
+*******************************weird response: 
+{
+  "id": "chatcmpl-8GyHO93yfBrr1qxVBJYOgaLkAf7bD",
+  "object": "chat.completion",
+  "created": 1699055654,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Unfortunately, the given text is incomplete and does not provide enough information to determine the sentiment. Please provide a complete text for accurate sentiment labelling."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 79,
+    "completion_tokens": 29,
+    "total_tokens": 108
+  }
+}
+
+*************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+*********************************************
+ERROR: 
+{"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}
+-----------
+***********
+progress (mpqa, gpt-3.5-turbo-short-prompt): 96.97%
+*************************************************************************************************Exception in thread "main" java.nio.file.NoSuchFileException: logs/run of 2023-11-04T00_18_08.383414667.txt
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484)
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228)
+	at java.base/java.nio.file.Files.write(Files.java:3511)
+	at java.base/java.nio.file.Files.writeString(Files.java:3733)
+	at java.base/java.nio.file.Files.writeString(Files.java:3673)
+	at net.clementlevallois.umigon.eval.controller.Controller.runEvaluations(Controller.java:126)
+	at net.clementlevallois.umigon.eval.controller.Controller.main(Controller.java:83)

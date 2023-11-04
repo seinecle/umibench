@@ -6,7 +6,7 @@ package net.clementlevallois.umigon.eval.tests;
 import net.clementlevallois.umigon.eval.controller.Controller;
 import net.clementlevallois.umigon.eval.datamodel.AnnotatedDocument;
 import net.clementlevallois.umigon.eval.datamodel.Sentiment;
-import net.clementlevallois.umigon.eval.models.GPT35;
+import net.clementlevallois.umigon.eval.models.GPT35BasicPrompt;
 import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.jupiter.api.Test;
 
@@ -21,7 +21,7 @@ public class GPT35Test {
         Controller controller = new Controller();
         controller.loadProperties();
         AnnotatedDocument doc = new AnnotatedDocument("I hate chocolate");
-        GPT35 gpt4 = new GPT35();
+        GPT35BasicPrompt gpt4 = new GPT35BasicPrompt();
         String response = gpt4.sendApiCall(doc);
         Sentiment sentimentResponse = gpt4.extractSentimentLabelFromAPiResponse(response);
         assertThat(sentimentResponse).isEqualTo(Sentiment.NEGATIVE);

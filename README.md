@@ -15,9 +15,10 @@ I will take care of everything. Please send:
 ## Which models are tested so far?
 
 1. Thesis_Titan ([link to paper](https://ceur-ws.org/Vol-3497/paper-020.pdf),  [link to api](https://huggingface.co/GroNLP/mdebertav3-subjectivity-english))
-2. OpenHermes-2-Mistral-7B ([link to paper](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B),  [link to api](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B))
+2. OpenHermes-2-Mistral-7B-basic-prompt ([link to paper](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B),  [link to api](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B))
 3. umigon ([link to paper](https://aclanthology.org/S13-2068/no),  [link to api](https://nocodefunctions.com/umigon/sentiment_analysis_tool.html))
-4. TimeLMs ([link to paper](https://arxiv.org/abs/2202.03829),  [link to api](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest))
+4. gpt-3.5-turbo-basic-prompt ([link to paper](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates),  [link to api](https://api.openai.com/v1/chat/completions))
+5. TimeLMs ([link to paper](https://arxiv.org/abs/2202.03829),  [link to api](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest))
 
 [Supplementary information on these models](supplementary_info_on_models.md)
 
@@ -47,14 +48,14 @@ Weighted F1 values:
 |                                                            | [alexa](https://github.com/alexa/factual-consistency-analysis-of-dialogs/) | [clef2023](https://gitlab.com/checkthat_lab/clef2023-checkthat-lab/-/tree/main/task2/data/subtask-2-english) | [kaggle-headlines](https://www.kaggle.com/datasets/rmisra/news-category-dataset?resource=download) | [mpqa](https://mpqa.cs.pitt.edu/) | [subjqa](https://huggingface.co/datasets/subjqa) | [xfact](https://github.com/utahnlp/x-fact) |
 | ---------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------ | ------------------------------------------ |
 | [Thesis_Titan](https://ceur-ws.org/Vol-3497/paper-020.pdf) | 0,964                                                                      | 0,821                                                                                                        | 0,857                                                                                              | 0,877                             | 0,789                                            | 0,960                                      |
-| [TimeLMs](https://arxiv.org/abs/2202.03829)                | 0,872                                                                      | 0,610                                                                                                        | 0,719                                                                                              | 0,706                             | 0,948                                            ||                                            
+| [TimeLMs](https://arxiv.org/abs/2202.03829)                | 0,872                                                                      | 0,610                                                                                                        | 0,719                                                                                              | 0,706                             | 0,948                                            | 0,671                                      |
 | [umigon](https://aclanthology.org/S13-2068/no)             | 0,962                                                                      | 0,588                                                                                                        | 0,940                                                                                              | 0,791                             | 0,954                                            | 0,974                                      |
 ### Overall scores and leaderboard for models on factuality task
 The values for each model are the sums of the weighted F1 scores for each dataset, weighted by the number of entries of each dataset.
 
 |               | [Thesis_Titan](https://ceur-ws.org/Vol-3497/paper-020.pdf) | [umigon](https://aclanthology.org/S13-2068/no) | [TimeLMs](https://arxiv.org/abs/2202.03829) |
 | ------------- | ---------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------- |
-| overall score | 0,921                                                      | 0,919                                          | 0,277                                       |
+| overall score | 0,921                                                      | 0,919                                          | 0,701                                       |
 | rank          | 1                                                          | 2                                              | 3                                           |
 
 ## Sentiment: differentiating between positive sentiment, negative sentiment and neutral sentiment
@@ -66,18 +67,19 @@ The values for each model are the sums of the weighted F1 scores for each datase
 Weighted F1 values:
 
 
-|                                                                                   | [mpqa](https://mpqa.cs.pitt.edu/) |
-| --------------------------------------------------------------------------------- | --------------------------------- |
-| [OpenHermes-2-Mistral-7B](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B) | 0,373                             |
-| [TimeLMs](https://arxiv.org/abs/2202.03829)                                       | 0,762                             |
-| [umigon](https://aclanthology.org/S13-2068/no)                                    | 0,860                             |
+|                                                                                                 | [mpqa](https://mpqa.cs.pitt.edu/) |
+| ----------------------------------------------------------------------------------------------- | --------------------------------- |
+| [OpenHermes-2-Mistral-7B-basic-prompt](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B)  | 0,373                             |
+| [TimeLMs](https://arxiv.org/abs/2202.03829)                                                     | 0,762                             |
+| [gpt-3.5-turbo-basic-prompt](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) | 0,827                             |
+| [umigon](https://aclanthology.org/S13-2068/no)                                                  | 0,860                             |
 ### Overall scores and leaderboard for models on sentiment task
 The values for each model are the sums of the weighted F1 scores for each dataset, weighted by the number of entries of each dataset.
 
-|               | [umigon](https://aclanthology.org/S13-2068/no) | [TimeLMs](https://arxiv.org/abs/2202.03829) | [OpenHermes-2-Mistral-7B](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B) |
-| ------------- | ---------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------- |
-| overall score | 0,860                                          | 0,762                                       | 0,373                                                                             |
-| rank          | 1                                              | 2                                           | 3                                                                                 |
+|               | [umigon](https://aclanthology.org/S13-2068/no) | [gpt-3.5-turbo-basic-prompt](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) | [TimeLMs](https://arxiv.org/abs/2202.03829) | [OpenHermes-2-Mistral-7B-basic-prompt](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B) |
+| ------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| overall score | 0,860                                          | 0,827                                                                                           | 0,762                                       | 0,373                                                                                          |
+| rank          | 1                                              | 2                                                                                               | 3                                           | 4                                                                                              |
 ## How to run it
 Umibench is programmed in Java.
 
@@ -104,4 +106,4 @@ Clement Levallois, levallois@em-lyon.com
 
 
 
-_This readme file and the leaderboard it includes has been generated on 2023-11-03T17:12:52.538541600_
+_This readme file and the leaderboard it includes has been generated on 2023-11-04T07:56:21.437792700_

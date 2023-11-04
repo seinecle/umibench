@@ -46,7 +46,7 @@ public class MistralHermes7B implements ModelInterface {
 
     @Override
     public String getName() {
-        return "OpenHermes-2-Mistral-7B";
+        return "OpenHermes-2-Mistral-7B-basic-prompt";
     }
 
     @Override

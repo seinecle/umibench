@@ -52,7 +52,7 @@ import net.clementlevallois.umigon.eval.models.TimeLMs;
 import net.clementlevallois.utils.Clock;
 import net.clementlevallois.umigon.eval.datasets.DatasetInterface;
 import net.clementlevallois.umigon.eval.leaderboardgenerator.GenerateLeaderBoard;
-import net.clementlevallois.umigon.eval.models.GPT35;
+import net.clementlevallois.umigon.eval.models.GPT35BasicPrompt;
 import net.clementlevallois.umigon.eval.models.MistralHermes7B;
 import net.clementlevallois.umigon.eval.models.Thesis_Titan;
 import net.clementlevallois.umigon.eval.models.Umigon;
@@ -102,6 +102,7 @@ public class Controller {
         models.add(new Umigon());
         models.add(new TimeLMs());
         models.add(new MistralHermes7B());
+        models.add(new GPT35BasicPrompt());
 
         F1.setLimitForTests(Integer.MAX_VALUE);
 
