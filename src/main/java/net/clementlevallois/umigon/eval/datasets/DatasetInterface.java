@@ -3,7 +3,6 @@
  */
 package net.clementlevallois.umigon.eval.datasets;
 
-import java.util.HashMap;
 import java.util.Map;
 import net.clementlevallois.umigon.eval.datamodel.AnnotatedDocument;
 import net.clementlevallois.umigon.eval.datamodel.Task;

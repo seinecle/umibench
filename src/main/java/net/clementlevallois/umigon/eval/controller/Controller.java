@@ -26,6 +26,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 import java.util.Set;
+import java.util.TreeSet;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -83,7 +84,7 @@ public class Controller {
         controller.loadProperties();
         controller.initDataSetsAndModels();
 //        controller.runEvaluations(datasets, models);
-        List<Score> scores = controller.computeF1Scores(datasets, models);
+        TreeSet<Score> scores = controller.computeF1Scores(datasets, models);
         List<OverallScore> overallScores = controller.computeOverallScores(scores);
         GenerateLeaderBoard generator = new GenerateLeaderBoard(datasets, models, scores, overallScores);
         generator.generateFullReadMe();
@@ -104,7 +105,7 @@ public class Controller {
         models.add(new TimeLMs());
         models.add(new MistralHermes7B());
         models.add(new GPT35BasicPrompt());
-//        models.add(new GPT35AdvancedPrompt());
+        models.add(new GPT35AdvancedPrompt());
 
         F1.setLimitForTests(Integer.MAX_VALUE);
 
@@ -130,9 +131,9 @@ public class Controller {
         Files.writeString(Path.of("logs", "run of " + LocalDateTime.now().toString().replaceAll(":", "_") + ".txt"), log.toString());
     }
 
-    private List<Score> computeF1Scores(Set<DatasetInterface> datasetReaders, Set<ModelInterface> models) {
+    private TreeSet<Score> computeF1Scores(Set<DatasetInterface> datasetReaders, Set<ModelInterface> models) {
         Clock generalClock = new Clock("general clock for evaluations on " + LocalDateTime.now());
-        List<Score> scores = new ArrayList();
+        TreeSet<Score> scores = new TreeSet();
 
         log.append(generalClock.getAction());
         datasetReaders.parallelStream().map(datasetReader -> {
@@ -402,7 +403,7 @@ public class Controller {
         System.out.println("");
     }
 
-    private List<OverallScore> computeOverallScores(List<Score> scores) {
+    private List<OverallScore> computeOverallScores(TreeSet<Score> scores) {
         List<OverallScore> overallScores = new ArrayList();
         Map<String, Integer> sizeDatasetsFactuality = new HashMap();
         Map<String, Integer> sizeDatasetsSentiment = new HashMap();

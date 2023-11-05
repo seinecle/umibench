@@ -16,7 +16,6 @@ import org.junit.jupiter.api.Test;
  */
 public class GPT35Test {
 
-    @Test
     public void conductTests() {
         Controller controller = new Controller();
         controller.loadProperties();

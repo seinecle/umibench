@@ -3,7 +3,6 @@
  */
 package net.clementlevallois.umigon.eval.models;
 
-import java.util.Map;
 import net.clementlevallois.umigon.eval.datamodel.AnnotatedDocument;
 import net.clementlevallois.umigon.eval.datamodel.Factuality;
 import net.clementlevallois.umigon.eval.datamodel.Sentiment;

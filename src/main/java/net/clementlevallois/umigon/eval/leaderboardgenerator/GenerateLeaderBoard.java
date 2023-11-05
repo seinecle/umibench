@@ -35,13 +35,13 @@ public class GenerateLeaderBoard {
 
     Set<DatasetInterface> datasets;
     Set<ModelInterface> models;
-    List<Score> scores;
+    TreeSet<Score> scores;
     List<OverallScore> overallScores;
     private final DecimalFormat decimalFormat = new DecimalFormat("0.000");
     Map<String, ModelInterface> modelsDetails = new HashMap();
     Map<String, DatasetInterface> datasetsDetails = new HashMap();
 
-    public GenerateLeaderBoard(Set<DatasetInterface> datasets, Set<ModelInterface> models, List<Score> scores, List<OverallScore> overallScores) {
+    public GenerateLeaderBoard(Set<DatasetInterface> datasets, Set<ModelInterface> models, TreeSet<Score> scores, List<OverallScore> overallScores) {
         this.datasets = datasets;
         this.models = models;
         this.scores = scores;
@@ -126,7 +126,7 @@ public class GenerateLeaderBoard {
         return sb.toString();
     }
 
-    public String writeLeaderBoardOnIndividualDatasetsForSentiment(List<Score> scores) {
+    public String writeLeaderBoardOnIndividualDatasetsForSentiment(TreeSet<Score> scores) {
         Set<String> datasetNamesSentiment = new TreeSet();
         Set<String> modelNamesSentiment = new TreeSet();
         Map<String, TreeSet<Score>> modelsToScoresForSentiment = new HashMap();
@@ -171,7 +171,7 @@ public class GenerateLeaderBoard {
         return tableBuilder.build().toString();
     }
 
-    public String writeLeaderBoardOnIndividualDatasetsForFactuality(List<Score> scores) {
+    public String writeLeaderBoardOnIndividualDatasetsForFactuality(TreeSet<Score> scores) {
         Set<String> datasetNamesFactuality = new TreeSet();
         Set<String> modelNamesFactuality = new TreeSet();
         Map<String, TreeSet<Score>> modelsToScoresForFactuality = new HashMap();
