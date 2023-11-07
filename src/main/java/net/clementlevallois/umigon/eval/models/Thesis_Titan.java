@@ -136,7 +136,7 @@ public class Thesis_Titan implements ModelInterface {
                 }
             } catch (IOException | InterruptedException ex) {
                 System.out.println("");
-                System.out.println("internet connexion probably broken for GroNLP: check it");
+                System.out.println("internet connexion probably broken for Thesis Titan: check it");
                 try {
                     Thread.sleep(Duration.ofSeconds(3));
                 } catch (InterruptedException ex1) {

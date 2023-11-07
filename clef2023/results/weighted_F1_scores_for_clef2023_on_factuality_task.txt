@@ -213,3 +213,157 @@ weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.8
 evaluation conducted on 2023-11-05T08:55:09.184164300
 weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
 
+evaluation conducted on 2023-11-07T18:44:48.809849200
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+evaluation conducted on 2023-11-07T18:44:48.825768300
+weighted F1 score for factuality on dataset clef2023 for model OpenHermes-2-Mistral-7B-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T18:44:48.834173200
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+evaluation conducted on 2023-11-07T18:44:49.130143800
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T18:58:53.225921300
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+-7B-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T18:58:53.378675300
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:02:20.799559700
+weighted F1 score for factuality on dataset clef2023 for model OpenHermes-2-Mistral-7B-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:02:20.809562500
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+evaluation conducted on 2023-11-07T19:02:20.952406
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:02:21.021287700
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+evaluation conducted on 2023-11-07T19:07:04.512820100
+weighted F1 score for factuality on dataset clef2023 for model OpenHermes-2-Mistral-7B-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:07:04.759241700
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:08:33.024192800
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+sic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:08:33.041812300
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+evaluation conducted on 2023-11-07T19:08:33.230448700
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:11:14.118164900
+weighted F1 score for factuality on dataset clef2023 for model OpenHermes-2-Mistral-7B-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:11:14.358184
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:11:14.469139200
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+evaluation conducted on 2023-11-07T19:18:14.771323300
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+-7B-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:18:14.961449700
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:18:15.056948300
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+evaluation conducted on 2023-11-07T19:22:04.503019
+weighted F1 score for factuality on dataset clef2023 for model OpenHermes-2-Mistral-7B-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:22:04.689410900
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:22:04.833557400
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+evaluation conducted on 2023-11-07T19:33:59.966241100
+weighted F1 score for factuality on dataset clef2023 for model OpenHermes-2-Mistral-7B-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:33:59.998695900
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+evaluation conducted on 2023-11-07T19:34:00.136481500
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:34:00.226042900
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+evaluation conducted on 2023-11-07T19:34:32.217189900
+weighted F1 score for factuality on dataset clef2023 for model OpenHermes-2-Mistral-7B-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:34:32.243147
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+evaluation conducted on 2023-11-07T19:34:32.353018400
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:34:32.414928300
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+evaluation conducted on 2023-11-07T19:37:17.314355400
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+sic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:37:17.324387900
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+evaluation conducted on 2023-11-07T19:37:17.462787200
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:37:33.065532100
+weighted F1 score for factuality on dataset clef2023 for model OpenHermes-2-Mistral-7B-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:37:33.091418500
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+evaluation conducted on 2023-11-07T19:37:33.326088800
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:37:33.459384
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+evaluation conducted on 2023-11-07T19:39:49.024675700
+weighted F1 score for factuality on dataset clef2023 for model OpenHermes-2-Mistral-7B-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:39:49.046213900
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+evaluation conducted on 2023-11-07T19:39:49.251292600
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:39:49.367918700
+weighted F1 score for factuality on dataset clef2023 for model Thesis_Titan: 0.82142407
+
+evaluation conducted on 2023-11-07T19:41:10.865443500
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:41:11.096545800
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+
+evaluation conducted on 2023-11-07T19:42:45.702849300
+weighted F1 score for factuality on dataset clef2023 for model OpenHermes-2-Mistral-7B-basic-prompt: 0.5630551
+
+evaluation conducted on 2023-11-07T19:42:45.712015600
+weighted F1 score for factuality on dataset clef2023 for model TimeLMs: 0.6098522
+
+evaluation conducted on 2023-11-07T19:42:45.826309400
+weighted F1 score for factuality on dataset clef2023 for model umigon: 0.588168
+

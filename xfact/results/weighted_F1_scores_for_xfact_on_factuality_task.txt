@@ -213,3 +213,142 @@ weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
 evaluation conducted on 2023-11-05T08:55:12.309440300
 weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
 
+evaluation conducted on 2023-11-07T18:44:50.369259600
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-07T18:44:50.379853
+weighted F1 score for factuality on dataset xfact for model OpenHermes-2-Mistral-7B-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T18:44:50.946304100
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-07T18:58:54.168018200
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-07T18:58:54.183270800
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+7B-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T18:58:54.422563800
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-07T19:03:23.887470800
+weighted F1 score for factuality on dataset xfact for model OpenHermes-2-Mistral-7B-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T19:07:06.160615400
+weighted F1 score for factuality on dataset xfact for model OpenHermes-2-Mistral-7B-baevaluation conducted on 2023-11-07T19:07:06.164025800
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+evaluation conducted on 2023-11-07T19:07:06.724041400
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-07T19:08:34.421031
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+346
+
+-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T19:08:34.757008
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-07T19:11:14.573659600
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+evaluation conducted on 2023-11-07T19:11:14.579192600
+weighted F1 score for factuality on dataset xfact for model OpenHermes-2-Mistral-7B-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T19:11:15.185469300
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-07T19:11:15.588623
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-07T19:18:15.787341300
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+7B-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T19:18:16.365700300
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-07T19:18:16.656768600
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-07T19:22:05.806273900
+weighted F1 score for factuality on dataset xfact for model OpenHermes-2-Mistral-7B-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T19:22:05.820433100
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+evaluation conducted on 2023-11-07T19:22:06.533227900
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-07T19:22:06.995751200
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-07T19:34:00.346060200
+weighted F1 score for factuality on dataset xfact for model OpenHermes-2-Mistral-7B-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T19:34:00.359097400
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+evaluation conducted on 2023-11-07T19:34:32.554185200
+weighted F1 score for factuality on dataset xfact for model OpenHermes-2-Mistral-7B-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T19:34:32.555196900
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+evaluation conducted on 2023-11-07T19:34:32.792761800
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-07T19:34:32.953456300
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-07T19:37:18.276312900
+weighted F1 score for factuality on dataset xfact for model OpenHermes-2-Mistral-7B-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T19:37:18.504547400
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-07T19:37:33.577111500
+weighted F1 score for factuality on dataset xfact for model OpenHermes-2-Mistral-7B-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T19:37:33.589329200
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+evaluation conducted on 2023-11-07T19:37:33.926089300
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-07T19:37:34.167981300
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-07T19:39:49.739216500
+weighted F1 score for factuality on dataset xfact for model OpenHermes-2-Mistral-7B-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T19:39:49.748326400
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+evaluation conducted on 2023-11-07T19:39:50.464912600
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-07T19:39:50.925166500
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-07T19:41:12.207137400
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+sic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T19:41:12.572919900
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+
+evaluation conducted on 2023-11-07T19:42:46.551604300
+weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
+
+7B-basic-prompt: 0.38767213
+
+evaluation conducted on 2023-11-07T19:42:46.813052100
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97396094
+

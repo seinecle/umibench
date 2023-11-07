@@ -5,6 +5,7 @@ package net.clementlevallois.umigon.eval.datamodel;
 
 import java.text.DecimalFormat;
 import java.time.LocalDateTime;
+import java.util.Objects;
 
 /**
  *
@@ -69,9 +70,39 @@ public class Score implements Comparable {
     }
 
     @Override
+    public int hashCode() {
+        int hash = 5;
+        hash = 47 * hash + Objects.hashCode(this.modelName);
+        hash = 47 * hash + Objects.hashCode(this.datasetName);
+        hash = 47 * hash + Objects.hashCode(this.task.name());
+        return hash;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final Score other = (Score) obj;
+        if (!Objects.equals(this.modelName, other.modelName)) {
+            return false;
+        }
+        if (!Objects.equals(this.datasetName, other.datasetName)) {
+            return false;
+        }
+        return this.task.name().equals(other.task.name());
+    }
+
+    @Override
     public int compareTo(Object o) {
         Score os = (Score)o;
-        return (this.modelName+this.datasetName).compareTo((os.modelName+os.datasetName));
+        return (this.modelName+this.datasetName+this.task.name()).compareTo((os.modelName+os.datasetName+os.task.name()));
     }
     
     

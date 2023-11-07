@@ -80,7 +80,10 @@ public class GPT35BasicPrompt implements ModelInterface {
     @Override
     public String sendApiCall(AnnotatedDocument annotatedDocument) {
 
-        String contentRoleSystem = "You are a the equivalent of a human annotator in a data labelling task. The task consists in labelling the sentiment of a text provided by the user. The label should be a single word: \"positive\", \"negative\" or \"neutral\".";
+        String contentRoleSystem = """
+                                   You are a the equivalent of a human annotator in a data labelling task.
+                                   The task consists in labelling the sentiment of a text provided by the user.
+                                   The label should be a single word: \"positive\", \"negative\" or \"neutral\".""";
         String contentRoleUser = "The text to label: \n\n" + annotatedDocument.getText();
 
         JsonObjectBuilder overallObject = Json.createObjectBuilder();

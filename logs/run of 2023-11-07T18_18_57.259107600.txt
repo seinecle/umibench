@@ -1,0 +1,15 @@
+general clock for evaluations on 2023-11-07T17:02:58.906885100
+
+finished evaluating alexa with OpenHermes-2-Mistral-7B-basic-prompt. [Duration: 15 minutes 32 seconds]
+
+finished evaluating subjqa with OpenHermes-2-Mistral-7B-basic-prompt. [Duration: 30 minutes 0 seconds]
+
+finished evaluating clef2023 with OpenHermes-2-Mistral-7B-basic-prompt. [Duration: 19 minutes 31 seconds]
+
+finished evaluating kaggle-headlines with OpenHermes-2-Mistral-7B-basic-prompt. [Duration: 13 minutes 6 seconds]
+
+finished evaluating mpqa with OpenHermes-2-Mistral-7B-basic-prompt. [Duration: 46 minutes 0 seconds]
+
+finished evaluating xfact with OpenHermes-2-Mistral-7B-basic-prompt. [Duration: 75 minutes 57 seconds]
+end of evaluations
+finished general clock for evaluations on 2023-11-07T17:02:58.906885100. [Duration: 75 minutes 58 seconds]

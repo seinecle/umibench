@@ -28,6 +28,7 @@ import java.util.Properties;
 import java.util.Set;
 import java.util.TreeSet;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ConcurrentSkipListSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.stream.Stream;
@@ -47,7 +48,6 @@ import static net.clementlevallois.umigon.eval.datamodel.Task.FACTUALITY;
 import static net.clementlevallois.umigon.eval.datamodel.Task.FACTUALITY_AND_SENTIMENT;
 import static net.clementlevallois.umigon.eval.datamodel.Task.SENTIMENT;
 import net.clementlevallois.umigon.eval.datasets.Alexa;
-import static net.clementlevallois.umigon.eval.datasets.Alexa.GOLD_LABELS;
 import net.clementlevallois.umigon.eval.models.ModelInterface;
 import net.clementlevallois.umigon.eval.models.TimeLMs;
 import net.clementlevallois.utils.Clock;
@@ -55,7 +55,7 @@ import net.clementlevallois.umigon.eval.datasets.DatasetInterface;
 import net.clementlevallois.umigon.eval.leaderboardgenerator.GenerateLeaderBoard;
 import net.clementlevallois.umigon.eval.models.GPT35AdvancedPrompt;
 import net.clementlevallois.umigon.eval.models.GPT35BasicPrompt;
-import net.clementlevallois.umigon.eval.models.MistralHermes7B;
+import net.clementlevallois.umigon.eval.models.Mistral7BHermesBasicPrompt;
 import net.clementlevallois.umigon.eval.models.Thesis_Titan;
 import net.clementlevallois.umigon.eval.models.Umigon;
 
@@ -84,7 +84,7 @@ public class Controller {
         controller.loadProperties();
         controller.initDataSetsAndModels();
 //        controller.runEvaluations(datasets, models);
-        TreeSet<Score> scores = controller.computeF1Scores(datasets, models);
+        ConcurrentSkipListSet <Score> scores = controller.computeF1Scores(datasets, models);
         List<OverallScore> overallScores = controller.computeOverallScores(scores);
         GenerateLeaderBoard generator = new GenerateLeaderBoard(datasets, models, scores, overallScores);
         generator.generateFullReadMe();
@@ -103,7 +103,7 @@ public class Controller {
         models.add(new Thesis_Titan());
         models.add(new Umigon());
         models.add(new TimeLMs());
-        models.add(new MistralHermes7B());
+        models.add(new Mistral7BHermesBasicPrompt());
         models.add(new GPT35BasicPrompt());
         models.add(new GPT35AdvancedPrompt());
 
@@ -114,7 +114,7 @@ public class Controller {
     private void runEvaluations(Set<DatasetInterface> datasetReaders, Set<ModelInterface> models) throws IOException {
 
         Clock generalClock = new Clock("general clock for evaluations on " + LocalDateTime.now());
-        log.append(generalClock.getAction());
+        appendString(log, generalClock.getAction());
         datasetReaders.parallelStream().map(datasetReader -> {
             datasetReader.read();
             return datasetReader;
@@ -122,25 +122,24 @@ public class Controller {
             StringBuilder logOneEval = new StringBuilder();
             models.parallelStream().forEach(model -> {
                 Clock clock = new Clock("evaluating " + datasetReader.getName() + " with " + model.getName());
-                logOneEval.append(clock.getAction());
+                appendString(logOneEval, clock.getAction());
                 Map<String, AnnotatedDocument> predictedLabels = evalOneDataSetWithOneModel(datasetReader, model);
-                appendString(clock.closeAndPrintClockToString("\n"));
+                appendString(log, clock.closeAndPrintClockToString("\n"));
             });
         });
-        log.append(generalClock.closeAndPrintClockToString("\nend of evaluations"));
+        appendString(log, generalClock.closeAndPrintClockToString("\nend of evaluations"));
         Files.writeString(Path.of("logs", "run of " + LocalDateTime.now().toString().replaceAll(":", "_") + ".txt"), log.toString());
     }
 
-    private TreeSet<Score> computeF1Scores(Set<DatasetInterface> datasetReaders, Set<ModelInterface> models) {
+    private ConcurrentSkipListSet <Score> computeF1Scores(Set<DatasetInterface> datasets, Set<ModelInterface> models) {
         Clock generalClock = new Clock("general clock for evaluations on " + LocalDateTime.now());
-        TreeSet<Score> scores = new TreeSet();
+        ConcurrentSkipListSet <Score> scores = new ConcurrentSkipListSet ();
 
-        log.append(generalClock.getAction());
-        datasetReaders.parallelStream().map(datasetReader -> {
-            datasetReader.read();
-            return datasetReader;
+        appendString(log, generalClock.getAction());
+        datasets.parallelStream().map(dataset -> {
+            dataset.read();
+            return dataset;
         }).forEach(dataset -> {
-            StringBuilder logOneEval = new StringBuilder();
             models.parallelStream().forEach(model -> {
                 JsonbConfig jsonbConfig = new JsonbConfig();
                 jsonbConfig.withFormatting(Boolean.TRUE);
@@ -164,7 +163,7 @@ public class Controller {
                                     predictedLabels = jsonb.fromJson(Files.newBufferedReader(predictedLabelsPath, StandardCharsets.UTF_8), new HashMap<String, AnnotatedDocument>() {
                                     }.getClass().getGenericSuperclass());
                                 } catch (IOException ex) {
-                                    Logger.getLogger(Alexa.class.getName()).log(Level.SEVERE, null, ex);
+                                    Logger.getLogger(Controller.class.getName()).log(Level.SEVERE, null, ex);
                                 }
                             } else {
                                 System.out.println("file with predicted label not found: " + predictedLabelsPath.toString());
@@ -288,10 +287,10 @@ public class Controller {
                         System.out.println("error: model task was not set");
                     }
                 }
-                appendString(clock.closeAndPrintClockToString("\n"));
+                appendString(log, clock.closeAndPrintClockToString("\n"));
             });
         });
-        log.append(generalClock.closeAndPrintClockToString("\nend of F1 scores computation"));
+        appendString(log, generalClock.closeAndPrintClockToString("\nend of F1 scores computation"));
         return scores;
 
     }
@@ -403,7 +402,7 @@ public class Controller {
         System.out.println("");
     }
 
-    private List<OverallScore> computeOverallScores(TreeSet<Score> scores) {
+    private List<OverallScore> computeOverallScores(ConcurrentSkipListSet <Score> scores) {
         List<OverallScore> overallScores = new ArrayList();
         Map<String, Integer> sizeDatasetsFactuality = new HashMap();
         Map<String, Integer> sizeDatasetsSentiment = new HashMap();
@@ -516,7 +515,7 @@ public class Controller {
 
     }
 
-    private static synchronized void appendString(String str) {
-        log.append(str);
+    private static synchronized void appendString(StringBuilder sb, String str) {
+        sb.append(str);
     }
 }
