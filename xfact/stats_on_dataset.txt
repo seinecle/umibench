@@ -1,0 +1,5 @@
+descriptive statistics on the golden labels for dataset xfact
+
+labels on factuality:
+objective: 12294.0 (101%)
+subjective: 0.0 (0%)

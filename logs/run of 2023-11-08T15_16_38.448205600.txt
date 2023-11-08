@@ -1,0 +1,15 @@
+general clock for evaluations on 2023-11-08T15:15:50.016498900
+
+finished evaluating alexa with umigon. [Duration: 6 seconds, 863 milliseconds]
+
+finished evaluating clef2023 with umigon. [Duration: 23 seconds]
+
+finished evaluating subjqa with umigon. [Duration: 34 seconds]
+
+finished evaluating mpqa with umigon. [Duration: 34 seconds]
+
+finished evaluating kaggle-headlines with umigon. [Duration: 3 seconds, 218 milliseconds]
+
+finished evaluating xfact with umigon. [Duration: 39 seconds]
+end of evaluations
+finished general clock for evaluations on 2023-11-08T15:15:50.016498900. [Duration: 48 seconds]

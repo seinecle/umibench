@@ -349,3 +349,50 @@ weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.789
 evaluation conducted on 2023-11-07T19:42:45.938239
 weighted F1 score for factuality on dataset subjqa for model umigon: 0.95390475
 
+evaluation conducted on 2023-11-08T12:04:41.358778700
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9743795
+
+evaluation conducted on 2023-11-08T12:04:41.365535200
+weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
+
+asic-prompt: 0.8830943
+
+evaluation conducted on 2023-11-08T12:04:41.661974700
+weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
+
+evaluation conducted on 2023-11-08T12:04:41.735979600
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.95390475
+
+evaluation conducted on 2023-11-08T15:05:22.424176700
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.9547012
+
+evaluation conducted on 2023-11-08T15:06:26.760051500
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9743795
+
+evaluation conducted on 2023-11-08T15:06:26.789996200
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8830943
+
+evaluation conducted on 2023-11-08T15:06:27.023515200
+weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
+
+evaluation conducted on 2023-11-08T15:06:27.046657900
+weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
+
+evaluation conducted on 2023-11-08T15:06:27.318510400
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.9547012
+
+evaluation conducted on 2023-11-08T15:24:36.035452400
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9743795
+
+evaluation conducted on 2023-11-08T15:24:36.047498700
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8830943
+
+evaluation conducted on 2023-11-08T15:24:36.450353300
+weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
+
+evaluation conducted on 2023-11-08T15:24:36.460864100
+weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
+
+evaluation conducted on 2023-11-08T15:24:36.805513600
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.9515082
+

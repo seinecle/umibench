@@ -1,0 +1,9 @@
+descriptive statistics on the golden labels for dataset mpqa
+
+labels on sentiment:
+positive: 57.0 (2%)
+negative: 266.0 (8%)
+neutral: 2873.0 (90%)
+labels on factuality:
+objective: 2501.0 (78%)
+subjective: 696.0 (22%)

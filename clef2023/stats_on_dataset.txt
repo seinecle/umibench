@@ -1,0 +1,5 @@
+descriptive statistics on the golden labels for dataset clef2023
+
+labels on factuality:
+objective: 638.0 (59%)
+subjective: 411.0 (38%)

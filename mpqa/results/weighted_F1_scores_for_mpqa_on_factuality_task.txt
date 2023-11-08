@@ -388,3 +388,48 @@ weighted F1 score for factuality on dataset mpqa for model TimeLMs: 0.705854
 evaluation conducted on 2023-11-07T19:42:46.588810400
 weighted F1 score for factuality on dataset mpqa for model umigon: 0.7913021
 
+evaluation conducted on 2023-11-08T12:04:41.697324100
+weighted F1 score for factuality on dataset mpqa for model Thesis_Titan: 0.8773269
+
+evaluation conducted on 2023-11-08T12:04:42.069498600
+weighted F1 score for factuality on dataset mpqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.7835907
+
+evaluation conducted on 2023-11-08T12:04:42.549091600
+weighted F1 score for factuality on dataset mpqa for model TimeLMs: 0.705854
+
+evaluation conducted on 2023-11-08T12:04:42.674579700
+weighted F1 score for factuality on dataset mpqa for model umigon: 0.7913021
+
+evaluation conducted on 2023-11-08T15:05:23.095726300
+weighted F1 score for factuality on dataset mpqa for model umigon: 0.7913021
+
+evaluation conducted on 2023-11-08T15:06:27.266164100
+weighted F1 score for factuality on dataset mpqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.67795676
+
+evaluation conducted on 2023-11-08T15:06:27.319516300
+weighted F1 score for factuality on dataset mpqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.7835907
+
+evaluation conducted on 2023-11-08T15:06:27.537983900
+weighted F1 score for factuality on dataset mpqa for model Thesis_Titan: 0.8773269
+
+evaluation conducted on 2023-11-08T15:06:27.712043
+weighted F1 score for factuality on dataset mpqa for model TimeLMs: 0.705854
+
+evaluation conducted on 2023-11-08T15:06:27.915268600
+weighted F1 score for factuality on dataset mpqa for model umigon: 0.7913021
+
+evaluation conducted on 2023-11-08T15:24:36.829571800
+weighted F1 score for factuality on dataset mpqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.67795676
+
+evaluation conducted on 2023-11-08T15:24:36.842366700
+weighted F1 score for factuality on dataset mpqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.7835907
+
+evaluation conducted on 2023-11-08T15:24:37.176875700
+weighted F1 score for factuality on dataset mpqa for model Thesis_Titan: 0.8773269
+
+evaluation conducted on 2023-11-08T15:24:37.465034200
+weighted F1 score for factuality on dataset mpqa for model TimeLMs: 0.705854
+
+evaluation conducted on 2023-11-08T15:24:37.920498700
+weighted F1 score for factuality on dataset mpqa for model umigon: 0.78172094
+

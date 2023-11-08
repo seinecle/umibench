@@ -1,0 +1,5 @@
+descriptive statistics on the golden labels for dataset subjqa
+
+labels on factuality:
+objective: 0.0 (0%)
+subjective: 1373.0 (100%)

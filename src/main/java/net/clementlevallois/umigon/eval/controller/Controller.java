@@ -55,6 +55,7 @@ import net.clementlevallois.umigon.eval.datasets.DatasetInterface;
 import net.clementlevallois.umigon.eval.leaderboardgenerator.GenerateLeaderBoard;
 import net.clementlevallois.umigon.eval.models.GPT35AdvancedPrompt;
 import net.clementlevallois.umigon.eval.models.GPT35BasicPrompt;
+import net.clementlevallois.umigon.eval.models.Mistral7BHermesAdvancedPrompt;
 import net.clementlevallois.umigon.eval.models.Mistral7BHermesBasicPrompt;
 import net.clementlevallois.umigon.eval.models.Thesis_Titan;
 import net.clementlevallois.umigon.eval.models.Umigon;
@@ -75,8 +76,8 @@ public class Controller {
     public static String UMIGON_API_KEY;
     public static String OPENAI_API_KEY;
 
-    private static Set<DatasetInterface> datasets;
-    private static Set<ModelInterface> models;
+    public static Set<DatasetInterface> datasets;
+    public static Set<ModelInterface> models;
 
     public static void main(String[] args) throws URISyntaxException, IOException {
 
@@ -90,7 +91,7 @@ public class Controller {
         generator.generateFullReadMe();
     }
 
-    private void initDataSetsAndModels() {
+    public void initDataSetsAndModels() {
         datasets = new HashSet();
         datasets.add(new Alexa());
         datasets.add(new Clef2023());
@@ -100,10 +101,11 @@ public class Controller {
         datasets.add(new XFact());
 
         models = new HashSet();
-        models.add(new Thesis_Titan());
         models.add(new Umigon());
+        models.add(new Thesis_Titan());
         models.add(new TimeLMs());
         models.add(new Mistral7BHermesBasicPrompt());
+        models.add(new Mistral7BHermesAdvancedPrompt());
         models.add(new GPT35BasicPrompt());
         models.add(new GPT35AdvancedPrompt());
 

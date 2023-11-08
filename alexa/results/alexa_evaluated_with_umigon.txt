@@ -62,27 +62,6 @@
         "startChar": 0,
         "text": "Planet Money The podcast launched on September 6, 2008 to cover the global financial crisis of 2008â€šÃ„Ã¬2009 in the wake of the Federal takeover of Fannie Mae and Freddie Mac."
     },
-    "3e1397ed-dc65-4586-9dae-14fbad7452d6": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "3e1397ed-dc65-4586-9dae-14fbad7452d6",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Instagram Users can connect their Instagram account to other social media profiles, enabling them to share photos to those profiles as well."
-    },
     "b9c82019-4788-47f7-8b49-b2dcf96f8a85": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -103,6 +82,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Santa Fe, New Mexico The city's full name as founded remains La Villa Real de la Santa Fe de San Francisco de Asâˆšâ‰ s (\"The Royal City of the Holy Faith of Saint Francis of Assisi\")."
+    },
+    "3e1397ed-dc65-4586-9dae-14fbad7452d6": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3e1397ed-dc65-4586-9dae-14fbad7452d6",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Instagram Users can connect their Instagram account to other social media profiles, enabling them to share photos to those profiles as well."
     },
     "6d68b6e8-92b3-4af8-b52b-33c0da534c3d": {
         "annotation": {
@@ -167,27 +167,6 @@
         "startChar": 0,
         "text": "Harry Potter , the books have sold more than 500 million copies worldwide, making them the best-selling book series in history, and have been translated into seventy-three languages."
     },
-    "094ed058-fa1b-421f-8264-3660296e8033": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "094ed058-fa1b-421f-8264-3660296e8033",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "The Last of the Mohicans (1992 film) The film stars Daniel Day-Lewis, Madeleine Stowe, and Jodhi May, with Russell Means, Wes Studi, Eric Schweig, and Steven Waddington in supporting roles."
-    },
     "d196a4c3-ec79-4cd1-99b6-dbd70b380acd": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -208,6 +187,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Harry Potter The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and muggles, a reference term that means non-magical people."
+    },
+    "094ed058-fa1b-421f-8264-3660296e8033": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "094ed058-fa1b-421f-8264-3660296e8033",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "The Last of the Mohicans (1992 film) The film stars Daniel Day-Lewis, Madeleine Stowe, and Jodhi May, with Russell Means, Wes Studi, Eric Schweig, and Steven Waddington in supporting roles."
     },
     "7ecdb613-45d1-499a-8e53-9b4bae0d1bac": {
         "annotation": {
@@ -419,27 +419,6 @@
         "startChar": 0,
         "text": "Elvis Presley Presley was born in Tupelo, Mississippi, and relocated to Memphis, Tennessee, with his family when he was 13 years old."
     },
-    "74349e26-ea6a-4011-9eea-02aae27b97ff": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "74349e26-ea6a-4011-9eea-02aae27b97ff",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Portland, Maine The city seal depicts a phoenix rising from ashes, which is a reference to the recoveries from four devastating fires."
-    },
     "110c720a-bdcd-4d5e-8fa2-a59f9f7200cc": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -460,6 +439,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Joint custody Joint custody has two main forms: In joint custody both parents are custodial parents and neither parent is a non-custodial parent, or, in other words, the child has two custodial parents."
+    },
+    "74349e26-ea6a-4011-9eea-02aae27b97ff": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "74349e26-ea6a-4011-9eea-02aae27b97ff",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Portland, Maine The city seal depicts a phoenix rising from ashes, which is a reference to the recoveries from four devastating fires."
     },
     "4c306b4a-db7d-4760-bebf-dd6340cd3e49": {
         "annotation": {
@@ -734,27 +734,6 @@
         "startChar": 0,
         "text": "Bowling The maximum score is 300, which is achieved by getting 12 strikes in a row."
     },
-    "0f784ff0-1766-45cf-a6f5-72edf329bdd5": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "0f784ff0-1766-45cf-a6f5-72edf329bdd5",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "The Walking Dead (comic book) The Walking Dead is an ongoing black-and-white comic book series created by writer Robert Kirkman and artist Tony Moore."
-    },
     "c26ae11a-21da-4909-9429-efc42581ada4": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -775,6 +754,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Yellowstone National Park The park is known for its wildlife and its many geothermal features, especially Old Faithful geyser, one of its most popular features."
+    },
+    "0f784ff0-1766-45cf-a6f5-72edf329bdd5": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "0f784ff0-1766-45cf-a6f5-72edf329bdd5",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "The Walking Dead (comic book) The Walking Dead is an ongoing black-and-white comic book series created by writer Robert Kirkman and artist Tony Moore."
     },
     "9b9edf43-9415-4abc-acd7-e71a37052455": {
         "annotation": {
@@ -818,27 +818,6 @@
         "startChar": 0,
         "text": "Country music Country music often consists of ballads and dance tunes with generally simple forms, folk lyric and harmonies accompanied by mostly string instruments such as banjos, electric and acoustic guitars, steel guitars (such as pedal steels and dobros), and fiddles as well as harmonicas."
     },
-    "ea9f8b6d-2f03-4499-8c8b-d1c1c023a9cd": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "ea9f8b6d-2f03-4499-8c8b-d1c1c023a9cd",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Japanese language Japanese is an agglutinative, mora-timed language with simple phonotactics, a pure vowel system, phonemic vowel and consonant length, and a lexically significant pitch-accent."
-    },
     "e9ef500b-b34d-4d03-8592-cd59cf6886ee": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -859,6 +838,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "The Beatles The Beatles were an English rock band formed in Liverpool in 1960."
+    },
+    "ea9f8b6d-2f03-4499-8c8b-d1c1c023a9cd": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "ea9f8b6d-2f03-4499-8c8b-d1c1c023a9cd",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Japanese language Japanese is an agglutinative, mora-timed language with simple phonotactics, a pure vowel system, phonemic vowel and consonant length, and a lexically significant pitch-accent."
     },
     "0252f9f4-dd5a-4c68-a85b-f39665415ea5": {
         "annotation": {
@@ -2057,27 +2057,6 @@
         "startChar": 0,
         "text": "Pita It is used in many Mediterranean, Balkan, and Middle Eastern cuisines, and resembles other slightly leavened flatbreads such as Iranian \"nan-e barbari\", Central and South Asian flatbreads (such as \"naan\"), and pizza crust."
     },
-    "b7ca6398-50ca-4409-951d-9a50962409d1": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "b7ca6398-50ca-4409-951d-9a50962409d1",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Aquarium Fishkeepers use aquaria to keep fish, invertebrates, amphibians, aquatic reptiles such as turtles, and aquatic plants."
-    },
     "cc802e91-fa26-4189-a917-9f56fb6bec70": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -2098,6 +2077,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Neurosurgery Most, but not all, residency programs have some component of basic science or clinical research."
+    },
+    "b7ca6398-50ca-4409-951d-9a50962409d1": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b7ca6398-50ca-4409-951d-9a50962409d1",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Aquarium Fishkeepers use aquaria to keep fish, invertebrates, amphibians, aquatic reptiles such as turtles, and aquatic plants."
     },
     "97b000fe-f7f5-4d9b-a616-384203c64586": {
         "annotation": {
@@ -3254,27 +3254,6 @@
         "startChar": 0,
         "text": "Dylan's Candy Bar Lauren said that her goal was to \"merge fashion, art and pop candy culture\"."
     },
-    "92172f39-0802-41a4-8fdd-2bc3745f9cb5": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "92172f39-0802-41a4-8fdd-2bc3745f9cb5",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Instagram A version for Android devices was released two years later, in April 2012, followed by a feature-limited website interface in November 2012, and apps for Windows 10 Mobile and Windows 10 in April 2016 and October 2016 respectively."
-    },
     "7fd0a455-e668-409f-8544-3306920ccac4": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -3295,6 +3274,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Archery In modern times, it is mainly a competitive sport and recreational activity."
+    },
+    "92172f39-0802-41a4-8fdd-2bc3745f9cb5": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "92172f39-0802-41a4-8fdd-2bc3745f9cb5",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Instagram A version for Android devices was released two years later, in April 2012, followed by a feature-limited website interface in November 2012, and apps for Windows 10 Mobile and Windows 10 in April 2016 and October 2016 respectively."
     },
     "dee64019-412e-493f-9455-f0bbcb555950": {
         "annotation": {
@@ -3464,27 +3464,6 @@
         "startChar": 0,
         "text": "Medicare (United States) In the United States, Medicare is a single-payer, national social insurance program administered by the U.S. federal government since 1966, currently using about 30â€šÃ„Ã¬50 private insurance companies across the United States under contract for administration."
     },
-    "cdc68f0f-4127-4cef-a571-0026fd311fca": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "cdc68f0f-4127-4cef-a571-0026fd311fca",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Medical billing Those seeking advancement may be cross-trained in medical coding or transcription or auditing, and may earn a bachelor's or graduate degree in medical information science and technology."
-    },
     "5aa4a9b4-d0d5-4391-a046-665d6cfbefbf": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -3505,6 +3484,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Dirt track racing Dirt track racing is the single most common form of auto racing in the United States."
+    },
+    "cdc68f0f-4127-4cef-a571-0026fd311fca": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "cdc68f0f-4127-4cef-a571-0026fd311fca",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Medical billing Those seeking advancement may be cross-trained in medical coding or transcription or auditing, and may earn a bachelor's or graduate degree in medical information science and technology."
     },
     "a7e1a96e-ed17-4c72-b5a9-86a5affc4ab1": {
         "annotation": {
@@ -4325,27 +4325,6 @@
         "startChar": 0,
         "text": "Finance Finance can also be defined as the science of money management."
     },
-    "d93bcfb5-d395-4ee2-bc5b-a4d14ca25bc0": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "d93bcfb5-d395-4ee2-bc5b-a4d14ca25bc0",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Kindergarten Today, the term is used in many countries to describe a variety of educational institutions and learning spaces for children ranging from two to seven years of age, based on a variety of teaching methods."
-    },
     "92fe6667-89f6-4678-9dbd-1d035ce9287f": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -4367,7 +4346,7 @@
         "startChar": 0,
         "text": "Relish A relish is a cooked and pickled product made of chopped vegetables, fruits or herbs, and is a food item typically used as a condiment, in particular to enhance a staple."
     },
-    "00b97a89-46eb-4c6d-9d56-cb45ee014f18": {
+    "d93bcfb5-d395-4ee2-bc5b-a4d14ca25bc0": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -4383,10 +4362,10 @@
             }
         ],
         "endChar": 0,
-        "id": "00b97a89-46eb-4c6d-9d56-cb45ee014f18",
+        "id": "d93bcfb5-d395-4ee2-bc5b-a4d14ca25bc0",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Skiing Skiing can be a means of transport, a recreational activity or a competitive winter sport in which the participant uses skis to glide on snow."
+        "text": "Kindergarten Today, the term is used in many countries to describe a variety of educational institutions and learning spaces for children ranging from two to seven years of age, based on a variety of teaching methods."
     },
     "7637aac7-57e6-4d79-871f-7fe859abd031": {
         "annotation": {
@@ -4408,6 +4387,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Lizard Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica, as well as most oceanic island chains."
+    },
+    "00b97a89-46eb-4c6d-9d56-cb45ee014f18": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "00b97a89-46eb-4c6d-9d56-cb45ee014f18",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Skiing Skiing can be a means of transport, a recreational activity or a competitive winter sport in which the participant uses skis to glide on snow."
     },
     "0cbac058-32e5-4ed8-96aa-c208d0d5f276": {
         "annotation": {
@@ -5228,27 +5228,6 @@
         "startChar": 0,
         "text": "Photography Photography is the science, art, application and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film."
     },
-    "0c0ca08f-2736-4749-954e-1a7c64538a2b": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "0c0ca08f-2736-4749-954e-1a7c64538a2b",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Horse training Historically, horses were trained for warfare, farm work, sport and transport."
-    },
     "4c1ca8f8-cfff-4166-9318-40d3d44aef50": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -5269,6 +5248,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Kesha Kesha Rose Sebert ( ; born March 1, 1987; formerly stylized as Ke$ha) is an American singer, songwriter, actress and rapper."
+    },
+    "0c0ca08f-2736-4749-954e-1a7c64538a2b": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "0c0ca08f-2736-4749-954e-1a7c64538a2b",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Horse training Historically, horses were trained for warfare, farm work, sport and transport."
     },
     "feb48ca4-2191-4904-b134-90ea811dc8fd": {
         "annotation": {
@@ -6194,27 +6194,6 @@
         "startChar": 0,
         "text": "Broken heart The concept is cross-cultural, often cited with reference to a desired or lost lover, and dates back at least 3,000 years."
     },
-    "b3973bd1-cb4d-48a2-8bd7-0b5f48a5d7de": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "b3973bd1-cb4d-48a2-8bd7-0b5f48a5d7de",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Pig farming Pigs have been farmed to dispose of municipal garbage on a large scale."
-    },
     "cb2d5ed1-0f81-43a9-858f-fa92b09a6fe8": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -6235,6 +6214,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Cardigan (sweater) By contrast, a pullover does not open in front but must be \"pulled over\" the head to be worn."
+    },
+    "b3973bd1-cb4d-48a2-8bd7-0b5f48a5d7de": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b3973bd1-cb4d-48a2-8bd7-0b5f48a5d7de",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Pig farming Pigs have been farmed to dispose of municipal garbage on a large scale."
     },
     "f31c8edb-022c-4a0e-b851-522e2e167dd6": {
         "annotation": {
@@ -7727,27 +7727,6 @@
         "startChar": 0,
         "text": "Meditation Meditation may be used to reduce stress, anxiety, depression, and pain."
     },
-    "70790fce-a6f5-46bc-ae10-26b6d8a28a7e": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "70790fce-a6f5-46bc-ae10-26b6d8a28a7e",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Coco Chanel She was the founder and namesake of the Chanel brand."
-    },
     "195bdf19-57e0-41ef-8332-7f9a47287109": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -7768,6 +7747,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Hunting Hunting is the practice of killing or trapping animals, or pursuing or tracking them with the intent of doing so."
+    },
+    "70790fce-a6f5-46bc-ae10-26b6d8a28a7e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "70790fce-a6f5-46bc-ae10-26b6d8a28a7e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Coco Chanel She was the founder and namesake of the Chanel brand."
     },
     "8bdeb9a2-1c52-48a4-bed2-0f6aa04c5fcd": {
         "annotation": {
@@ -7853,27 +7853,6 @@
         "startChar": 0,
         "text": "Gymnastics Alertness, precision, daring, self-confidence and self-discipline are mental traits that can also be developed through gymnastics."
     },
-    "aec3a921-eeba-412e-8561-3c761dfd8198": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "aec3a921-eeba-412e-8561-3c761dfd8198",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Archery Archery is the sport, practice or skill of using a bow to propel arrows."
-    },
     "7a0b6c61-3c33-4c41-b27a-5ebb6f4a54db": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -7894,6 +7873,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Crystallize (Lindsey Stirling song) \"Crystallize\" is a song by American violinist Lindsey Stirling from her self-titled studio album, \"Lindsey Stirling\"."
+    },
+    "aec3a921-eeba-412e-8561-3c761dfd8198": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "aec3a921-eeba-412e-8561-3c761dfd8198",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Archery Archery is the sport, practice or skill of using a bow to propel arrows."
     },
     "c8e0b425-c655-4fa1-9a91-1e9e0d1669b9": {
         "annotation": {
@@ -8441,27 +8441,6 @@
         "startChar": 0,
         "text": "Marathon The name \"Marathon\" comes from the legend of Philippides or Pheidippides, the Greek messenger."
     },
-    "820d44c6-83ee-4b5b-8798-10e7dbcd1f5b": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "820d44c6-83ee-4b5b-8798-10e7dbcd1f5b",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Dylan's Candy Bar It stocks 7,000 candies from around the world."
-    },
     "2832f448-3aec-4b97-8b9c-9d72480d95e9": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -8482,6 +8461,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Discovery Channel , Discovery Channel is the third most widely distributed cable channel in the United States, behind TBS and The Weather Channel; it is available in 409 million households worldwide, through its U.S. flagship channel and its various owned or licensed television channels internationally."
+    },
+    "820d44c6-83ee-4b5b-8798-10e7dbcd1f5b": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "820d44c6-83ee-4b5b-8798-10e7dbcd1f5b",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Dylan's Candy Bar It stocks 7,000 candies from around the world."
     },
     "1a16107b-13e9-45cd-a674-27d9876b8da8": {
         "annotation": {
@@ -8651,27 +8651,6 @@
         "startChar": 0,
         "text": "Motorcycle Motorcycling is riding a motorcycle and related social activity such as joining a motorcycle club and attending motorcycle rallies."
     },
-    "e0b57456-b093-46b2-a46a-4e2599806d1b": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "e0b57456-b093-46b2-a46a-4e2599806d1b",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Deflategate The controversy resulted in Patriots quarterback Tom Brady being suspended for four games and the team being fined $1 million and losing two draft picks."
-    },
     "8d4c8a8b-924c-4676-aec6-d97a492a31a7": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -8692,6 +8671,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Harry Potter The series has also had its share of criticism, including concern about the increasingly dark tone as the series progressed, as well as the often gruesome and graphic violence it depicts."
+    },
+    "e0b57456-b093-46b2-a46a-4e2599806d1b": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e0b57456-b093-46b2-a46a-4e2599806d1b",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Deflategate The controversy resulted in Patriots quarterback Tom Brady being suspended for four games and the team being fined $1 million and losing two draft picks."
     },
     "dd5c896a-62ea-4be3-9377-336e497a4ea7": {
         "annotation": {
@@ -8987,27 +8987,6 @@
         "startChar": 0,
         "text": "John Grisham He practiced criminal law for about a decade and served in the House of Representatives in Mississippi from January 1984 to September 1990."
     },
-    "addf3256-b29a-4d78-a071-ed6c8cd57dcf": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "addf3256-b29a-4d78-a071-ed6c8cd57dcf",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Netflix It specializes in and provides streaming media and video-on-demand online and DVD by mail."
-    },
     "e792eb1b-70d0-46ce-a730-924541124e27": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -9028,6 +9007,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "BBC The BBC is established under a Royal Charter and operates under its Agreement with the Secretary of State for Culture, Media and Sport."
+    },
+    "addf3256-b29a-4d78-a071-ed6c8cd57dcf": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "addf3256-b29a-4d78-a071-ed6c8cd57dcf",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Netflix It specializes in and provides streaming media and video-on-demand online and DVD by mail."
     },
     "1a2b4eba-8234-46d4-b804-e547249bd893": {
         "annotation": {
@@ -9071,27 +9071,6 @@
         "startChar": 0,
         "text": "Bowling It is one of the major forms of throwing sports."
     },
-    "08dfa8a5-35a6-4193-991b-dd287123b27b": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "08dfa8a5-35a6-4193-991b-dd287123b27b",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Immigration to the United States It has been a major source of population growth and cultural change throughout much of the history of the United States."
-    },
     "11434f51-6855-4712-8ff4-dce71dc70691": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -9112,6 +9091,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Broken heart The emotional \"pain\" of a broken heart is believed to be part of the survival instinct."
+    },
+    "08dfa8a5-35a6-4193-991b-dd287123b27b": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "08dfa8a5-35a6-4193-991b-dd287123b27b",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Immigration to the United States It has been a major source of population growth and cultural change throughout much of the history of the United States."
     },
     "55234454-26bd-44dc-a77e-efe67bfe2ddb": {
         "annotation": {

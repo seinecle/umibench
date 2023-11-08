@@ -1,0 +1,5 @@
+descriptive statistics on the golden labels for dataset alexa
+
+labels on factuality:
+objective: 470.0 (100%)
+subjective: 0.0 (0%)

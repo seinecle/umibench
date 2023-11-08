@@ -1,0 +1,5 @@
+descriptive statistics on the golden labels for dataset kaggle-headlines
+
+labels on factuality:
+objective: 894.0 (89%)
+subjective: 106.0 (11%)

@@ -1007,27 +1007,6 @@
         "startChar": 0,
         "text": "What Is Compassion Fatigue? Here Are The Signs You're Experiencing It."
     },
-    "ed81b43a-502a-40a9-86e2-4e4b1862d5ef": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "ed81b43a-502a-40a9-86e2-4e4b1862d5ef",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Writer Claims 'Fire Island' Fails The Bechdel Test, And Twitter Users Have Thoughts"
-    },
     "87c923d3-17a3-41e3-b4dc-c8c435e85d8b": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -1048,6 +1027,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "U.S. Hiring Slowed In August As Employers Add 315,000 Jobs"
+    },
+    "ed81b43a-502a-40a9-86e2-4e4b1862d5ef": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "ed81b43a-502a-40a9-86e2-4e4b1862d5ef",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Writer Claims 'Fire Island' Fails The Bechdel Test, And Twitter Users Have Thoughts"
     },
     "02582d13-ecb4-431b-89f8-19ab852d29fb": {
         "annotation": {
@@ -2204,27 +2204,6 @@
         "startChar": 0,
         "text": "Finland's Leaders In Favor Of Applying For NATO Membership"
     },
-    "d966ee3b-2090-4dd7-a28d-258d96998b98": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "d966ee3b-2090-4dd7-a28d-258d96998b98",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Chrissy Teigen Says She Feels 'Really Good' Celebrating 1 Year Sober"
-    },
     "229e0e46-e7fa-497a-a6be-fb19e205e798": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -2245,6 +2224,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "31 Patriot Front Extremists Aiming To 'Riot' At Idaho Pride Event Arrested: Officials"
+    },
+    "d966ee3b-2090-4dd7-a28d-258d96998b98": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d966ee3b-2090-4dd7-a28d-258d96998b98",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Chrissy Teigen Says She Feels 'Really Good' Celebrating 1 Year Sober"
     },
     "1cd6ffb2-d6ff-42aa-99ec-4dc585f989b9": {
         "annotation": {
@@ -3005,15 +3005,15 @@
     "81ad31b6-f37d-4c05-b698-c43dc604b4ed": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -4976,7 +4976,7 @@
         "startChar": 0,
         "text": "'Saturday Night Live's' 'Fox & Friends' Skewers A Wacky Coup-Confessing 'Donald Trump'"
     },
-    "85363252-eb88-4a4c-8e6f-b9fea249fea3": {
+    "eeefbc92-b1b0-4e68-bc18-31b33e8746f9": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -4992,10 +4992,10 @@
             }
         ],
         "endChar": 0,
-        "id": "85363252-eb88-4a4c-8e6f-b9fea249fea3",
+        "id": "eeefbc92-b1b0-4e68-bc18-31b33e8746f9",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Tatum's Layup At Buzzer Gives Celtics 115-114 Win Over Nets"
+        "text": "Elizabeth Olsen Says She’s ‘Never Met’ Her ‘Dr. Strange 2’ Co-Star John Krasinski"
     },
     "b9f96d63-ee97-4ed2-93ea-4bd83961a520": {
         "annotation": {
@@ -5018,7 +5018,7 @@
         "startChar": 0,
         "text": "Ryan Gosling Gets Ken-ified In First Look At Bleach Blond 'Barbie' Transformation"
     },
-    "eeefbc92-b1b0-4e68-bc18-31b33e8746f9": {
+    "85363252-eb88-4a4c-8e6f-b9fea249fea3": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -5034,10 +5034,10 @@
             }
         ],
         "endChar": 0,
-        "id": "eeefbc92-b1b0-4e68-bc18-31b33e8746f9",
+        "id": "85363252-eb88-4a4c-8e6f-b9fea249fea3",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Elizabeth Olsen Says She’s ‘Never Met’ Her ‘Dr. Strange 2’ Co-Star John Krasinski"
+        "text": "Tatum's Layup At Buzzer Gives Celtics 115-114 Win Over Nets"
     },
     "5f8acfba-98c7-4ad2-976a-da27be00e138": {
         "annotation": {
@@ -5963,27 +5963,6 @@
         "startChar": 0,
         "text": "'Mike' And The Flawed Allure Of Authorized Biopics"
     },
-    "fbde00e1-e8e1-4c50-b187-25c315d65537": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "fbde00e1-e8e1-4c50-b187-25c315d65537",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Trevante Rhodes Is Mike Tyson In Fighting Form On New Hulu Series"
-    },
     "aac7da39-4ad7-41dd-b36e-c760c3a32370": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -6004,6 +5983,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Oregon Man Parts Ways With Guns In Viral Change Of Heart"
+    },
+    "fbde00e1-e8e1-4c50-b187-25c315d65537": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "fbde00e1-e8e1-4c50-b187-25c315d65537",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Trevante Rhodes Is Mike Tyson In Fighting Form On New Hulu Series"
     },
     "afb27923-fa99-41a8-ab57-4cae36e2ab18": {
         "annotation": {
@@ -9134,7 +9134,7 @@
         "startChar": 0,
         "text": "Easy Ways To Save Money When You Order An Iced Coffee"
     },
-    "5b22bb85-532b-4093-9c04-ab4a75572057": {
+    "5aefc7e4-8a54-4f0a-88ad-802de4e91673": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -9150,10 +9150,10 @@
             }
         ],
         "endChar": 0,
-        "id": "5b22bb85-532b-4093-9c04-ab4a75572057",
+        "id": "5aefc7e4-8a54-4f0a-88ad-802de4e91673",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Lisa Loeb Paved Her Own Way In The '90s — A Rare Feat For Independent Artists Of The Time"
+        "text": "Pope Francis Calls Putin's Invasion Of Ukraine 'Infantile And Destructive'"
     },
     "3f50076b-7d68-42b2-b860-e4f3ddec056a": {
         "annotation": {
@@ -9176,7 +9176,7 @@
         "startChar": 0,
         "text": "Orange Wine: Everything You Need To Know And Probably Didn't"
     },
-    "5aefc7e4-8a54-4f0a-88ad-802de4e91673": {
+    "5b22bb85-532b-4093-9c04-ab4a75572057": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -9192,10 +9192,10 @@
             }
         ],
         "endChar": 0,
-        "id": "5aefc7e4-8a54-4f0a-88ad-802de4e91673",
+        "id": "5b22bb85-532b-4093-9c04-ab4a75572057",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Pope Francis Calls Putin's Invasion Of Ukraine 'Infantile And Destructive'"
+        "text": "Lisa Loeb Paved Her Own Way In The '90s — A Rare Feat For Independent Artists Of The Time"
     },
     "dd322113-10e4-4a89-a2e0-a09375a1b3ca": {
         "annotation": {
@@ -11213,27 +11213,6 @@
         "startChar": 0,
         "text": "Cleaner Was Dead In Belk Bathroom For 4 Days Before Body Found: Police"
     },
-    "c5753eea-3c95-4860-85aa-4cd85047d0ba": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "c5753eea-3c95-4860-85aa-4cd85047d0ba",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Buffalo Gunman Had Previously Threatened High School Shooting, Official Says"
-    },
     "d7828e6d-04ef-4c7e-a508-5e7e5d7b5762": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -11254,6 +11233,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Death Toll In Kentucky Hits 28 As Infrastructure Damage Hampers Flood Recovery"
+    },
+    "c5753eea-3c95-4860-85aa-4cd85047d0ba": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c5753eea-3c95-4860-85aa-4cd85047d0ba",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Buffalo Gunman Had Previously Threatened High School Shooting, Official Says"
     },
     "6aa104be-f46a-46c5-ad11-b922a2970ddf": {
         "annotation": {
@@ -11720,15 +11720,15 @@
     "0ae67d66-bd94-4ea0-98fa-53a3996a4789": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -11948,27 +11948,6 @@
         "startChar": 0,
         "text": "Congress Will Discuss UFOs For First Time In More Than 50 Years And People Have Questions"
     },
-    "8ba003af-9b4e-48d1-80d5-7c84ad157a43": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "8ba003af-9b4e-48d1-80d5-7c84ad157a43",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Dan Goldman, Narrowly Leading In New York Democratic Primary, Declares Victory"
-    },
     "d077c6e7-3207-4633-a83c-50623184282f": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -11989,6 +11968,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Why You Feel Hungover After An Anxiety Or Panic Attack"
+    },
+    "8ba003af-9b4e-48d1-80d5-7c84ad157a43": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "8ba003af-9b4e-48d1-80d5-7c84ad157a43",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Dan Goldman, Narrowly Leading In New York Democratic Primary, Declares Victory"
     },
     "79038e30-30a1-47df-9ef4-56923a9a4938": {
         "annotation": {
@@ -12119,15 +12119,15 @@
     "0d445644-d49a-4a88-a6af-372ef15e7a37": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -14909,7 +14909,7 @@
         "startChar": 0,
         "text": "Joe Manchin Backs West Virginia Republican In Primary Against MAGA Challenger"
     },
-    "7650145c-b8c2-4cce-9020-ba068427cb0e": {
+    "af629503-7234-4833-8802-222f082a0eb8": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -14925,10 +14925,10 @@
             }
         ],
         "endChar": 0,
-        "id": "7650145c-b8c2-4cce-9020-ba068427cb0e",
+        "id": "af629503-7234-4833-8802-222f082a0eb8",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "WNBA Legend Lisa Leslie: We Were Told Not To Make 'Big Fuss' Over Brittney Griner"
+        "text": "Man Sets Himself On Fire In Apparent Protest Of Funeral For Japan's Abe"
     },
     "62a55e62-c800-4ae8-987e-c4f24ec08800": {
         "annotation": {
@@ -14951,7 +14951,7 @@
         "startChar": 0,
         "text": "Marjorie Taylor Greene Argues U.S. Capitol Riot Happened Just 'One Time'"
     },
-    "af629503-7234-4833-8802-222f082a0eb8": {
+    "7650145c-b8c2-4cce-9020-ba068427cb0e": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -14967,10 +14967,10 @@
             }
         ],
         "endChar": 0,
-        "id": "af629503-7234-4833-8802-222f082a0eb8",
+        "id": "7650145c-b8c2-4cce-9020-ba068427cb0e",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Man Sets Himself On Fire In Apparent Protest Of Funeral For Japan's Abe"
+        "text": "WNBA Legend Lisa Leslie: We Were Told Not To Make 'Big Fuss' Over Brittney Griner"
     },
     "95f8ba5c-7ab6-42fe-be90-82ebb105b459": {
         "annotation": {
@@ -15749,27 +15749,6 @@
         "startChar": 0,
         "text": "Crosby, Stills & Nash's Music Returns To Spotify After Joe Rogan Protest"
     },
-    "2c491e6f-06b8-4300-b2ca-4648130fc30d": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "2c491e6f-06b8-4300-b2ca-4648130fc30d",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Biden Says Queen's Death Left 'Giant Hole' For Royal Family"
-    },
     "e0c82e11-c920-43ff-9f9c-6719b4dd27e3": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -15790,6 +15769,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Russia Appoints New Ukraine War Commander With Record Of Brutality"
+    },
+    "2c491e6f-06b8-4300-b2ca-4648130fc30d": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "2c491e6f-06b8-4300-b2ca-4648130fc30d",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Biden Says Queen's Death Left 'Giant Hole' For Royal Family"
     },
     "b9c21a29-7135-494b-9604-9557e87cf754": {
         "annotation": {
@@ -15812,27 +15812,6 @@
         "startChar": 0,
         "text": "Police Are Harassing Mom Who Pulled Kids From Uvalde School Shooting, Lawyer Says"
     },
-    "92a54bde-52ee-47ef-887a-b1a97e62065a": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "92a54bde-52ee-47ef-887a-b1a97e62065a",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Biden Improves 'Significantly,' Throat Still Sore From COVID"
-    },
     "960d29c3-afef-4f99-a023-6aaed0032dae": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -15853,6 +15832,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Man Arrested For Alleged Bomb Threat Against Arizona Election Official After Jan. 6"
+    },
+    "92a54bde-52ee-47ef-887a-b1a97e62065a": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "92a54bde-52ee-47ef-887a-b1a97e62065a",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Biden Improves 'Significantly,' Throat Still Sore From COVID"
     },
     "bd7c871a-326c-432a-bb5e-faae6eb0e847": {
         "annotation": {
@@ -16610,27 +16610,6 @@
         "startChar": 0,
         "text": "Polio Detected In NYC's Sewage, Suggesting Virus Circulating"
     },
-    "c5459377-ffd1-46a8-87d1-6325fda67c60": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "c5459377-ffd1-46a8-87d1-6325fda67c60",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "FBI Probing Russian-Speaking Fake Heiress Who Infiltrated Mar-A-Lago: Report"
-    },
     "503f8e44-63dd-4045-9873-40614d3abb61": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -16651,6 +16630,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Zelenskyy: ‘Mothers Of Russian Soldiers’ Should See Graphic Photos Out Of Kyiv Region"
+    },
+    "c5459377-ffd1-46a8-87d1-6325fda67c60": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c5459377-ffd1-46a8-87d1-6325fda67c60",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "FBI Probing Russian-Speaking Fake Heiress Who Infiltrated Mar-A-Lago: Report"
     },
     "5296eaf9-8cc9-4a08-80ba-b10a726faa37": {
         "annotation": {
@@ -16778,27 +16778,6 @@
         "startChar": 0,
         "text": "Fiona Barrels Toward Turks And Caicos Islands As Category 3 Hurricane"
     },
-    "3105c54b-7367-4787-a4d6-c9ce9f4a2d2d": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "3105c54b-7367-4787-a4d6-c9ce9f4a2d2d",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Infowars Sidekick Owen Shroyer Testifies In Alex Jones' Sandy Hook Defamation Trial"
-    },
     "b41c5e93-9a6a-41ec-a63f-723e2cd71cba": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -16819,6 +16798,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "IRS Launches Safety Review Amid Threats To Workers Linked To Conspiracy Theories"
+    },
+    "3105c54b-7367-4787-a4d6-c9ce9f4a2d2d": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3105c54b-7367-4787-a4d6-c9ce9f4a2d2d",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Infowars Sidekick Owen Shroyer Testifies In Alex Jones' Sandy Hook Defamation Trial"
     },
     "72a1c18c-d1fa-4d62-9d21-febbbd4c7e40": {
         "annotation": {
@@ -17555,27 +17555,6 @@
         "startChar": 0,
         "text": "Will Smith Resigns From Film Academy Over Oscars Slap, Issues Extensive Apology"
     },
-    "49d41ce8-1977-42ec-a3cc-bf1a2365e453": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "49d41ce8-1977-42ec-a3cc-bf1a2365e453",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Jennifer Lopez Felt Sharing Super Bowl Stage With Shakira Was 'Worst Idea In The World'"
-    },
     "63382d42-792c-4e14-9561-1e9ced5e79e0": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -17596,6 +17575,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Starbucks Workers In Seattle Vote To Form Union"
+    },
+    "49d41ce8-1977-42ec-a3cc-bf1a2365e453": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "49d41ce8-1977-42ec-a3cc-bf1a2365e453",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Jennifer Lopez Felt Sharing Super Bowl Stage With Shakira Was 'Worst Idea In The World'"
     },
     "6df14fdf-befc-4212-8b10-dcd1e5a73dd3": {
         "annotation": {
@@ -18059,7 +18059,7 @@
         "startChar": 0,
         "text": "James Cameron Presents New Scenes From 'Avatar: The Way Of Water' At D23 Expo"
     },
-    "56d0f148-e305-43d7-adac-183942336492": {
+    "8d9981d5-6d91-4210-987a-342cbbe938e7": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -18075,31 +18075,10 @@
             }
         ],
         "endChar": 0,
-        "id": "56d0f148-e305-43d7-adac-183942336492",
+        "id": "8d9981d5-6d91-4210-987a-342cbbe938e7",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "FBI Sees Growing Russian Hacker Interest In U.S. Energy Firms"
-    },
-    "e2ca2024-567d-4ff6-81fd-71a3d0c0eca1": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "e2ca2024-567d-4ff6-81fd-71a3d0c0eca1",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Russia Resumes Attacks On Kyiv, Missile Strikes Outdoor Market In Kharkiv"
+        "text": "Dave Chappelle Rejects His High School’s Offer To Name Theater After Him Amid Controversy"
     },
     "79c33e40-22f6-4f13-8a00-79fa31733371": {
         "annotation": {
@@ -18122,7 +18101,7 @@
         "startChar": 0,
         "text": "Fire At Wisconsin Anti-Abortion Office Following SCOTUS Draft Leak Investigated As Arson"
     },
-    "8d9981d5-6d91-4210-987a-342cbbe938e7": {
+    "e2ca2024-567d-4ff6-81fd-71a3d0c0eca1": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -18138,10 +18117,31 @@
             }
         ],
         "endChar": 0,
-        "id": "8d9981d5-6d91-4210-987a-342cbbe938e7",
+        "id": "e2ca2024-567d-4ff6-81fd-71a3d0c0eca1",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Dave Chappelle Rejects His High School’s Offer To Name Theater After Him Amid Controversy"
+        "text": "Russia Resumes Attacks On Kyiv, Missile Strikes Outdoor Market In Kharkiv"
+    },
+    "56d0f148-e305-43d7-adac-183942336492": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "56d0f148-e305-43d7-adac-183942336492",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "FBI Sees Growing Russian Hacker Interest In U.S. Energy Firms"
     },
     "7371e2b4-d722-4831-8ab1-348887fa3c74": {
         "annotation": {
@@ -18311,27 +18311,6 @@
         "startChar": 0,
         "text": "195 House Republicans Voted Against Birth Control Protections"
     },
-    "b890e7f9-bc8f-416f-8f6f-7455cfbf0deb": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "b890e7f9-bc8f-416f-8f6f-7455cfbf0deb",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Amazon Greenlights 'Blade Runner 2099' Limited Series Produced By Ridley Scott"
-    },
     "563a43e1-0d14-4426-a81e-2748ad122ce4": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -18352,6 +18331,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Bradford Freeman, Last Survivor Of Famed 'Band Of Brothers' Army Unit, Dead At 97"
+    },
+    "b890e7f9-bc8f-416f-8f6f-7455cfbf0deb": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b890e7f9-bc8f-416f-8f6f-7455cfbf0deb",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Amazon Greenlights 'Blade Runner 2099' Limited Series Produced By Ridley Scott"
     },
     "76502ed4-dee0-4c7e-9431-3a802e8480d6": {
         "annotation": {
@@ -19550,7 +19550,7 @@
         "startChar": 0,
         "text": "'Weekend Update' Mocks Too-Kind Penalty For Will Smith Slap"
     },
-    "efad1a64-adad-4a02-a61a-26b4b4322a66": {
+    "0cc5c675-ee3c-4f8c-9675-ae97150e48c2": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -19566,10 +19566,10 @@
             }
         ],
         "endChar": 0,
-        "id": "efad1a64-adad-4a02-a61a-26b4b4322a66",
+        "id": "0cc5c675-ee3c-4f8c-9675-ae97150e48c2",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Second Mass Grave Found Outside Mariupol, Says Ukraine"
+        "text": "Ukraine: 9,000 Of Its Troops Killed Since Russia Began War"
     },
     "324cd85a-8970-4061-81e6-be6e342b46d5": {
         "annotation": {
@@ -19592,7 +19592,7 @@
         "startChar": 0,
         "text": "French Scientist Trolls Twitter By Claiming Chorizo Slice Is Actually A Distant Star"
     },
-    "0cc5c675-ee3c-4f8c-9675-ae97150e48c2": {
+    "efad1a64-adad-4a02-a61a-26b4b4322a66": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -19608,10 +19608,10 @@
             }
         ],
         "endChar": 0,
-        "id": "0cc5c675-ee3c-4f8c-9675-ae97150e48c2",
+        "id": "efad1a64-adad-4a02-a61a-26b4b4322a66",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Ukraine: 9,000 Of Its Troops Killed Since Russia Began War"
+        "text": "Second Mass Grave Found Outside Mariupol, Says Ukraine"
     },
     "ad934dd1-1441-4be4-b433-33671fcd8c69": {
         "annotation": {
@@ -19949,7 +19949,7 @@
         "startChar": 0,
         "text": "Still Have Lingering Congestion After Being Sick? Here's What To Do."
     },
-    "3efd3880-e946-4054-87ba-a286c9a69b5d": {
+    "7ee0cf11-0755-4933-b710-663c6cd38473": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -19965,10 +19965,10 @@
             }
         ],
         "endChar": 0,
-        "id": "3efd3880-e946-4054-87ba-a286c9a69b5d",
+        "id": "7ee0cf11-0755-4933-b710-663c6cd38473",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "1 Dead After Crashing Into Miami Pond Teeming With Alligators"
+        "text": "Brad Pitt’s ‘Bullet Train’ Pulls Into Station With $30.1M"
     },
     "ecfdea4c-06e2-432a-852d-a99957607940": {
         "annotation": {
@@ -19991,7 +19991,7 @@
         "startChar": 0,
         "text": "Missing Louisiana Nun Found 'Alive And Safe' Months After Armed Home Raid"
     },
-    "7ee0cf11-0755-4933-b710-663c6cd38473": {
+    "3efd3880-e946-4054-87ba-a286c9a69b5d": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -20007,10 +20007,10 @@
             }
         ],
         "endChar": 0,
-        "id": "7ee0cf11-0755-4933-b710-663c6cd38473",
+        "id": "3efd3880-e946-4054-87ba-a286c9a69b5d",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Brad Pitt’s ‘Bullet Train’ Pulls Into Station With $30.1M"
+        "text": "1 Dead After Crashing Into Miami Pond Teeming With Alligators"
     },
     "759ce9af-c1b3-4b43-abda-5f94ac648d1c": {
         "annotation": {
