@@ -3,8 +3,8 @@ Umibench is programmed in Java.
 
 - you need Java 17 or later.
 - clone this repo, open it in your fav IDE
-- in the directory `private, rename `example-properties.txt` to `properties.txt` and change the API keys in it.
-- open the files where the API calls to Huggingface are made. Replace the endpoints with the endpoints of the models you want to test. Public endpoints don't have enough capacity. You need to spin your own endpoints.
+- in the directory `private`, rename `example-properties.txt` to `properties.txt` and change the API keys in it.
+- navigate to the package `src/main/java/net/clementlevallois/umigon/eval/models` and open the classes where the API calls to Huggingface are made. Replace the endpoints with the endpoints of the models you want to test. Public endpoints don't have enough capacity. You need to spin your own endpoints.
 - run the main class of the project (`Controller.java`)
 
 ## Why factuality and sentiment compared in the same test bench?

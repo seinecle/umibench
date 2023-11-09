@@ -387,3 +387,12 @@ weighted F1 score for factuality on dataset xfact for model TimeLMs: 0.67120624
 evaluation conducted on 2023-11-08T15:24:38.968366300
 weighted F1 score for factuality on dataset xfact for model umigon: 0.97771496
 
+evaluation conducted on 2023-11-09T17:15:53.159121500
+weighted F1 score for factuality on dataset xfact for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.7921006
+
+evaluation conducted on 2023-11-09T17:15:53.622616
+weighted F1 score for factuality on dataset xfact for model Thesis_Titan: 0.96046346
+
+evaluation conducted on 2023-11-09T17:15:53.846670200
+weighted F1 score for factuality on dataset xfact for model umigon: 0.97771496
+

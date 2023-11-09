@@ -101,10 +101,10 @@ public class GenerateLeaderBoard {
         int i = 1;
         for (ModelInterface model : models) {
             sb.append(i++).append(". ");
-            sb.append(model.getName()).append(" ([").append("link to paper").append("]");
+            sb.append(model.getName()).append(" ([").append("paper").append("]");
             sb.append("(").append(model.getPaperWebLink()).append(")");
             sb.append(", ");
-            sb.append(" [").append("link to api").append("]");
+            sb.append(" [").append("api").append("]");
             sb.append("(").append(model.getAPIWebLink()).append("))");
             sb.append("\n");
         }
@@ -117,10 +117,10 @@ public class GenerateLeaderBoard {
         int i = 1;
         for (DatasetInterface dataset : datasets) {
             sb.append(i++).append(". ");
-            sb.append(dataset.getName()).append(" ([").append("link to paper").append("]");
+            sb.append(dataset.getName()).append(" ([").append("paper").append("]");
             sb.append("(").append(dataset.getPaperWebLink()).append(")");
             sb.append(", ");
-            sb.append(" [").append("link to data source").append("]");
+            sb.append(" [").append("data source").append("]");
             sb.append("(").append(dataset.getDataWebLink()).append("))");
             sb.append("\n");
         }

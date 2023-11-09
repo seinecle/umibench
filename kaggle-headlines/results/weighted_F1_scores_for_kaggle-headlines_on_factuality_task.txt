@@ -400,3 +400,14 @@ weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 
 evaluation conducted on 2023-11-08T15:24:37.289650400
 weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.94322354
 
+evaluation conducted on 2023-11-09T17:15:52.894804300
+weighted F1 score for factuality on dataset kaggle-headlines for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.73777854
+
+evaluation conducted on 2023-11-09T17:15:53.016801300
+weighted F1 score for factuality on dataset kaggle-headlines for model TimeLMs: 0.71864796
+
+814
+
+evaluation conducted on 2023-11-09T17:15:53.150121800
+weighted F1 score for factuality on dataset kaggle-headlines for model umigon: 0.94322354
+
