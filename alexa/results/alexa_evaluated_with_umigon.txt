@@ -62,27 +62,6 @@
         "startChar": 0,
         "text": "Planet Money The podcast launched on September 6, 2008 to cover the global financial crisis of 2008â€šÃ„Ã¬2009 in the wake of the Federal takeover of Fannie Mae and Freddie Mac."
     },
-    "b9c82019-4788-47f7-8b49-b2dcf96f8a85": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "b9c82019-4788-47f7-8b49-b2dcf96f8a85",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Santa Fe, New Mexico The city's full name as founded remains La Villa Real de la Santa Fe de San Francisco de Asâˆšâ‰ s (\"The Royal City of the Holy Faith of Saint Francis of Assisi\")."
-    },
     "3e1397ed-dc65-4586-9dae-14fbad7452d6": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -103,6 +82,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Instagram Users can connect their Instagram account to other social media profiles, enabling them to share photos to those profiles as well."
+    },
+    "b9c82019-4788-47f7-8b49-b2dcf96f8a85": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b9c82019-4788-47f7-8b49-b2dcf96f8a85",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Santa Fe, New Mexico The city's full name as founded remains La Villa Real de la Santa Fe de San Francisco de Asâˆšâ‰ s (\"The Royal City of the Holy Faith of Saint Francis of Assisi\")."
     },
     "6d68b6e8-92b3-4af8-b52b-33c0da534c3d": {
         "annotation": {
@@ -167,27 +167,6 @@
         "startChar": 0,
         "text": "Harry Potter , the books have sold more than 500 million copies worldwide, making them the best-selling book series in history, and have been translated into seventy-three languages."
     },
-    "d196a4c3-ec79-4cd1-99b6-dbd70b380acd": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "d196a4c3-ec79-4cd1-99b6-dbd70b380acd",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Harry Potter The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and muggles, a reference term that means non-magical people."
-    },
     "094ed058-fa1b-421f-8264-3660296e8033": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -208,6 +187,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "The Last of the Mohicans (1992 film) The film stars Daniel Day-Lewis, Madeleine Stowe, and Jodhi May, with Russell Means, Wes Studi, Eric Schweig, and Steven Waddington in supporting roles."
+    },
+    "d196a4c3-ec79-4cd1-99b6-dbd70b380acd": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d196a4c3-ec79-4cd1-99b6-dbd70b380acd",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Harry Potter The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and muggles, a reference term that means non-magical people."
     },
     "7ecdb613-45d1-499a-8e53-9b4bae0d1bac": {
         "annotation": {
@@ -734,27 +734,6 @@
         "startChar": 0,
         "text": "Bowling The maximum score is 300, which is achieved by getting 12 strikes in a row."
     },
-    "c26ae11a-21da-4909-9429-efc42581ada4": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "c26ae11a-21da-4909-9429-efc42581ada4",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Yellowstone National Park The park is known for its wildlife and its many geothermal features, especially Old Faithful geyser, one of its most popular features."
-    },
     "0f784ff0-1766-45cf-a6f5-72edf329bdd5": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -775,6 +754,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "The Walking Dead (comic book) The Walking Dead is an ongoing black-and-white comic book series created by writer Robert Kirkman and artist Tony Moore."
+    },
+    "c26ae11a-21da-4909-9429-efc42581ada4": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c26ae11a-21da-4909-9429-efc42581ada4",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Yellowstone National Park The park is known for its wildlife and its many geothermal features, especially Old Faithful geyser, one of its most popular features."
     },
     "9b9edf43-9415-4abc-acd7-e71a37052455": {
         "annotation": {
@@ -818,27 +818,6 @@
         "startChar": 0,
         "text": "Country music Country music often consists of ballads and dance tunes with generally simple forms, folk lyric and harmonies accompanied by mostly string instruments such as banjos, electric and acoustic guitars, steel guitars (such as pedal steels and dobros), and fiddles as well as harmonicas."
     },
-    "e9ef500b-b34d-4d03-8592-cd59cf6886ee": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "e9ef500b-b34d-4d03-8592-cd59cf6886ee",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "The Beatles The Beatles were an English rock band formed in Liverpool in 1960."
-    },
     "ea9f8b6d-2f03-4499-8c8b-d1c1c023a9cd": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -859,6 +838,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Japanese language Japanese is an agglutinative, mora-timed language with simple phonotactics, a pure vowel system, phonemic vowel and consonant length, and a lexically significant pitch-accent."
+    },
+    "e9ef500b-b34d-4d03-8592-cd59cf6886ee": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e9ef500b-b34d-4d03-8592-cd59cf6886ee",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "The Beatles The Beatles were an English rock band formed in Liverpool in 1960."
     },
     "0252f9f4-dd5a-4c68-a85b-f39665415ea5": {
         "annotation": {
@@ -881,27 +881,6 @@
         "startChar": 0,
         "text": "Super Bowl commercials The phenomenon is a result of the game's extremely high viewership and wide demographics: Super Bowl games have frequently been among the United States' most watched television broadcasts, with Nielsen having estimated that Super Bowl XLIX in 2015 was seen by at least 114.4 million viewers in the United States, surpassing the previous year's Super Bowl as the highest-rated television broadcast in U.S. history."
     },
-    "e8d50a57-1d5a-4792-a8f2-afde242e6533": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "e8d50a57-1d5a-4792-a8f2-afde242e6533",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Marker pen A permanent marker consists of a container (glass, aluminum or plastic) and a core of an absorbent material."
-    },
     "9d0500d8-30f6-4a10-9c9c-41a576e90e4f": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -922,6 +901,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Kendrick Lamar He began to gain recognition in 2010, after his first retail release, \"Overly Dedicated\"."
+    },
+    "e8d50a57-1d5a-4792-a8f2-afde242e6533": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e8d50a57-1d5a-4792-a8f2-afde242e6533",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Marker pen A permanent marker consists of a container (glass, aluminum or plastic) and a core of an absorbent material."
     },
     "bfa7b994-4a3e-4d26-ab94-13ea7902c56e": {
         "annotation": {
@@ -2712,14 +2712,14 @@
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
                 "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -3065,7 +3065,7 @@
         "startChar": 0,
         "text": "American football Points are primarily scored by advancing the ball into the opposing team's end zone for a touchdown or kicking the ball through the opponent's goalposts for a field goal."
     },
-    "aefccfd5-30fa-44d9-b1c0-0fab5a21b72c": {
+    "cbe536f7-e7f5-478d-b550-35bf8b4b1645": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -3081,10 +3081,10 @@
             }
         ],
         "endChar": 0,
-        "id": "aefccfd5-30fa-44d9-b1c0-0fab5a21b72c",
+        "id": "cbe536f7-e7f5-478d-b550-35bf8b4b1645",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Paul McCartney Sir James Paul McCartney, (born 18 June 1942), is an English singer-songwriter, multi-instrumentalist, and composer."
+        "text": "Beard It is a vestigial trait from a time when humans had hair on their face and entire body like the hair on gorillas."
     },
     "63126dae-8a82-4b2b-9d4c-a3483aa9ca82": {
         "annotation": {
@@ -3107,7 +3107,7 @@
         "startChar": 0,
         "text": "Ivy League Seven of the eight schools were founded during the United States colonial period; Cornell was founded in 1865."
     },
-    "cbe536f7-e7f5-478d-b550-35bf8b4b1645": {
+    "aefccfd5-30fa-44d9-b1c0-0fab5a21b72c": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -3123,10 +3123,10 @@
             }
         ],
         "endChar": 0,
-        "id": "cbe536f7-e7f5-478d-b550-35bf8b4b1645",
+        "id": "aefccfd5-30fa-44d9-b1c0-0fab5a21b72c",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Beard It is a vestigial trait from a time when humans had hair on their face and entire body like the hair on gorillas."
+        "text": "Paul McCartney Sir James Paul McCartney, (born 18 June 1942), is an English singer-songwriter, multi-instrumentalist, and composer."
     },
     "22b14ab5-2e40-4414-9023-851ae1850476": {
         "annotation": {
@@ -4325,27 +4325,6 @@
         "startChar": 0,
         "text": "Finance Finance can also be defined as the science of money management."
     },
-    "92fe6667-89f6-4678-9dbd-1d035ce9287f": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "92fe6667-89f6-4678-9dbd-1d035ce9287f",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Relish A relish is a cooked and pickled product made of chopped vegetables, fruits or herbs, and is a food item typically used as a condiment, in particular to enhance a staple."
-    },
     "d93bcfb5-d395-4ee2-bc5b-a4d14ca25bc0": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -4367,7 +4346,7 @@
         "startChar": 0,
         "text": "Kindergarten Today, the term is used in many countries to describe a variety of educational institutions and learning spaces for children ranging from two to seven years of age, based on a variety of teaching methods."
     },
-    "7637aac7-57e6-4d79-871f-7fe859abd031": {
+    "92fe6667-89f6-4678-9dbd-1d035ce9287f": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -4383,10 +4362,10 @@
             }
         ],
         "endChar": 0,
-        "id": "7637aac7-57e6-4d79-871f-7fe859abd031",
+        "id": "92fe6667-89f6-4678-9dbd-1d035ce9287f",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Lizard Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica, as well as most oceanic island chains."
+        "text": "Relish A relish is a cooked and pickled product made of chopped vegetables, fruits or herbs, and is a food item typically used as a condiment, in particular to enhance a staple."
     },
     "00b97a89-46eb-4c6d-9d56-cb45ee014f18": {
         "annotation": {
@@ -4408,6 +4387,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Skiing Skiing can be a means of transport, a recreational activity or a competitive winter sport in which the participant uses skis to glide on snow."
+    },
+    "7637aac7-57e6-4d79-871f-7fe859abd031": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "7637aac7-57e6-4d79-871f-7fe859abd031",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Lizard Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica, as well as most oceanic island chains."
     },
     "0cbac058-32e5-4ed8-96aa-c208d0d5f276": {
         "annotation": {
@@ -6299,27 +6299,6 @@
         "startChar": 0,
         "text": "Indianapolis 500 The event is held over Memorial Day weekend in late May."
     },
-    "5a5786e6-562d-4e57-ab36-5b83aa8770e1": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "5a5786e6-562d-4e57-ab36-5b83aa8770e1",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Fantasy football (American) Points are based on the actual performances of the players in real-world competition."
-    },
     "387a2e67-f695-45b0-8ad1-baba642fe57e": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -6341,7 +6320,7 @@
         "startChar": 0,
         "text": "Blue Suede Shoes \"Blue Suede Shoes\" is a rock-and-roll standard written and first recorded by Carl Perkins in 1955."
     },
-    "ce69747b-e5f1-4c33-80f9-c4f3754d9799": {
+    "5a5786e6-562d-4e57-ab36-5b83aa8770e1": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -6357,10 +6336,31 @@
             }
         ],
         "endChar": 0,
-        "id": "ce69747b-e5f1-4c33-80f9-c4f3754d9799",
+        "id": "5a5786e6-562d-4e57-ab36-5b83aa8770e1",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Accounting Accounting can be divided into several fields including financial accounting, management accounting, external auditing, tax accounting and cost accounting."
+        "text": "Fantasy football (American) Points are based on the actual performances of the players in real-world competition."
+    },
+    "9b1cde3b-81cd-4e92-9f01-d28e532ed557": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "9b1cde3b-81cd-4e92-9f01-d28e532ed557",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Eugen Sandow Sandow was born in Kâˆšâˆ‚nigsberg, Prussia (now Kaliningrad, Russia) on April 2, 1867 to a German father and a Russian mother."
     },
     "e2414225-83f9-41c1-a5a8-60993ea38056": {
         "annotation": {
@@ -6383,7 +6383,7 @@
         "startChar": 0,
         "text": "Rick Grimes He awakens from a coma after a life-threatening gun shot wound to find the world overrun by zombies, to which they refer as \"walkers\"."
     },
-    "9b1cde3b-81cd-4e92-9f01-d28e532ed557": {
+    "ce69747b-e5f1-4c33-80f9-c4f3754d9799": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -6399,10 +6399,10 @@
             }
         ],
         "endChar": 0,
-        "id": "9b1cde3b-81cd-4e92-9f01-d28e532ed557",
+        "id": "ce69747b-e5f1-4c33-80f9-c4f3754d9799",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Eugen Sandow Sandow was born in Kâˆšâˆ‚nigsberg, Prussia (now Kaliningrad, Russia) on April 2, 1867 to a German father and a Russian mother."
+        "text": "Accounting Accounting can be divided into several fields including financial accounting, management accounting, external auditing, tax accounting and cost accounting."
     },
     "d1b7f5a9-bda9-4fd9-951c-4d364f70437e": {
         "annotation": {
@@ -6635,27 +6635,6 @@
         "startChar": 0,
         "text": "National Football League The NFL agreed to merge with the American Football League (AFL) in 1966, and the first Super Bowl was held at the end of that season; the merger was completed in 1970."
     },
-    "6af3906d-344f-44f0-a5e6-9a2cf0cc45b2": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "6af3906d-344f-44f0-a5e6-9a2cf0cc45b2",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Kurt Cobain Born in Aberdeen, Washington, Cobain formed the band Nirvana with Krist Novoselic and Aaron Burckhard in 1987 and established it as part of the Seattle music scene which later became known as grunge."
-    },
     "887b8632-c960-4052-b1e2-613208cde157": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -6676,6 +6655,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Green Many creatures have adapted to their green environments by taking on a green hue themselves as camouflage."
+    },
+    "6af3906d-344f-44f0-a5e6-9a2cf0cc45b2": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "6af3906d-344f-44f0-a5e6-9a2cf0cc45b2",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Kurt Cobain Born in Aberdeen, Washington, Cobain formed the band Nirvana with Krist Novoselic and Aaron Burckhard in 1987 and established it as part of the Seattle music scene which later became known as grunge."
     },
     "4a825f44-5e47-4d80-917c-5321d5e49044": {
         "annotation": {
@@ -6782,27 +6782,6 @@
         "startChar": 0,
         "text": "Skiing Early skiers used one long pole or spear."
     },
-    "f84de3a6-a789-46dc-b7fd-49ec3be26072": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "f84de3a6-a789-46dc-b7fd-49ec3be26072",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Lesbian A lesbian is a homosexual woman who is romantically or sexually attracted to other women."
-    },
     "3570ff39-5a04-4465-96a6-a175e2ed2fe7": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -6823,6 +6802,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Tomato The Spanish discovered the tomato from their contact with the Aztec peoples during the Spanish colonization of the Americas, then brought it to Europe, and, from there, to other parts of the European colonized world during the 16th century."
+    },
+    "f84de3a6-a789-46dc-b7fd-49ec3be26072": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "f84de3a6-a789-46dc-b7fd-49ec3be26072",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Lesbian A lesbian is a homosexual woman who is romantically or sexually attracted to other women."
     },
     "2b425057-0013-44b6-a50e-caeb8887a83a": {
         "annotation": {
@@ -7143,14 +7143,14 @@
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "SUBJ",
-            "sentiment": "POSITIVE",
+            "sentiment": "NEGATIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
                 "factuality": "SUBJ",
-                "sentiment": "POSITIVE",
+                "sentiment": "NEGATIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -7373,15 +7373,15 @@
     "efe2527f-c186-449d-a846-80792c2ca4f2": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -7727,27 +7727,6 @@
         "startChar": 0,
         "text": "Meditation Meditation may be used to reduce stress, anxiety, depression, and pain."
     },
-    "195bdf19-57e0-41ef-8332-7f9a47287109": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "195bdf19-57e0-41ef-8332-7f9a47287109",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Hunting Hunting is the practice of killing or trapping animals, or pursuing or tracking them with the intent of doing so."
-    },
     "70790fce-a6f5-46bc-ae10-26b6d8a28a7e": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -7768,6 +7747,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Coco Chanel She was the founder and namesake of the Chanel brand."
+    },
+    "195bdf19-57e0-41ef-8332-7f9a47287109": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "195bdf19-57e0-41ef-8332-7f9a47287109",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Hunting Hunting is the practice of killing or trapping animals, or pursuing or tracking them with the intent of doing so."
     },
     "8bdeb9a2-1c52-48a4-bed2-0f6aa04c5fcd": {
         "annotation": {
@@ -7958,27 +7958,6 @@
         "startChar": 0,
         "text": "Corn dog Carl and Neil Fletcher lay such a claim, having introduced their \"Corny Dogs\" at the Texas State Fair sometime between 1938 and 1942."
     },
-    "df6ec5fa-e8cf-4e7a-8e15-b4be0dd50383": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "df6ec5fa-e8cf-4e7a-8e15-b4be0dd50383",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Yellowstone National Park Yellowstone National Park is a national park located in the U.S. states of Wyoming, Montana, and Idaho."
-    },
     "5a080156-92db-45c5-a82a-012e7b4cdf4f": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -7999,6 +7978,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "The Starry Night The Starry Night is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh."
+    },
+    "df6ec5fa-e8cf-4e7a-8e15-b4be0dd50383": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "df6ec5fa-e8cf-4e7a-8e15-b4be0dd50383",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Yellowstone National Park Yellowstone National Park is a national park located in the U.S. states of Wyoming, Montana, and Idaho."
     },
     "6828fbac-757a-4ca3-b40d-ad3469e85c8d": {
         "annotation": {
@@ -8129,15 +8129,15 @@
     "4c1da212-bfa8-44a3-88ea-e925e8a79c71": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -8987,27 +8987,6 @@
         "startChar": 0,
         "text": "John Grisham He practiced criminal law for about a decade and served in the House of Representatives in Mississippi from January 1984 to September 1990."
     },
-    "e792eb1b-70d0-46ce-a730-924541124e27": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "e792eb1b-70d0-46ce-a730-924541124e27",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "BBC The BBC is established under a Royal Charter and operates under its Agreement with the Secretary of State for Culture, Media and Sport."
-    },
     "addf3256-b29a-4d78-a071-ed6c8cd57dcf": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -9028,6 +9007,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Netflix It specializes in and provides streaming media and video-on-demand online and DVD by mail."
+    },
+    "e792eb1b-70d0-46ce-a730-924541124e27": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e792eb1b-70d0-46ce-a730-924541124e27",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "BBC The BBC is established under a Royal Charter and operates under its Agreement with the Secretary of State for Culture, Media and Sport."
     },
     "1a2b4eba-8234-46d4-b804-e547249bd893": {
         "annotation": {
@@ -9071,27 +9071,6 @@
         "startChar": 0,
         "text": "Bowling It is one of the major forms of throwing sports."
     },
-    "11434f51-6855-4712-8ff4-dce71dc70691": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "11434f51-6855-4712-8ff4-dce71dc70691",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Broken heart The emotional \"pain\" of a broken heart is believed to be part of the survival instinct."
-    },
     "08dfa8a5-35a6-4193-991b-dd287123b27b": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -9112,6 +9091,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Immigration to the United States It has been a major source of population growth and cultural change throughout much of the history of the United States."
+    },
+    "11434f51-6855-4712-8ff4-dce71dc70691": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "11434f51-6855-4712-8ff4-dce71dc70691",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Broken heart The emotional \"pain\" of a broken heart is believed to be part of the survival instinct."
     },
     "55234454-26bd-44dc-a77e-efe67bfe2ddb": {
         "annotation": {

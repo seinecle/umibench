@@ -450,3 +450,89 @@ weighted F1 score for sentiment on dataset mpqa for model umigon: 0.8605116
 evaluation conducted on 2023-11-09T17:15:53.624954
 weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
 
+evaluation conducted on 2023-11-10T11:06:12.457856100
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-advanced-prompt: 0.86674106
+
+84660375
+
+evaluation conducted on 2023-11-10T11:06:13.001290600
+weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
+
+evaluation conducted on 2023-11-10T11:06:13.279603900
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.8605116
+
+evaluation conducted on 2023-11-10T11:06:13.550879100
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
+
+evaluation conducted on 2023-11-10T11:10:13.672617400
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.8605116
+
+evaluation conducted on 2023-11-10T11:11:16.952704600
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.86038655
+
+evaluation conducted on 2023-11-10T11:13:57.467515
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-advanced-prompt: 0.86674106
+
+ 0.84660375
+
+evaluation conducted on 2023-11-10T11:13:57.886598400
+weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
+
+evaluation conducted on 2023-11-10T11:13:58.129716600
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.86038655
+
+evaluation conducted on 2023-11-10T11:13:58.398942500
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
+
+evaluation conducted on 2023-12-01T09:54:38.057150400
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.7079546
+
+evaluation conducted on 2023-12-01T09:54:38.102999600
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-advanced-prompt: 0.86674106
+
+84660375
+
+evaluation conducted on 2023-12-01T09:54:38.951654500
+weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
+
+evaluation conducted on 2023-12-01T09:54:39.537660
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.86073494
+
+evaluation conducted on 2023-12-01T09:54:40.102077700
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
+
+evaluation conducted on 2023-12-01T10:37:44.546075
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.7079546
+
+evaluation conducted on 2023-12-01T10:37:44.576831200
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-advanced-prompt: 0.86674106
+
+84660375
+
+evaluation conducted on 2023-12-01T10:37:45.574691500
+weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
+
+evaluation conducted on 2023-12-01T10:37:46.343176400
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.86073494
+
+evaluation conducted on 2023-12-01T10:37:47.125822200
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
+
+evaluation conducted on 2023-12-01T10:57:03.907880100
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.7079546
+
+evaluation conducted on 2023-12-01T10:57:03.931178400
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.84660375
+
+evaluation conducted on 2023-12-01T10:57:03.965432900
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-advanced-prompt: 0.86674106
+
+evaluation conducted on 2023-12-01T10:57:05.160539500
+weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
+
+evaluation conducted on 2023-12-01T10:57:05.945559800
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.8618389
+
+evaluation conducted on 2023-12-01T10:57:06.629969100
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
+

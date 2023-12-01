@@ -1049,27 +1049,6 @@
         "startChar": 0,
         "text": "Writer Claims 'Fire Island' Fails The Bechdel Test, And Twitter Users Have Thoughts"
     },
-    "02582d13-ecb4-431b-89f8-19ab852d29fb": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "02582d13-ecb4-431b-89f8-19ab852d29fb",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Prince George Shows Off A Wide Variety Of Expressions At Wimbledon Debut"
-    },
     "eaa795d8-6786-435f-b61e-2c39b88e60a5": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -1090,6 +1069,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Republicans Cheer As Congressional Candidate Demands Fauci’s Execution By Firing Squad"
+    },
+    "02582d13-ecb4-431b-89f8-19ab852d29fb": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "02582d13-ecb4-431b-89f8-19ab852d29fb",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Prince George Shows Off A Wide Variety Of Expressions At Wimbledon Debut"
     },
     "67a44909-7b19-420f-ace9-6d2d5ca0469e": {
         "annotation": {
@@ -1409,15 +1409,15 @@
     "c6b28a09-00f6-4da4-80d4-d1e7a9f90035": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -2480,15 +2480,15 @@
     "3dbd2f40-79b6-4fde-b56c-0809bdce1452": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -4892,27 +4892,6 @@
         "startChar": 0,
         "text": "Biden On Putin: 'For God's Sake, This Man Cannot Remain In Power'"
     },
-    "713a6ee5-140b-42bf-b8bc-b943c866fc80": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "713a6ee5-140b-42bf-b8bc-b943c866fc80",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Plane That Circled Mississippi Threatening To Crash Has Landed"
-    },
     "3bc5cbb9-6de3-4902-9da0-a3480117069f": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -4933,6 +4912,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Should You Freeze-Dry Your Breast Milk?"
+    },
+    "713a6ee5-140b-42bf-b8bc-b943c866fc80": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "713a6ee5-140b-42bf-b8bc-b943c866fc80",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Plane That Circled Mississippi Threatening To Crash Has Landed"
     },
     "02e001a5-5636-4bef-bdd2-7585049d8645": {
         "annotation": {
@@ -4955,7 +4955,7 @@
         "startChar": 0,
         "text": "NASA Aims For Saturday Launch Of New Moon Rocket After Fixing Fuel Leaks"
     },
-    "5862c450-8c9b-48c3-aab6-219b52fafcc9": {
+    "85363252-eb88-4a4c-8e6f-b9fea249fea3": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -4971,10 +4971,10 @@
             }
         ],
         "endChar": 0,
-        "id": "5862c450-8c9b-48c3-aab6-219b52fafcc9",
+        "id": "85363252-eb88-4a4c-8e6f-b9fea249fea3",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "'Saturday Night Live's' 'Fox & Friends' Skewers A Wacky Coup-Confessing 'Donald Trump'"
+        "text": "Tatum's Layup At Buzzer Gives Celtics 115-114 Win Over Nets"
     },
     "eeefbc92-b1b0-4e68-bc18-31b33e8746f9": {
         "annotation": {
@@ -5018,7 +5018,7 @@
         "startChar": 0,
         "text": "Ryan Gosling Gets Ken-ified In First Look At Bleach Blond 'Barbie' Transformation"
     },
-    "85363252-eb88-4a4c-8e6f-b9fea249fea3": {
+    "5862c450-8c9b-48c3-aab6-219b52fafcc9": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -5034,10 +5034,10 @@
             }
         ],
         "endChar": 0,
-        "id": "85363252-eb88-4a4c-8e6f-b9fea249fea3",
+        "id": "5862c450-8c9b-48c3-aab6-219b52fafcc9",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Tatum's Layup At Buzzer Gives Celtics 115-114 Win Over Nets"
+        "text": "'Saturday Night Live's' 'Fox & Friends' Skewers A Wacky Coup-Confessing 'Donald Trump'"
     },
     "5f8acfba-98c7-4ad2-976a-da27be00e138": {
         "annotation": {
@@ -7226,15 +7226,15 @@
     "6a3a7734-0490-445a-b684-0e7c040082c2": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "POSITIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "POSITIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -14132,27 +14132,6 @@
         "startChar": 0,
         "text": "Trans Woman Can't Be Considered Parent Of Her Own Child, Rules Tokyo Court"
     },
-    "6b7053fd-a953-42cd-a7c0-078b6879739e": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "6b7053fd-a953-42cd-a7c0-078b6879739e",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Pope Makes Easter Plea For Ukraine Peace, Cites Nuclear Risk"
-    },
     "bdb9d839-0020-4691-8791-8f53f312e75b": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -14173,6 +14152,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Closing Arguments Set In 'Cowboys For Trump' Founder Jan. 6 Trial"
+    },
+    "6b7053fd-a953-42cd-a7c0-078b6879739e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "6b7053fd-a953-42cd-a7c0-078b6879739e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Pope Makes Easter Plea For Ukraine Peace, Cites Nuclear Risk"
     },
     "957fb237-7140-481d-9451-130f9ad9dfa4": {
         "annotation": {
@@ -14765,15 +14765,15 @@
     "b266d9ef-e73e-41e1-bbce-d1a4b14ce23e": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -14787,14 +14787,14 @@
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
                 "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -15539,27 +15539,6 @@
         "startChar": 0,
         "text": "10 Foods You Should Never Cook On A Grill, According To Experts"
     },
-    "7135a45d-2608-4e1e-ba1e-b2ffbed7efff": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "7135a45d-2608-4e1e-ba1e-b2ffbed7efff",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Why Biden Is Giving Gun Control Negotiators ‘Some Space’"
-    },
     "1e70863c-1254-4b12-a985-2ca6b29e95bc": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -15580,6 +15559,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Southwest Fire Crews Brace For Return Of Dangerous Winds"
+    },
+    "7135a45d-2608-4e1e-ba1e-b2ffbed7efff": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "7135a45d-2608-4e1e-ba1e-b2ffbed7efff",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Why Biden Is Giving Gun Control Negotiators ‘Some Space’"
     },
     "9db8460b-f170-4156-bbb2-23f0a4e45605": {
         "annotation": {
@@ -17933,27 +17933,6 @@
         "startChar": 0,
         "text": "The Funniest Tweets From Parents This Week (June 25-July 1)"
     },
-    "b3f17bff-a382-4353-ac6b-8ba9aada4c39": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "b3f17bff-a382-4353-ac6b-8ba9aada4c39",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Top Putin Flack Sergey Lavrov Praises Fox News"
-    },
     "c59203a1-e067-451d-b10d-ad8e46a5c6b0": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -17974,6 +17953,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Seth Meyers Spots ‘Desperate’ Moment That Indicates The State Of Truth Social"
+    },
+    "b3f17bff-a382-4353-ac6b-8ba9aada4c39": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b3f17bff-a382-4353-ac6b-8ba9aada4c39",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Top Putin Flack Sergey Lavrov Praises Fox News"
     },
     "7fba1d2d-ae9e-4986-a209-76be0711ea64": {
         "annotation": {
@@ -18752,27 +18752,6 @@
         "startChar": 0,
         "text": "'Will Smith' Super Fans Scared Witless At Oscars After Slap In 'SNL' Sketch"
     },
-    "1d226023-2d0c-4f2e-b6d3-7b371508dde0": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "1d226023-2d0c-4f2e-b6d3-7b371508dde0",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "‘Fox & Friends’ Host Questions Why Trump Kept Classified Documents At Mar-A-Lago"
-    },
     "5f07ca70-64d3-4ee8-99b8-f564ae09c830": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -18793,6 +18772,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Ukraine Documents Alleged Atrocities By Retreating Russians"
+    },
+    "1d226023-2d0c-4f2e-b6d3-7b371508dde0": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "1d226023-2d0c-4f2e-b6d3-7b371508dde0",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "‘Fox & Friends’ Host Questions Why Trump Kept Classified Documents At Mar-A-Lago"
     },
     "ebc46319-7344-483f-8111-305bb27afc6f": {
         "annotation": {

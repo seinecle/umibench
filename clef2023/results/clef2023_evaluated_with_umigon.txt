@@ -20,7 +20,7 @@
         "startChar": 0,
         "text": "Was it a myth?"
     },
-    "b938e7a8-3ee2-4aff-824f-5e33b72c8f5a": {
+    "1582b80b-cab6-4b4b-b67f-000b4f276709": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -36,10 +36,10 @@
             }
         ],
         "endChar": 0,
-        "id": "b938e7a8-3ee2-4aff-824f-5e33b72c8f5a",
+        "id": "1582b80b-cab6-4b4b-b67f-000b4f276709",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "As a result, monetary easing did not translate into a big expansion of credit."
+        "text": "To the contrary, as we have seen, it must extend itself to meet new responsibilities."
     },
     "c7cc5770-dece-4579-a479-fa7409f8bc0a": {
         "annotation": {
@@ -62,7 +62,7 @@
         "startChar": 0,
         "text": "But this week, BF.7 surpassed it."
     },
-    "1582b80b-cab6-4b4b-b67f-000b4f276709": {
+    "b938e7a8-3ee2-4aff-824f-5e33b72c8f5a": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -78,10 +78,10 @@
             }
         ],
         "endChar": 0,
-        "id": "1582b80b-cab6-4b4b-b67f-000b4f276709",
+        "id": "b938e7a8-3ee2-4aff-824f-5e33b72c8f5a",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "To the contrary, as we have seen, it must extend itself to meet new responsibilities."
+        "text": "As a result, monetary easing did not translate into a big expansion of credit."
     },
     "0ae36317-c616-412e-bc69-a7aede5b5c87": {
         "annotation": {
@@ -1007,27 +1007,6 @@
         "startChar": 0,
         "text": "Wing likes that “Karen” moniker, which became popular in the early COVID-19 days referring to a certain type of self-righteous busybody."
     },
-    "cfc26110-2ffb-4310-bbe2-9ff5cd865429": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "cfc26110-2ffb-4310-bbe2-9ff5cd865429",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "By limiting the focus of corporate boards to shareholders’ financial interests alone, corporate law intended to confine the sphere of influence of corporations as a means of protecting democracy and other civic institutions from corporate overreach—just as society confers certain legal advantages to non-profit corporations in return for confining their activities to the sphere of charitable causes."
-    },
     "462353c2-8989-4baa-93df-ddf1ef5161bf": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -1048,6 +1027,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "According to the Twin Cities Pioneer Press, S&S Catering led by Qamar Ahmed Hassan received $13.8 million in federal funds."
+    },
+    "cfc26110-2ffb-4310-bbe2-9ff5cd865429": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "cfc26110-2ffb-4310-bbe2-9ff5cd865429",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "By limiting the focus of corporate boards to shareholders’ financial interests alone, corporate law intended to confine the sphere of influence of corporations as a means of protecting democracy and other civic institutions from corporate overreach—just as society confers certain legal advantages to non-profit corporations in return for confining their activities to the sphere of charitable causes."
     },
     "77030ace-4a11-450a-9492-ce4a2be1d028": {
         "annotation": {
@@ -1913,15 +1913,15 @@
     "923b5c62-4d87-43c2-a2d8-cd9be35cd084": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -2712,14 +2712,14 @@
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
                 "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -3824,15 +3824,15 @@
     "cfebca6b-2658-4c9a-9058-d6e198448c21": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -4244,15 +4244,15 @@
     "0e67c312-1288-4300-991f-d93ccca01ba1": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -4850,27 +4850,6 @@
         "startChar": 0,
         "text": "The agreement still needs to be ratified by members, a process that will play out over the next few weeks."
     },
-    "6959f024-2f3e-4a07-8a05-9cc249456c7c": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "6959f024-2f3e-4a07-8a05-9cc249456c7c",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Scotland, too, has now joined the ranks of nations intervening in the private rented sector, announcing a rent freeze and moratorium on evictions, due to run through March 2023."
-    },
     "668f4900-d34f-48f9-b8dc-d64944b4b8bb": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -4891,6 +4870,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Over the last week, the US has been jolted into reckoning with the profound implications of a national freight railroad worker strike."
+    },
+    "6959f024-2f3e-4a07-8a05-9cc249456c7c": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "6959f024-2f3e-4a07-8a05-9cc249456c7c",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Scotland, too, has now joined the ranks of nations intervening in the private rented sector, announcing a rent freeze and moratorium on evictions, due to run through March 2023."
     },
     "827fb861-5a2f-4879-b20a-b06987f6c5d0": {
         "annotation": {
@@ -5207,7 +5207,7 @@
         "startChar": 0,
         "text": "(It’s also true that Alien Nation was “a masterpiece of precision,” but that’s by the way.)"
     },
-    "2b64f296-43fa-4ba0-94ae-5df56a9dc71a": {
+    "53108499-6a97-4270-a3e1-03746862706a": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -5223,10 +5223,10 @@
             }
         ],
         "endChar": 0,
-        "id": "2b64f296-43fa-4ba0-94ae-5df56a9dc71a",
+        "id": "53108499-6a97-4270-a3e1-03746862706a",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Many originate with educational, recreational and sociological enthusiasts … These enthusiasts usually start by stating that such and such neighboring city has a certain public service or improvement; therefore, we ought to have it."
+        "text": "The government favors them naturally—”the most feathers for the least squawk.” And those radical forces, who may have nothing else in common with this government, favor them on the ground of doctrine."
     },
     "8ab997bd-c6d4-43a5-b1f6-21ae541ff3be": {
         "annotation": {
@@ -5249,7 +5249,7 @@
         "startChar": 0,
         "text": "“Our reference was to states that provide or have improved attorney licenses for immigrant populations, such as DACA recipients, legal immigrants and/or unauthorized immigrants,” Massey said by email."
     },
-    "53108499-6a97-4270-a3e1-03746862706a": {
+    "2b64f296-43fa-4ba0-94ae-5df56a9dc71a": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -5265,10 +5265,10 @@
             }
         ],
         "endChar": 0,
-        "id": "53108499-6a97-4270-a3e1-03746862706a",
+        "id": "2b64f296-43fa-4ba0-94ae-5df56a9dc71a",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "The government favors them naturally—”the most feathers for the least squawk.” And those radical forces, who may have nothing else in common with this government, favor them on the ground of doctrine."
+        "text": "Many originate with educational, recreational and sociological enthusiasts … These enthusiasts usually start by stating that such and such neighboring city has a certain public service or improvement; therefore, we ought to have it."
     },
     "17a12ae5-94e0-4406-9835-2ce4bbd1845e": {
         "annotation": {
@@ -6530,27 +6530,6 @@
         "startChar": 0,
         "text": "Two and a half years into a disaster-ridden Parliament, however, ‘Levelling-Up’ remains a slogan-policy, beyond a small pot of money which seemed heavily skewed towards Tory and marginal constituencies."
     },
-    "9469f505-5265-4b69-a783-f20176d622f2": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "9469f505-5265-4b69-a783-f20176d622f2",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Earlier: Ariz. GOP Senate Candidate Blake Masters Appears To Be Running As An Immigration Patriot"
-    },
     "473f93cb-8900-4a75-8e94-156d767f11fe": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -6571,6 +6550,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Nearly half of teachers polled in March say they intend to quit, and a recent survey of principals and school district leaders found that 72 percent did not have enough applications for open teaching positions."
+    },
+    "9469f505-5265-4b69-a783-f20176d622f2": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "9469f505-5265-4b69-a783-f20176d622f2",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Earlier: Ariz. GOP Senate Candidate Blake Masters Appears To Be Running As An Immigration Patriot"
     },
     "85fb8801-5f21-45f3-af2e-3fffa073dcdf": {
         "annotation": {
@@ -7139,27 +7139,6 @@
         "startChar": 0,
         "text": "\"My favorite: Mr. Roberts's throw-away line that housework (\"\"or homemaking, as it is now known\"\") is \"\"as demanding a job as any outside the home.\"\"\""
     },
-    "dfa90669-ed82-482d-a471-236228cf2864": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "dfa90669-ed82-482d-a471-236228cf2864",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Such a boss as this now commands the support, first, of all the beneficiaries of social service; secondly, of all who promote and live by social service; thirdly, of those whose doctrine is to take and give; and he has still his machine as it was before."
-    },
     "df97329f-4e1b-4a55-9dcc-5e3c0d26c6cc": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -7180,6 +7159,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Therefore, taxes must be increased, first in order to provide as much public revenue as before, and then further increased to provide more revenue than before."
+    },
+    "dfa90669-ed82-482d-a471-236228cf2864": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "dfa90669-ed82-482d-a471-236228cf2864",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Such a boss as this now commands the support, first, of all the beneficiaries of social service; secondly, of all who promote and live by social service; thirdly, of those whose doctrine is to take and give; and he has still his machine as it was before."
     },
     "8b6116a9-b844-4219-a45d-178528cf6e53": {
         "annotation": {
@@ -7205,15 +7205,15 @@
     "c7b74720-b489-4cb2-af8a-adb6b91a08a4": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -7331,15 +7331,15 @@
     "69bb1e3e-f570-42af-ba80-8ca842107677": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -7667,15 +7667,15 @@
     "55afdcb9-4f47-40b4-b1ca-7010701712e3": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "POSITIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "POSITIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -8423,15 +8423,15 @@
     "9a0f5eec-cc36-49b8-88eb-20ad2c056eaa": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -8444,15 +8444,15 @@
     "8f14010b-fff9-4964-9020-77b81ca75195": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -8525,27 +8525,6 @@
         "startChar": 0,
         "text": "China’s rulers seem resigned to a slowing economy"
     },
-    "fd5d7ef6-f7db-4421-9295-0497cabc3cd1": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "fd5d7ef6-f7db-4421-9295-0497cabc3cd1",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "As recent events revealed, a strike of even just some of a relatively small number (115,000) of rail workers could completely upend the economy and provoke a political crisis."
-    },
     "4d21c9ea-27f0-473b-85c0-f130f3cd2e72": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -8566,6 +8545,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "The union also managed to win no increases to health care co-pays and deductibles, a key sticking point that was underreported in the media."
+    },
+    "fd5d7ef6-f7db-4421-9295-0497cabc3cd1": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "fd5d7ef6-f7db-4421-9295-0497cabc3cd1",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "As recent events revealed, a strike of even just some of a relatively small number (115,000) of rail workers could completely upend the economy and provoke a political crisis."
     },
     "d6f86762-1cdd-44d4-9646-77a5b1c54267": {
         "annotation": {
@@ -8924,27 +8924,6 @@
         "startChar": 0,
         "text": "[JF: I wrote in March 2020 that “A number of immigrant-borne diseases have struck American since then, and it's always considered racist to mention it.”"
     },
-    "03f131a1-518f-422e-a6c8-6e1a26d9c167": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "03f131a1-518f-422e-a6c8-6e1a26d9c167",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "No similar edification can be derived from Who We Are: A Portrait of America Based on the Latest U.S. Census, by Sam Roberts, an urban-affairs reporter at the New York Times."
-    },
     "ea204790-7e36-43b4-9848-0155df97a54b": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -8965,6 +8944,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "The present Reconstruction Finance Corporation is a revival of that power in time of peace."
+    },
+    "03f131a1-518f-422e-a6c8-6e1a26d9c167": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "03f131a1-518f-422e-a6c8-6e1a26d9c167",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "No similar edification can be derived from Who We Are: A Portrait of America Based on the Latest U.S. Census, by Sam Roberts, an urban-affairs reporter at the New York Times."
     },
     "75e5d4e1-c2ac-4544-a1ed-2753855fafe0": {
         "annotation": {
@@ -9407,27 +9407,6 @@
         "startChar": 0,
         "text": "The study backs up months of work, research, and data collection from ruling classes conducted by the team at The Expose."
     },
-    "bb3f5b4e-e145-42fb-95a1-bb9d1648fea6": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "bb3f5b4e-e145-42fb-95a1-bb9d1648fea6",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "“Normally, the majority opinion would speak for itself.”  The decision is “really about policy—our state has values of inclusion and diversity.”  The ruling is based “on policy, which is the definition of judicial activism."
-    },
     "d1264074-9bfb-45e4-b8f8-3e2ecd91ec2e": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -9448,6 +9427,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Most of the commitments the government has made seem to have started with a slogan, with the policy reverse engineered from there."
+    },
+    "bb3f5b4e-e145-42fb-95a1-bb9d1648fea6": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "bb3f5b4e-e145-42fb-95a1-bb9d1648fea6",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "“Normally, the majority opinion would speak for itself.”  The decision is “really about policy—our state has values of inclusion and diversity.”  The ruling is based “on policy, which is the definition of judicial activism."
     },
     "859e3d91-22d6-4fd2-bc96-e63c7d29ad6c": {
         "annotation": {
@@ -9638,27 +9638,6 @@
         "startChar": 0,
         "text": "It’s a kind of brainwashing."
     },
-    "c84a41ab-86c3-4294-8c0d-c670906d788d": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "c84a41ab-86c3-4294-8c0d-c670906d788d",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "This always reminds me of something I read in Patrick O’Brian’s book Desolation Island, set at the time of the War of 1812, where the British spymaster compares an American woman spy to Aphra Behn, who had lived several generations before."
-    },
     "c4563a97-e2a5-49d0-b17a-4c021086c902": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -9679,6 +9658,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Citizens, not corporate chiefs, should tackle social issues, says the entrepreneur and author"
+    },
+    "c84a41ab-86c3-4294-8c0d-c670906d788d": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c84a41ab-86c3-4294-8c0d-c670906d788d",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "This always reminds me of something I read in Patrick O’Brian’s book Desolation Island, set at the time of the War of 1812, where the British spymaster compares an American woman spy to Aphra Behn, who had lived several generations before."
     },
     "b426d4ce-98f5-47ad-bcd1-8d45e21a3c50": {
         "annotation": {
@@ -9725,15 +9725,15 @@
     "85622c2f-5d16-4b34-a129-352b88467fa3": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -10565,15 +10565,15 @@
     "8444cf93-85c4-49c1-ae90-a2ab46e2d1e2": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "POSITIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "POSITIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -10586,15 +10586,15 @@
     "e8b0e492-a46d-4c4f-9236-10c793612078": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "POSITIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "POSITIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -11237,15 +11237,15 @@
     "099ebe96-a98c-4e5c-b9ad-723f19ab434c": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -11780,27 +11780,6 @@
         "startChar": 0,
         "text": "Why, then, is China not withstanding this year’s slowdown as it did in the past?"
     },
-    "41622bdf-cdc2-4d10-b3f3-fdb6a1af9c94": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "41622bdf-cdc2-4d10-b3f3-fdb6a1af9c94",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "This is what the world’s most influential proponent of stakeholder capitalism, BlackRock’s chief executive Larry Fink, meant when he proclaimed that “companies need to earn their social license to operate every day.” This is a respectable view."
-    },
     "b3a27024-066f-4f6e-bcef-7ac239f61752": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -11821,6 +11800,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Of course not."
+    },
+    "41622bdf-cdc2-4d10-b3f3-fdb6a1af9c94": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "41622bdf-cdc2-4d10-b3f3-fdb6a1af9c94",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "This is what the world’s most influential proponent of stakeholder capitalism, BlackRock’s chief executive Larry Fink, meant when he proclaimed that “companies need to earn their social license to operate every day.” This is a respectable view."
     },
     "bdff1e1f-6c73-45b3-8467-121ecd85fde4": {
         "annotation": {
@@ -12263,27 +12263,6 @@
         "startChar": 0,
         "text": "It is superficial wherein it aims only to abate a very acute pain in the taxpayer’s pocket, and if anyone supposes that reducing the cost of government by economy and greater efficiency will limit government itself, it is elusive at the crucial point."
     },
-    "2d3841fd-c2b4-4ba9-b857-d76bc4aefc21": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "2d3841fd-c2b4-4ba9-b857-d76bc4aefc21",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "“Most patients with intact immune systems really need supportive care and pain control, but often do not need to be stepped up to antiviral treatment,” the Centers for Disease Control and Prevention’s Dr. Sapna Bamrah Morris said over the weekend, in a webinar hosted by the Infectious Diseases Society of America."
-    },
     "40862159-6337-4c20-8a72-00d7fe4ca00f": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -12304,6 +12283,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Meanwhile, social justice warrior Jazmin Irazoqui-Ruiz of the New Mexico Immigrant Law Center told the Las Cruces Sun News that she was thrilled at the new rules."
+    },
+    "2d3841fd-c2b4-4ba9-b857-d76bc4aefc21": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "2d3841fd-c2b4-4ba9-b857-d76bc4aefc21",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "“Most patients with intact immune systems really need supportive care and pain control, but often do not need to be stepped up to antiviral treatment,” the Centers for Disease Control and Prevention’s Dr. Sapna Bamrah Morris said over the weekend, in a webinar hosted by the Infectious Diseases Society of America."
     },
     "e6bbdf4a-65eb-40f2-9c58-997ee5c6f7cd": {
         "annotation": {
@@ -12641,7 +12641,7 @@
         "startChar": 0,
         "text": "Anyone sticking their head above the parapet and claiming they know where the world will be in 12-36 months is sticking their finger in the air."
     },
-    "f5bbd316-8952-4603-8982-ab3154bd598c": {
+    "41de42f3-62a2-49b9-a9ff-c20fa8013df9": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -12657,10 +12657,10 @@
             }
         ],
         "endChar": 0,
-        "id": "f5bbd316-8952-4603-8982-ab3154bd598c",
+        "id": "41de42f3-62a2-49b9-a9ff-c20fa8013df9",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Nonetheless I believe it falls short for legal and historical reasons that I lay out in “Woke, Inc”, my book published last year."
+        "text": "And it follows by necessity that certain functions of government are assumed, as, for example, the wisdom to know when a crisis is such a crisis, to know when liquidation has gone far enough, when prices are too low, when they are high enough again, how many bank failures constitute a crisis in banking, how many railroad failures constitute a crisis in railroad credit, and so on."
     },
     "9500cf54-b280-4b40-8277-666fe0c1e693": {
         "annotation": {
@@ -12683,7 +12683,7 @@
         "startChar": 0,
         "text": "“This [cancellation] shows the necessity of hosting EuroPride in Belgrade,” Mihailović said."
     },
-    "41de42f3-62a2-49b9-a9ff-c20fa8013df9": {
+    "f5bbd316-8952-4603-8982-ab3154bd598c": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -12699,10 +12699,10 @@
             }
         ],
         "endChar": 0,
-        "id": "41de42f3-62a2-49b9-a9ff-c20fa8013df9",
+        "id": "f5bbd316-8952-4603-8982-ab3154bd598c",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "And it follows by necessity that certain functions of government are assumed, as, for example, the wisdom to know when a crisis is such a crisis, to know when liquidation has gone far enough, when prices are too low, when they are high enough again, how many bank failures constitute a crisis in banking, how many railroad failures constitute a crisis in railroad credit, and so on."
+        "text": "Nonetheless I believe it falls short for legal and historical reasons that I lay out in “Woke, Inc”, my book published last year."
     },
     "7760dfb5-ef01-4246-ba16-0d9ac0574e58": {
         "annotation": {
@@ -12896,15 +12896,15 @@
     "bf1aca07-1d16-4e06-81a1-d2c3e3abd6d1": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -13607,7 +13607,7 @@
         "startChar": 0,
         "text": "He added he wouldn’t be surprised to see a new variant altogether this fall."
     },
-    "bc0dc338-6b62-4b5b-893c-1379b187758b": {
+    "a27a99cb-1a03-424c-b30b-3d53187e4841": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -13623,10 +13623,10 @@
             }
         ],
         "endChar": 0,
-        "id": "bc0dc338-6b62-4b5b-893c-1379b187758b",
+        "id": "a27a99cb-1a03-424c-b30b-3d53187e4841",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "“Next year we won’t have the visibility that we have this year."
+        "text": "\"According to Gelbaum himself: \"\"I did tell [Sierra Club Executive Director] Carl Pope in 1994 or 1995 that if they ever came out anti-immigration, they would never get a dollar from me\"\" [The Man Behind the Land by Kenneth R. Weiss, LA Times, October 17, 2004].\""
     },
     "95bb5ed6-49b7-4e72-9b57-c9a7746e59cb": {
         "annotation": {
@@ -13649,7 +13649,7 @@
         "startChar": 0,
         "text": "Rail workers have no sick days and a very limited amount of paid time off, making the job increasingly unsustainable for any kind of family life."
     },
-    "a27a99cb-1a03-424c-b30b-3d53187e4841": {
+    "bc0dc338-6b62-4b5b-893c-1379b187758b": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -13665,10 +13665,10 @@
             }
         ],
         "endChar": 0,
-        "id": "a27a99cb-1a03-424c-b30b-3d53187e4841",
+        "id": "bc0dc338-6b62-4b5b-893c-1379b187758b",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "\"According to Gelbaum himself: \"\"I did tell [Sierra Club Executive Director] Carl Pope in 1994 or 1995 that if they ever came out anti-immigration, they would never get a dollar from me\"\" [The Man Behind the Land by Kenneth R. Weiss, LA Times, October 17, 2004].\""
+        "text": "“Next year we won’t have the visibility that we have this year."
     },
     "2fc93ca9-4ae7-458b-ae31-cd886a2346de": {
         "annotation": {
@@ -13922,27 +13922,6 @@
         "startChar": 0,
         "text": "Importantly, this development is happening both among unionised workers and unorganised workers forming unions."
     },
-    "acd800d4-26ac-4892-94c0-d32068dc81e9": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "POSITIVE",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "POSITIVE",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "acd800d4-26ac-4892-94c0-d32068dc81e9",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "A great deal of that admirable work was not paid for; the people could not afford to pay for it."
-    },
     "adc7a5b9-dfe0-4350-9ade-aa70347912ec": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -13963,6 +13942,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "We take that for granted."
+    },
+    "acd800d4-26ac-4892-94c0-d32068dc81e9": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "acd800d4-26ac-4892-94c0-d32068dc81e9",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "A great deal of that admirable work was not paid for; the people could not afford to pay for it."
     },
     "270acb32-71eb-4e5b-aef1-bc5b92f8f578": {
         "annotation": {
@@ -14090,7 +14090,7 @@
         "startChar": 0,
         "text": "But that is both less than many analysts expected and less than required."
     },
-    "eed16232-f28d-485c-b7cd-6a7db77ab473": {
+    "7a0b1474-73a4-416f-b166-9aac7f42759d": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -14106,10 +14106,10 @@
             }
         ],
         "endChar": 0,
-        "id": "eed16232-f28d-485c-b7cd-6a7db77ab473",
+        "id": "7a0b1474-73a4-416f-b166-9aac7f42759d",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "That is far below the official target of 5.5%."
+        "text": "The former president has faced many legal struggles, including his Mar-a-Lago property being searched by the FBI and his involvement in the Jan. 6 insurrection being investigated by a House select committee."
     },
     "ff992b26-b05a-4e9c-9e38-572d0afc18dc": {
         "annotation": {
@@ -14132,7 +14132,7 @@
         "startChar": 0,
         "text": "So, I dunno…"
     },
-    "7a0b1474-73a4-416f-b166-9aac7f42759d": {
+    "eed16232-f28d-485c-b7cd-6a7db77ab473": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -14148,10 +14148,10 @@
             }
         ],
         "endChar": 0,
-        "id": "7a0b1474-73a4-416f-b166-9aac7f42759d",
+        "id": "eed16232-f28d-485c-b7cd-6a7db77ab473",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "The former president has faced many legal struggles, including his Mar-a-Lago property being searched by the FBI and his involvement in the Jan. 6 insurrection being investigated by a House select committee."
+        "text": "That is far below the official target of 5.5%."
     },
     "4acf63b3-144b-4abc-aae3-204deb103771": {
         "annotation": {
@@ -14174,27 +14174,6 @@
         "startChar": 0,
         "text": "The Left deliberately obscures the distinction between illegal aliens and people who immigrated lawfully to the United States."
     },
-    "f6ff1cc3-5d6f-4c5a-a0b4-1671c74071e6": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "f6ff1cc3-5d6f-4c5a-a0b4-1671c74071e6",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "It may be that we are done with the anarchy of prices which we have so long justified by supposing a law of supply and demand."
-    },
     "adbef331-e70a-496e-aaeb-cc029005edc4": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -14215,6 +14194,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "It is part of the leftist war not only on American values but on the English language."
+    },
+    "f6ff1cc3-5d6f-4c5a-a0b4-1671c74071e6": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "f6ff1cc3-5d6f-4c5a-a0b4-1671c74071e6",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "It may be that we are done with the anarchy of prices which we have so long justified by supposing a law of supply and demand."
     },
     "18e3be48-c10a-43b3-b750-e89b356cff97": {
         "annotation": {
@@ -14534,15 +14534,15 @@
     "f9235b9f-1e38-4706-8c1d-83e44dda3d9d": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "POSITIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "POSITIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -15542,15 +15542,15 @@
     "13e3b6c4-d137-4f5e-ad68-adb4cae81fbe": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -15626,15 +15626,15 @@
     "19470b2e-7945-4840-bd01-e85efd8580a3": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -15980,27 +15980,6 @@
         "startChar": 0,
         "text": "And they really don’t like complaints about President Biden’s crass promise that his first nominee for the U.S. Supreme Court must be a black woman, especially embarrassing because Affirmative Action is now on SCOTUS’ docket."
     },
-    "26ec47a7-49c4-42dc-b46a-97c002967175": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "26ec47a7-49c4-42dc-b46a-97c002967175",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Now suppose that under stress of abnormal public revenue the structure of government is somewhat rationalized and that by such means as economy and efficiency the cost of government by measure is much reduced."
-    },
     "036ef309-9e30-4741-b8e0-071eb8d0ffc4": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -16021,6 +16000,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "The etymology of ‘Levelling up’ is one of distinguishing properly neoliberal approaches from ‘socialist’ ones, by use of the extended phrase ‘Levelling up, not levelling down’ (for example, by David Blunkett and Theresa May) for a particular policy intervention."
+    },
+    "26ec47a7-49c4-42dc-b46a-97c002967175": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "26ec47a7-49c4-42dc-b46a-97c002967175",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Now suppose that under stress of abnormal public revenue the structure of government is somewhat rationalized and that by such means as economy and efficiency the cost of government by measure is much reduced."
     },
     "188b82f8-df67-4806-a4f3-8507b6ca495a": {
         "annotation": {
@@ -16568,27 +16568,6 @@
         "startChar": 0,
         "text": "Very, very racist."
     },
-    "95620f5c-24e9-4d04-9db3-09976f61bed8": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "95620f5c-24e9-4d04-9db3-09976f61bed8",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Yet the evening TV political talk shows, whose hosts seem to compete to be more strident and xenophobic than the next, took a very different tack."
-    },
     "843e214f-9632-4357-a9dd-38512cdd30f5": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -16609,6 +16588,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "“Cities have assumed new obligations,” writes Lent Upson, director of the Detroit Bureau of Governmental Research."
+    },
+    "95620f5c-24e9-4d04-9db3-09976f61bed8": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "95620f5c-24e9-4d04-9db3-09976f61bed8",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Yet the evening TV political talk shows, whose hosts seem to compete to be more strident and xenophobic than the next, took a very different tack."
     },
     "8a91c111-727f-49d4-a121-9eeee098a84b": {
         "annotation": {
@@ -18227,27 +18227,6 @@
         "startChar": 0,
         "text": "Where Denmark, Portugal, and France respectively are capping private rent increases at 4, 2, and 3.5%, the UK government thus far has only commented on increases in the social rented sector—and here, they are proposing a 5% increase as their preferred solution."
     },
-    "dc1632c5-46ff-4adb-acc8-6e4b56dc0d11": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "dc1632c5-46ff-4adb-acc8-6e4b56dc0d11",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "China’s gdp in 2023 could be more than $2trn below the level forecast in January, reckons Goldman Sachs, another bank."
-    },
     "960320c3-2981-4220-86fd-037d83de1533": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -18268,6 +18247,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Here are their findings:  Chart A shows that the effectiveness of the Covid-19 injection against infection fell below zero by April 2022 among children vaccinated in November 2021."
+    },
+    "dc1632c5-46ff-4adb-acc8-6e4b56dc0d11": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "dc1632c5-46ff-4adb-acc8-6e4b56dc0d11",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "China’s gdp in 2023 could be more than $2trn below the level forecast in January, reckons Goldman Sachs, another bank."
     },
     "1d9b5e76-0eb8-481b-9fad-7c00ab5d49f2": {
         "annotation": {
@@ -18878,27 +18878,6 @@
         "startChar": 0,
         "text": "A November poll found that nearly half of American voters want the CRT anti-white curricula banned."
     },
-    "c89c2e91-570e-41f1-bffe-c5897702075d": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "c89c2e91-570e-41f1-bffe-c5897702075d",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Moreover, these forces are thoughtless."
-    },
     "29e8e767-41d8-4747-81d3-58be8f096416": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -18919,6 +18898,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "If truly it could be overcome by the use of public credit, no objection on the ground of precedent or political theory would long prevail."
+    },
+    "c89c2e91-570e-41f1-bffe-c5897702075d": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c89c2e91-570e-41f1-bffe-c5897702075d",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Moreover, these forces are thoughtless."
     },
     "336f681e-e110-4dd2-b627-27aff9af8988": {
         "annotation": {
@@ -18983,27 +18983,6 @@
         "startChar": 0,
         "text": "Though some journalists with knowledge of the rail industry or the labour movement have been sounding the alarm for months, the last few days have seen mainstream media outlets publish increasingly frantic articles about the potential for a strike."
     },
-    "84ac387e-d7c7-4cb5-b82d-8a07a2869ce4": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "84ac387e-d7c7-4cb5-b82d-8a07a2869ce4",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "–The Exposé  The real problem is that the New England Journal of Medicine Study and real-world data have proven that the vaccinated population’s immune systems are not returning to the natural state seen among most of the unvaccinated population."
-    },
     "6751566d-fc18-45e9-941a-b778beb79062": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -19024,6 +19003,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "The central mechanism of this process is the introduction of ‘national development management policies’ (NDMPs) which would override some of the policies made by local councils that lead their decision-making on particular sites, the most controversial of which are subject to public debate and deliberation (however limited)."
+    },
+    "84ac387e-d7c7-4cb5-b82d-8a07a2869ce4": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "84ac387e-d7c7-4cb5-b82d-8a07a2869ce4",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "–The Exposé  The real problem is that the New England Journal of Medicine Study and real-world data have proven that the vaccinated population’s immune systems are not returning to the natural state seen among most of the unvaccinated population."
     },
     "5f5db356-28bb-4c5e-993b-6cd576b35100": {
         "annotation": {
@@ -19424,27 +19424,6 @@
         "startChar": 0,
         "text": "That’s because the Sierra Club was bribed by a globalist billionaire named David Gelbaum who gave $100 million dollars to the organization, and used that leverage to stop them backing patriotic and ecologically beneficial immigration policies."
     },
-    "df1c5aba-a52a-44a5-b8ad-6a9f28ae476f": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "df1c5aba-a52a-44a5-b8ad-6a9f28ae476f",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "“Absolutely not."
-    },
     "e637e951-f3dd-47c6-be4f-b1453e3ed386": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -19465,6 +19444,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Local governments are under pressure to keep a lid on infections; a preoccupation that would distract them from an all-out effort to boost public investment, even if the financing were available."
+    },
+    "df1c5aba-a52a-44a5-b8ad-6a9f28ae476f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "df1c5aba-a52a-44a5-b8ad-6a9f28ae476f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "“Absolutely not."
     },
     "92a96c0a-7275-4818-9204-3308aa54c7be": {
         "annotation": {
@@ -20117,27 +20117,6 @@
         "startChar": 0,
         "text": "While BA.4.6 is similar to BA.4 in many ways, it carries a mutation to the spike protein, a protein on the surface of the virus which allows it to enter our cells."
     },
-    "534400f6-3a94-4c84-8c0d-57127f013799": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "534400f6-3a94-4c84-8c0d-57127f013799",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Crying racism worked and at its peak, Safari claimed to be feeding 6,000 children a day."
-    },
     "0ed84600-627c-4901-af65-d1d1ffc18cf2": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -20158,6 +20137,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "During remote learning, some students' mental health deteriorated, causing many to act out when they returned to school."
+    },
+    "534400f6-3a94-4c84-8c0d-57127f013799": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "534400f6-3a94-4c84-8c0d-57127f013799",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Crying racism worked and at its peak, Safari claimed to be feeding 6,000 children a day."
     },
     "7aad39d4-003c-4fb1-b8f1-a0977578ab90": {
         "annotation": {
@@ -20726,48 +20726,6 @@
         "startChar": 0,
         "text": "The pan-European festival had opened in the Serbian capital on Monday, with organisers hopeful that it would serve as a measure of progress since 2001."
     },
-    "8049714c-9cfc-4ec5-bf8f-aebf9c41dbbf": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "8049714c-9cfc-4ec5-bf8f-aebf9c41dbbf",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Very little social service is really spontaneous, straight from the taxpayer’s heart."
-    },
-    "b0391982-3045-4447-96d3-e60024cdd491": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "b0391982-3045-4447-96d3-e60024cdd491",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "The Left aims to make the hordes of illegal aliens their various so-called immigration reforms have unleashed on their fellow Americans over the years seem normal and acceptable."
-    },
     "d4dd1edf-95f4-4730-b16d-26a7fd543ea5": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -20788,6 +20746,48 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "They may have dropped the ‘levelling down’ part of the phrase, but this etymology shows the real pre-occupation of the Tory Party: preventing the redistribution of their wealth ‘down’ to the public, the very redistribution required to invest across the UK."
+    },
+    "b0391982-3045-4447-96d3-e60024cdd491": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b0391982-3045-4447-96d3-e60024cdd491",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "The Left aims to make the hordes of illegal aliens their various so-called immigration reforms have unleashed on their fellow Americans over the years seem normal and acceptable."
+    },
+    "8049714c-9cfc-4ec5-bf8f-aebf9c41dbbf": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "8049714c-9cfc-4ec5-bf8f-aebf9c41dbbf",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Very little social service is really spontaneous, straight from the taxpayer’s heart."
     },
     "78cb4484-2683-422a-8340-074ba1efe456": {
         "annotation": {
@@ -20855,15 +20855,15 @@
     "36ecd6c8-6c66-400b-830b-46b97fd194fa": {
         "annotation": {
             "annotatedTextFragment": "",
-            "factuality": "SUBJ",
-            "sentiment": "NEGATIVE",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
             "speechSource": "NOT_SET"
         },
         "annotations": [
             {
                 "annotatedTextFragment": "",
-                "factuality": "SUBJ",
-                "sentiment": "NEGATIVE",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
                 "speechSource": "NOT_SET"
             }
         ],
@@ -20957,27 +20957,6 @@
         "startChar": 0,
         "text": "Would anyone be surprised?"
     },
-    "c06d89e9-bf9d-42bb-9ee9-ec62f0cb14ed": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "c06d89e9-bf9d-42bb-9ee9-ec62f0cb14ed",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Was she really advocating a nuclear first strike?"
-    },
     "9a6aa380-58c5-46e5-82e6-cb2d235031cd": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -20998,6 +20977,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "In 2011 the American Economic Review published an influential article entitled “Growing like China”."
+    },
+    "c06d89e9-bf9d-42bb-9ee9-ec62f0cb14ed": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c06d89e9-bf9d-42bb-9ee9-ec62f0cb14ed",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Was she really advocating a nuclear first strike?"
     },
     "47e92c1f-340f-4614-a284-48c2b54a2132": {
         "annotation": {
@@ -21545,7 +21545,7 @@
         "startChar": 0,
         "text": "They fret that Republicans are—gasp—embracing White Identity Politics."
     },
-    "d662fc8d-d412-44ce-b407-f6e617a07912": {
+    "99091e2e-e793-4c43-94c7-3c4bd3e7e97b": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -21561,10 +21561,10 @@
             }
         ],
         "endChar": 0,
-        "id": "d662fc8d-d412-44ce-b407-f6e617a07912",
+        "id": "99091e2e-e793-4c43-94c7-3c4bd3e7e97b",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Here is the intent only to show how unlike and differently motivated forces, economic, social and political, are tending together not only to swallow up the national income in government but also to produce a result which some intend and some do not."
+        "text": "These NDMPs, according to the draft bill, can be implemented at the Secretary of State’s whim."
     },
     "663fc973-4098-4353-ba8c-8ef46c369bb6": {
         "annotation": {
@@ -21587,7 +21587,7 @@
         "startChar": 0,
         "text": "Or an engineer?"
     },
-    "99091e2e-e793-4c43-94c7-3c4bd3e7e97b": {
+    "d662fc8d-d412-44ce-b407-f6e617a07912": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -21603,10 +21603,10 @@
             }
         ],
         "endChar": 0,
-        "id": "99091e2e-e793-4c43-94c7-3c4bd3e7e97b",
+        "id": "d662fc8d-d412-44ce-b407-f6e617a07912",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "These NDMPs, according to the draft bill, can be implemented at the Secretary of State’s whim."
+        "text": "Here is the intent only to show how unlike and differently motivated forces, economic, social and political, are tending together not only to swallow up the national income in government but also to produce a result which some intend and some do not."
     },
     "a1161d10-45e5-4cb0-b369-985804dda4d5": {
         "annotation": {

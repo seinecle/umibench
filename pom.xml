@@ -4,6 +4,7 @@
     <groupId>net.clementlevallois.umigon.eval</groupId>
     <artifactId>UmigonEvalAndComparaison</artifactId>
     <version>1.0</version>
+    <name>umibench</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>

@@ -60,11 +60,11 @@ public class F1 {
                 try {
                     String idOfDocument = entry.getKey();
                     AnnotatedDocument docWithPredictedLabel = entry.getValue();
-                    Factuality predictedLabel = docWithPredictedLabel.getAnnotation().get().getFactuality();
+                    Factuality predictedLabelFactuality = docWithPredictedLabel.getAnnotation().get().getFactuality();
 
                     AnnotatedDocument goldDoc = gold.get(idOfDocument);
-                    Factuality goldLabel = goldDoc.getAnnotation().get().getFactuality();
-                    switch (goldLabel) {
+                    Factuality goldLabelFactuality = goldDoc.getAnnotation().get().getFactuality();
+                    switch (goldLabelFactuality) {
                         case OBJ ->
                             trueFactualInstances++;
                         case SUBJ ->
@@ -72,14 +72,15 @@ public class F1 {
                         case NOT_SET ->
                             System.out.println("a doc had no factuality set");
                     }
-
-                    if (goldLabel.equals(predictedLabel) && goldLabel.equals(Factuality.OBJ)) {
+                    
+                    
+                    if (goldLabelFactuality.equals(predictedLabelFactuality) && goldLabelFactuality.equals(Factuality.OBJ)) {
                         factualTruePositives++;
                     }
-                    if (goldLabel.equals(predictedLabel) && goldLabel.equals(Factuality.SUBJ)) {
+                    if (goldLabelFactuality.equals(predictedLabelFactuality) && goldLabelFactuality.equals(Factuality.SUBJ)) {
                         subjectiveTruePositives++;
                     }
-                    if (goldLabel.equals(Factuality.OBJ) & predictedLabel.equals(Factuality.SUBJ)) {
+                    if (goldLabelFactuality.equals(Factuality.OBJ) & predictedLabelFactuality.equals(Factuality.SUBJ)) {
                         if (printErrors) {
                             sbGoldLabelObjective.append(goldDoc.getText());
                             sbGoldLabelObjective.append("\n");
@@ -89,7 +90,7 @@ public class F1 {
                         subjectiveFalsePositives++;
                         factualFalseNegatives++;
                     }
-                    if (goldLabel.equals(Factuality.SUBJ) & predictedLabel.equals(Factuality.OBJ)) {
+                    if (goldLabelFactuality.equals(Factuality.SUBJ) & predictedLabelFactuality.equals(Factuality.OBJ)) {
                         if (printErrors) {
                             sbGoldLabelSubjective.append(goldDoc.getText());
                             sbGoldLabelSubjective.append("\n");
