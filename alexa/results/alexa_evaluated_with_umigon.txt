@@ -629,27 +629,6 @@
         "startChar": 0,
         "text": "Psychotherapy Psychotherapy is the use of psychological methods, particularly when based on regular personal interaction, to help a person change and overcome problems in desired ways."
     },
-    "6c8219b2-d8e9-420e-85a7-b2db5cea43ee": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "6c8219b2-d8e9-420e-85a7-b2db5cea43ee",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Bowling The most common types of pin bowling include ten-pin, nine-pin, candlepin, duckpin and five-pin bowling, while in target bowling, bowls, skittles, kegel, bocce, carpet bowls, pâˆšÂ©tanque, and boules, both indoor and outdoor varieties are popular."
-    },
     "233509b4-154e-41e2-ab66-027ef9a01968": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -670,6 +649,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Skiing It comes from the Old Norse word \"skâˆšâ‰ âˆšâˆž\" which means \"split piece of wood or firewood\"."
+    },
+    "6c8219b2-d8e9-420e-85a7-b2db5cea43ee": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "6c8219b2-d8e9-420e-85a7-b2db5cea43ee",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Bowling The most common types of pin bowling include ten-pin, nine-pin, candlepin, duckpin and five-pin bowling, while in target bowling, bowls, skittles, kegel, bocce, carpet bowls, pâˆšÂ©tanque, and boules, both indoor and outdoor varieties are popular."
     },
     "b813bc45-ffbc-4206-a023-ad1d96cd38a1": {
         "annotation": {
@@ -734,27 +734,6 @@
         "startChar": 0,
         "text": "Bowling The maximum score is 300, which is achieved by getting 12 strikes in a row."
     },
-    "0f784ff0-1766-45cf-a6f5-72edf329bdd5": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "0f784ff0-1766-45cf-a6f5-72edf329bdd5",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "The Walking Dead (comic book) The Walking Dead is an ongoing black-and-white comic book series created by writer Robert Kirkman and artist Tony Moore."
-    },
     "c26ae11a-21da-4909-9429-efc42581ada4": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -775,6 +754,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Yellowstone National Park The park is known for its wildlife and its many geothermal features, especially Old Faithful geyser, one of its most popular features."
+    },
+    "0f784ff0-1766-45cf-a6f5-72edf329bdd5": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "0f784ff0-1766-45cf-a6f5-72edf329bdd5",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "The Walking Dead (comic book) The Walking Dead is an ongoing black-and-white comic book series created by writer Robert Kirkman and artist Tony Moore."
     },
     "9b9edf43-9415-4abc-acd7-e71a37052455": {
         "annotation": {
@@ -881,27 +881,6 @@
         "startChar": 0,
         "text": "Super Bowl commercials The phenomenon is a result of the game's extremely high viewership and wide demographics: Super Bowl games have frequently been among the United States' most watched television broadcasts, with Nielsen having estimated that Super Bowl XLIX in 2015 was seen by at least 114.4 million viewers in the United States, surpassing the previous year's Super Bowl as the highest-rated television broadcast in U.S. history."
     },
-    "9d0500d8-30f6-4a10-9c9c-41a576e90e4f": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "9d0500d8-30f6-4a10-9c9c-41a576e90e4f",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Kendrick Lamar He began to gain recognition in 2010, after his first retail release, \"Overly Dedicated\"."
-    },
     "e8d50a57-1d5a-4792-a8f2-afde242e6533": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -922,6 +901,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Marker pen A permanent marker consists of a container (glass, aluminum or plastic) and a core of an absorbent material."
+    },
+    "9d0500d8-30f6-4a10-9c9c-41a576e90e4f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "9d0500d8-30f6-4a10-9c9c-41a576e90e4f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Kendrick Lamar He began to gain recognition in 2010, after his first retail release, \"Overly Dedicated\"."
     },
     "bfa7b994-4a3e-4d26-ab94-13ea7902c56e": {
         "annotation": {
@@ -1469,27 +1469,6 @@
         "startChar": 0,
         "text": "Gossip Indirect reciprocity is a social interaction in which one actor helps another and is then benefited by a third party."
     },
-    "b4744267-8289-426f-ada9-737a40d70cef": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "b4744267-8289-426f-ada9-737a40d70cef",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Ageing In the broader sense, ageing can refer to single cells within an organism which have ceased dividing (cellular senescence) or to the population of a species (population ageing)."
-    },
     "06bf1d32-b7c4-4ce0-8822-967008f4ef97": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -1510,6 +1489,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Green It is evoked by light which has a dominant wavelength of roughly 495570 nm."
+    },
+    "b4744267-8289-426f-ada9-737a40d70cef": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b4744267-8289-426f-ada9-737a40d70cef",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Ageing In the broader sense, ageing can refer to single cells within an organism which have ceased dividing (cellular senescence) or to the population of a species (population ageing)."
     },
     "943b0be5-d22d-4f9d-b200-f92a2b591a45": {
         "annotation": {
@@ -6299,27 +6299,6 @@
         "startChar": 0,
         "text": "Indianapolis 500 The event is held over Memorial Day weekend in late May."
     },
-    "387a2e67-f695-45b0-8ad1-baba642fe57e": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "387a2e67-f695-45b0-8ad1-baba642fe57e",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Blue Suede Shoes \"Blue Suede Shoes\" is a rock-and-roll standard written and first recorded by Carl Perkins in 1955."
-    },
     "5a5786e6-562d-4e57-ab36-5b83aa8770e1": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -6341,7 +6320,7 @@
         "startChar": 0,
         "text": "Fantasy football (American) Points are based on the actual performances of the players in real-world competition."
     },
-    "9b1cde3b-81cd-4e92-9f01-d28e532ed557": {
+    "387a2e67-f695-45b0-8ad1-baba642fe57e": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -6357,10 +6336,31 @@
             }
         ],
         "endChar": 0,
-        "id": "9b1cde3b-81cd-4e92-9f01-d28e532ed557",
+        "id": "387a2e67-f695-45b0-8ad1-baba642fe57e",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Eugen Sandow Sandow was born in Kâˆšâˆ‚nigsberg, Prussia (now Kaliningrad, Russia) on April 2, 1867 to a German father and a Russian mother."
+        "text": "Blue Suede Shoes \"Blue Suede Shoes\" is a rock-and-roll standard written and first recorded by Carl Perkins in 1955."
+    },
+    "ce69747b-e5f1-4c33-80f9-c4f3754d9799": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "ce69747b-e5f1-4c33-80f9-c4f3754d9799",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Accounting Accounting can be divided into several fields including financial accounting, management accounting, external auditing, tax accounting and cost accounting."
     },
     "e2414225-83f9-41c1-a5a8-60993ea38056": {
         "annotation": {
@@ -6383,7 +6383,7 @@
         "startChar": 0,
         "text": "Rick Grimes He awakens from a coma after a life-threatening gun shot wound to find the world overrun by zombies, to which they refer as \"walkers\"."
     },
-    "ce69747b-e5f1-4c33-80f9-c4f3754d9799": {
+    "9b1cde3b-81cd-4e92-9f01-d28e532ed557": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -6399,10 +6399,10 @@
             }
         ],
         "endChar": 0,
-        "id": "ce69747b-e5f1-4c33-80f9-c4f3754d9799",
+        "id": "9b1cde3b-81cd-4e92-9f01-d28e532ed557",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Accounting Accounting can be divided into several fields including financial accounting, management accounting, external auditing, tax accounting and cost accounting."
+        "text": "Eugen Sandow Sandow was born in Kâˆšâˆ‚nigsberg, Prussia (now Kaliningrad, Russia) on April 2, 1867 to a German father and a Russian mother."
     },
     "d1b7f5a9-bda9-4fd9-951c-4d364f70437e": {
         "annotation": {
@@ -6572,27 +6572,6 @@
         "startChar": 0,
         "text": "Accounting Accounting can be divided into several fields including financial accounting, management accounting, external auditing, tax accounting and cost accounting."
     },
-    "424da472-f6a7-4c5e-9fe8-304c37764a2b": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "424da472-f6a7-4c5e-9fe8-304c37764a2b",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Peyton Manning Considered to be one of the greatest quarterbacks of all time due to his numerous career achievements, he spent 14 seasons with the Colts and was a member of the Denver Broncos in his last four seasons."
-    },
     "edff8491-38e8-488f-9877-e57d55fb358f": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -6613,6 +6592,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Accounting The terms \"accounting\" and \"financial reporting\" are often used as synonyms."
+    },
+    "424da472-f6a7-4c5e-9fe8-304c37764a2b": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "424da472-f6a7-4c5e-9fe8-304c37764a2b",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Peyton Manning Considered to be one of the greatest quarterbacks of all time due to his numerous career achievements, he spent 14 seasons with the Colts and was a member of the Denver Broncos in his last four seasons."
     },
     "575484ab-ef6d-494d-9c9d-6023f8d471b8": {
         "annotation": {
@@ -6635,27 +6635,6 @@
         "startChar": 0,
         "text": "National Football League The NFL agreed to merge with the American Football League (AFL) in 1966, and the first Super Bowl was held at the end of that season; the merger was completed in 1970."
     },
-    "887b8632-c960-4052-b1e2-613208cde157": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "887b8632-c960-4052-b1e2-613208cde157",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Green Many creatures have adapted to their green environments by taking on a green hue themselves as camouflage."
-    },
     "6af3906d-344f-44f0-a5e6-9a2cf0cc45b2": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -6677,7 +6656,7 @@
         "startChar": 0,
         "text": "Kurt Cobain Born in Aberdeen, Washington, Cobain formed the band Nirvana with Krist Novoselic and Aaron Burckhard in 1987 and established it as part of the Seattle music scene which later became known as grunge."
     },
-    "4a825f44-5e47-4d80-917c-5321d5e49044": {
+    "887b8632-c960-4052-b1e2-613208cde157": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -6693,10 +6672,10 @@
             }
         ],
         "endChar": 0,
-        "id": "4a825f44-5e47-4d80-917c-5321d5e49044",
+        "id": "887b8632-c960-4052-b1e2-613208cde157",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Cycling They are the principal means of transportation in many parts of the world."
+        "text": "Green Many creatures have adapted to their green environments by taking on a green hue themselves as camouflage."
     },
     "c8efefb0-f575-4b05-92fb-579618383e2d": {
         "annotation": {
@@ -6718,6 +6697,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Bitcoin As of February 2015, over 100,000 merchants and vendors accepted bitcoin as payment."
+    },
+    "4a825f44-5e47-4d80-917c-5321d5e49044": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "4a825f44-5e47-4d80-917c-5321d5e49044",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Cycling They are the principal means of transportation in many parts of the world."
     },
     "0b385275-a89f-4f40-9a85-092d8cfda8f4": {
         "annotation": {
@@ -6782,27 +6782,6 @@
         "startChar": 0,
         "text": "Skiing Early skiers used one long pole or spear."
     },
-    "3570ff39-5a04-4465-96a6-a175e2ed2fe7": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "3570ff39-5a04-4465-96a6-a175e2ed2fe7",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Tomato The Spanish discovered the tomato from their contact with the Aztec peoples during the Spanish colonization of the Americas, then brought it to Europe, and, from there, to other parts of the European colonized world during the 16th century."
-    },
     "f84de3a6-a789-46dc-b7fd-49ec3be26072": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -6823,6 +6802,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Lesbian A lesbian is a homosexual woman who is romantically or sexually attracted to other women."
+    },
+    "3570ff39-5a04-4465-96a6-a175e2ed2fe7": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3570ff39-5a04-4465-96a6-a175e2ed2fe7",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Tomato The Spanish discovered the tomato from their contact with the Aztec peoples during the Spanish colonization of the Americas, then brought it to Europe, and, from there, to other parts of the European colonized world during the 16th century."
     },
     "2b425057-0013-44b6-a50e-caeb8887a83a": {
         "annotation": {
@@ -7853,27 +7853,6 @@
         "startChar": 0,
         "text": "Gymnastics Alertness, precision, daring, self-confidence and self-discipline are mental traits that can also be developed through gymnastics."
     },
-    "7a0b6c61-3c33-4c41-b27a-5ebb6f4a54db": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "7a0b6c61-3c33-4c41-b27a-5ebb6f4a54db",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Crystallize (Lindsey Stirling song) \"Crystallize\" is a song by American violinist Lindsey Stirling from her self-titled studio album, \"Lindsey Stirling\"."
-    },
     "aec3a921-eeba-412e-8561-3c761dfd8198": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -7894,6 +7873,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Archery Archery is the sport, practice or skill of using a bow to propel arrows."
+    },
+    "7a0b6c61-3c33-4c41-b27a-5ebb6f4a54db": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "7a0b6c61-3c33-4c41-b27a-5ebb6f4a54db",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Crystallize (Lindsey Stirling song) \"Crystallize\" is a song by American violinist Lindsey Stirling from her self-titled studio album, \"Lindsey Stirling\"."
     },
     "c8e0b425-c655-4fa1-9a91-1e9e0d1669b9": {
         "annotation": {
@@ -7958,27 +7958,6 @@
         "startChar": 0,
         "text": "Corn dog Carl and Neil Fletcher lay such a claim, having introduced their \"Corny Dogs\" at the Texas State Fair sometime between 1938 and 1942."
     },
-    "5a080156-92db-45c5-a82a-012e7b4cdf4f": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "5a080156-92db-45c5-a82a-012e7b4cdf4f",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "The Starry Night The Starry Night is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh."
-    },
     "df6ec5fa-e8cf-4e7a-8e15-b4be0dd50383": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -7999,6 +7978,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Yellowstone National Park Yellowstone National Park is a national park located in the U.S. states of Wyoming, Montana, and Idaho."
+    },
+    "5a080156-92db-45c5-a82a-012e7b4cdf4f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "5a080156-92db-45c5-a82a-012e7b4cdf4f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "The Starry Night The Starry Night is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh."
     },
     "6828fbac-757a-4ca3-b40d-ad3469e85c8d": {
         "annotation": {

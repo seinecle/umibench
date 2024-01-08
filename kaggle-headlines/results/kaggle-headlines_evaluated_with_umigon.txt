@@ -4892,27 +4892,6 @@
         "startChar": 0,
         "text": "Biden On Putin: 'For God's Sake, This Man Cannot Remain In Power'"
     },
-    "3bc5cbb9-6de3-4902-9da0-a3480117069f": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "3bc5cbb9-6de3-4902-9da0-a3480117069f",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Should You Freeze-Dry Your Breast Milk?"
-    },
     "713a6ee5-140b-42bf-b8bc-b943c866fc80": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -4933,6 +4912,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Plane That Circled Mississippi Threatening To Crash Has Landed"
+    },
+    "3bc5cbb9-6de3-4902-9da0-a3480117069f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3bc5cbb9-6de3-4902-9da0-a3480117069f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Should You Freeze-Dry Your Breast Milk?"
     },
     "02e001a5-5636-4bef-bdd2-7585049d8645": {
         "annotation": {
@@ -4955,7 +4955,7 @@
         "startChar": 0,
         "text": "NASA Aims For Saturday Launch Of New Moon Rocket After Fixing Fuel Leaks"
     },
-    "85363252-eb88-4a4c-8e6f-b9fea249fea3": {
+    "5862c450-8c9b-48c3-aab6-219b52fafcc9": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -4971,10 +4971,10 @@
             }
         ],
         "endChar": 0,
-        "id": "85363252-eb88-4a4c-8e6f-b9fea249fea3",
+        "id": "5862c450-8c9b-48c3-aab6-219b52fafcc9",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "Tatum's Layup At Buzzer Gives Celtics 115-114 Win Over Nets"
+        "text": "'Saturday Night Live's' 'Fox & Friends' Skewers A Wacky Coup-Confessing 'Donald Trump'"
     },
     "eeefbc92-b1b0-4e68-bc18-31b33e8746f9": {
         "annotation": {
@@ -5018,7 +5018,7 @@
         "startChar": 0,
         "text": "Ryan Gosling Gets Ken-ified In First Look At Bleach Blond 'Barbie' Transformation"
     },
-    "5862c450-8c9b-48c3-aab6-219b52fafcc9": {
+    "85363252-eb88-4a4c-8e6f-b9fea249fea3": {
         "annotation": {
             "annotatedTextFragment": "",
             "factuality": "OBJ",
@@ -5034,10 +5034,10 @@
             }
         ],
         "endChar": 0,
-        "id": "5862c450-8c9b-48c3-aab6-219b52fafcc9",
+        "id": "85363252-eb88-4a4c-8e6f-b9fea249fea3",
         "lineNumber": 0,
         "startChar": 0,
-        "text": "'Saturday Night Live's' 'Fox & Friends' Skewers A Wacky Coup-Confessing 'Donald Trump'"
+        "text": "Tatum's Layup At Buzzer Gives Celtics 115-114 Win Over Nets"
     },
     "5f8acfba-98c7-4ad2-976a-da27be00e138": {
         "annotation": {
@@ -6026,27 +6026,6 @@
         "startChar": 0,
         "text": "Mariah Carey Brings Big, Big Energy To Latto's 2022 BET Awards Performance"
     },
-    "1b0cd546-1bcb-4e88-9220-7a63b1659de9": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "1b0cd546-1bcb-4e88-9220-7a63b1659de9",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Nerf Reveals Its New Mascot, And Its Monstrous Look Is Turning Heads"
-    },
     "15209d79-e511-46fe-afb4-dd18f168b0c0": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -6067,6 +6046,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "The Funniest Tweets From Parents This Week (Sept. 17-23)"
+    },
+    "1b0cd546-1bcb-4e88-9220-7a63b1659de9": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "1b0cd546-1bcb-4e88-9220-7a63b1659de9",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Nerf Reveals Its New Mascot, And Its Monstrous Look Is Turning Heads"
     },
     "1f156e84-f445-4e41-a5fa-1fa101a67cc0": {
         "annotation": {
@@ -9134,48 +9134,6 @@
         "startChar": 0,
         "text": "Easy Ways To Save Money When You Order An Iced Coffee"
     },
-    "5aefc7e4-8a54-4f0a-88ad-802de4e91673": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "5aefc7e4-8a54-4f0a-88ad-802de4e91673",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Pope Francis Calls Putin's Invasion Of Ukraine 'Infantile And Destructive'"
-    },
-    "3f50076b-7d68-42b2-b860-e4f3ddec056a": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "3f50076b-7d68-42b2-b860-e4f3ddec056a",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Orange Wine: Everything You Need To Know And Probably Didn't"
-    },
     "5b22bb85-532b-4093-9c04-ab4a75572057": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -9196,6 +9154,48 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Lisa Loeb Paved Her Own Way In The '90s — A Rare Feat For Independent Artists Of The Time"
+    },
+    "3f50076b-7d68-42b2-b860-e4f3ddec056a": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3f50076b-7d68-42b2-b860-e4f3ddec056a",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Orange Wine: Everything You Need To Know And Probably Didn't"
+    },
+    "5aefc7e4-8a54-4f0a-88ad-802de4e91673": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "5aefc7e4-8a54-4f0a-88ad-802de4e91673",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Pope Francis Calls Putin's Invasion Of Ukraine 'Infantile And Destructive'"
     },
     "dd322113-10e4-4a89-a2e0-a09375a1b3ca": {
         "annotation": {
@@ -11213,27 +11213,6 @@
         "startChar": 0,
         "text": "Cleaner Was Dead In Belk Bathroom For 4 Days Before Body Found: Police"
     },
-    "d7828e6d-04ef-4c7e-a508-5e7e5d7b5762": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "d7828e6d-04ef-4c7e-a508-5e7e5d7b5762",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Death Toll In Kentucky Hits 28 As Infrastructure Damage Hampers Flood Recovery"
-    },
     "c5753eea-3c95-4860-85aa-4cd85047d0ba": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -11254,6 +11233,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Buffalo Gunman Had Previously Threatened High School Shooting, Official Says"
+    },
+    "d7828e6d-04ef-4c7e-a508-5e7e5d7b5762": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d7828e6d-04ef-4c7e-a508-5e7e5d7b5762",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Death Toll In Kentucky Hits 28 As Infrastructure Damage Hampers Flood Recovery"
     },
     "6aa104be-f46a-46c5-ad11-b922a2970ddf": {
         "annotation": {
@@ -12494,27 +12494,6 @@
         "startChar": 0,
         "text": "Uvalde, Texas, Police Didn't Attempt To Open Classroom Door: Report"
     },
-    "23c85e2e-dddf-41e6-8c91-7732bc60318f": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "23c85e2e-dddf-41e6-8c91-7732bc60318f",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Gov. Greg Abbott Stops At Fundraiser After Texas School Shooting"
-    },
     "25182b35-e309-4719-bd42-4994047c837a": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -12535,6 +12514,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "NFL Network Introduces Malik Willis' 'Mom' At NFL Draft — But It Wasn't His Mom"
+    },
+    "23c85e2e-dddf-41e6-8c91-7732bc60318f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "23c85e2e-dddf-41e6-8c91-7732bc60318f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Gov. Greg Abbott Stops At Fundraiser After Texas School Shooting"
     },
     "01922c88-5198-4565-898d-ca733a3dc968": {
         "annotation": {
@@ -15539,27 +15539,6 @@
         "startChar": 0,
         "text": "10 Foods You Should Never Cook On A Grill, According To Experts"
     },
-    "1e70863c-1254-4b12-a985-2ca6b29e95bc": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "1e70863c-1254-4b12-a985-2ca6b29e95bc",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Southwest Fire Crews Brace For Return Of Dangerous Winds"
-    },
     "7135a45d-2608-4e1e-ba1e-b2ffbed7efff": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -15580,6 +15559,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Why Biden Is Giving Gun Control Negotiators ‘Some Space’"
+    },
+    "1e70863c-1254-4b12-a985-2ca6b29e95bc": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "1e70863c-1254-4b12-a985-2ca6b29e95bc",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Southwest Fire Crews Brace For Return Of Dangerous Winds"
     },
     "9db8460b-f170-4156-bbb2-23f0a4e45605": {
         "annotation": {
@@ -15749,27 +15749,6 @@
         "startChar": 0,
         "text": "Crosby, Stills & Nash's Music Returns To Spotify After Joe Rogan Protest"
     },
-    "e0c82e11-c920-43ff-9f9c-6719b4dd27e3": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "e0c82e11-c920-43ff-9f9c-6719b4dd27e3",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Russia Appoints New Ukraine War Commander With Record Of Brutality"
-    },
     "2c491e6f-06b8-4300-b2ca-4648130fc30d": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -15790,6 +15769,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Biden Says Queen's Death Left 'Giant Hole' For Royal Family"
+    },
+    "e0c82e11-c920-43ff-9f9c-6719b4dd27e3": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e0c82e11-c920-43ff-9f9c-6719b4dd27e3",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Russia Appoints New Ukraine War Commander With Record Of Brutality"
     },
     "b9c21a29-7135-494b-9604-9557e87cf754": {
         "annotation": {
@@ -17933,27 +17933,6 @@
         "startChar": 0,
         "text": "The Funniest Tweets From Parents This Week (June 25-July 1)"
     },
-    "c59203a1-e067-451d-b10d-ad8e46a5c6b0": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "c59203a1-e067-451d-b10d-ad8e46a5c6b0",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Seth Meyers Spots ‘Desperate’ Moment That Indicates The State Of Truth Social"
-    },
     "b3f17bff-a382-4353-ac6b-8ba9aada4c39": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -17974,6 +17953,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Top Putin Flack Sergey Lavrov Praises Fox News"
+    },
+    "c59203a1-e067-451d-b10d-ad8e46a5c6b0": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c59203a1-e067-451d-b10d-ad8e46a5c6b0",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Seth Meyers Spots ‘Desperate’ Moment That Indicates The State Of Truth Social"
     },
     "7fba1d2d-ae9e-4986-a209-76be0711ea64": {
         "annotation": {
@@ -19193,27 +19193,6 @@
         "startChar": 0,
         "text": "Planned Parenthood To Spend Record $50 Million For Midterms"
     },
-    "71466787-d511-4a21-9b43-3c5fab4429ef": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "71466787-d511-4a21-9b43-3c5fab4429ef",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "Steve Martin Says ‘Only Murders In The Building’ Could Be His Final Role"
-    },
     "1b7d3fa6-8b81-4499-b3cf-5f6dab29d11a": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -19234,6 +19213,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Michael Jackson's Kids Paris And Prince Pay Tribute To Dad At Tony Awards"
+    },
+    "71466787-d511-4a21-9b43-3c5fab4429ef": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "71466787-d511-4a21-9b43-3c5fab4429ef",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Steve Martin Says ‘Only Murders In The Building’ Could Be His Final Role"
     },
     "53bed1ec-d65a-4596-9ccc-f8ed78e1257c": {
         "annotation": {
@@ -19571,27 +19571,6 @@
         "startChar": 0,
         "text": "Ukraine: 9,000 Of Its Troops Killed Since Russia Began War"
     },
-    "324cd85a-8970-4061-81e6-be6e342b46d5": {
-        "annotation": {
-            "annotatedTextFragment": "",
-            "factuality": "OBJ",
-            "sentiment": "NEUTRAL",
-            "speechSource": "NOT_SET"
-        },
-        "annotations": [
-            {
-                "annotatedTextFragment": "",
-                "factuality": "OBJ",
-                "sentiment": "NEUTRAL",
-                "speechSource": "NOT_SET"
-            }
-        ],
-        "endChar": 0,
-        "id": "324cd85a-8970-4061-81e6-be6e342b46d5",
-        "lineNumber": 0,
-        "startChar": 0,
-        "text": "French Scientist Trolls Twitter By Claiming Chorizo Slice Is Actually A Distant Star"
-    },
     "efad1a64-adad-4a02-a61a-26b4b4322a66": {
         "annotation": {
             "annotatedTextFragment": "",
@@ -19612,6 +19591,27 @@
         "lineNumber": 0,
         "startChar": 0,
         "text": "Second Mass Grave Found Outside Mariupol, Says Ukraine"
+    },
+    "324cd85a-8970-4061-81e6-be6e342b46d5": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "324cd85a-8970-4061-81e6-be6e342b46d5",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "French Scientist Trolls Twitter By Claiming Chorizo Slice Is Actually A Distant Star"
     },
     "ad934dd1-1441-4be4-b433-33671fcd8c69": {
         "annotation": {
