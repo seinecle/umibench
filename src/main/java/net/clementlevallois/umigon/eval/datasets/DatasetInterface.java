@@ -21,6 +21,8 @@ public interface DatasetInterface {
 
     String getDataWebLink();
 
+    String getShortDescription();
+
     String getPaperWebLink();
 
     int getNumberOfEntries();

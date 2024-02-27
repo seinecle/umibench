@@ -1,0 +1,90 @@
+evaluation conducted on 2024-02-27T16:04:46.473819
+weighted F1 score for factuality on dataset apple for model TimeLMs: 0.6143042
+
+evaluation conducted on 2024-02-27T16:04:46.499744300
+weighted F1 score for factuality on dataset apple for model Thesis_Titan: 0.6115304
+
+evaluation conducted on 2024-02-27T16:04:46.624504600
+weighted F1 score for factuality on dataset apple for model OpenHermes-2-Mistral-7B-basic-prompt: 0.70732427
+
+evaluation conducted on 2024-02-27T16:04:46.892475200
+weighted F1 score for factuality on dataset apple for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.6087092
+
+evaluation conducted on 2024-02-27T16:04:47.052575500
+weighted F1 score for factuality on dataset apple for model umigon: 0.6559846
+
+evaluation conducted on 2024-02-27T16:06:34.540379100
+weighted F1 score for factuality on dataset apple for model TimeLMs: 0.6143042
+
+evaluation conducted on 2024-02-27T16:06:34.580441700
+weighted F1 score for factuality on dataset apple for model OpenHermes-2-Mistral-7B-basic-prompt: 0.70732427
+
+evaluation conducted on 2024-02-27T16:06:34.585957300
+weighted F1 score for factuality on dataset apple for model Thesis_Titan: 0.6115304
+
+evaluation conducted on 2024-02-27T16:06:34.853874500
+weighted F1 score for factuality on dataset apple for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.6087092
+
+evaluation conducted on 2024-02-27T16:06:34.936825
+weighted F1 score for factuality on dataset apple for model umigon: 0.6559846
+
+evaluation conducted on 2024-02-27T16:08:02.539754700
+weighted F1 score for factuality on dataset apple for model TimeLMs: 0.6143042
+
+evaluation conducted on 2024-02-27T16:08:02.545507600
+weighted F1 score for factuality on dataset apple for model Thesis_Titan: 0.6115304
+
+evaluation conducted on 2024-02-27T16:08:02.695775
+weighted F1 score for factuality on dataset apple for model OpenHermes-2-Mistral-7B-basic-prompt: 0.70732427
+
+evaluation conducted on 2024-02-27T16:08:02.998280800
+weighted F1 score for factuality on dataset apple for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.6087092
+
+evaluation conducted on 2024-02-27T16:08:03.081764800
+weighted F1 score for factuality on dataset apple for model umigon: 0.6559846
+
+evaluation conducted on 2024-02-27T16:09:35.855834800
+weighted F1 score for factuality on dataset apple for model TimeLMs: 0.6143042
+
+evaluation conducted on 2024-02-27T16:09:35.861979
+weighted F1 score for factuality on dataset apple for model Thesis_Titan: 0.6115304
+
+evaluation conducted on 2024-02-27T16:09:35.998498800
+weighted F1 score for factuality on dataset apple for model OpenHermes-2-Mistral-7B-basic-prompt: 0.70732427
+
+evaluation conducted on 2024-02-27T16:09:36.329055900
+weighted F1 score for factuality on dataset apple for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.6087092
+
+evaluation conducted on 2024-02-27T16:09:36.472336700
+weighted F1 score for factuality on dataset apple for model umigon: 0.6559846
+
+evaluation conducted on 2024-02-27T16:11:03.576116
+weighted F1 score for factuality on dataset apple for model Thesis_Titan: 0.6115304
+
+evaluation conducted on 2024-02-27T16:11:03.752197300
+weighted F1 score for factuality on dataset apple for model OpenHermes-2-Mistral-7B-basic-prompt: 0.70732427
+
+evaluation conducted on 2024-02-27T16:11:03.802540
+weighted F1 score for factuality on dataset apple for model TimeLMs: 0.6143042
+
+evaluation conducted on 2024-02-27T16:11:04.125423200
+weighted F1 score for factuality on dataset apple for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.6087092
+
+evaluation conducted on 2024-02-27T16:11:04.126916500
+weighted F1 score for factuality on dataset apple for model umigon: 0.6559846
+
+evaluation conducted on 2024-02-27T16:17:53.560073500
+weighted F1 score for factuality on dataset apple for model TimeLMs: 0.6143042
+
+evaluation conducted on 2024-02-27T16:17:53.643935800
+weighted F1 score for factuality on dataset apple for model Thesis_Titan: 0.6115304
+
+evaluation conducted on 2024-02-27T16:17:53.841731300
+weighted F1 score for factuality on dataset apple for model OpenHermes-2-Mistral-7B-basic-prompt: 0.70732427
+
+evaluation conducted on 2024-02-27T16:17:54.101507400
+weighted F1 score for factuality on dataset apple for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.6087092
+
+evaluation conducted on 2024-02-27T16:17:54.352319400
+weighted F1 score for factuality on dataset apple for model umigon: 0.6559846
+

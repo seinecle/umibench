@@ -553,3 +553,105 @@ weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7
 evaluation conducted on 2024-01-08T17:07:56.061457300
 weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
 
+evaluation conducted on 2024-02-27T16:04:47.157616200
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.7079546
+
+evaluation conducted on 2024-02-27T16:04:48.405032200
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
+
+evaluation conducted on 2024-02-27T16:04:48.589071800
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.8616076
+
+evaluation conducted on 2024-02-27T16:04:48.902615600
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.84660375
+
+evaluation conducted on 2024-02-27T16:06:34.973791500
+weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
+
+evaluation conducted on 2024-02-27T16:06:34.967696300
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.7079546
+
+evaluation conducted on 2024-02-27T16:06:34.967364400
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-advanced-prompt: 0.86674106
+
+evaluation conducted on 2024-02-27T16:06:35.598858400
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
+
+evaluation conducted on 2024-02-27T16:06:35.707893500
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.8616076
+
+evaluation conducted on 2024-02-27T16:06:35.852519100
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.84660375
+
+evaluation conducted on 2024-02-27T16:08:03.142583400
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.7079546
+
+evaluation conducted on 2024-02-27T16:08:03.157591700
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-advanced-prompt: 0.86674106
+
+evaluation conducted on 2024-02-27T16:08:03.147179
+weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
+
+evaluation conducted on 2024-02-27T16:08:03.948013400
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
+
+evaluation conducted on 2024-02-27T16:08:04.044380600
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.8616076
+
+evaluation conducted on 2024-02-27T16:08:04.370409400
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.84660375
+
+evaluation conducted on 2024-02-27T16:09:36.412485100
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.7079546
+
+evaluation conducted on 2024-02-27T16:09:36.410720900
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-advanced-prompt: 0.86674106
+
+evaluation conducted on 2024-02-27T16:09:36.396256900
+weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
+
+evaluation conducted on 2024-02-27T16:09:37.051417300
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
+
+evaluation conducted on 2024-02-27T16:09:37.154592
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.8616076
+
+evaluation conducted on 2024-02-27T16:09:37.496205100
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.84660375
+
+evaluation conducted on 2024-02-27T16:11:04.292686300
+weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
+
+evaluation conducted on 2024-02-27T16:11:04.288217
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-advanced-prompt: 0.86674106
+
+evaluation conducted on 2024-02-27T16:11:04.283381400
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.7079546
+
+evaluation conducted on 2024-02-27T16:11:04.899548400
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
+
+evaluation conducted on 2024-02-27T16:11:05.081246700
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.8616076
+
+evaluation conducted on 2024-02-27T16:11:05.181373600
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.84660375
+
+evaluation conducted on 2024-02-27T16:17:54.436184600
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.7079546
+
+evaluation conducted on 2024-02-27T16:17:54.434693600
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-advanced-prompt: 0.86674106
+
+evaluation conducted on 2024-02-27T16:17:54.432094100
+weighted F1 score for sentiment on dataset mpqa for model TimeLMs: 0.76236224
+
+evaluation conducted on 2024-02-27T16:17:55.668193500
+weighted F1 score for sentiment on dataset mpqa for model gpt-3.5-turbo-basic-prompt: 0.8272594
+
+evaluation conducted on 2024-02-27T16:17:55.843148300
+weighted F1 score for sentiment on dataset mpqa for model umigon: 0.8616076
+
+evaluation conducted on 2024-02-27T16:17:56.236758
+weighted F1 score for sentiment on dataset mpqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.84660375
+

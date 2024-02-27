@@ -61,10 +61,14 @@ public class MPQA implements DatasetInterface {
     }
 
     @Override
+    public String getShortDescription() {
+        return "a set of newswire articles on international politics annotated for factuality and sentiment";
+    }    
+    
+    @Override
     public int getNumberOfEntries() {
         return 3198;
     }
-    
     
 
     @Override

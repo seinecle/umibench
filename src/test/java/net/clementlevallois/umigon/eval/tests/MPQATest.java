@@ -10,7 +10,6 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
@@ -18,7 +17,6 @@ import net.clementlevallois.umigon.eval.datamodel.AnnotatedDocument;
 import net.clementlevallois.umigon.eval.datamodel.Annotation;
 import net.clementlevallois.umigon.eval.datamodel.Sentiment;
 import net.clementlevallois.umigon.eval.datasets.MPQA;
-import org.junit.jupiter.api.Test;
 
 /**
  *

@@ -53,3 +53,19 @@ In practice, I extracted all the entries of the "knowledge" field, with filters 
 - "verifiable" = y (yes)
 
 This led to 470 entries, all labelled as "Objective"
+
+## [Apple](https://github.com/seinecle/twitter_corpus_sanders_analytics)
+The twitter sentiment corpus was created by Sanders Analytics in 2012. It consists of 5513 hand-classified tweets (however, 400 tweets missing due to the scripts created by the company). Each tweet was classified with respect to one of four different topics among which: Apple, Google and Microsoft. Only the tweets relating to Apple have been considered for the evaluation here, for the sake of size.
+
+## [Carblacac](https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis)
+
+Dataset described on HuggingFace:
+https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis
+
+Available from:
+https://github.com/cblancac/SentimentAnalysisBert
+
+Precisely, this data file:
+https://github.com/cblancac/SentimentAnalysisBert/blob/main/data/train_150k.txt
+
+200 tweets among the first in the file have been reviewed and their classification have been verified, since the annotations were not always correct.

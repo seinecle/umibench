@@ -12,7 +12,6 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.text.DecimalFormat;
 import java.time.LocalDateTime;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -122,6 +121,11 @@ public class GenerateLeaderBoard {
             sb.append(", ");
             sb.append(" [").append("data source").append("]");
             sb.append("(").append(dataset.getDataWebLink()).append("))");
+            sb.append("<br/>");
+            sb.append("<span style=\"font-size: .8rem\">");
+            sb.append(dataset.getShortDescription());
+            sb.append("</span>");
+            sb.append("<br/>");
             sb.append("\n");
         }
         return sb.toString();

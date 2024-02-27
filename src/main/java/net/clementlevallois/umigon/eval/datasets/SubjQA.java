@@ -54,6 +54,11 @@ public class SubjQA implements DatasetInterface {
     }
 
     @Override
+    public String getShortDescription() {
+        return "a set of consumer reviews on goods from the “electronics” product category";
+    }
+    
+    @Override
     public int getNumberOfEntries() {
         return 1374;
     }

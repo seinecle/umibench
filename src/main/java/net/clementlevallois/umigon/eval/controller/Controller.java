@@ -47,6 +47,8 @@ import static net.clementlevallois.umigon.eval.datamodel.Task.FACTUALITY;
 import static net.clementlevallois.umigon.eval.datamodel.Task.FACTUALITY_AND_SENTIMENT;
 import static net.clementlevallois.umigon.eval.datamodel.Task.SENTIMENT;
 import net.clementlevallois.umigon.eval.datasets.Alexa;
+import net.clementlevallois.umigon.eval.datasets.Apple;
+import net.clementlevallois.umigon.eval.datasets.Carblacac;
 import net.clementlevallois.umigon.eval.models.ModelInterface;
 import net.clementlevallois.umigon.eval.models.TimeLMs;
 import net.clementlevallois.utils.Clock;
@@ -66,7 +68,7 @@ import net.clementlevallois.umigon.eval.models.Umigon;
 public class Controller {
 
     private final boolean skipAllAPICalls = false;
-    private final boolean onlyUmigonAPICalls = true;
+    private final boolean onlyUmigonAPICalls = false;
     private final boolean printFalseClassificationsForUmigon = true;
     private static final int LIMIT_RECORDS_FOR_TESTS = Integer.MAX_VALUE;
     private final DecimalFormat decimalFormat = new DecimalFormat("0.00");
@@ -92,6 +94,8 @@ public class Controller {
 
     public void initDataSetsAndModels() {
         datasets = new HashSet();
+        datasets.add(new Apple());
+        datasets.add(new Carblacac());
         datasets.add(new Alexa());
         datasets.add(new Clef2023());
         datasets.add(new KaggleHeadlines());
@@ -317,7 +321,7 @@ public class Controller {
         }
     }
 
-    private static void writeToFileThreadSafe(Path filePath, String content) {
+    private synchronized static void writeToFileThreadSafe(Path filePath, String content) {
         try (FileChannel fileChannel = FileChannel.open(filePath, StandardOpenOption.CREATE, StandardOpenOption.WRITE, StandardOpenOption.APPEND)) {
             ByteBuffer buffer = StandardCharsets.UTF_8.encode(content);
             fileChannel.write(buffer);

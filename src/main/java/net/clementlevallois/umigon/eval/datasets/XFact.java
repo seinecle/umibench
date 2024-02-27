@@ -54,12 +54,15 @@ public class XFact implements DatasetInterface {
     }
 
     @Override
+    public String getShortDescription() {
+        return "a database of factual statements labeled for veracity by expert fact-checkers";
+    }
+
+    @Override
     public int getNumberOfEntries() {
         return 12_138;
     }
     
-    
-
     @Override
     public Map<String, AnnotatedDocument> getGoldenLabels() {
         return goldenDocs;

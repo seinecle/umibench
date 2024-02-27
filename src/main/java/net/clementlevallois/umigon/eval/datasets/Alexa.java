@@ -54,6 +54,11 @@ public class Alexa implements DatasetInterface {
     }
 
     @Override
+    public String getShortDescription() {
+        return "a set of factual statements curated by the Amazon Alexa development team";
+    }
+
+    @Override
     public int getNumberOfEntries() {
         return 470;
     }

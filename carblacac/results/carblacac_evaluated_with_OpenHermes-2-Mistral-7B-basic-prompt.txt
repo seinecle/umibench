@@ -1,0 +1,4202 @@
+{
+    "04d1c2c3-c3ec-4d4a-9ef1-34e44bbfbf01": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "04d1c2c3-c3ec-4d4a-9ef1-34e44bbfbf01",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@Luneowl I like the look of the trail!  Reminds me of trails I used to walk on growing up."
+    },
+    "349dd086-6592-48a6-ad13-c1649a4fe987": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "349dd086-6592-48a6-ad13-c1649a4fe987",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@MiChA3LdAc7 why can't you answer me? "
+    },
+    "1fa014be-08df-4e3c-af65-0e9e91addd70": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "1fa014be-08df-4e3c-af65-0e9e91addd70",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "is craving frozen yogurt!  sigh, I miss Berkeley with its 737383 yogurt places DX"
+    },
+    "3cf63fb8-22d1-4d1f-b69b-2acbc0046fa6": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3cf63fb8-22d1-4d1f-b69b-2acbc0046fa6",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "What s up wit that one night bedfightt thoo!  Rud onur tittys haha AsherRoth is krazyy lol"
+    },
+    "b777d421-49de-4deb-bd44-da742db6ef0e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b777d421-49de-4deb-bd44-da742db6ef0e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "just realized that i missed a Volbeat concert last night, just 2 blocks away "
+    },
+    "aa9e9054-aea7-4eff-82a6-0a254d18f8f6": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "aa9e9054-aea7-4eff-82a6-0a254d18f8f6",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "What are Jon and Kate coming too? Those poor kids "
+    },
+    "c213a018-bbde-45f9-8c7c-94f6b46d7261": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c213a018-bbde-45f9-8c7c-94f6b46d7261",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "What is wrong with Twitter today?????  I can't block the stupid ppl following me  "
+    },
+    "6647cd20-73e4-40fa-9ba3-8e414449a96f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "6647cd20-73e4-40fa-9ba3-8e414449a96f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@KristieKastl. As do I. But woooo  that's exciting. Find the Cash Cab!"
+    },
+    "e6377cc9-74f9-462e-9c5f-bee01c6f1169": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e6377cc9-74f9-462e-9c5f-bee01c6f1169",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@RockingtheRobin I AM IN LOVE WITH THE US CONSTITUTION | It would be real cool if our Govt. loved it as much as we do! "
+    },
+    "fff904cd-fb25-4419-94b8-8b120470316d": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "fff904cd-fb25-4419-94b8-8b120470316d",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Do u want some cheese with that whine? Why yes Gruyere pls. Sorry so whiney today. Not doing a good job of taking care of me today "
+    },
+    "8d9da47a-bb54-48ea-a138-82c3d42ea3d1": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "8d9da47a-bb54-48ea-a138-82c3d42ea3d1",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@kimi84 you can still catch on the movie "
+    },
+    "4433a279-4bd3-4599-b596-7f11b5444d19": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "4433a279-4bd3-4599-b596-7f11b5444d19",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@caiab luckyyy! haha my calendar on my phone just went off &amp; i got sad since i gotta wait till 4ish tomorrow. "
+    },
+    "70325376-ec14-4db5-9988-2afece50d165": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "70325376-ec14-4db5-9988-2afece50d165",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@Melde I can go for that! I'm not rooting for anyone myself, just like the hockey-ness of it. "
+    },
+    "bf1270a1-f487-4c7b-9f44-29ef935edb32": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "bf1270a1-f487-4c7b-9f44-29ef935edb32",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@karineb22 yeah!!! have a great summer break! "
+    },
+    "65b2d7af-6050-4803-96c9-51d737fa5879": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "65b2d7af-6050-4803-96c9-51d737fa5879",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@starboy_ Hiddy Ho! Heard good things, so i now follow. "
+    },
+    "3cae38be-f0c9-4d4c-8d25-a5afbd2ce895": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3cae38be-f0c9-4d4c-8d25-a5afbd2ce895",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "bringing Dana to dinner tonight @ 6, then calling Cayne  happppy"
+    },
+    "f7c0be9c-54c8-4cad-a6a6-b0faed0044aa": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "f7c0be9c-54c8-4cad-a6a6-b0faed0044aa",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "g&amp;g's birthday lunch!  mmm, good home cooked italian food. rizzoto, anyone? "
+    },
+    "9b776b2b-e3db-4507-b4d9-0c49e0f07abb": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "9b776b2b-e3db-4507-b4d9-0c49e0f07abb",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Chili was good but now im paying for it  .............24"
+    },
+    "dcc5c8d7-1982-4eaf-b72e-51720fd7dedc": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "dcc5c8d7-1982-4eaf-b72e-51720fd7dedc",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "goodbye !!! studying for history  wish me good luck"
+    },
+    "50300d2b-3a66-4c69-8191-062d06c523a2": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "50300d2b-3a66-4c69-8191-062d06c523a2",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@JaysonJPhillips lol really?? My bro has xbox360 but he don't let me play "
+    },
+    "4cfcb52e-9826-4455-b362-f1fca6ced3f4": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "4cfcb52e-9826-4455-b362-f1fca6ced3f4",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Lucy is doing a little better today. Still has a bit of a lack of appetite  Poor baby."
+    },
+    "e5d7b208-83d9-4cee-b035-64595de97333": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e5d7b208-83d9-4cee-b035-64595de97333",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "I just saw &quot;Bing&quot; was a trending topic and got excited "
+    },
+    "9183b436-6c22-419c-b922-3eaedd41d597": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "9183b436-6c22-419c-b922-3eaedd41d597",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Good Morning Angels from Overcast Ontario California "
+    },
+    "a6d8f443-f442-4e7e-8ebb-7d0e9b43a48e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "a6d8f443-f442-4e7e-8ebb-7d0e9b43a48e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "is going to watch &quot;Womanizer&quot; at the cinema tonight..has a bad headache "
+    },
+    "8f1dae10-cad6-4cb0-ba51-219d3f3f759f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "8f1dae10-cad6-4cb0-ba51-219d3f3f759f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "just finished job &amp; full of energy...i think am gona hit the gym "
+    },
+    "1eed53ce-67bf-4b43-987e-a95742f88292": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "1eed53ce-67bf-4b43-987e-a95742f88292",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Every time I turn around, something's just not right! Just might be Paranoid! "
+    },
+    "d5bc2409-ca9d-44dc-9fd3-b069c7bdf445": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d5bc2409-ca9d-44dc-9fd3-b069c7bdf445",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "IT'S A BEAUTIFUL DAY!!!  I SHOULD GO TO THE POOL TODAY!! IS SO HOT OUTSIDE &amp; I REALLY NEED A TAN!!! LOL! PEOPLE ENJOY THE SUMMER!! "
+    },
+    "cca608b1-49ff-4466-96cd-2044f330db9a": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "cca608b1-49ff-4466-96cd-2044f330db9a",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "tummy hurts  going to bed, gotta get up early. yaayyy band camp."
+    },
+    "3f9da9e3-ce53-41e4-9a75-8ead6f5e03ea": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3f9da9e3-ce53-41e4-9a75-8ead6f5e03ea",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@taylorswift13 I am so JEALOUS!  After I've been at the lake, I look like a drown rat.  You look beautiful, no matter what. "
+    },
+    "2c1796c8-9d90-4d4d-a87f-f2d45c460ab8": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "2c1796c8-9d90-4d4d-a87f-f2d45c460ab8",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "the baby starling we found yesterday died this morning "
+    },
+    "26142936-4153-49d8-9c67-fc629bf09d30": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "26142936-4153-49d8-9c67-fc629bf09d30",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "4 hot days in a row i am not happy "
+    },
+    "b6573355-f389-42e0-b1ac-4d8234915145": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b6573355-f389-42e0-b1ac-4d8234915145",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@SHADWELL1970 Have fun, Make sure you don't miss the bikes! "
+    },
+    "76e588e0-e372-42c9-8e65-9a0ec0655958": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "76e588e0-e372-42c9-8e65-9a0ec0655958",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@MRMIMe no, just plain bored. "
+    },
+    "684d4079-e60d-461d-a82a-0358273c921f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "684d4079-e60d-461d-a82a-0358273c921f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Loves sleeping in when it's raining!! "
+    },
+    "71f4fbe3-4034-4e17-b009-07b58f60a661": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "71f4fbe3-4034-4e17-b009-07b58f60a661",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Is enjoying another day at the beach.  No rain today. "
+    },
+    "99037cb1-ea56-4d2c-9f76-dc6fbab453eb": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "99037cb1-ea56-4d2c-9f76-dc6fbab453eb",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "is sad.. "
+    },
+    "b9f4b33a-820b-420f-821f-40d1538f3b6f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b9f4b33a-820b-420f-821f-40d1538f3b6f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@kellieohl i have 2 b alone now  boo hoo"
+    },
+    "3910ca4f-89a4-447b-9083-c91e2ca0962e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3910ca4f-89a4-447b-9083-c91e2ca0962e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "... continues reading Paulo Coelho's &quot;The winner stands alone&quot;. Finally I got my own example! "
+    },
+    "ac6faf57-9d84-4989-a90a-4f142f8b8a05": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "ac6faf57-9d84-4989-a90a-4f142f8b8a05",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "I thought nighttime medicine is suppose to make you fall asleep...I feel miserable  someone sing me a lullabye."
+    },
+    "b088c73a-4661-4774-a5c4-6861128a9070": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b088c73a-4661-4774-a5c4-6861128a9070",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@standinginalley hahaha.. aww thank you "
+    },
+    "90e68d07-1074-4f8f-ad31-21846e543122": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "90e68d07-1074-4f8f-ad31-21846e543122",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "hannah montana was very good.  now going to read twilight. "
+    },
+    "724134e4-d639-40a9-97f5-5503d985b643": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "724134e4-d639-40a9-97f5-5503d985b643",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@shaquib sometimes i don't get a txt with your updates "
+    },
+    "5dc324a1-9c96-4517-a09c-51854ef0056a": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "5dc324a1-9c96-4517-a09c-51854ef0056a",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "i'm a huge fan now of david archuleta and david cook.. "
+    },
+    "eee31a4b-857d-4876-82a2-1402708ebcaf": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "eee31a4b-857d-4876-82a2-1402708ebcaf",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@Finestgirl54 well thank you "
+    },
+    "d5d9369f-a59b-4905-aa9a-7fb2adb8e89c": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d5d9369f-a59b-4905-aa9a-7fb2adb8e89c",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@JasonBradbury E3 this week here's hoping for some great new game announces. Xbox rules "
+    },
+    "8649068d-a937-47ab-bcbb-19dbe0f8dbd5": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "8649068d-a937-47ab-bcbb-19dbe0f8dbd5",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "is up again early with the kids, i wouldn't mind so much but i am still sick. I'm feeling pretty cruddy today "
+    },
+    "34e274b7-197e-4d95-bb5a-e7d6c9f69ff5": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "34e274b7-197e-4d95-bb5a-e7d6c9f69ff5",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "The countdown starts until my baby returns: 2 weeks "
+    },
+    "f0d01b81-6cf2-4d2f-abb4-64a1cc7e90c6": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "f0d01b81-6cf2-4d2f-abb4-64a1cc7e90c6",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "is off to camp in the deep dark woods: deer burgers, canoeing, cards, softball, and lots of campfires!  cant get any better than that!"
+    },
+    "39f92c98-f089-45df-9b0e-44ed6b068665": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "39f92c98-f089-45df-9b0e-44ed6b068665",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@Fairywispa @Dryads the same thing? It is so sad "
+    },
+    "0fc6e2b1-ceaf-4255-a931-6c64243d2592": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "0fc6e2b1-ceaf-4255-a931-6c64243d2592",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "goood morning all! "
+    },
+    "a7d43110-d339-4c86-be10-f34a65dc1133": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "a7d43110-d339-4c86-be10-f34a65dc1133",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@rebloukalicious Thanks dear for following as well. I appreciate you taking time to know what I have to say. "
+    },
+    "3cc3a7b8-da48-4bb7-9130-18fba1a9e642": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3cc3a7b8-da48-4bb7-9130-18fba1a9e642",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@andycrash Thank you!  "
+    },
+    "031ff37f-3bb1-4739-ad92-5b3c7482e78c": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "031ff37f-3bb1-4739-ad92-5b3c7482e78c",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "hung over, crazy night i really want to go to the pride parade but im too tierd "
+    },
+    "eb46906c-4ede-466a-9ae3-876c11e1214f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "eb46906c-4ede-466a-9ae3-876c11e1214f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "yes we are quite amazing  @Jonasbrothers"
+    },
+    "bb5422c7-24f6-45ea-8ad5-32785ce4d2b9": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "bb5422c7-24f6-45ea-8ad5-32785ce4d2b9",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "#FF @iamladylyric  @flapjacks9702 @ leftlaneceo @coolvsratednext Thanks for the #FF! "
+    },
+    "144d73aa-d9be-49ac-8b61-d28cd53509e4": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "144d73aa-d9be-49ac-8b61-d28cd53509e4",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@eveing Hey darling, thanks for appearing so cheerful at work, it really helped me out!  I think everyone was kinda down"
+    },
+    "8e7fc767-2d3d-4883-a75a-85c39d0832d9": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "8e7fc767-2d3d-4883-a75a-85c39d0832d9",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@djp_rez woot! hope u have safe flight. so excited for u! make sure to eat sum tex-mex and bbq while u r there! and most of all, ROCK IT! "
+    },
+    "c5d2898b-5b42-41f0-a06e-8522799ba45d": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c5d2898b-5b42-41f0-a06e-8522799ba45d",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@jenniferjayy so long, farewell! &lt;333 Have a super amazing day! I'm going to sleep. "
+    },
+    "2129bc15-519e-4714-a20b-cf2c02dd299f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "2129bc15-519e-4714-a20b-cf2c02dd299f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Sorry people but I don't know if JB will be at the MTV Movie Awards!! I don't think so!! Unfortunately "
+    },
+    "19f968ae-09a2-416c-a44a-54173656313a": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "19f968ae-09a2-416c-a44a-54173656313a",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Work is driving me crazy...  I need an extended vacay.  "
+    },
+    "d3b3a558-fdf6-4306-a697-17a724b5ad8c": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d3b3a558-fdf6-4306-a697-17a724b5ad8c",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@LisaNoelRuocco oh and i like your new hair too. i think it really suits you. "
+    },
+    "1806be05-b4e6-4d93-b580-34f830a17eaa": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "1806be05-b4e6-4d93-b580-34f830a17eaa",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "But we don't know what were gonna do "
+    },
+    "bd4cb90f-5210-4b4b-a1d3-f31322b4e985": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "NOT_SET",
+            "sentiment": "NOT_SET",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "NOT_SET",
+                "sentiment": "NOT_SET",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "bd4cb90f-5210-4b4b-a1d3-f31322b4e985",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "I can't wait to see my dad! Apparently, he's seriously jet lagged... well that sucks. "
+    },
+    "4ffaf08c-03bc-431b-9ab6-b6993cee2c8c": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "4ffaf08c-03bc-431b-9ab6-b6993cee2c8c",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@lollych Yep please "
+    },
+    "c8bb63c6-f351-4ea4-8226-47a1610bc25d": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c8bb63c6-f351-4ea4-8226-47a1610bc25d",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "I'm up and at the library now. Ready to start my day from hell. "
+    },
+    "3a6c92e7-4431-443d-94a6-55d3c77924c4": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3a6c92e7-4431-443d-94a6-55d3c77924c4",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "where'd all the sunshine go? It's pretty grim out there today "
+    },
+    "610c9163-6584-402b-bb59-8f9968fd823a": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "610c9163-6584-402b-bb59-8f9968fd823a",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@muSicFienDkiCks that sucks , I broke a nail too "
+    },
+    "12136757-2243-4da5-8b69-2213e3af3e9b": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "12136757-2243-4da5-8b69-2213e3af3e9b",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@isparkleen wow, that's good "
+    },
+    "c9be51d5-6541-4e12-b0b3-5ea0eb86e9ed": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c9be51d5-6541-4e12-b0b3-5ea0eb86e9ed",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "just finished colouring my hair i had to way to much grey popping up and i'm not even 30 yet "
+    },
+    "b0ab5841-5820-4a19-82d8-2b44fc70b1b2": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b0ab5841-5820-4a19-82d8-2b44fc70b1b2",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "such a good weekend! off through to the deen today, roll on edith bowmans show! "
+    },
+    "be5bb631-8e14-4fe1-88e1-a739ea7136f8": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "be5bb631-8e14-4fe1-88e1-a739ea7136f8",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "im so tired  watching house until friends comes on. its scaring the crap out of me!"
+    },
+    "3456c355-2451-41ca-b2be-0367d280eebb": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3456c355-2451-41ca-b2be-0367d280eebb",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Cleaning stupid gutters with shamus "
+    },
+    "5b859a0d-4927-4856-8cef-722566b0ca2d": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "5b859a0d-4927-4856-8cef-722566b0ca2d",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Reading This Is What I Want To Tell You and missing my babies. "
+    },
+    "bd9ee97d-61cf-4987-ad63-c40005a318a6": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "bd9ee97d-61cf-4987-ad63-c40005a318a6",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "I am really ill..x  And i hve missed 2 days of skl...  I hve exams nxt week and i need to revise..x"
+    },
+    "498f24d4-ffe8-409c-aed8-aed92cb0f28a": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "498f24d4-ffe8-409c-aed8-aed92cb0f28a",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "too bad he dies at the end "
+    },
+    "b33ddeca-9010-4c97-9cf6-c75be278eeaa": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b33ddeca-9010-4c97-9cf6-c75be278eeaa",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@taskbaarchitect And why the Hell didn't you call ME for that?! "
+    },
+    "4c9719f8-9764-4c0f-9a51-dc0bcd2672ec": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "4c9719f8-9764-4c0f-9a51-dc0bcd2672ec",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Man this is starting to feel like last year   #pens need to do something to change the tide."
+    },
+    "1a824404-2704-4568-9170-76c537139651": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "1a824404-2704-4568-9170-76c537139651",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "is sitting outside with her doggies and it's HOT hello summer "
+    },
+    "d29db372-2a0b-4696-8f15-d66ca940e076": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d29db372-2a0b-4696-8f15-d66ca940e076",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "So happy! cuz u talked with my bff @lisahopecyrus gosh i missed her so bad but right now i can't talk!  but later i'll talk with her"
+    },
+    "58375c84-1ba8-4101-aa50-9c94f778166e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "58375c84-1ba8-4101-aa50-9c94f778166e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Soldering adventure was great success. My speakers make noise! Still have to wait a week for the poly finish to quit stinking, though "
+    },
+    "32d7f179-8d9f-44f9-8f1b-df666b6f5404": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "32d7f179-8d9f-44f9-8f1b-df666b6f5404",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@krissstinne aren't you excited though? ENGLISH TOMORROW! "
+    },
+    "d4cd50bf-6e5f-4833-9a76-88b0a66a2aac": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d4cd50bf-6e5f-4833-9a76-88b0a66a2aac",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Getting out of bed seems like such a TASK. I scheduled the OT for 11-3.  I should have taken the day off dang it."
+    },
+    "8d446dfa-249b-4583-b5e9-a0ca118698ed": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "8d446dfa-249b-4583-b5e9-a0ca118698ed",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "100th tweet!  Saved for something special:  good night and sweet dreams.  "
+    },
+    "e64cdb06-b013-4e00-a6a4-92023d77f5a3": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e64cdb06-b013-4e00-a6a4-92023d77f5a3",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "up way 2 early, and I cant sleep "
+    },
+    "33b71bd4-52f7-4c04-9c2e-0a338ec5f589": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "33b71bd4-52f7-4c04-9c2e-0a338ec5f589",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Oh my... the Fufu berry Jones soda is really yummy! Ah... its been so long Jones soda. "
+    },
+    "dadf31ca-0b3b-47ea-a60f-c22fff6e7974": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "dadf31ca-0b3b-47ea-a60f-c22fff6e7974",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@Quiiggiiee eoghan! your not coming to cork with boyzone?! im very upset  aggghh u logged in like a minute ago! :-O lol xxxx"
+    },
+    "ac885080-9dde-447e-acc4-c27b13d62a13": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "ac885080-9dde-447e-acc4-c27b13d62a13",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "my dentist is so MEAN!  "
+    },
+    "e0f351c3-11dd-468c-8a92-8a1e82781e9a": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e0f351c3-11dd-468c-8a92-8a1e82781e9a",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Kicking it wit some friends.  who wants to hang wit me over the summer?"
+    },
+    "84be8eaa-5f59-492a-b728-493b4faafd9a": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "84be8eaa-5f59-492a-b728-493b4faafd9a",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "I'm sorry. That was mean! "
+    },
+    "01493158-9040-4974-abc9-4ec13805bea8": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "01493158-9040-4974-abc9-4ec13805bea8",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Getting some ice cream with bridget. Yum "
+    },
+    "455d3d4c-773c-4601-9e7a-b49addd4da59": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "455d3d4c-773c-4601-9e7a-b49addd4da59",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@theOlsens ÃÂ¯ love u guys!!&lt;3 u are so talented!!!!!! hope u are doing great!  FAN 4-EVER &lt;3"
+    },
+    "b440f837-e364-46d5-bd1e-0fd8fce391c3": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b440f837-e364-46d5-bd1e-0fd8fce391c3",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@arlindarlin DUNNO    What does 'can't open' mean? http//thejoshuablog.com"
+    },
+    "67d4df76-4def-4b17-8613-228d2ee576cb": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "67d4df76-4def-4b17-8613-228d2ee576cb",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@Misha1234 Hi beautiful! "
+    },
+    "30bf4bbd-70c8-4d33-8c74-fb6d84c90165": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "30bf4bbd-70c8-4d33-8c74-fb6d84c90165",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@NicoleJensen That is so incredibly sad.. "
+    },
+    "7f5c6437-dad9-44b7-bfe1-7781c32063df": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "7f5c6437-dad9-44b7-bfe1-7781c32063df",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@SincereRomantic I tried youtube no luck yet  how long was she on for?"
+    },
+    "d9ee3c89-9114-49e1-9138-9d6389707ebc": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d9ee3c89-9114-49e1-9138-9d6389707ebc",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Happy muthath's day to all moms!!! I salute you! "
+    },
+    "39163244-d6df-4155-aa6a-267224d60c9b": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "39163244-d6df-4155-aa6a-267224d60c9b",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@thenoodleator I did. Sorry about your Nanna. "
+    },
+    "b6df886b-45ae-4721-9360-cf42d0f073d7": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b6df886b-45ae-4721-9360-cf42d0f073d7",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@Im_X1 Not looking good. 2-4 hr wait for parts. Lightning fried phone system. "
+    },
+    "33930ce2-a7ac-4c02-a707-13db15a9d54b": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "33930ce2-a7ac-4c02-a707-13db15a9d54b",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@Frances_Smith heyyy chick, just packing up now!  see you at work tomorrow!!! xxx"
+    },
+    "f10b76ed-9e60-4c22-9e7f-d02968d5951a": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "f10b76ed-9e60-4c22-9e7f-d02968d5951a",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "hittin the road to new mexico. Can't wait to see the fam "
+    },
+    "2b494306-b29f-49fd-bbef-13b2800b1b1e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "2b494306-b29f-49fd-bbef-13b2800b1b1e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Can't believe it. My June holiday is going to be so unfun. "
+    },
+    "9ebb2bf4-7216-423d-a7a2-97e0a85f3977": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "9ebb2bf4-7216-423d-a7a2-97e0a85f3977",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": " i think it worked lol"
+    },
+    "c2c0d963-c3de-44c1-ab80-8e367c49bd9e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c2c0d963-c3de-44c1-ab80-8e367c49bd9e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Off to ikea with blythers and @sphericalmap. yawn didn't sleep well "
+    },
+    "0d7002c8-4586-43f5-bec0-0881b309866c": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "0d7002c8-4586-43f5-bec0-0881b309866c",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@_iDANCE19 me neither.  i would have to rely on youtube for vids."
+    },
+    "fe942cca-312d-445a-bcd2-c117cf152ff7": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "fe942cca-312d-445a-bcd2-c117cf152ff7",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@catirah aww thanks luv! follow u, follow me!!  any friend of @katiekateP is a friend of mine!"
+    },
+    "2583baa0-7260-49ae-8988-97389fd95a32": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "2583baa0-7260-49ae-8988-97389fd95a32",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@asherroth omg pls take one for me all i have is bacardi and dr pepper "
+    },
+    "a2b4b388-472a-423f-a979-50f4dad58961": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "a2b4b388-472a-423f-a979-50f4dad58961",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@itsjamieeexo LMFAO! omg i was just singing that song yesterday &amp; it felt great. lmfao, random  ilyilyily."
+    },
+    "74da641b-efc5-4cba-a2cb-7486ace132b3": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "74da641b-efc5-4cba-a2cb-7486ace132b3",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "had so wished 2 visit da oxford bookstore 2day... bt guests arrivin @ last min...hafta visit da grocery instead "
+    },
+    "e9f29473-89b1-464c-8fc8-b30d870f6f8b": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e9f29473-89b1-464c-8fc8-b30d870f6f8b",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@freosan That would be fun "
+    },
+    "96a3347c-962f-4e75-bfbc-dd23746a0dfa": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "96a3347c-962f-4e75-bfbc-dd23746a0dfa",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "is excited to do ACA work tomorrow. "
+    },
+    "d1bead60-8f04-4514-ba9d-c547b5e78e57": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d1bead60-8f04-4514-ba9d-c547b5e78e57",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@thisgoeshere the day of the maryland show I didnt sleep well and paid for it at the show "
+    },
+    "d859c686-9d3d-4766-ab76-2e738d6e6126": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d859c686-9d3d-4766-ab76-2e738d6e6126",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@andrewsayer I miss that shopping center. Brissy has nothing like it "
+    },
+    "42c7fcc0-a751-41c3-a175-29b8a0caa61b": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "42c7fcc0-a751-41c3-a175-29b8a0caa61b",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "It means i wish you werent going "
+    },
+    "ca959a5b-22a1-4a03-80e8-4dbed62ecf75": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "ca959a5b-22a1-4a03-80e8-4dbed62ecf75",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@xodramaxo I missed it  I blame my neverending history!"
+    },
+    "b9e74830-69ce-46b1-9f71-523f4722082e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b9e74830-69ce-46b1-9f71-523f4722082e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@_BSoN_ Wow! Yous a biatch! lol "
+    },
+    "a2882c88-d5fb-4303-bb97-6c60d48d9ec2": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "a2882c88-d5fb-4303-bb97-6c60d48d9ec2",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@IslaLuna Have a happy day. "
+    },
+    "6bea86f2-23c3-4374-9739-39568c1808de": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "6bea86f2-23c3-4374-9739-39568c1808de",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@AprilAMiller Its 5:30 in the evening, sunset time "
+    },
+    "ca03ca94-cbdd-44ce-bcc1-7a2fa1a16fc1": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "ca03ca94-cbdd-44ce-bcc1-7a2fa1a16fc1",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@emilystratten ahh I am sure you will be fine and do well "
+    },
+    "2ab3c7d1-1089-4d5a-af93-a32c3e5e6740": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "2ab3c7d1-1089-4d5a-af93-a32c3e5e6740",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "My throat hurts  lazying around for the night. Maybe now i'll have decent time for the sims"
+    },
+    "cd128072-8c65-4024-ac6b-d73c3d569ff5": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "cd128072-8c65-4024-ac6b-d73c3d569ff5",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "My friend keeps playing with the piano!  It's so loud"
+    },
+    "9b365df0-7b9e-4208-a558-d80cbfe6c7d7": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "9b365df0-7b9e-4208-a558-d80cbfe6c7d7",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@yanghuawawa your not that toll, you should be ok. "
+    },
+    "01a1727a-bfbc-4688-b791-417f6fed0fd2": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "01a1727a-bfbc-4688-b791-417f6fed0fd2",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "momentarily have more energy (nausea is yet to disappear) but before I work on characters I need to fill out countless forms  SIGH"
+    },
+    "118436ab-ea1b-4f58-8598-176b41d083e6": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "118436ab-ea1b-4f58-8598-176b41d083e6",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "pain...so off to bed i go "
+    },
+    "b173b327-ab65-4f37-ac9e-aa74afcad306": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b173b327-ab65-4f37-ac9e-aa74afcad306",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "thinks it is awful about the murdered pregnant women today in Grimsby  x x x"
+    },
+    "e5a5becf-4dd3-4875-8796-b3b517baa754": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e5a5becf-4dd3-4875-8796-b3b517baa754",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@ScottMonty wishing we had an official #SXSEMIA Ford Car. Stuck with crappy Dodge Charger rental. "
+    },
+    "abce7718-d74d-4289-845e-f6fcf266c9c2": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "abce7718-d74d-4289-845e-f6fcf266c9c2",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@ExpatBrandDude Thanks x2 ! "
+    },
+    "8484adfd-7b6c-4641-8bf4-be34201ca288": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "8484adfd-7b6c-4641-8bf4-be34201ca288",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Wish I went to see Joakim last night. Poor decision making "
+    },
+    "e3cc2b6a-2d87-4d43-a658-b0a5725c3d1e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e3cc2b6a-2d87-4d43-a658-b0a5725c3d1e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@_CINNA_ ben chillin all day "
+    },
+    "bf1dc507-94a2-4b38-86bd-8d639aa75e85": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "bf1dc507-94a2-4b38-86bd-8d639aa75e85",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "met a cute guy from san fransico who is leaving tomorrow  why do the cute ones never have extended stays"
+    },
+    "e391888e-79f1-4e68-afd7-0f11664c8ea1": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e391888e-79f1-4e68-afd7-0f11664c8ea1",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Cleaned the sink trap in the pool bathroom. Kids thought it would be funny to plug it with toilet paper. Yeah, that's a lot of fun for me "
+    },
+    "e9c8d22e-4c6a-4119-b8d0-c501b9b88aef": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e9c8d22e-4c6a-4119-b8d0-c501b9b88aef",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "playing RUBY'S LOUNGE in Belgrave this Saturday! Debut album 'The 13' out now!  http://www.myspace.com/poloclub"
+    },
+    "8d56e94f-534f-4b05-abf9-50e42b39f9f1": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "8d56e94f-534f-4b05-abf9-50e42b39f9f1",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "I don't know where the remote is and my feet hurt too much to get up to change the channel   http://myloc.me/2ZFK"
+    },
+    "9979725c-16f8-4696-a393-479747588451": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "9979725c-16f8-4696-a393-479747588451",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@mgdoscher I dunno!  @facebook It says &quot;Page Unavailable We're sorry, this Page isn't available right now    I hope it didn't get deleted!"
+    },
+    "9e739ca4-4b59-4cdc-b1cd-941fd29bd5de": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "9e739ca4-4b59-4cdc-b1cd-941fd29bd5de",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Dancing on cloud nine with my significant other.... i got accepted into Nursing School at Del Mar College for this fall "
+    },
+    "8e9fbd02-5c7b-4806-a986-7c6afce10b62": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "8e9fbd02-5c7b-4806-a986-7c6afce10b62",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "i LOVE the da vinci code!"
+    },
+    "c92b8a28-cf14-4efb-80e5-289900ee51b2": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c92b8a28-cf14-4efb-80e5-289900ee51b2",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "i love keir hilson! "
+    },
+    "26143d6f-caf1-4331-8dd2-6b583ab2c37f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "26143d6f-caf1-4331-8dd2-6b583ab2c37f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Its raining here...the bad news blackout even the phone lines are out...all this because of little wind &amp; rain "
+    },
+    "dfa26608-1b41-4aec-92c0-51a1b7524f8c": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "dfa26608-1b41-4aec-92c0-51a1b7524f8c",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "I finally get on chat and everyone is gone "
+    },
+    "8f6d05a2-eeb2-447c-a4b6-2092cc8a1f81": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "8f6d05a2-eeb2-447c-a4b6-2092cc8a1f81",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@amazingphoebe that made me feel really bad  worse than i already did  i'm sorry "
+    },
+    "29ff75bb-c340-4211-bf07-79c6e2bccc28": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "29ff75bb-c340-4211-bf07-79c6e2bccc28",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "The future people! Although I really wish my grandad had that available a few yrs ago so he didnt have to do radiation "
+    },
+    "18b661ac-2d81-4c9e-b4c0-50be17c803ce": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "18b661ac-2d81-4c9e-b4c0-50be17c803ce",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@darealsuperwman and @shanellenajee so why did I drive all the way here to velvet and no1 is here. "
+    },
+    "58485624-4229-4291-b062-e9249df7b266": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "58485624-4229-4291-b062-e9249df7b266",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@RissaAnnaly aww, I lovee them ahaha and I only met them 2 days ago,  flipinggfantastic,"
+    },
+    "d0a91c3d-20ce-4098-af68-391365c3cfcc": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d0a91c3d-20ce-4098-af68-391365c3cfcc",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@ericjgruber that's so exciting and wonderful eric!!!!! saw on fb, you're having another girl  congratulations"
+    },
+    "a7966e95-8738-40cd-a4c0-21d95cd1f4b1": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "a7966e95-8738-40cd-a4c0-21d95cd1f4b1",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "WHAT?! Will.i.am has cut his dreads off. And the video for Boom Boom Pow ain't on much hypes. Falling out of love a bit... "
+    },
+    "54e6b497-eebd-4647-bccf-f1f797328089": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "54e6b497-eebd-4647-bccf-f1f797328089",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "finals week-- then off to florida to start my life as a full time adult! "
+    },
+    "e597427e-959c-402c-957a-2791768df3f9": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e597427e-959c-402c-957a-2791768df3f9",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "terrible weather, and i feel pretty ill "
+    },
+    "7ae02338-cc27-4612-a51c-44f5328e262e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "7ae02338-cc27-4612-a51c-44f5328e262e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "FEELIN GOOD! Flight booked! cant wait 2 make that trip... "
+    },
+    "3bcf8f8e-ff33-4a76-8b08-c483f940be3d": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3bcf8f8e-ff33-4a76-8b08-c483f940be3d",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Worried about my cat. Took him to the vet and his blood work etc was all normal but hes still not eatting "
+    },
+    "53609074-a5ca-4cd7-bd29-9ced456a043b": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "53609074-a5ca-4cd7-bd29-9ced456a043b",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Watching Shawn Hlookoff perform at the Temecula Wine &amp; Balloon Festival. He is kicking ass, of course! "
+    },
+    "bb1e39d8-ed4f-4610-8ce0-8610fd268121": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "bb1e39d8-ed4f-4610-8ce0-8610fd268121",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@ColinScuba  well evening then  hehee"
+    },
+    "27ae3725-7631-417f-aaa5-a521693d0e14": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "27ae3725-7631-417f-aaa5-a521693d0e14",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "My fawking back hurts. "
+    },
+    "b644b03d-d487-4cb8-a555-cd24448dca70": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b644b03d-d487-4cb8-a555-cd24448dca70",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "i hate Tuesday . "
+    },
+    "48c1ba28-d8ca-4276-ae60-51bbe3c0b9b4": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "48c1ba28-d8ca-4276-ae60-51bbe3c0b9b4",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "While i wouldn't call Up! Pixar's best work, it is still very good and worth seeing.  Fun for all ages.  "
+    },
+    "1b28ece2-4ef5-4d24-8722-59e4a049ca86": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "1b28ece2-4ef5-4d24-8722-59e4a049ca86",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "im so exhausted!! LOOONG day....feels good to be in my PJ's, in bed resting....but still gotta study for my quiz  tomorrow "
+    },
+    "e4042e1c-2d20-4961-958c-3bd0d1d3208f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e4042e1c-2d20-4961-958c-3bd0d1d3208f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "frustrated. afraid. sad. lethargic. what's kind of life this is? "
+    },
+    "507ad7dc-4eaf-4af2-bb30-f5a37c84e310": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "507ad7dc-4eaf-4af2-bb30-f5a37c84e310",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "So incredibly lost  Going on a tweet hiatus, nothing good will be coming out of my mouth today."
+    },
+    "81bebe8d-513b-4615-902f-fb6b44fa416d": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "81bebe8d-513b-4615-902f-fb6b44fa416d",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@caitysnow, I tried it and it didn't work  sad day"
+    },
+    "7d65c1c6-3a8c-4096-bc40-8db8061ff541": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "7d65c1c6-3a8c-4096-bc40-8db8061ff541",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "been off twitter for a week now - feels like it anyway. my PC is out - like - DONE , toast. so im using a loaner one now.  sad."
+    },
+    "c9d3d6d7-daaa-4115-9082-2709d1330195": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c9d3d6d7-daaa-4115-9082-2709d1330195",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@glencocco how do these tumblr points work? it's annoying as hell "
+    },
+    "333acd50-737a-4e38-83f8-fb573b9e8a14": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "333acd50-737a-4e38-83f8-fb573b9e8a14",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "My contact scratched my eye  it hurts"
+    },
+    "d27859b8-ea89-4855-aa83-d42a2b98fe9e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d27859b8-ea89-4855-aa83-d42a2b98fe9e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Just woke up. Having no school is the best feeling ever "
+    },
+    "fe47ab0c-acc8-4668-bdf6-a09718d2ec31": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "fe47ab0c-acc8-4668-bdf6-a09718d2ec31",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "No matter how many times I watch any of The Simple Lifes... I don't find them boring! Isn't that just amazing?! "
+    },
+    "3da60e02-aada-4c81-9c30-4b30407b1b56": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "3da60e02-aada-4c81-9c30-4b30407b1b56",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Trying to figure out what to do. Current situation sucks, might get better but probably won't "
+    },
+    "a13d7249-e019-4793-b41d-a99bfab7e369": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "a13d7249-e019-4793-b41d-a99bfab7e369",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "omg a cloud in the shape of a rabbit how cute - omg a rabbit in the shape of a cloud even cuter  ha that made my day. i swear, for dur ..."
+    },
+    "135d93d4-fa0a-4b16-803a-57c412d1f8cb": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "135d93d4-fa0a-4b16-803a-57c412d1f8cb",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Sadly I'm working "
+    },
+    "505f6f59-cafb-4a22-a783-2c172906a364": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "505f6f59-cafb-4a22-a783-2c172906a364",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Sellick kit doesn't come till tomorrow or friday so its not for 5's tonight  pretty gutted"
+    },
+    "ba568ce8-1721-4757-9f84-7e60744642db": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "ba568ce8-1721-4757-9f84-7e60744642db",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Got a little morning sickness going on  nausea"
+    },
+    "6a642f55-8003-429b-a479-728b5bf55f12": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "6a642f55-8003-429b-a479-728b5bf55f12",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@h2o_ohmalley Hahaha! I have a feeling you're going to be in ALMOST as much trouble as Xerxes. "
+    },
+    "c0e2751c-dfe9-4644-8d6f-31613a4906f9": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c0e2751c-dfe9-4644-8d6f-31613a4906f9",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "ice pack time "
+    },
+    "65596118-7b96-4534-9afd-e37640a8b2ea": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "65596118-7b96-4534-9afd-e37640a8b2ea",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "oh da puppy is so cute "
+    },
+    "28c9b7c0-4483-443b-8410-94455600db47": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "28c9b7c0-4483-443b-8410-94455600db47",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@TizzySizzleberg Good morning!  How are you feeling this beautiful morning?"
+    },
+    "5cf8090b-b363-4217-8791-3c34b16183f4": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "5cf8090b-b363-4217-8791-3c34b16183f4",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@foodbymark it's ages since I've been over there.  Somerfield eh? Shame "
+    },
+    "9e66503c-f975-4b18-bec5-c640bc78b516": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "9e66503c-f975-4b18-bec5-c640bc78b516",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@texanoutofwater lol! that's great "
+    },
+    "a3a54ffe-e07e-43f9-b23a-00c718447041": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "a3a54ffe-e07e-43f9-b23a-00c718447041",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@chilvia I love Aussie *u* Everyone is like AYE MATE! "
+    },
+    "4fc95706-3c45-46ca-8910-8ab9d82c01f9": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "4fc95706-3c45-46ca-8910-8ab9d82c01f9",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Wondering what to do next on Twitter...... Didnt really understand it all that well!!!! "
+    },
+    "fc20809e-ce06-4080-9d1b-76a32ac4f952": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "fc20809e-ce06-4080-9d1b-76a32ac4f952",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Examen de piano  I'm feeling really lazy but it's about to start raining... it's humid and it smells like incredible #squarespace"
+    },
+    "e49c4436-e425-4839-805a-346502cee0bf": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "e49c4436-e425-4839-805a-346502cee0bf",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "is tired but happy the orphanage was wow.. and babysitting was really fun "
+    },
+    "eadbaf39-b663-4a19-a2cc-e307ec0f2f46": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "eadbaf39-b663-4a19-a2cc-e307ec0f2f46",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Just put chai back to sleep. Ha. He's so adorable with his short hair! ... Going back to bed! "
+    },
+    "06c4954a-a511-42d3-acc0-8ef61e03784f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "06c4954a-a511-42d3-acc0-8ef61e03784f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@rahulrakesh hahah... treated by my Ex boss "
+    },
+    "c81e538c-6174-4c21-be73-e3065b3b0d43": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "c81e538c-6174-4c21-be73-e3065b3b0d43",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "i am soooooo sick right now "
+    },
+    "5a124ac8-eca2-4a5d-96f2-52aac6559e71": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "5a124ac8-eca2-4a5d-96f2-52aac6559e71",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Today sucks: i'm losing all my friends AND i have to get a shot "
+    },
+    "d3615ebc-84f4-4884-b904-43fa11f99505": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d3615ebc-84f4-4884-b904-43fa11f99505",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "good morning guys ! "
+    },
+    "d734334a-fbb1-4d12-9fff-6f79edf32cfa": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "d734334a-fbb1-4d12-9fff-6f79edf32cfa",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Trying to work out the family vacation plans except now I am planning for just me &amp; the boys. boo "
+    },
+    "826e2b4b-652c-431a-9b1a-d9944d57a77e": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "826e2b4b-652c-431a-9b1a-d9944d57a77e",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@ACummings You are beautiful! I can't believe we forgot the photo shoot ! But this one is good   http://is.gd/JjUQ"
+    },
+    "288b0459-20ab-4d3f-88ab-79eebdc0db55": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "288b0459-20ab-4d3f-88ab-79eebdc0db55",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "I want a sandwich! Sucks I can't have one this late cause then I'll have nightmares "
+    },
+    "194e2765-df1a-48e5-a90e-437ab9390c38": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "194e2765-df1a-48e5-a90e-437ab9390c38",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Just when I thought my life couldn't get more stressful... I'm angry and scared and disappointed all at the same time "
+    },
+    "1a4d311b-5dad-4e2f-b4d8-7979f7b1b199": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "1a4d311b-5dad-4e2f-b4d8-7979f7b1b199",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "I'm the happiest alive. My girl just woke up to talk to me drunk. I love that girl. Boo boo i love ypj i'm drunk. "
+    },
+    "575e3471-753e-45a1-8478-e44d45b07779": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "575e3471-753e-45a1-8478-e44d45b07779",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@Lokz88 but make sure u let me kno cuz if its in july ill def extend my trip n go! "
+    },
+    "619de287-5cd9-4ccd-a58e-7442b30076c8": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "619de287-5cd9-4ccd-a58e-7442b30076c8",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@Jchawes and @grantswilson you two just made my day with you tweets. "
+    },
+    "8ebae2a8-3441-4ae7-917a-97caad001211": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "OBJ",
+            "sentiment": "NEUTRAL",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "OBJ",
+                "sentiment": "NEUTRAL",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "8ebae2a8-3441-4ae7-917a-97caad001211",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Starting  back at work today   Looks like it'll be raining for the next couple of days "
+    },
+    "b755cdb3-985e-48ca-bb97-d1e86f12568d": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "b755cdb3-985e-48ca-bb97-d1e86f12568d",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Is sad perry had left for 4 weeks "
+    },
+    "68013b2a-8a6e-4a9f-bf9b-c1051f34cb56": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "68013b2a-8a6e-4a9f-bf9b-c1051f34cb56",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "more &amp; more arguing.  everyday it's something I did wrong. WTF?"
+    },
+    "5bde13ce-e556-4589-a99a-c50f203f700f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "5bde13ce-e556-4589-a99a-c50f203f700f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@Mayra326 aww, have fun!  I just had my 3D last week!"
+    },
+    "7cbe43d9-49c2-47db-b16f-2f123bc67b5f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "7cbe43d9-49c2-47db-b16f-2f123bc67b5f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Sugar levels dropping... munchies setting in. Luckily I have a black chocolate Toblerone in the fridge "
+    },
+    "5ab50008-b069-4d4d-9740-977abc2b1cad": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "5ab50008-b069-4d4d-9740-977abc2b1cad",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@ZacharyQuinto So happy for you! It must have been a great moment! "
+    },
+    "236d5397-fdef-47ca-9a9f-042ab4697180": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "236d5397-fdef-47ca-9a9f-042ab4697180",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "How did i get stuck watchin over everything Smh Damn n im hungry  didn't have ne breakfast"
+    },
+    "72d0b9d8-d71f-491b-8b3c-39484871536c": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "72d0b9d8-d71f-491b-8b3c-39484871536c",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "Why did such a good workout have to be ruined by annoying news?! "
+    },
+    "40ef6da7-13ff-4f1f-b832-140559834fb3": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "40ef6da7-13ff-4f1f-b832-140559834fb3",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "life is so boring "
+    },
+    "f7e21431-63a1-4480-ba96-15ace78d4ec1": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "POSITIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "POSITIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "f7e21431-63a1-4480-ba96-15ace78d4ec1",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "@Bloodzillabilly heard it was ur bday...so Happy birthday billy! "
+    },
+    "4eb79276-9d1c-4c0d-93c7-a66139b85b2f": {
+        "annotation": {
+            "annotatedTextFragment": "",
+            "factuality": "SUBJ",
+            "sentiment": "NEGATIVE",
+            "speechSource": "NOT_SET"
+        },
+        "annotations": [
+            {
+                "annotatedTextFragment": "",
+                "factuality": "SUBJ",
+                "sentiment": "NEGATIVE",
+                "speechSource": "NOT_SET"
+            }
+        ],
+        "endChar": 0,
+        "id": "4eb79276-9d1c-4c0d-93c7-a66139b85b2f",
+        "lineNumber": 0,
+        "startChar": 0,
+        "text": "My honey is sick again!  I think he's getting old!"
+    }
+}

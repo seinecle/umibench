@@ -1,0 +1,90 @@
+evaluation conducted on 2024-02-27T16:04:47.698521400
+weighted F1 score for factuality on dataset carblacac for model TimeLMs: 0.95561355
+
+evaluation conducted on 2024-02-27T16:04:47.739239200
+weighted F1 score for factuality on dataset carblacac for model OpenHermes-2-Mistral-7B-basic-prompt: 0.91553134
+
+evaluation conducted on 2024-02-27T16:04:47.929330200
+weighted F1 score for factuality on dataset carblacac for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9608355
+
+evaluation conducted on 2024-02-27T16:04:48.000679500
+weighted F1 score for factuality on dataset carblacac for model Thesis_Titan: 0.8603989
+
+evaluation conducted on 2024-02-27T16:04:48.696369900
+weighted F1 score for factuality on dataset carblacac for model umigon: 0.7878788
+
+evaluation conducted on 2024-02-27T16:06:35.310270500
+weighted F1 score for factuality on dataset carblacac for model TimeLMs: 0.95561355
+
+evaluation conducted on 2024-02-27T16:06:35.405486300
+weighted F1 score for factuality on dataset carblacac for model OpenHermes-2-Mistral-7B-basic-prompt: 0.91553134
+
+evaluation conducted on 2024-02-27T16:06:35.453079
+weighted F1 score for factuality on dataset carblacac for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9608355
+
+evaluation conducted on 2024-02-27T16:06:35.503892300
+weighted F1 score for factuality on dataset carblacac for model Thesis_Titan: 0.8603989
+
+evaluation conducted on 2024-02-27T16:06:35.632632700
+weighted F1 score for factuality on dataset carblacac for model umigon: 0.7878788
+
+evaluation conducted on 2024-02-27T16:08:03.536066200
+weighted F1 score for factuality on dataset carblacac for model TimeLMs: 0.95561355
+
+evaluation conducted on 2024-02-27T16:08:03.619783200
+weighted F1 score for factuality on dataset carblacac for model OpenHermes-2-Mistral-7B-basic-prompt: 0.91553134
+
+evaluation conducted on 2024-02-27T16:08:03.728445300
+weighted F1 score for factuality on dataset carblacac for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9608355
+
+evaluation conducted on 2024-02-27T16:08:03.775087400
+weighted F1 score for factuality on dataset carblacac for model Thesis_Titan: 0.8603989
+
+evaluation conducted on 2024-02-27T16:08:03.883830300
+weighted F1 score for factuality on dataset carblacac for model umigon: 0.7878788
+
+evaluation conducted on 2024-02-27T16:09:37.112274300
+weighted F1 score for factuality on dataset carblacac for model OpenHermes-2-Mistral-7B-basic-prompt: 0.91553134
+
+evaluation conducted on 2024-02-27T16:09:37.424372800
+weighted F1 score for factuality on dataset carblacac for model umigon: 0.7878788
+
+evaluation conducted on 2024-02-27T16:09:37.539288600
+weighted F1 score for factuality on dataset carblacac for model TimeLMs: 0.95561355
+
+evaluation conducted on 2024-02-27T16:09:37.641599200
+weighted F1 score for factuality on dataset carblacac for model Thesis_Titan: 0.8603989
+
+evaluation conducted on 2024-02-27T16:09:37.745602
+weighted F1 score for factuality on dataset carblacac for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9608355
+
+evaluation conducted on 2024-02-27T16:11:04.655116
+weighted F1 score for factuality on dataset carblacac for model TimeLMs: 0.95561355
+
+evaluation conducted on 2024-02-27T16:11:04.703556200
+weighted F1 score for factuality on dataset carblacac for model OpenHermes-2-Mistral-7B-basic-prompt: 0.91553134
+
+evaluation conducted on 2024-02-27T16:11:04.809969600
+weighted F1 score for factuality on dataset carblacac for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9608355
+
+evaluation conducted on 2024-02-27T16:11:04.848902900
+weighted F1 score for factuality on dataset carblacac for model Thesis_Titan: 0.8603989
+
+evaluation conducted on 2024-02-27T16:11:04.920846
+weighted F1 score for factuality on dataset carblacac for model umigon: 0.7878788
+
+evaluation conducted on 2024-02-27T16:17:54.944522400
+weighted F1 score for factuality on dataset carblacac for model TimeLMs: 0.95561355
+
+evaluation conducted on 2024-02-27T16:17:55.033905600
+weighted F1 score for factuality on dataset carblacac for model OpenHermes-2-Mistral-7B-basic-prompt: 0.91553134
+
+evaluation conducted on 2024-02-27T16:17:55.253248500
+weighted F1 score for factuality on dataset carblacac for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9608355
+
+evaluation conducted on 2024-02-27T16:17:55.337306700
+weighted F1 score for factuality on dataset carblacac for model Thesis_Titan: 0.8603989
+
+evaluation conducted on 2024-02-27T16:17:55.498645500
+weighted F1 score for factuality on dataset carblacac for model umigon: 0.7878788
+

@@ -19,18 +19,19 @@ import java.util.logging.Logger;
 import net.clementlevallois.umigon.eval.datamodel.AnnotatedDocument;
 import net.clementlevallois.umigon.eval.datamodel.Annotation;
 import net.clementlevallois.umigon.eval.datamodel.Factuality;
+import net.clementlevallois.umigon.eval.datamodel.Sentiment;
 import net.clementlevallois.umigon.eval.datamodel.Task;
 
 /**
  *
  * @author LEVALLOIS
  */
-public class KaggleHeadlines implements DatasetInterface {
+public class Carblacac implements DatasetInterface {
 
-    private final String name = "kaggle-headlines";
+    private final String name = "carblacac";
     public final static String GOLD_LABELS = "gold_labels.json";
-    public final static String DATA = "1000_headlines_labelled_manually.txt";
-    public final Task task = Task.FACTUALITY;
+    public final static String DATA = "train_150k_clement_levallois.txt";
+    public final Task task = Task.FACTUALITY_AND_SENTIMENT;
 
     private Map<String, AnnotatedDocument> goldenDocs = new ConcurrentHashMap();
 
@@ -46,22 +47,22 @@ public class KaggleHeadlines implements DatasetInterface {
 
     @Override
     public String getDataWebLink() {
-        return "https://www.kaggle.com/datasets/rmisra/news-category-dataset?resource=download";
+        return "https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis";
     }
 
     @Override
     public String getPaperWebLink() {
-        return "https://arxiv.org/abs/2209.11429";
+        return "https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis";
     }
 
     @Override
     public String getShortDescription() {
-        return "a set of headlines from US newspapers annotated for factuality";
+        return "a set of 200 tweets from anonymous individuals on their daily lives annotated for negative and positive sentiment";
     }
 
     @Override
     public int getNumberOfEntries() {
-        return 1000;
+        return 200;
     }
 
     @Override
@@ -81,19 +82,25 @@ public class KaggleHeadlines implements DatasetInterface {
                     goldenDocs = jsonb.fromJson(Files.newBufferedReader(goldLabelsPath, StandardCharsets.UTF_8), new HashMap<String, AnnotatedDocument>() {
                     }.getClass().getGenericSuperclass());
                 } catch (IOException ex) {
-                    Logger.getLogger(KaggleHeadlines.class.getName()).log(Level.SEVERE, null, ex);
+                    Logger.getLogger(Carblacac.class.getName()).log(Level.SEVERE, null, ex);
                 }
                 return goldenDocs;
             }
             List<String> headlinesWithLabels = Files.readAllLines(Path.of(name, DATA), StandardCharsets.UTF_8);
             for (String headlineWithLabel : headlinesWithLabels) {
                 String[] fields = headlineWithLabel.split("\t");
-                String headline = fields[0];
-                String labelAsString = fields[1];
-                AnnotatedDocument docGold = new AnnotatedDocument(headline);
+                String tweet = fields[1];
+                String labelAsString = fields[0];
+                AnnotatedDocument docGold = new AnnotatedDocument(tweet);
                 String id = docGold.getId();
-                Factuality goldLabel = Factuality.valueOf(labelAsString);
-                Annotation goldAnnotation = Annotation.empty().withFactuality(goldLabel);
+                Sentiment sentimentGoldLabel;
+                sentimentGoldLabel = switch (labelAsString) {
+                    case "0" -> Sentiment.NEGATIVE;
+                    case "1" -> Sentiment.POSITIVE;
+                    default -> Sentiment.NOT_SET;
+                };
+                Factuality factualityGoldlabel = Factuality.SUBJ;
+                Annotation goldAnnotation = Annotation.empty().withFactuality(factualityGoldlabel).withSentiment(sentimentGoldLabel);
                 docGold.addAnnotation(goldAnnotation);
                 goldenDocs.put(id, docGold);
             }
@@ -101,10 +108,10 @@ public class KaggleHeadlines implements DatasetInterface {
             try {
                 Files.writeString(Path.of(name, GOLD_LABELS), json, StandardCharsets.UTF_8);
             } catch (IOException ex) {
-                Logger.getLogger(KaggleHeadlines.class.getName()).log(Level.SEVERE, null, ex);
+                Logger.getLogger(Carblacac.class.getName()).log(Level.SEVERE, null, ex);
             }
         } catch (IOException ex) {
-            Logger.getLogger(KaggleHeadlines.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(Carblacac.class.getName()).log(Level.SEVERE, null, ex);
         }
         return goldenDocs;
     }

@@ -1,0 +1,15 @@
+general clock for evaluations on 2024-02-27T15:16:15.078878100
+
+finished evaluating apple with umigon. [Duration: 5 seconds, 23 milliseconds]
+
+finished evaluating apple with Thesis_Titan. [Duration: 21 seconds]
+
+finished evaluating apple with TimeLMs. [Duration: 34 seconds]
+
+finished evaluating apple with OpenHermes-2-Mistral-7B-basic-prompt. [Duration: 3 minutes 38 seconds]
+
+finished evaluating apple with gpt-3.5-turbo-basic-prompt. [Duration: 27 minutes 30 seconds]
+
+finished evaluating apple with gpt-3.5-turbo-advanced-prompt. [Duration: 27 minutes 33 seconds]
+end of evaluations
+finished general clock for evaluations on 2024-02-27T15:16:15.078878100. [Duration: 28 minutes 29 seconds]

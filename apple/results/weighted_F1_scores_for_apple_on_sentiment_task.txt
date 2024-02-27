@@ -1,0 +1,108 @@
+evaluation conducted on 2024-02-27T16:04:46.259591800
+weighted F1 score for sentiment on dataset apple for model gpt-3.5-turbo-advanced-prompt: 0.7241492
+
+evaluation conducted on 2024-02-27T16:04:46.299619700
+weighted F1 score for sentiment on dataset apple for model TimeLMs: 0.6227679
+
+evaluation conducted on 2024-02-27T16:04:46.501333500
+weighted F1 score for sentiment on dataset apple for model OpenHermes-2-Mistral-7B-basic-prompt: 0.690427
+
+evaluation conducted on 2024-02-27T16:04:46.623954100
+weighted F1 score for sentiment on dataset apple for model gpt-3.5-turbo-basic-prompt: 0.6629843
+
+evaluation conducted on 2024-02-27T16:04:46.753059100
+weighted F1 score for sentiment on dataset apple for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.5977711
+
+evaluation conducted on 2024-02-27T16:04:46.898589200
+weighted F1 score for sentiment on dataset apple for model umigon: 0.61384976
+
+evaluation conducted on 2024-02-27T16:06:34.401105900
+weighted F1 score for sentiment on dataset apple for model TimeLMs: 0.6227679
+
+evaluation conducted on 2024-02-27T16:06:34.401105900
+weighted F1 score for sentiment on dataset apple for model gpt-3.5-turbo-advanced-prompt: 0.7241492
+
+evaluation conducted on 2024-02-27T16:06:34.401105900
+weighted F1 score for sentiment on dataset apple for model OpenHermes-2-Mistral-7B-basic-prompt: 0.690427
+
+evaluation conducted on 2024-02-27T16:06:34.662648200
+weighted F1 score for sentiment on dataset apple for model gpt-3.5-turbo-basic-prompt: 0.6629843
+
+evaluation conducted on 2024-02-27T16:06:34.764758900
+weighted F1 score for sentiment on dataset apple for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.5977711
+
+evaluation conducted on 2024-02-27T16:06:34.807681400
+weighted F1 score for sentiment on dataset apple for model umigon: 0.61384976
+
+evaluation conducted on 2024-02-27T16:08:02.334945
+weighted F1 score for sentiment on dataset apple for model gpt-3.5-turbo-advanced-prompt: 0.7241492
+
+evaluation conducted on 2024-02-27T16:08:02.334945
+weighted F1 score for sentiment on dataset apple for model TimeLMs: 0.6227679
+
+evaluation conducted on 2024-02-27T16:08:02.553352600
+weighted F1 score for sentiment on dataset apple for model OpenHermes-2-Mistral-7B-basic-prompt: 0.690427
+
+evaluation conducted on 2024-02-27T16:08:02.735950400
+weighted F1 score for sentiment on dataset apple for model gpt-3.5-turbo-basic-prompt: 0.6629843
+
+evaluation conducted on 2024-02-27T16:08:02.886064700
+weighted F1 score for sentiment on dataset apple for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.5977711
+
+evaluation conducted on 2024-02-27T16:08:02.933574100
+weighted F1 score for sentiment on dataset apple for model umigon: 0.61384976
+
+evaluation conducted on 2024-02-27T16:09:35.628259400
+weighted F1 score for sentiment on dataset apple for model gpt-3.5-turbo-advanced-prompt: 0.7241492
+
+evaluation conducted on 2024-02-27T16:09:35.628259400
+weighted F1 score for sentiment on dataset apple for model TimeLMs: 0.6227679
+
+evaluation conducted on 2024-02-27T16:09:35.867714900
+weighted F1 score for sentiment on dataset apple for model OpenHermes-2-Mistral-7B-basic-prompt: 0.690427
+
+evaluation conducted on 2024-02-27T16:09:36.077546700
+weighted F1 score for sentiment on dataset apple for model gpt-3.5-turbo-basic-prompt: 0.6629843
+
+evaluation conducted on 2024-02-27T16:09:36.212159
+weighted F1 score for sentiment on dataset apple for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.5977711
+
+evaluation conducted on 2024-02-27T16:09:36.282892800
+weighted F1 score for sentiment on dataset apple for model umigon: 0.61384976
+
+evaluation conducted on 2024-02-27T16:11:03.576116
+weighted F1 score for sentiment on dataset apple for model gpt-3.5-turbo-advanced-prompt: 0.7241492
+
+evaluation conducted on 2024-02-27T16:11:03.576116
+weighted F1 score for sentiment on dataset apple for model OpenHermes-2-Mistral-7B-basic-prompt: 0.690427
+
+evaluation conducted on 2024-02-27T16:11:03.576116
+weighted F1 score for sentiment on dataset apple for model TimeLMs: 0.6227679
+
+evaluation conducted on 2024-02-27T16:11:03.917276
+weighted F1 score for sentiment on dataset apple for model gpt-3.5-turbo-basic-prompt: 0.6629843
+
+evaluation conducted on 2024-02-27T16:11:03.966888900
+weighted F1 score for sentiment on dataset apple for model umigon: 0.61384976
+
+evaluation conducted on 2024-02-27T16:11:04.028328400
+weighted F1 score for sentiment on dataset apple for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.5977711
+
+evaluation conducted on 2024-02-27T16:17:53.320470
+weighted F1 score for sentiment on dataset apple for model TimeLMs: 0.6227679
+
+evaluation conducted on 2024-02-27T16:17:53.320470
+weighted F1 score for sentiment on dataset apple for model gpt-3.5-turbo-advanced-prompt: 0.7241492
+
+evaluation conducted on 2024-02-27T16:17:53.643196600
+weighted F1 score for sentiment on dataset apple for model OpenHermes-2-Mistral-7B-basic-prompt: 0.690427
+
+evaluation conducted on 2024-02-27T16:17:53.757595700
+weighted F1 score for sentiment on dataset apple for model gpt-3.5-turbo-basic-prompt: 0.6629843
+
+evaluation conducted on 2024-02-27T16:17:53.918713100
+weighted F1 score for sentiment on dataset apple for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.5977711
+
+evaluation conducted on 2024-02-27T16:17:54.143031500
+weighted F1 score for sentiment on dataset apple for model umigon: 0.61384976
+

@@ -1,0 +1,17 @@
+general clock for evaluations on 2024-02-27T15:49:23.261439400
+
+finished evaluating carblacac with umigon. [Duration: 1 seconds, 502 milliseconds]
+
+finished evaluating carblacac with Thesis_Titan. [Duration: 38 seconds]
+
+finished evaluating carblacac with TimeLMs. [Duration: 33 seconds]
+
+finished evaluating carblacac with gpt-3.5-turbo-basic-prompt. [Duration: 2 minutes 3 seconds]
+
+finished evaluating carblacac with gpt-3.5-turbo-advanced-prompt. [Duration: 4 minutes 3 seconds]
+
+finished evaluating carblacac with OpenHermes-2-Mistral-7B-basic-prompt. [Duration: 9 minutes 49 seconds]
+
+finished evaluating carblacac with OpenHermes-2-Mistral-7B-advanced-prompt. [Duration: 9 minutes 51 seconds]
+end of evaluations
+finished general clock for evaluations on 2024-02-27T15:49:23.261439400. [Duration: 9 minutes 51 seconds]

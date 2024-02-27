@@ -57,6 +57,11 @@ public class Clef2023 implements DatasetInterface {
     public String getPaperWebLink() {
         return "https://doi.org/10.1007/978-3-031-42448-9";
     }
+    
+    @Override
+    public String getShortDescription() {
+        return "a set of phrases extracted from news articles annotated for factuality and subjectivity";
+    }
 
     @Override
     public int getNumberOfEntries() {

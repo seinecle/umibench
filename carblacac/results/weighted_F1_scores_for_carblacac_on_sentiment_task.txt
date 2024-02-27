@@ -1,0 +1,105 @@
+evaluation conducted on 2024-02-27T16:04:47.612214400
+weighted F1 score for sentiment on dataset carblacac for model TimeLMs: 0.86226046
+
+evaluation conducted on 2024-02-27T16:04:47.690091800
+weighted F1 score for sentiment on dataset carblacac for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8828173
+
+evaluation conducted on 2024-02-27T16:04:47.757913700
+weighted F1 score for sentiment on dataset carblacac for model gpt-3.5-turbo-basic-prompt: 0.8316994
+
+evaluation conducted on 2024-02-27T16:04:47.852085300
+weighted F1 score for sentiment on dataset carblacac for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.8668804
+
+evaluation conducted on 2024-02-27T16:04:48.567161300
+weighted F1 score for sentiment on dataset carblacac for model umigon: 0.70001847
+
+evaluation conducted on 2024-02-27T16:06:35.274764900
+weighted F1 score for sentiment on dataset carblacac for model TimeLMs: 0.86226046
+
+evaluation conducted on 2024-02-27T16:06:35.272885800
+weighted F1 score for sentiment on dataset carblacac for model gpt-3.5-turbo-advanced-prompt: 0.8196905
+
+evaluation conducted on 2024-02-27T16:06:35.350232400
+weighted F1 score for sentiment on dataset carblacac for model gpt-3.5-turbo-basic-prompt: 0.8316994
+
+evaluation conducted on 2024-02-27T16:06:35.350539200
+weighted F1 score for sentiment on dataset carblacac for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8828173
+
+evaluation conducted on 2024-02-27T16:06:35.410888
+weighted F1 score for sentiment on dataset carblacac for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.8668804
+
+evaluation conducted on 2024-02-27T16:06:35.558792600
+weighted F1 score for sentiment on dataset carblacac for model umigon: 0.70001847
+
+evaluation conducted on 2024-02-27T16:08:03.495651200
+weighted F1 score for sentiment on dataset carblacac for model TimeLMs: 0.86226046
+
+evaluation conducted on 2024-02-27T16:08:03.495935700
+weighted F1 score for sentiment on dataset carblacac for model gpt-3.5-turbo-advanced-prompt: 0.8196905
+
+evaluation conducted on 2024-02-27T16:08:03.551031700
+weighted F1 score for sentiment on dataset carblacac for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8828173
+
+evaluation conducted on 2024-02-27T16:08:03.623592900
+weighted F1 score for sentiment on dataset carblacac for model gpt-3.5-turbo-basic-prompt: 0.8316994
+
+evaluation conducted on 2024-02-27T16:08:03.684673900
+weighted F1 score for sentiment on dataset carblacac for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.8668804
+
+evaluation conducted on 2024-02-27T16:08:03.775995600
+weighted F1 score for sentiment on dataset carblacac for model umigon: 0.70001847
+
+evaluation conducted on 2024-02-27T16:09:37.009767300
+weighted F1 score for sentiment on dataset carblacac for model gpt-3.5-turbo-advanced-prompt: 0.8196905
+
+evaluation conducted on 2024-02-27T16:09:37.060108300
+weighted F1 score for sentiment on dataset carblacac for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8828173
+
+evaluation conducted on 2024-02-27T16:09:37.307752
+weighted F1 score for sentiment on dataset carblacac for model umigon: 0.70001847
+
+evaluation conducted on 2024-02-27T16:09:37.483340900
+weighted F1 score for sentiment on dataset carblacac for model TimeLMs: 0.86226046
+
+evaluation conducted on 2024-02-27T16:09:37.641380200
+weighted F1 score for sentiment on dataset carblacac for model gpt-3.5-turbo-basic-prompt: 0.8316994
+
+evaluation conducted on 2024-02-27T16:09:37.717923400
+weighted F1 score for sentiment on dataset carblacac for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.8668804
+
+evaluation conducted on 2024-02-27T16:11:04.608531200
+weighted F1 score for sentiment on dataset carblacac for model TimeLMs: 0.86226046
+
+evaluation conducted on 2024-02-27T16:11:04.608531200
+weighted F1 score for sentiment on dataset carblacac for model gpt-3.5-turbo-advanced-prompt: 0.8196905
+
+evaluation conducted on 2024-02-27T16:11:04.670893
+weighted F1 score for sentiment on dataset carblacac for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8828173
+
+evaluation conducted on 2024-02-27T16:11:04.729832900
+weighted F1 score for sentiment on dataset carblacac for model gpt-3.5-turbo-basic-prompt: 0.8316994
+
+evaluation conducted on 2024-02-27T16:11:04.767032700
+weighted F1 score for sentiment on dataset carblacac for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.8668804
+
+evaluation conducted on 2024-02-27T16:11:04.843144500
+weighted F1 score for sentiment on dataset carblacac for model umigon: 0.70001847
+
+evaluation conducted on 2024-02-27T16:17:54.861767500
+weighted F1 score for sentiment on dataset carblacac for model gpt-3.5-turbo-advanced-prompt: 0.8196905
+
+evaluation conducted on 2024-02-27T16:17:54.863503200
+weighted F1 score for sentiment on dataset carblacac for model TimeLMs: 0.86226046
+
+evaluation conducted on 2024-02-27T16:17:54.950538900
+weighted F1 score for sentiment on dataset carblacac for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8828173
+
+evaluation conducted on 2024-02-27T16:17:55.040330100
+weighted F1 score for sentiment on dataset carblacac for model gpt-3.5-turbo-basic-prompt: 0.8316994
+
+evaluation conducted on 2024-02-27T16:17:55.168040900
+weighted F1 score for sentiment on dataset carblacac for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.8668804
+
+evaluation conducted on 2024-02-27T16:17:55.335822800
+weighted F1 score for sentiment on dataset carblacac for model umigon: 0.70001847
+

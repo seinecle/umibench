@@ -490,3 +490,89 @@ weighted F1 score for factuality on dataset subjqa for model umigon: 0.9566869
 evaluation conducted on 2024-01-08T17:07:56.272868600
 weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
 
+evaluation conducted on 2024-02-27T16:04:50.396927
+weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
+
+B-basic-prompt: 0.8830943
+
+evaluation conducted on 2024-02-27T16:04:50.632901900
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9743795
+
+evaluation conducted on 2024-02-27T16:04:50.705079300
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.9566869
+
+evaluation conducted on 2024-02-27T16:06:36.651414600
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8830943
+
+evaluation conducted on 2024-02-27T16:06:36.651511500
+weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
+
+evaluation conducted on 2024-02-27T16:06:36.651414600
+weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
+
+evaluation conducted on 2024-02-27T16:06:36.799788500
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9743795
+
+evaluation conducted on 2024-02-27T16:06:36.852078200
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.9566869
+
+evaluation conducted on 2024-02-27T16:08:05.171372100
+weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
+
+evaluation conducted on 2024-02-27T16:08:05.180891800
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8830943
+
+evaluation conducted on 2024-02-27T16:08:05.180891800
+weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
+
+evaluation conducted on 2024-02-27T16:08:05.274783400
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9743795
+
+evaluation conducted on 2024-02-27T16:08:05.312106200
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.9566869
+
+evaluation conducted on 2024-02-27T16:09:38.386000500
+weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
+
+evaluation conducted on 2024-02-27T16:09:38.386290200
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8830943
+
+evaluation conducted on 2024-02-27T16:09:38.386290200
+weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
+
+evaluation conducted on 2024-02-27T16:09:38.507661100
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9743795
+
+evaluation conducted on 2024-02-27T16:09:38.555815200
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.9566869
+
+evaluation conducted on 2024-02-27T16:11:05.916810200
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8830943
+
+evaluation conducted on 2024-02-27T16:11:05.917941
+weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
+
+evaluation conducted on 2024-02-27T16:11:05.917941
+weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
+
+evaluation conducted on 2024-02-27T16:11:06.041802800
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9743795
+
+evaluation conducted on 2024-02-27T16:11:06.077909900
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.9566869
+
+evaluation conducted on 2024-02-27T16:17:57.786921800
+weighted F1 score for factuality on dataset subjqa for model TimeLMs: 0.9478927
+
+evaluation conducted on 2024-02-27T16:17:57.788193700
+weighted F1 score for factuality on dataset subjqa for model Thesis_Titan: 0.7892416
+
+evaluation conducted on 2024-02-27T16:17:57.787696900
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-basic-prompt: 0.8830943
+
+evaluation conducted on 2024-02-27T16:17:58.067366700
+weighted F1 score for factuality on dataset subjqa for model OpenHermes-2-Mistral-7B-advanced-prompt: 0.9743795
+
+evaluation conducted on 2024-02-27T16:17:58.195621
+weighted F1 score for factuality on dataset subjqa for model umigon: 0.9566869
+

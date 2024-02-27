@@ -1,0 +1,13 @@
+Explainer on the design of the annotated dataset:
+
+Dataset described on HuggingFace:
+https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis
+
+Available from:
+
+https://github.com/cblancac/SentimentAnalysisBert
+
+Precisely, this data file:
+https://github.com/cblancac/SentimentAnalysisBert/blob/main/data/train_150k.txt
+
+200 tweets have been reviewed and their classification has been verified. 
